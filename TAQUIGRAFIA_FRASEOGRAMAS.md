@@ -67,13 +67,115 @@ Material do método já apresenta abreviações para expressões como:
 - à medida que;
 - a respeito de / da / do;
 - ao mesmo tempo;
-- ao passo que.
+- ao passo que;
+- tanto quanto;
+- todas as vezes.
 
 Essas formas devem ser aprendidas na versão canônica antes de criar alternativas pessoais.
 
-### P1 — candidatos parlamentares de maior valor
+## Fraseogramas funcionais/discursivos — foco principal
 
-Primeiro lote recomendado para validação prática:
+O Método Maron é útil aqui como fonte de candidatos. Sua lista ampliada afirma explicitamente que **a frequência de uso mostra a conveniência da criação de um novo taquigrama** e contém muitas expressões funcionais recorrentes. Isso não significa copiar a forma gráfica Maron para o Leite Alves; significa usar a existência do taquigrama Maron como evidência de que a expressão merece ser testada para um equivalente compatível com Leite Alves.
+
+### Tier S — prioridade máxima
+
+Expressões com forte combinação de frequência provável, estabilidade temática e economia gráfica:
+
+1. **de acordo com** — já possui taquigrama no Maron.
+2. **em relação a** — Maron.
+3. **a respeito de / da / do** — já existe no Leite Alves e também no Maron.
+4. **ao mesmo tempo** — já existe no Leite Alves e no Maron.
+5. **por outro lado** — Maron.
+6. **no entanto** — Maron.
+7. **além disso** — Maron.
+8. **ou seja** — Maron.
+9. **por exemplo** — Maron.
+10. **no que diz respeito** — Maron; quatro palavras comprimidas, ROI gráfico muito alto.
+11. **no que se refere** — Maron; quatro palavras, ROI alto.
+12. **na medida em que** — Maron; quatro palavras, ROI alto.
+
+### Tier A — muito fortes
+
+13. **à medida que** — já existe no Leite Alves.
+14. **ao passo que** — já existe no Leite Alves.
+15. **em outras palavras** — Maron.
+16. **de modo que** — Maron.
+17. **de maneira que** — Maron.
+18. **em decorrência de** — Maron.
+19. **por intermédio de** — Maron.
+20. **razão pela qual** — Maron.
+21. **a fim de** — Maron; o próprio manual mostra que o taquigrama é formado pela junção dos sinais que normalmente ficariam separados.
+22. **bem como** — Maron.
+23. **apesar de** — Maron.
+24. **por isso / por isso mesmo** — Maron.
+25. **por conseguinte** — Maron.
+
+### Tier B — úteis, mas só depois dos tiers S/A
+
+- pelo menos;
+- pelo contrário;
+- por esta razão;
+- de qualquer modo;
+- de qualquer maneira;
+- desta maneira;
+- do mesmo modo como;
+- em contrapartida;
+- em geral;
+- em primeiro lugar;
+- em segundo lugar;
+- em seguida;
+- na realidade;
+- na verdade;
+- nessas condições;
+- nesse sentido;
+- neste sentido;
+- neste momento;
+- no momento em que;
+- no que concerne;
+- cada vez mais;
+- cada vez menos;
+- mais uma vez;
+- muitas vezes;
+- poucas vezes;
+- se não me engano;
+- seja qual for;
+- tanto quanto;
+- todas as vezes.
+
+## Candidatos personalizados ainda não encontrados nas listas verificadas
+
+São expressões muito promissoras no português formal/parlamentar, mas nesta rodada não foram localizadas como fraseogramas nas listas Leite Alves e Maron consultadas. Precisam de validação por corpus antes de ganhar símbolo permanente:
+
+- **a partir de**;
+- **por meio de**;
+- **no sentido de**;
+- **tendo em vista**;
+- **uma vez que**;
+- **com base em**;
+- **em função de**;
+- **em virtude de**;
+- **em razão de**;
+- **diante de**;
+- **de forma que**;
+- **por sua vez**;
+- **em nome de**.
+
+A ausência numa lista não significa que não exista em outra edição ou sistema; significa apenas “não confirmado nas fontes verificadas até aqui”.
+
+## Regra de desenho no Leite Alves
+
+Para cada expressão promovida:
+
+1. Preferir **junção/redução de sinais já conhecidos** a um desenho totalmente arbitrário.
+2. Tentar preservar uma pista fonética ou visual da expressão.
+3. Buscar um único movimento ou o menor número possível de mudanças de direção.
+4. Evitar levantar a caneta quando isso não trouxer clareza.
+5. Não reutilizar forma que possa colidir com palavra/abreviação já existente.
+6. Se o fraseograma exigir reflexão para ser lembrado, ele ainda não está pronto para uso em ditado.
+
+## P1 — candidatos parlamentares institucionais
+
+Primeiro lote institucional recomendado para validação prática:
 
 1. Sr. Presidente / Sra. Presidente
 2. Vossa Excelência (V. Exa.)
@@ -90,16 +192,6 @@ Primeiro lote recomendado para validação prática:
 13. uso da palavra
 14. nesta Casa / desta Casa
 15. povo brasileiro
-16. de acordo com
-17. em relação a
-18. por meio de
-19. a partir de
-20. no sentido de
-21. por outro lado
-22. em nome de
-23. neste momento
-24. é preciso
-25. é importante
 
 Para uma prova da Câmara, “Câmara dos Deputados” deve preceder “Senado Federal” na prioridade. “Senado Federal” continua útil como vocabulário institucional e em discursos sobre o Congresso.
 
@@ -198,3 +290,4 @@ A dispersão é crucial: uma expressão que aparece 20 vezes num único texto é
 - PoliS — corpus de discursos da Câmara: https://github.com/dcaled/polis
 - Ulysses Tesemõ — corpus legislativo brasileiro: https://github.com/ulysses-camara/ulysses-tesemo
 - Curso/compilação do Método Leite Alves com seção de abreviações: https://pt.scribd.com/document/58462024/Sampaio-Caderno-de-Taquigrafia
+- Lista ampliada de taquigramas do Método Maron: https://pt.scribd.com/document/598321125/Taquigramas-Do-Metodo-Maron-2011-1
