@@ -39,11 +39,12 @@ Pontos históricos relevantes, sem assumir repetição automática em 2026:
 Fonte oficial histórica / edital:
 - https://www2.camara.leg.br/transparencia/concursos/edital-30-7
 - https://www2.camara.leg.br/transparencia/recursos-humanos/concursos/concursos-novos-1/editais
+- https://www2.camara.leg.br/transparencia/recursos-humanos/concursos/concursos-novos-1/g2-edital-no-10
 
 Boletim Administrativo com conteúdo programático histórico:
 - https://www.camara.leg.br/BoletimAdm/2012/Ba20120801.pdf
 
-## 3. Concurso equivalente do Senado — Registro e Redação Parlamentar (2022)
+## 3. Concurso equivalente do Senado — Registro e Redação Parlamentar (2022/2023)
 
 Útil como referência de competências linguísticas e prova prática, não como previsão automática do edital da Câmara.
 
@@ -51,11 +52,13 @@ Características do concurso do Senado:
 - conhecimentos gerais: Língua Portuguesa/Literatura/Redação, Raciocínio Lógico, Inglês, Direito Constitucional e Direito Administrativo;
 - conhecimentos específicos fortemente centrados em linguística, textualidade e norma-padrão;
 - prova discursiva com questão específica e revisão de pronunciamento parlamentar;
-- prova prática de taquigrafia posterior.
+- prova prática de taquigrafia posterior;
+- prova prática realizada em 12/02/2023: pronunciamento parlamentar contemporâneo, 80 palavras/min, 5 minutos, seguido de tradução em até 2 horas; texto sorteado entre quatro gravações.
 
 Fontes:
 - https://conhecimento.fgv.br/concursos/senado22/2
 - https://conhecimento.fgv.br/sites/default/files/concursos/edital_retificado_1_taquigrafia_01.09.2022_-_edital_2.pdf
+- https://www12.senado.leg.br/transparencia/hotsite-concurso/arquivos/edital_02_prova_pratica_taquigrafia.pdf
 
 ## 4. Conteúdo de Fernando Mesquita — referência estratégica, não fonte oficial
 
@@ -78,9 +81,35 @@ Vídeos identificados diretamente sobre o cargo/concurso:
 Site/mentoria:
 - https://fernandomesquita.com.br/
 
-## 5. Regra de uso das fontes
+## 5. Taquigrafia — método e corpora para frequência lexical
+
+### Método Oscar Leite Alves
+
+Material didático do método confirma o uso de abreviações de palavras e expressões, inclusive formas como “sem dúvida”, “à medida que”, “a respeito de”, “ao mesmo tempo” e “ao passo que”, além da possibilidade de criar abreviações adicionais conforme o assunto.
+- https://pt.scribd.com/document/58462024/Sampaio-Caderno-de-Taquigrafia
+- https://taquigrafia2.blogspot.com/
+
+### Corpus parlamentar da Câmara — exemplo processável
+
+O material “Texto como Dado para Ciências Sociais” disponibiliza e demonstra processamento de discursos da Câmara. No corpus da sessão do impeachment de abril de 2016 há 555 documentos e frequências úteis para identificar vocabulário parlamentar, com a ressalva de forte dependência temática.
+- https://bookdown.org/davi_moreira/txt4cs/processamento.html
+
+### PoliS
+
+Corpus de 31.101 discursos transcritos da Câmara dos Deputados, de 2018 a 2020, adequado para futura análise mais ampla de unigramas e n-gramas.
+- https://github.com/dcaled/polis
+
+### Ulysses Tesemõ
+
+Corpus legislativo/governamental brasileiro amplo. A categoria de transcrições da Câmara contém 169.573 documentos; há também transcrições do Senado.
+- https://github.com/ulysses-camara/ulysses-tesemo
+
+A estratégia derivada dessas fontes está registrada em [TAQUIGRAFIA_FRASEOGRAMAS.md](TAQUIGRAFIA_FRASEOGRAMAS.md).
+
+## 6. Regra de uso das fontes
 
 - Fonte oficial atual supera histórico.
 - Histórico serve para gerar hipóteses e treino de baixo arrependimento.
 - Opinião de professor/mentor serve para priorização, jamais para afirmar regra de prova não publicada.
+- Corpus temático serve para identificar padrões, mas frequência bruta não deve ser confundida com estabilidade entre temas.
 - Toda mudança material deve atualizar STATUS.md e ROADMAP.md.
