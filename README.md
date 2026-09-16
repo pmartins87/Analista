@@ -1,0 +1,65 @@
+# Analista — Câmara dos Deputados 2026
+
+Projeto de preparação para o concurso da **Câmara dos Deputados — Analista Legislativo, especialidade Registro e Redação (CD-AL-012)**.
+
+## Missão
+
+Maximizar a probabilidade de aprovação com preparação orientada por evidência, atualização contínua e uso do GitHub como **fonte de verdade do projeto**.
+
+O projeto não será apenas um repositório de material. Ele funcionará como um sistema de decisão e estudo:
+
+- acompanhar fontes oficiais e detectar mudanças relevantes;
+- manter o edital/hipóteses de conteúdo verticalizados;
+- transformar o conteúdo em plano de estudo executável;
+- medir desempenho por disciplina e por tipo de prova;
+- treinar Português, revisão textual, legislação/regimentos e, se confirmado, taquigrafia;
+- registrar decisões, incertezas, critérios de mudança e próximos passos;
+- revisar continuamente o plano com base no desempenho real.
+
+## Estado oficial em 16/09/2026
+
+1. A Mesa da Câmara autorizou em 11/09/2025 concurso que inclui **Analista Legislativo — Registro e Redação**.
+2. Em 09/09/2026, a Câmara anunciou o **terceiro edital**, com mais de 150 vagas de nível superior em 11 especialidades, incluindo Registro e Redação.
+3. A Câmara informou que o **Cebraspe** realizará o terceiro edital e que a publicação completa está prevista para **setembro de 2026**.
+4. O comunicado institucional afirma que haverá exames **teóricos e práticos** em âmbito nacional, mas ainda não publica o formato específico da etapa prática de Registro e Redação.
+5. Os conteúdos programáticos, datas e regras de avaliação ainda estão em fechamento.
+
+## Incerteza crítica: taquigrafia
+
+Em 2012, o antigo cargo de Taquígrafo Legislativo teve prova prática de análise textual e prova prática de apanhamento taquigráfico. A etapa de taquigrafia incluía ditados de aproximadamente 105–110 palavras por minuto e permitia método taquigráfico manual de livre escolha.
+
+Entretanto, em março de 2026 o antigo Departamento de Taquigrafia, Revisão e Redação (DETAQ) foi transformado no **Departamento de Registro Oficial e Redação Parlamentar (DEREP)**. O novo ato enfatiza registro oficial, redação final, tratamento/indexação do discurso e uso de tecnologia e inteligência artificial. Isso torna inadequado simplesmente copiar o edital de 2012 como se nada tivesse mudado.
+
+**Decisão operacional atual:** tratar prova prática de taquigrafia como risco real, mas ainda não confirmado. Não abandonar o tema, nem sacrificar o estudo central de Português e conteúdo legislativo antes do edital.
+
+## Material de estudo
+
+- **Gran Cursos vitalício:** material-base já disponível; usar imediatamente onde houver aderência.
+- **Mentoria DOM / Fernando Mesquita:** aquisição em espera. O valor só será justificado se, após o edital ou diagnóstico inicial, houver ganho concreto de direcionamento, material específico, treino prático ou economia de tempo que o Gran + este projeto não consigam reproduzir.
+
+## Documentos vivos
+
+- [STATUS.md](STATUS.md) — estado atual, fatos, incertezas e próximo gate.
+- [ROADMAP.md](ROADMAP.md) — fases, critérios de decisão e métricas.
+- [FONTES.md](FONTES.md) — fontes oficiais, editais históricos e referências externas.
+
+## Regra de precedência das fontes
+
+1. Edital, retificações e atos oficiais da Câmara/Cebraspe.
+2. Legislação e atos internos da Câmara.
+3. Concursos anteriores da Câmara e concursos equivalentes do Senado.
+4. Análises de servidores, professores e cursos (inclusive Fernando Mesquita/DOM).
+5. Rumores e redes sociais — apenas como pista, nunca como base de decisão.
+
+## Próximo gate
+
+**G1 — publicação do terceiro edital.**
+
+Assim que ocorrer, o projeto deve, antes de qualquer outra coisa:
+
+1. baixar e registrar o edital;
+2. identificar número de vagas, cronograma e formato de prova;
+3. confirmar ou descartar taquigrafia prática;
+4. verticalizar 100% do conteúdo;
+5. comparar com Gran e DOM;
+6. substituir o plano provisório pelo plano pós-edital em até 24 horas.
