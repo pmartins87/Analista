@@ -32,6 +32,8 @@ Entretanto, em março de 2026 o antigo Departamento de Taquigrafia, Revisão e R
 
 **Decisão operacional atual:** tratar prova prática de taquigrafia como risco real, mas ainda não confirmado. Não abandonar o tema, nem sacrificar o estudo central de Português e conteúdo legislativo antes do edital.
 
+Como hedge técnico, está em andamento uma microtrilha de otimização do Método Oscar Leite Alves por vocabulário parlamentar e fraseogramas. Ela é experimental e não altera a prioridade estratégica antes do edital; ver [TAQUIGRAFIA_FRASEOGRAMAS.md](TAQUIGRAFIA_FRASEOGRAMAS.md).
+
 ## Material de estudo
 
 - **Gran Cursos vitalício:** material-base já disponível; usar imediatamente onde houver aderência.
@@ -42,6 +44,7 @@ Entretanto, em março de 2026 o antigo Departamento de Taquigrafia, Revisão e R
 - [STATUS.md](STATUS.md) — estado atual, fatos, incertezas e próximo gate.
 - [ROADMAP.md](ROADMAP.md) — fases, critérios de decisão e métricas.
 - [FONTES.md](FONTES.md) — fontes oficiais, editais históricos e referências externas.
+- [TAQUIGRAFIA_FRASEOGRAMAS.md](TAQUIGRAFIA_FRASEOGRAMAS.md) — corpus parlamentar, critérios e biblioteca experimental de abreviações/fraseogramas.
 
 ## Regra de precedência das fontes
 
