@@ -44,6 +44,7 @@ Como hedge técnico, está em andamento uma microtrilha de otimização do Méto
 - [STATUS.md](STATUS.md) — estado atual, fatos, incertezas e próximo gate.
 - [ROADMAP.md](ROADMAP.md) — fases, critérios de decisão e métricas.
 - [FONTES.md](FONTES.md) — fontes oficiais, editais históricos e referências externas.
+- [PORTUGUES.md](PORTUGUES.md) — caderno cumulativo de aulas, dúvidas, regras, exemplos, pegadinhas e revisões de Português.
 - [TAQUIGRAFIA_FRASEOGRAMAS.md](TAQUIGRAFIA_FRASEOGRAMAS.md) — corpus parlamentar, critérios e biblioteca experimental de abreviações/fraseogramas.
 
 ## Regra de precedência das fontes
