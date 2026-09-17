@@ -40,6 +40,12 @@ Saída obrigatória:
 - três maiores gargalos;
 - ciclo provisório baseado em desempenho, não em preferência.
 
+### Progresso de estudo enquanto o diagnóstico não é concluído
+
+- **16/09/2026 — Português:** iniciada a trilha de Morfologia. Registrados em [PORTUGUES.md](PORTUGUES.md): dez classes de palavras, substantivização/nominalização, substantivos concretos e abstratos, complemento nominal × adjunto adnominal, derivação sufixal e regressiva, coletivos e concordância partitiva, gênero dos substantivos e concordância em *dois milhões de pessoas*.
+
+Este registro de conteúdo **não substitui o diagnóstico quantitativo**; o G0.5 continua pendente até haver baseline por área.
+
 ---
 
 ## G1 — Publicação do terceiro edital
