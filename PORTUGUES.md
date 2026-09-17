@@ -43,7 +43,7 @@ Exemplo:
 
 É o fenômeno pelo qual uma palavra ou expressão originalmente pertencente a outra classe passa a funcionar como **substantivo** no contexto.
 
-Um forte sinal é a presença de determinante, especialmente artigo.
+Um forte sinal é a presença de determinante, especialmente artigo, mas **a simples presença de um artigo antes de uma palavra não basta**: é preciso descobrir qual é o núcleo do grupo nominal.
 
 Exemplos:
 
@@ -280,19 +280,291 @@ Já em construções com **mil**, a concordância pode acompanhar o substantivo 
 
 ---
 
+## 1.10. Variação de número nos diminutivos
+
+### Regra geral
+
+Nos diminutivos comuns, forma-se o plural normalmente:
+
+- riacho → **riachos**;
+- casebre → **casebres**;
+- saleta → **saletas**.
+
+### Diminutivos em -zinho / -zinha e -zito / -zita
+
+A regra tradicional é:
+
+1. colocar a palavra primitiva no plural;
+2. retirar o **-s** final desse plural;
+3. acrescentar **-zinhos/-zinhas** ou **-zitos/-zitas**.
+
+Exemplos:
+
+- pão → pães → **pãezinhos**;
+- papel → papéis → **papeizinhos**;
+- coração → corações → **coraçõezinhos**;
+- mão → mãos → **mãozinhas**;
+- flor → flores → **florezinhas**.
+
+### Florzinhas × florezinhas
+
+Pela formação tradicional, **florezinhas** é a forma regular: *flores* − *s* + *zinhas*.
+
+Entretanto, existe oscilação de uso e **florzinhas** também é registrada/aceita por gramáticos e dicionários. Portanto, em prova, cuidado com afirmações absolutas do tipo “*florzinhas* é necessariamente incorreto”.
+
+---
+
+## 1.11. Plural dos substantivos compostos
+
+### Ideia-base
+
+Uma boa primeira triagem é distinguir elementos **variáveis** e **invariáveis**:
+
+- variáveis: substantivo, adjetivo, numeral, pronome e verbo;
+- invariáveis: advérbio, preposição, conjunção e interjeição.
+
+Mas isso **não resolve sozinho** o plural dos compostos. A relação semântica entre os elementos também importa.
+
+### Quando os dois elementos tendem a variar
+
+Quando há dois elementos variáveis e ambos participam efetivamente da designação, é comum flexionar os dois:
+
+- amor-perfeito → **amores-perfeitos**;
+- segunda-feira → **segundas-feiras**;
+- cirurgião-dentista → **cirurgiões-dentistas**;
+- padre-nosso → **padres-nossos**.
+
+### Quando somente um elemento varia
+
+Se um dos elementos é invariável, ele permanece invariável; flexiona-se o elemento que admite número, quando a estrutura comportar flexão:
+
+- guarda-chuva → **guarda-chuvas** (*guarda* é forma verbal na composição);
+- abaixo-assinado → **abaixo-assinados** (*abaixo* é advérbio; *assinado* varia).
+
+Com compostos ligados por preposição, em regra o primeiro núcleo é que varia:
+
+- pé de moleque → **pés de moleque**.
+
+### Caso especial: bem-me-quer
+
+O plural consagrado do substantivo **bem-me-quer** é:
+
+- **bem-me-queres**.
+
+Não é útil tentar deduzi-lo simplesmente pela regra “verbo não varia”. Trata-se de uma forma lexicalizada cujo plural dicionarizado recebe **-es** no final.
+
+### Palavras repetidas
+
+Em compostos formados por repetição de palavra ou de forma verbal, é frequente flexionar apenas o segundo elemento:
+
+- corre-corre → **corre-corres**;
+- pisca-pisca → **pisca-piscas**;
+- reco-reco → **reco-recos**.
+
+---
+
+## 1.12. Substantivo + substantivo: quando o segundo delimita o primeiro
+
+Quando o segundo substantivo **especifica, limita, indica finalidade, semelhança ou tipo** do primeiro, ele pode funcionar como determinante específico.
+
+Exemplos clássicos:
+
+- peixe-espada → **peixes-espada**;
+- salário-família → **salários-família**;
+- público-alvo → **públicos-alvo**;
+- evento-monstro → **eventos-monstro**.
+
+A lógica é próxima de uma estrutura subentendida:
+
+- salário **de** família;
+- público que constitui **alvo**;
+- evento de dimensão **monstro**.
+
+### Há casos com dupla possibilidade
+
+Em certos compostos **substantivo + substantivo**, especialmente quando é possível interpretar os dois termos como entidades coordenadas, gramáticas e dicionários admitem os dois plurais:
+
+- homens-máquina / homens-máquinas;
+- laranjas-lima / laranjas-limas;
+- peixes-espada / peixes-espadas, conforme a análise adotada.
+
+Para prova, o essencial é não transformar a regra em “todo substantivo + substantivo flexiona os dois”. Quando o segundo apenas **delimita/classifica** o primeiro, a forma com apenas o primeiro no plural é a mais segura e tradicional.
+
+### Substantivo empregado com valor qualificativo
+
+É preciso observar se o segundo substantivo está funcionando como **especificador invariável** ou se já se comporta como verdadeiro adjetivo.
+
+Exemplo:
+
+- *um evento monstro* → *eventos monstro* é a análise tradicional quando *monstro* significa “enorme”.
+
+Mas substantivos que se tornam adjetivos de fato podem adquirir flexão conforme o uso. Portanto, novamente, a **função no contexto** é decisiva.
+
+---
+
+## 1.13. Expressões substantivadas e plural
+
+Quando uma expressão inteira é substantivada, não significa automaticamente que todos os seus elementos passarão a flexionar.
+
+### Leva e traz
+
+No português do Brasil, **leva e traz** pode funcionar como substantivo de dois números:
+
+- um leva e traz;
+- vários **leva e traz**.
+
+Ou seja, a expressão pode permanecer invariável.
+
+### Sem-teto
+
+Também é invariável em número no uso substantivado/adjetival:
+
+- o sem-teto;
+- os **sem-teto**.
+
+### Todo-poderoso
+
+Aqui ocorre algo diferente. **Todo-poderoso** é adjetivo e também pode ser substantivado, mas sua flexão está lexicalizada:
+
+- o todo-poderoso;
+- os **todo-poderosos**;
+- a todo-poderosa;
+- as **todo-poderosas**.
+
+Portanto, substantivação **não elimina necessariamente a flexão** que a palavra já possui.
+
+---
+
+## 1.14. Variação de grau
+
+O grau pode indicar tamanho, intensidade, avaliação afetiva, desprezo, admiração ou exagero. Nem sempre é apenas “maior” ou “menor”.
+
+### Exemplos da aula
+
+*Uma menina **dentuça** banhava-se em um **riacho** atrás do **casebre**.*
+
+- **dentuça**: forma derivada de *dente*, com valor de abundância/aumento e frequentemente matiz depreciativo; no contexto funciona como **adjetivo** que caracteriza *menina*;
+- **riacho**: substantivo lexicalizado com sentido de curso d’água pequeno; historicamente/dia cronicamente relacionado a valor diminutivo, mas deve ser reconhecido no uso atual como substantivo autônomo;
+- **casebre**: substantivo com valor diminutivo/depreciativo: casa pequena, pobre ou precária.
+
+Outro exemplo:
+
+*Formou-se um **engarrafamento monstro** que gerou **atrasos homéricos**.*
+
+- **monstro**: substantivo empregado com valor qualificativo, significando algo como “enorme, gigantesco”; na análise tradicional desse emprego especificador, pode permanecer invariável: *engarrafamentos monstro*;
+- **homéricos**: adjetivo com valor intensificador/hiperbólico: atrasos enormes, extraordinários.
+
+Atenção: o grau pode ser expresso **morfologicamente** (*casinha, casarão*) ou apenas **semanticamente/lexicalmente** (*monstro, homérico, colossal*).
+
+---
+
+# 2. Coesão referencial
+
+Coesão referencial é o conjunto de mecanismos que retomam, substituem, antecipam ou reapresentam referentes no texto, evitando repetição desnecessária e mantendo a continuidade temática.
+
+Exemplo:
+
+- *Língua Portuguesa é ótima. **A disciplina** é minha favorita.*
+
+**A disciplina** retoma **Língua Portuguesa** por uma expressão nominal de sentido mais geral. Há coesão sem repetição literal.
+
+Outros mecanismos frequentes de retomada incluem:
+
+- pronomes;
+- sinônimos e expressões equivalentes;
+- hiperônimos;
+- elipse;
+- repetição controlada;
+- expressões nominais definidas.
+
+---
+
+# 3. Dúvidas e pegadinhas de classificação contextual
+
+## 3.1. “O então ainda considerado nono planeta”
+
+Pergunta: o artigo **o** transforma **então** em substantivo?
+
+**Não.**
+
+Na expressão:
+
+- *O **então ainda considerado nono planeta***
+
+**então** continua sendo **advérbio**, com sentido temporal equivalente a “naquela época”. Ele modifica a ideia expressa por **considerado**:
+
+- “o planeta que **naquela época** ainda era considerado o nono planeta”.
+
+O núcleo do grupo nominal é **planeta**. O artigo **o** determina **planeta**, embora haja várias palavras entre o artigo e o substantivo:
+
+- **O** [então] [ainda] [considerado] [nono] **planeta**.
+
+Portanto, esta é uma pegadinha importante:
+
+> **artigo antes de uma palavra ≠ substantivação automática da palavra imediatamente seguinte.**
+
+É preciso localizar o **núcleo do sintagma nominal**.
+
+Compare com verdadeira substantivação:
+
+- *O **então** daquela decisão já passou.*
+
+Aqui seria necessário analisar o contexto específico; se *então* efetivamente funcionar como núcleo nominal, poderá estar substantivado.
+
+---
+
+## 3.2. “Os ditos direitos humanos”
+
+Pergunta: **ditos** é substantivo?
+
+**Não.**
+
+Em:
+
+- *os **ditos** direitos humanos*
+
+**direitos** é o núcleo substantivo. **Ditos** modifica **direitos**, com sentido aproximado de “chamados”, “mencionados” ou, dependendo do contexto, “pretensos”.
+
+Assim, **ditos** é uma forma do particípio de *dizer* empregada com **valor adjetivo** e concorda com *direitos*:
+
+- o dito direito;
+- a dita regra;
+- os ditos direitos;
+- as ditas regras.
+
+O artigo **os** determina o grupo nominal cujo núcleo é **direitos**; ele não substantiva *ditos*.
+
+Compare:
+
+- *Os **ditos** do filósofo foram registrados.*
+
+Aqui **ditos** é substantivo, significando “frases, máximas, coisas ditas”.
+
+Outra pegadinha:
+
+> A classe de uma palavra não é decidida pela sua forma isolada, mas pela **função que ela desempenha naquela frase**.
+
+---
+
 # Pontos para revisão futura
 
 - distinguir com segurança **complemento nominal × adjunto adnominal** por papel semântico;
 - treinar substantivização em palavras de outras classes;
 - reconhecer derivação sufixal × regressiva;
 - revisar concordância com coletivos partitivos em questões Cebraspe;
-- ampliar as classificações de gênero: comum de dois, sobrecomum e epiceno.
+- ampliar as classificações de gênero: comum de dois, sobrecomum e epiceno;
+- treinar plural de diminutivos em **-zinho/-zinha**;
+- treinar plural de substantivos compostos por estrutura e por sentido;
+- reconhecer casos em que o segundo substantivo apenas delimita o primeiro;
+- distinguir substantivo qualificativo de adjetivo verdadeiro;
+- localizar o núcleo de grupos nominais antes de concluir que houve substantivação;
+- aprofundar coesão referencial e mecanismos de retomada.
 
 ---
 
-## Registro da aula
+## Registro das aulas
 
-**16/09/2026 — Morfologia 01**
+### 16/09/2026 — Morfologia 01
 
 Conteúdo registrado:
 - dez classes de palavras;
@@ -304,3 +576,20 @@ Conteúdo registrado:
 - concordância com *a maioria dos...*;
 - comum de dois gêneros e sobrecomum;
 - concordância em *dois milhões de pessoas*.
+
+### 16/09/2026 — Morfologia 02 + Coesão Referencial
+
+Conteúdo registrado:
+- plural de diminutivos;
+- formação em **-zinho/-zinha**;
+- plural dos substantivos compostos;
+- caso especial **bem-me-queres**;
+- palavras repetidas: **corre-corres**;
+- compostos em que o segundo substantivo delimita o primeiro;
+- **peixes-espada**, **salários-família**, **públicos-alvo**;
+- expressões substantivadas: **leva e traz**, **sem-teto**, **todo-poderosas**;
+- variação de grau e valores expressivos;
+- substantivo com valor qualificativo;
+- coesão referencial;
+- análise de **o então ainda considerado nono planeta**;
+- análise de **os ditos direitos humanos**.
