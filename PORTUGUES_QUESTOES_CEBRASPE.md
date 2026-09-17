@@ -34,38 +34,30 @@ Se substituirmos apenas **da mente** por **mental**, teremos:
 Agora **de uma pessoa** já não está dentro do grupo nominal *a mente de uma pessoa*, porque o substantivo **mente** desapareceu. A expressão passa a ligar-se a **construção mental**, permitindo outra organização e outra interpretação, por exemplo:
 
 - uma construção mental **feita por uma pessoa**;
-- e, dependendo do contexto, até uma construção mental **de uma pessoa** no sentido de representação mental dessa pessoa.
+- ou uma construção mental **de uma pessoa**, no sentido de representação mental dessa pessoa.
 
 Portanto, ainda que **da mente** e **mental** possam ser equivalentes em muitos contextos isolados (*atividade da mente* / *atividade mental*), **neste período específico a substituição altera as relações sintáticas e pode alterar o sentido**.
 
-### O que torna a questão difícil
+### Não decorar “CN não pode virar adjetivo”
 
-É tentador raciocinar assim:
+Essa fórmula é simplificadora demais para servir como critério geral. O procedimento mais seguro é:
 
-1. *da mente* tem valor adjetivo;
-2. *mental* é o adjetivo correspondente;
-3. logo, a substituição é possível.
+1. localizar o núcleo a que o termo preposicionado se liga;
+2. identificar a relação semântica;
+3. fazer a substituição proposta;
+4. reler a frase inteira e verificar se os demais termos continuam ligados aos mesmos núcleos e com o mesmo sentido.
 
-Esse raciocínio é insuficiente porque questões de reescrita exigem verificar **a frase inteira depois da alteração**. O termo subsequente **de uma pessoa** muda de ponto de apoio sintático quando *mente* é eliminado.
+Nesta questão, o ponto decisivo não é chamar **da mente** de CN ou AA, mas perceber que **de uma pessoa** dependia de **mente**. Ao eliminar *mente*, a arquitetura sintática muda.
+
+Pela heurística ativo/passivo estudada, a leitura natural de **da mente** é agentiva/originária — a mente produz a construção —, o que é compatível com **adjunto adnominal**, não com o típico CN passivo. Por isso, usar a etiqueta “CN” como única justificativa pode induzir a erro em outras questões.
 
 ### Regra prática para Cebraspe
 
 > Em substituições de locução por adjetivo, não compare apenas os dois segmentos. Releia **toda a estrutura à direita e à esquerda** e verifique se algum termo perde o núcleo ao qual estava ligado ou passa a poder modificar outro elemento.
 
-### Relação com AA × CN
-
-A questão não é decidida simplesmente por dizer que **da mente** é AA ou CN. No contexto, a leitura natural é agentiva/originária — a mente produz a construção —, compatível com valor de adjunto adnominal. Mesmo assim, **isso não garante** que a troca por *mental* preserve o sentido global.
-
-Assim, deve-se separar duas perguntas:
-
-1. **Qual é a função de “da mente” no original?** — leitura natural: valor adjetivo/agentivo, ligado a *construção*.
-2. **A troca por “mental” preserva toda a organização e o sentido?** — **não**, porque desestrutura o grupo **mente de uma pessoa**.
-
 ### Lição central
 
 > **Equivalência lexical não implica equivalência sintática global.**
-
-Esse item é um bom antídoto contra a aplicação mecânica da ideia “locução adjetiva → adjetivo correspondente”.
 
 ---
 
@@ -73,6 +65,7 @@ Esse item é um bom antídoto contra a aplicação mecânica da ideia “locuç�
 
 **17/09/2026 — questão Cebraspe (TSE/CPNUJE 2024)**
 
-- Tema: reescrita; adjunto adnominal; locução adjetiva; escopo e vinculação sintática.
+- Tema: reescrita; escopo; vinculação sintática; locução/adjetivo.
 - Pegadinha: *da mente* → *mental* parece localmente possível, mas elimina o núcleo ao qual **de uma pessoa** se ligava.
+- Não usar como decoreba: “CN não vira adjetivo”.
 - Gabarito definitivo: **ERRADO**.
