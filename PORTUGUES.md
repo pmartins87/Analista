@@ -595,3 +595,310 @@ Conteúdo registrado:
 - coesão referencial;
 - análise de **o então ainda considerado nono planeta**;
 - análise de **os ditos direitos humanos**.
+
+
+---
+
+# 4. Mapa das funções sintáticas
+
+## 4.1. Antes de tudo: classe gramatical ≠ função sintática
+
+**Classe gramatical** é o que a palavra é: substantivo, adjetivo, pronome, verbo etc.
+
+**Função sintática** é o papel que a palavra ou expressão exerce naquela oração.
+
+Exemplo:
+
+> O aluno **inteligente** respondeu.
+
+- *inteligente* = adjetivo (classe);
+- *inteligente* = adjunto adnominal (função sintática).
+
+> O aluno chegou **cansado**.
+
+- *cansado* = adjetivo (classe);
+- *cansado* = predicativo do sujeito (função sintática).
+
+---
+
+## 4.2. As principais funções sintáticas da oração
+
+Não existe uma única contagem universal em todas as gramáticas, porque algumas agrupam ou desmembram certas funções de modo diferente. Para prova, o mapa tradicional mais útil é este:
+
+### Termos essenciais
+- **sujeito**
+- **predicado**
+
+### Termos integrantes
+- **objeto direto**
+- **objeto indireto**
+- **complemento nominal**
+- **agente da passiva**
+
+### Termos acessórios
+- **adjunto adnominal**
+- **adjunto adverbial**
+- **aposto**
+
+### Funções predicativas
+- **predicativo do sujeito**
+- **predicativo do objeto**
+
+### Termo independente
+- **vocativo**
+
+Observação: o **vocativo** costuma ser estudado junto com as funções sintáticas, mas, tecnicamente, não integra a estrutura sintática da oração; é um termo independente.
+
+---
+
+## 4.3. Mapa por núcleo: a forma mais segura de diferenciar
+
+### Funções ligadas ao verbo
+
+#### Objeto direto
+Completa verbo transitivo direto, sem preposição obrigatória.
+
+> O servidor analisou **o processo**.
+
+Pergunta:
+> analisou o quê?
+
+#### Objeto indireto
+Completa verbo transitivo indireto, com preposição exigida pelo verbo.
+
+> O servidor necessita **de apoio**.
+
+Pergunta:
+> necessita de quê?
+
+#### Agente da passiva
+Indica quem pratica a ação em construção passiva.
+
+> O relatório foi elaborado **pelo servidor**.
+
+Teste:
+> o servidor elaborou o relatório.
+
+---
+
+### Funções ligadas a nome
+
+#### Adjunto adnominal
+Caracteriza, determina, quantifica, especifica ou indica posse/origem/agente de um substantivo.
+
+> **Os dois novos servidores** chegaram.
+
+*os*, *dois* e *novos* são adjuntos adnominais de *servidores*.
+
+Também pode ser termo preposicionado:
+
+> a casa **de João**
+
+#### Complemento nominal
+Completa o sentido de substantivo abstrato, adjetivo ou advérbio, normalmente com preposição.
+
+> necessidade **de apoio**
+> favorável **ao projeto**
+> longe **de casa**
+
+Com substantivo abstrato deverbal:
+- paciente/alvo → CN;
+- agente/possuidor/origem → tende a AA.
+
+---
+
+### Funções que atribuem característica
+
+#### Predicativo do sujeito
+Atribui estado, qualidade ou condição ao sujeito, fora do sintagma nominal.
+
+> O servidor chegou **cansado**.
+
+Teste:
+> o servidor chegou + o servidor estava cansado.
+
+#### Predicativo do objeto
+Atribui característica ao objeto.
+
+> Considero o servidor **competente**.
+
+Teste:
+> considero que o servidor é competente.
+
+---
+
+### Função circunstancial
+
+#### Adjunto adverbial
+Indica circunstância: tempo, lugar, modo, causa, finalidade, intensidade etc.
+
+> O servidor chegou **ontem**.
+> O servidor trabalha **em Brasília**.
+> O servidor respondeu **com calma**.
+
+Liga-se tipicamente ao verbo, adjetivo, advérbio ou à oração inteira, e não completa regência obrigatória.
+
+---
+
+### Função explicativa/especificativa
+
+#### Aposto
+Explica, identifica, resume, enumera ou especifica outro termo.
+
+> Machado de Assis, **grande escritor brasileiro**, nasceu no Rio.
+> Os biomas **Amazônia e Cerrado**...
+
+No segundo exemplo, *Amazônia e Cerrado* especificam quais biomas são referidos.
+
+---
+
+### Termo independente
+
+#### Vocativo
+Serve para chamar/interpelar o interlocutor.
+
+> **Senhores deputados**, iniciemos a sessão.
+
+Não é sujeito.
+
+Compare:
+
+> **Senhores deputados**, votem agora.
+
+- *Senhores deputados* = vocativo;
+- sujeito de *votem* = **vocês**, oculto/desinencial.
+
+---
+
+## 4.4. As confusões mais frequentes em prova
+
+### Adjunto adnominal × complemento nominal
+
+Ambos podem aparecer como **de + substantivo**.
+
+> construção **do engenheiro** → engenheiro constrói → AA.
+> construção **da ponte** → ponte é construída → CN.
+
+Critério:
+> agente/posse/origem → AA;
+> paciente/alvo → CN.
+
+---
+
+### Adjunto adnominal × predicativo
+
+> **O aluno inteligente** respondeu. → *inteligente* dentro do sintagma nominal → AA.
+
+> O aluno respondeu **nervoso**. → característica predicada do sujeito → predicativo do sujeito.
+
+Critério:
+> dentro do grupo nominal → AA;
+> fora dele, em relação de predicação → predicativo.
+
+---
+
+### Adjunto adnominal × aposto
+
+> o **bioma brasileiro** → *brasileiro* caracteriza *bioma* → AA.
+
+> os biomas **Amazônia e Cerrado** → os nomes identificam/especificam quais biomas → aposto especificativo.
+
+Critério:
+> qualidade/determinação do nome → AA;
+> renomeação/identificação do referente → aposto.
+
+---
+
+### Adjunto adnominal × agente da passiva
+
+> a decisão **do diretor** → se significar “decisão tomada pelo diretor”, *do diretor* é AA ligado ao substantivo *decisão*.
+
+> a decisão foi tomada **pelo diretor** → *pelo diretor* é agente da passiva, ligado à locução verbal passiva.
+
+Critério:
+> ligado a substantivo → pode ser AA;
+> ligado a verbo na voz passiva e indica quem pratica a ação → agente da passiva.
+
+---
+
+### Objeto indireto × complemento nominal
+
+Os dois são preposicionados e podem ter a mesma preposição.
+
+> necessito **de apoio** → completa verbo → OI.
+
+> necessidade **de apoio** → completa substantivo → CN.
+
+Critério:
+> completa verbo → OI;
+> completa substantivo/adjetivo/advérbio → CN.
+
+---
+
+### Objeto direto × sujeito
+
+> Chegaram **os documentos**.
+
+Apesar de vir depois do verbo, *os documentos* é sujeito.
+
+Teste:
+> os documentos chegaram.
+
+Não se deve identificar OD apenas pela posição pós-verbal.
+
+---
+
+### Predicativo do objeto × adjunto adnominal
+
+> Encontrei **o servidor cansado**.
+
+Pode ser ambígua:
+
+1. encontrei [o servidor cansado] → *cansado* = AA;
+2. encontrei [o servidor] [cansado] → *cansado* = predicativo do objeto.
+
+O contexto decide.
+
+---
+
+### Aposto × vocativo
+
+> João, **meu irmão**, chegou. → *meu irmão* explica quem é João → aposto.
+
+> **João**, venha aqui. → chamamento → vocativo.
+
+Critério:
+> explica/identifica termo da oração → aposto;
+> chama/interpela alguém → vocativo.
+
+---
+
+## 4.5. Roteiro de identificação em prova
+
+1. **Ache o verbo.**
+2. **Ache o sujeito.**
+3. Veja se o verbo exige complemento:
+   - sem preposição → possível OD;
+   - com preposição → possível OI.
+4. Se houver termo preposicionado ligado a **nome**, decida entre:
+   - AA;
+   - CN.
+5. Se houver termo indicando característica, pergunte:
+   - está dentro do sintagma nominal? → AA;
+   - está sendo predicado do sujeito/objeto? → predicativo.
+6. Se o termo explica ou renomeia outro substantivo → aposto.
+7. Se chama o interlocutor → vocativo.
+8. Se indica circunstância → adjunto adverbial.
+9. Se indica quem pratica a ação numa voz passiva → agente da passiva.
+
+### Regra-mãe
+
+> Antes de nomear a função sintática, descubra **de que palavra o termo depende**.
+
+Essa pergunta elimina boa parte das confusões:
+
+- depende de verbo? → objeto, adjunto adverbial ou agente da passiva;
+- depende de nome? → AA ou CN;
+- predica qualidade de sujeito/objeto? → predicativo;
+- renomeia/explica? → aposto;
+- chama o interlocutor? → vocativo.
