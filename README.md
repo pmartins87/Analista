@@ -62,7 +62,10 @@ Como hedge técnico, está em andamento uma microtrilha de otimização do Méto
 - [ROADMAP.md](ROADMAP.md) — fases, critérios de decisão e métricas.
 - [FONTES.md](FONTES.md) — fontes oficiais, editais históricos e referências externas.
 - [PORTUGUES.md](PORTUGUES.md) — caderno cumulativo de aulas, dúvidas, regras, exemplos, pegadinhas e revisões de Português.
+- [PORTUGUES_02_ADJETIVOS_E_TERMOS_NOMINAIS.md](PORTUGUES_02_ADJETIVOS_E_TERMOS_NOMINAIS.md) — adjetivos, termos nominais, AA × CN, AA × predicativo e verbo de ligação.
+- [PORTUGUES_QUESTOES_CEBRASPE.md](PORTUGUES_QUESTOES_CEBRASPE.md) — questões Cebraspe especialmente instrutivas e análise de pegadinhas.
 - [PORTUGUES_PROVA_CAMARA_2026_Q1_Q13.md](PORTUGUES_PROVA_CAMARA_2026_Q1_Q13.md) — correção dos itens 1 a 13 de Português da prova de Analista/Processo Legislativo e Gestão aplicada em 08/03/2026.
+- [PORTUGUES_ERROS_REVISOES.md](PORTUGUES_ERROS_REVISOES.md) — índice vivo de erros do aluno, correções conceituais, fragilidades e fila prioritária de revisão.
 - [TAQUIGRAFIA_FRASEOGRAMAS.md](TAQUIGRAFIA_FRASEOGRAMAS.md) — corpus parlamentar, critérios e biblioteca experimental de abreviações/fraseogramas.
 
 ## Regra de precedência das fontes
