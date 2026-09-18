@@ -927,3 +927,64 @@ Essa pergunta elimina boa parte das confusões:
 - predica qualidade de sujeito/objeto? → predicativo;
 - renomeia/explica? → aposto;
 - chama o interlocutor? → vocativo.
+
+
+---
+
+## 1.15. Preposição
+
+### Definição técnica
+
+**Preposição é uma palavra invariável que liga dois termos, estabelecendo entre eles uma relação de dependência sintática e de sentido.**
+
+Na estrutura:
+
+> termo regente + preposição + termo regido
+
+o segundo termo fica subordinado ao primeiro.
+
+Exemplos:
+
+> necessidade **de apoio**
+
+- *necessidade* = termo regente;
+- *de* = preposição;
+- *apoio* = termo regido.
+
+> confio **em você**
+
+- *confio* = termo regente;
+- *em* = preposição;
+- *você* = termo regido.
+
+A preposição pode introduzir relações de sentido como:
+- posse: *casa **de** João*;
+- matéria: *mesa **de** madeira*;
+- lugar: *moro **em** Brasília*;
+- destino: *vou **a** Brasília*;
+- companhia: *saí **com** amigos*;
+- causa: *morreu **de** fome*;
+- assunto: *falamos **sobre** política*;
+- meio/instrumento: *escreveu **com** lápis*.
+
+### Preposição essencial × acidental
+
+**Essenciais**: palavras que, em uso normal, funcionam como preposição:
+> a, ante, após, até, com, contra, de, desde, em, entre, para, perante, por, sem, sob, sobre, trás.
+
+**Acidentais**: palavras de outras classes que podem funcionar como preposição em certos contextos:
+> conforme, durante, exceto, mediante, salvo, segundo etc.
+
+### Preposição não é função sintática
+
+A preposição é **classe gramatical**. Ela serve para introduzir um termo que exercerá alguma função sintática, por exemplo:
+
+> Preciso **de ajuda**. → *de ajuda* = objeto indireto.
+
+> necessidade **de ajuda**. → *de ajuda* = complemento nominal.
+
+> casa **de madeira**. → *de madeira* = adjunto adnominal.
+
+> chegou **com pressa**. → *com pressa* = adjunto adverbial.
+
+Logo, a mesma preposição pode introduzir funções sintáticas diferentes. A função é determinada pela relação do termo preposicionado com o seu regente.
