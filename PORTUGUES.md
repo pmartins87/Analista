@@ -2,6 +2,8 @@
 
 Arquivo vivo para registrar aulas, dúvidas, regras, exemplos, pegadinhas e revisões de Português do projeto **Analista — Câmara dos Deputados**.
 
+> **Regra permanente de ensino:** definição técnica precisa → estrutura → teste diagnóstico → exceções/ambiguidades → só então heurística de prova. Nunca registrar atalho como se fosse definição; se houver incerteza relevante, verificar antes de consolidar.
+
 > Regra de uso: novas anotações devem ser incorporadas de forma organizada, corrigindo simplificações perigosas e destacando o que tende a gerar erro em prova, especialmente no padrão Cebraspe.
 
 ---
