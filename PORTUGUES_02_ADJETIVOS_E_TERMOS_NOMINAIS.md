@@ -340,11 +340,11 @@ Conteúdo:
 Quando um adjetivo está ligado a um substantivo, ele pode exercer, entre outras, duas funções muito importantes:
 
 - **adjunto adnominal (AA)**: fica **dentro do grupo nominal**, caracterizando, delimitando ou especificando o substantivo;
-- **predicativo**: atribui ao substantivo uma característica por meio de uma **predicação**, normalmente ligada ao verbo da oração.
+- **predicativo**: fica **fora do grupo nominal** e integra a predicação, atribuindo uma propriedade/estado ao sujeito ou ao objeto.
 
-A pergunta mais útil não é apenas “o adjetivo concorda com qual substantivo?”, porque **AA e predicativo concordam**. O teste principal é:
+A formulação “o predicativo é uma característica do sujeito ou do objeto” é insuficiente, porque o AA também pode caracterizar o substantivo que funciona como núcleo do sujeito ou do objeto. O teste estrutural mais seguro é:
 
-> **Essa característica está simplesmente acompanhando o nome ou está sendo afirmada sobre ele na oração?**
+> **A característica faz parte do sintagma nominal ou está sendo predicada dele?**
 
 ### Adjunto adnominal
 
@@ -502,3 +502,37 @@ Por isso, **concordância não distingue um do outro**. A distinção é sintát
 
 > **dentro do sintagma nominal → AA**  
 > **fora dele, atribuindo característica por predicação → predicativo**.
+
+
+### Correção importante — “característica do sujeito” não define predicativo
+
+Em:
+
+> **O aluno inteligente respondeu.**
+
+*inteligente* realmente é uma característica do aluno, e *o aluno inteligente* é o sujeito da oração. Mesmo assim, *inteligente* é **adjunto adnominal**, porque está **dentro do sujeito**:
+
+> [O aluno inteligente] [respondeu].
+
+A oração não tem como predicação principal “o aluno é inteligente”; ela afirma que **o aluno inteligente respondeu**.
+
+Compare:
+
+> **O aluno é inteligente.**
+
+Agora temos:
+
+> [O aluno] [é inteligente].
+
+A propriedade *inteligente* está no **predicado** e é atribuída ao sujeito. Logo, **predicativo do sujeito**.
+
+Teste útil com negação:
+
+- **O aluno inteligente não respondeu.** → a negação recai sobre *respondeu*; continua-se apresentando o aluno como inteligente.
+- **O aluno não é inteligente.** → a própria característica *inteligente* é negada.
+
+Resumo mais preciso:
+
+> **AA caracteriza o nome por dentro do sintagma nominal.**
+>
+> **Predicativo atribui a característica ao referente por meio do predicado.**
