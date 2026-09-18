@@ -126,3 +126,27 @@ E, em itens de reescrita Cebraspe:
 - Houve recurso defendendo gabarito **CERTO**; a banca manteve **ERRADO**.
 - Estratégia Cebraspe: nova ambiguidade ou novo vínculo sintático pode bastar para considerar prejuízo do sentido.
 - Não decorar como regra universal: “CN não vira adjetivo”.
+
+
+---
+
+## 2. Hipótese de controle — se a frase terminasse em “da mente”
+
+Se o trecho fosse apenas:
+
+> **uma construção da mente.**
+
+e a proposta fosse:
+
+> **uma construção mental.**
+
+a substituição seria, em princípio, **aceitável** no contexto discutido.
+
+Razão:
+
+- **da mente** = valor agentivo/originário: a mente constrói/produz → **AA**;
+- **mental** = adjetivo relacional ligado a *construção* → **AA**;
+- não há termo posterior cujo vínculo sintático seja alterado;
+- o sentido essencial “construção produzida/realizada pela mente” permanece disponível sem criação relevante de nova ambiguidade.
+
+A diferença em relação à questão real é justamente a presença de **de uma pessoa** no original.
