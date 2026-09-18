@@ -329,3 +329,176 @@ Conteúdo:
 - diferença entre *emenda à Constituição* e *emenda constitucional*;
 - ambiguidade de *A indicação do fiscal do contrato foi aceita*;
 - revisão de *construção da ponte* × *construção do engenheiro*.
+
+
+---
+
+## 11. Adjunto adnominal × predicativo
+
+### Ideia central
+
+Quando um adjetivo está ligado a um substantivo, ele pode exercer, entre outras, duas funções muito importantes:
+
+- **adjunto adnominal (AA)**: fica **dentro do grupo nominal**, caracterizando, delimitando ou especificando o substantivo;
+- **predicativo**: atribui ao substantivo uma característica por meio de uma **predicação**, normalmente ligada ao verbo da oração.
+
+A pergunta mais útil não é apenas “o adjetivo concorda com qual substantivo?”, porque **AA e predicativo concordam**. O teste principal é:
+
+> **Essa característica está simplesmente acompanhando o nome ou está sendo afirmada sobre ele na oração?**
+
+### Adjunto adnominal
+
+Exemplo:
+
+> **O aluno inteligente respondeu.**
+
+- *aluno* = substantivo;
+- *inteligente* = adjetivo;
+- *inteligente* integra o grupo **o aluno inteligente**;
+- ele ajuda a identificar/caracterizar qual aluno respondeu.
+
+Logo:
+
+> **inteligente = adjunto adnominal de aluno.**
+
+Estrutura aproximada:
+
+> [O aluno inteligente] respondeu.
+
+### Predicativo do sujeito
+
+Exemplo:
+
+> **O aluno está cansado.**
+
+A característica *cansado* é afirmada sobre o sujeito *o aluno* por meio do verbo.
+
+Estrutura:
+
+> [O aluno] [está cansado].
+
+Logo:
+
+> **cansado = predicativo do sujeito.**
+
+O predicativo não está dentro do sintagma nominal *o aluno*; ele pertence ao predicado e atribui uma propriedade ao sujeito.
+
+Também pode ocorrer com verbo que não seja de ligação:
+
+> **O aluno chegou cansado.**
+
+- *cansado* atribui um estado ao sujeito no momento em que ele chegou;
+- portanto, **predicativo do sujeito**.
+
+### Predicativo do objeto
+
+Exemplo:
+
+> **Considero o aluno inteligente.**
+
+Aqui *inteligente* é uma característica atribuída ao objeto *o aluno*:
+
+> considero **o aluno** **inteligente**  
+> = considero que **o aluno é inteligente**.
+
+Logo:
+
+> **inteligente = predicativo do objeto.**
+
+### Comparação direta
+
+> **O aluno inteligente respondeu.**
+
+- *inteligente* está dentro de **o aluno inteligente**;
+- caracteriza/especifica o nome;
+- **AA**.
+
+> **O aluno respondeu cansado.**
+
+- *cansado* é uma informação afirmada sobre o sujeito durante a ação;
+- **predicativo do sujeito**.
+
+> **Achei o aluno cansado.**
+
+Pode haver ambiguidade:
+
+1. *achei [o aluno cansado]* = encontrei o aluno que estava cansado;
+2. *achei [o aluno] [cansado]* = considerei/percebi o aluno cansado.
+
+Na segunda leitura, **cansado = predicativo do objeto**.
+
+### Testes operacionais
+
+#### 1. Teste do bloco nominal
+
+Tente delimitar o grupo nominal.
+
+- **o servidor competente** → *competente* faz parte do bloco nominal → AA;
+- **o servidor está competente** → *competente* está fora do bloco nominal e é afirmado sobre o sujeito → predicativo.
+
+#### 2. Teste do “é/está”
+
+Se for possível explicitar naturalmente uma pequena oração do tipo:
+
+> X **é/está** Y
+
+há forte indício de predicativo.
+
+- *Considero João inteligente* → João **é** inteligente → predicativo do objeto.
+- *João chegou cansado* → João **estava** cansado ao chegar → predicativo do sujeito.
+
+Esse teste não deve ser aplicado mecanicamente a todo adjetivo, mas é muito útil.
+
+#### 3. Teste da função discursiva
+
+- **AA**: ajuda a **identificar/classificar/caracterizar o substantivo**;
+- **predicativo**: acrescenta uma **informação atribuída** ao sujeito ou ao objeto pela oração.
+
+### Cuidado: posição não resolve sozinha
+
+Não é verdade que:
+
+> “adjetivo perto do substantivo = AA”  
+> “adjetivo depois do verbo = predicativo”
+
+A estrutura e o sentido mandam.
+
+Exemplo:
+
+> **Encontrei o aluno cansado.**
+
+Pode significar:
+
+- encontrei **[o aluno cansado]** → *cansado* = AA;
+- encontrei **[o aluno] [cansado]** → *cansado* = predicativo do objeto.
+
+O contexto decide.
+
+### Regra-resumo
+
+> **AA = característica dentro do nome/grupo nominal.**  
+> **Predicativo = característica afirmada sobre sujeito ou objeto pela oração.**
+
+### Exemplos de revisão
+
+| Frase | Termo | Função |
+|---|---|---|
+| O servidor **competente** respondeu. | competente | AA |
+| O servidor está **competente**. | competente | predicativo do sujeito |
+| O servidor chegou **cansado**. | cansado | predicativo do sujeito |
+| Consideraram o servidor **competente**. | competente | predicativo do objeto |
+| A menina **alegre** saiu. | alegre | AA |
+| A menina saiu **alegre**. | alegre | predicativo do sujeito |
+
+### Pegadinha essencial
+
+AA e predicativo podem ser ambos:
+
+- adjetivos;
+- variáveis;
+- concordar com o mesmo substantivo.
+
+Por isso, **concordância não distingue um do outro**. A distinção é sintática:
+
+> **dentro do sintagma nominal → AA**  
+> **fora dele, atribuindo característica por predicação → predicativo**.
