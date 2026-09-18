@@ -67,3 +67,20 @@ O texto mostra redução de chuvas e aumento de temperatura ocorrendo progressiv
 - regência de “superior” + crase;
 - tipologia expositiva;
 - gradatividade não equivale a lentidão.
+
+
+## Desempenho registrado — 17/09/2026
+
+Erros do usuário nas 13 primeiras questões:
+
+- **Q1 — pontuação e oração subordinada adverbial anteposta**
+  - ponto de atenção: não justificar vírgula por coincidência de sujeito; primeiro identificar a estrutura das orações.
+- **Q9 — valor temporal do presente**
+  - ponto de atenção: distinguir **presente atual/gnômico** de **presente histórico**.
+- **Q10 — função sintática em estruturas nominais**
+  - ponto de atenção: distinguir **adjunto adnominal** de **aposto especificativo**.
+
+Prioridade de revisão:
+1. identificar oração subordinada adverbial anteposta e a vírgula que a isola;
+2. reconhecer quando o presente narra fato passado e quando apenas exprime estado/verdade atual;
+3. separar adjetivo em função de AA de substantivos usados em aposição especificativa.
