@@ -16,48 +16,91 @@ Item:
 
 > “Dada sua função na oração, o termo ‘da mente’ pode ser substituído pelo adjetivo *mental*, sem prejuízo da correção gramatical e do sentido original do trecho.”
 
-**Gabarito definitivo Cebraspe: ERRADO.**
+**Gabarito oficial definitivo Cebraspe: ERRADO.**
 
-### Por que o item é errado
+### Regra definitiva: substantivo abstrato não implica automaticamente CN
 
-O erro está em analisar somente o segmento **da mente** e ignorar a estrutura maior:
+Com **substantivo abstrato + de + substantivo**, a natureza abstrata do núcleo apenas permite que haja complemento nominal; ela **não decide sozinha**.
 
-- original: **construção [da mente [de uma pessoa]]**;
-- isto é: uma construção produzida pela **mente de uma pessoa**.
+O critério discriminante, na análise normativa tradicional, é o papel semântico:
 
-No original, **de uma pessoa** liga-se diretamente a **mente**: trata-se da mente pertencente a uma pessoa.
+- termo **agente / origem / possuidor** da ação ou ideia nominalizada → **adjunto adnominal (AA)**;
+- termo **paciente / alvo / objeto / tema** da ação ou ideia nominalizada → **complemento nominal (CN)**.
 
-Se substituirmos apenas **da mente** por **mental**, teremos:
+Exemplos:
 
-- **construção mental de uma pessoa**.
+- **construção do engenheiro** → o engenheiro constrói → **AA**;
+- **construção da escola** → a escola é construída → **CN**.
 
-Agora **de uma pessoa** já não está dentro do grupo nominal *a mente de uma pessoa*, porque o substantivo **mente** desapareceu. A expressão passa a ligar-se a **construção mental**, permitindo outra organização e outra interpretação, por exemplo:
+Portanto, a hierarquia correta é:
 
-- uma construção mental **feita por uma pessoa**;
-- ou uma construção mental **de uma pessoa**, no sentido de representação mental dessa pessoa.
+1. identificar a palavra a que o termo se liga;
+2. se for substantivo abstrato deverbal e houver dúvida entre AA e CN, reconstruir o verbo;
+3. perguntar se o termo seria **sujeito/agente** ou **objeto/paciente** desse verbo.
 
-Portanto, ainda que **da mente** e **mental** possam ser equivalentes em muitos contextos isolados (*atividade da mente* / *atividade mental*), **neste período específico a substituição altera as relações sintáticas e pode alterar o sentido**.
+### Classificação no trecho original
 
-### Não decorar “CN não pode virar adjetivo”
+Em:
 
-Essa fórmula é simplificadora demais para servir como critério geral. O procedimento mais seguro é:
+> **construção da mente de uma pessoa**
 
-1. localizar o núcleo a que o termo preposicionado se liga;
-2. identificar a relação semântica;
-3. fazer a substituição proposta;
-4. reler a frase inteira e verificar se os demais termos continuam ligados aos mesmos núcleos e com o mesmo sentido.
+o contexto apresenta uma representação produzida pela mente. A paráfrase natural é:
 
-Nesta questão, o ponto decisivo não é chamar **da mente** de CN ou AA, mas perceber que **de uma pessoa** dependia de **mente**. Ao eliminar *mente*, a arquitetura sintática muda.
+> **a mente de uma pessoa constrói** essa representação.
 
-Pela heurística ativo/passivo estudada, a leitura natural de **da mente** é agentiva/originária — a mente produz a construção —, o que é compatível com **adjunto adnominal**, não com o típico CN passivo. Por isso, usar a etiqueta “CN” como única justificativa pode induzir a erro em outras questões.
+Logo:
 
-### Regra prática para Cebraspe
+- **da mente de uma pessoa** tem valor agentivo/originário em relação a **construção** → **AA**;
+- internamente, **de uma pessoa** especifica/indica posse em relação a **mente** → **AA**.
 
-> Em substituições de locução por adjetivo, não compare apenas os dois segmentos. Releia **toda a estrutura à direita e à esquerda** e verifique se algum termo perde o núcleo ao qual estava ligado ou passa a poder modificar outro elemento.
+Assim, **“da mente” não deve ser classificado como CN só porque “construção” é substantivo abstrato**.
 
-### Lição central
+### O que acontece na reescrita
 
-> **Equivalência lexical não implica equivalência sintática global.**
+Ao substituir **da mente** por **mental**, temos:
+
+> **construção mental de uma pessoa**
+
+- **mental** = adjetivo relacional; função sintática = **AA** de *construção*.
+- **de uma pessoa** passa a ligar-se a **construção** (não a *mental*: o adjetivo *mental* não rege *de uma pessoa* nesse sentido).
+
+A expressão **de uma pessoa**, isoladamente nessa nova estrutura, é semanticamente ambígua:
+
+1. **AA**, se significar “construção mental produzida por uma pessoa”:
+   - a pessoa constrói → agente;
+
+2. **CN**, se significar “construção/representação mental de uma pessoa”:
+   - a pessoa é aquilo que é representado/construído mentalmente → alvo/tema.
+
+Essa ambiguidade mostra por que a troca não é segura quando o comando exige preservação do **sentido original**. No original, a relação é inequívoca: trata-se da **mente pertencente a uma pessoa** produzindo a representação. Na reescrita, essa estrutura desaparece.
+
+### Sobre a fórmula “CN não pode virar adjetivo”
+
+Pode ser usada como pista didática em alguns materiais, mas não deve substituir a análise semântica.
+
+O procedimento mais robusto é:
+
+> **substantivo abstrato + de → não decida ainda; reconstrua o verbo e descubra quem age e quem recebe a ação.**
+
+A possibilidade de substituir por adjetivo pode ajudar a reconhecer um valor adjetivo/adjunto, mas não basta para assegurar equivalência de sentido em uma reescrita.
+
+### Lição operacional para prova
+
+> **ABSTRATO NÃO = CN AUTOMATICAMENTE.**
+>
+> Com substantivo abstrato deverbal:
+>
+> **agente → AA**
+>
+> **paciente/alvo → CN**
+
+E, em questões de reescrita:
+
+> faça a substituição e releia a frase inteira, porque a nova estrutura pode criar outra vinculação ou outro sentido.
+
+### Nota sobre o Cebraspe
+
+O caderno oficial do TSE/CPNUJE 2024 contém exatamente o item sobre **“da mente” → “mental”**, e o gabarito oficial definitivo é **ERRADO**. Não foi localizada, nos documentos públicos de justificativas de alteração de gabarito consultados, uma fundamentação específica da banca para este item; portanto, a análise acima é uma reconstrução gramatical baseada nos critérios normativos de AA × CN, e não uma justificativa oficial atribuída ao Cebraspe.
 
 ---
 
@@ -65,7 +108,10 @@ Pela heurística ativo/passivo estudada, a leitura natural de **da mente** é ag
 
 **17/09/2026 — questão Cebraspe (TSE/CPNUJE 2024)**
 
-- Tema: reescrita; escopo; vinculação sintática; locução/adjetivo.
-- Pegadinha: *da mente* → *mental* parece localmente possível, mas elimina o núcleo ao qual **de uma pessoa** se ligava.
-- Não usar como decoreba: “CN não vira adjetivo”.
-- Gabarito definitivo: **ERRADO**.
+- Tema: reescrita; adjunto adnominal × complemento nominal; papel semântico; escopo e vinculação.
+- Regra consolidada: substantivo abstrato é condição possível para CN, mas **não suficiente**.
+- Critério decisivo: **agente → AA; paciente/alvo → CN**.
+- No original, **da mente de uma pessoa** = AA de *construção* (a mente constrói).
+- Na reescrita, **mental** = AA; **de uma pessoa** torna-se potencialmente ambíguo entre AA e CN.
+- Não decorar como regra universal: “CN não vira adjetivo”.
+- Gabarito oficial definitivo: **ERRADO**.
