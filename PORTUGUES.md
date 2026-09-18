@@ -621,6 +621,31 @@ Exemplo:
 
 ---
 
+## 4.1.1. Preposição não é função sintática
+
+**Preposição é classe gramatical**, não função sintática.
+
+Exemplos de preposições: **a, de, em, com, por, para, sem, sobre**.
+
+A preposição funciona como elemento de ligação entre termos. O grupo introduzido por ela é que pode exercer funções sintáticas diferentes.
+
+Exemplos:
+
+- casa **de João** → *de* = preposição; **de João** = adjunto adnominal;
+- necessidade **de apoio** → *de* = preposição; **de apoio** = complemento nominal;
+- necessito **de apoio** → *de* = preposição; **de apoio** = objeto indireto;
+- relatório elaborado **pelo servidor** → *por* = preposição; **pelo servidor** = agente da passiva;
+- trabalha **em Brasília** → *em* = preposição; **em Brasília** = adjunto adverbial.
+
+Portanto:
+
+> **preposição = classe da palavra**  
+> **AA, CN, OI, agente da passiva, adjunto adverbial etc. = funções sintáticas do termo**
+
+Não se deve dizer que “de” é complemento nominal ou objeto indireto. Quem exerce a função é o **termo inteiro introduzido pela preposição**.
+
+---
+
 ## 4.2. As principais funções sintáticas da oração
 
 Não existe uma única contagem universal em todas as gramáticas, porque algumas agrupam ou desmembram certas funções de modo diferente. Para prova, o mapa tradicional mais útil é este:
