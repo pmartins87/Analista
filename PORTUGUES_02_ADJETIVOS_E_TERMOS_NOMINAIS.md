@@ -536,3 +536,126 @@ Resumo mais preciso:
 > **AA caracteriza o nome por dentro do sintagma nominal.**
 >
 > **Predicativo atribui a característica ao referente por meio do predicado.**
+
+
+---
+
+## 12. Verbo de ligação e identificação do predicativo
+
+### Definição técnica
+
+**Verbo de ligação** é o verbo que, em determinado contexto, não exprime por si só a ação principal da oração, mas estabelece uma relação entre o sujeito e uma característica, estado ou condição atribuída a ele.
+
+Exemplos:
+
+> João **está cansado**.  
+> Maria **parece preocupada**.  
+> O servidor **permaneceu calmo**.
+
+Nessas frases:
+
+- *está*, *parece*, *permaneceu* = verbos de ligação;
+- *cansado*, *preocupada*, *calmo* = predicativos do sujeito.
+
+Atenção: **o verbo não é de ligação por natureza em todos os usos**. A classificação depende do contexto.
+
+Compare:
+
+> João **ficou cansado**. → *ficou* = verbo de ligação.
+
+> João **ficou em casa**. → *ficou* tem sentido lexical de permanecer em determinado lugar; não funciona como verbo de ligação nessa análise.
+
+> Pedro **anda preocupado**. → *anda* = verbo de ligação, com sentido de “tem estado”.
+
+> Pedro **anda cinco quilômetros por dia**. → *anda* = verbo nocional, exprime deslocamento.
+
+### Predicativo não depende de verbo de ligação
+
+O predicativo é uma **função sintática**. Ele pode aparecer:
+
+1. com verbo de ligação;
+2. com verbo nocional (verbo que exprime ação, processo ou acontecimento).
+
+Exemplo com verbo de ligação:
+
+> O aluno **está cansado**.
+
+- *está* = verbo de ligação;
+- *cansado* = predicativo do sujeito.
+
+Exemplo com verbo nocional:
+
+> O aluno **chegou cansado**.
+
+- *chegou* = verbo nocional;
+- *cansado* = predicativo do sujeito.
+
+A frase contém duas informações simultâneas:
+
+> o aluno chegou;  
+> o aluno estava cansado ao chegar.
+
+Essa segunda relação é chamada de **predicação secundária**.
+
+### Como identificar o predicativo
+
+O teste mais importante é verificar se a oração atribui ao sujeito ou ao objeto uma propriedade/estado **fora do sintagma nominal**.
+
+#### Predicativo do sujeito
+
+> **O aluno chegou cansado.**
+
+Estrutura:
+
+> [O aluno] [chegou cansado].
+
+Teste de desdobramento:
+
+> O aluno chegou **e estava cansado**.
+
+Logo, *cansado* é predicativo do sujeito.
+
+#### Adjunto adnominal
+
+> **O aluno cansado chegou.**
+
+Estrutura:
+
+> [O aluno cansado] [chegou].
+
+*Cansado* integra o próprio sintagma nominal **o aluno cansado**. Portanto, é adjunto adnominal.
+
+#### Predicativo do objeto
+
+> Considero João inteligente.
+
+Desdobramento:
+
+> Considero que **João é inteligente**.
+
+Logo, *inteligente* é predicativo do objeto.
+
+### Testes diagnósticos
+
+1. **Delimite o sintagma nominal.**
+   - Se o adjetivo está dentro dele → tendência a AA.
+   - Se está fora dele e atribui estado/propriedade ao referente → predicativo.
+
+2. **Faça o teste da oração equivalente.**
+   - *João chegou cansado* → João chegou + João estava cansado.
+   - *Considero João inteligente* → considero que João é inteligente.
+
+3. **Não use “há verbo de ligação?” como teste único.**
+   - verbo de ligação quase sempre vem acompanhado de predicativo;
+   - mas predicativo também pode ocorrer com verbo nocional.
+
+### Regra operacional
+
+> **Verbo de ligação é um tipo de verbo. Predicativo é uma função sintática.**
+
+Logo:
+
+> **verbo de ligação → normalmente exige uma predicação nominal**;  
+> **predicativo → pode aparecer com verbo de ligação ou com verbo nocional**.
+
+A identificação correta do predicativo depende da estrutura da oração, não apenas do tipo de verbo.
