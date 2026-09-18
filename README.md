@@ -16,6 +16,23 @@ O projeto não será apenas um repositório de material. Ele funcionará como um
 - registrar decisões, incertezas, critérios de mudança e próximos passos;
 - revisar continuamente o plano com base no desempenho real.
 
+## Regra permanente de ensino e estudo
+
+Em qualquer explicação usada para estudo de concurso, especialmente Português e conteúdos cobrados pelo Cebraspe, a sequência obrigatória é:
+
+1. **definição técnica precisa**;
+2. **estrutura gramatical/jurídica relevante**;
+3. **teste diagnóstico ou critério de decisão**;
+4. **exceções, ambiguidades e divergências**, quando existirem;
+5. somente então **heurística, mnemônico ou atalho de prova**.
+
+Regras adicionais:
+- não apresentar heurística como definição;
+- não simplificar uma regra se a simplificação puder gerar erro em prova;
+- se houver incerteza relevante, divergência doutrinária/gramatical ou conflito entre banca e curso, explicitar isso antes da conclusão;
+- em dúvida técnica relevante, verificar fontes antes de consolidar o conteúdo no caderno;
+- corrigir no Git qualquer explicação anterior que tenha sido simplificada de modo perigoso.
+
 ## Estado oficial em 16/09/2026
 
 1. A Mesa da Câmara autorizou em 11/09/2025 concurso que inclui **Analista Legislativo — Registro e Redação**.
