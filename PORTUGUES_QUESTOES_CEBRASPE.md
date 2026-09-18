@@ -14,7 +14,7 @@ Trecho:
 
 Item:
 
-> “Dada sua função na oração, o termo ‘da mente’ pode ser substituído pelo adjetivo *mental*, sem prejuízo da correção gramatical e do sentido original do trecho.”
+> “Dada sua função na oração, o termo ‘da mente’ (quarto período do quarto parágrafo) pode ser substituído pelo adjetivo *mental*, sem prejuízo da correção gramatical e do sentido original do trecho.”
 
 **Gabarito oficial definitivo Cebraspe: ERRADO.**
 
@@ -62,27 +62,41 @@ Ao substituir **da mente** por **mental**, temos:
 > **construção mental de uma pessoa**
 
 - **mental** = adjetivo relacional; função sintática = **AA** de *construção*.
-- **de uma pessoa** passa a ligar-se a **construção** (não a *mental*: o adjetivo *mental* não rege *de uma pessoa* nesse sentido).
+- **de uma pessoa** não passa a ser complemento do adjetivo *mental*: esse adjetivo não rege, nesse sentido, um complemento introduzido por *de*. O termo passa a integrar a estrutura nominal cujo núcleo é **construção**.
 
-A expressão **de uma pessoa**, isoladamente nessa nova estrutura, é semanticamente ambígua:
+A nova sequência admite mais de uma leitura, entre elas:
 
-1. **AA**, se significar “construção mental produzida por uma pessoa”:
-   - a pessoa constrói → agente;
+1. **construção mental produzida por uma pessoa** — a pessoa é agente;
+2. **construção/representação mental de uma pessoa** — a pessoa é o objeto/tema representado.
 
-2. **CN**, se significar “construção/representação mental de uma pessoa”:
-   - a pessoa é aquilo que é representado/construído mentalmente → alvo/tema.
+### Por que isso parece subjetivo — e por que a dúvida do candidato é legítima
 
-Essa ambiguidade mostra por que a troca não é segura quando o comando exige preservação do **sentido original**. No original, a relação é inequívoca: trata-se da **mente pertencente a uma pessoa** produzindo a representação. Na reescrita, essa estrutura desaparece.
+A leitura original **continua pragmaticamente possível** na forma reescrita. É perfeitamente natural compreender *“uma construção mental de uma pessoa”* como uma construção que ocorre na mente dessa pessoa. Portanto, não é correto apresentar a questão como se houvesse uma incompatibilidade semântica óbvia e incontroversa.
+
+Isso foi objeto de recurso no próprio concurso. Professor do Gran defendeu a alteração do gabarito para **CERTO**, sustentando que **da mente** é locução adjetiva/AA, **mental** também funciona como AA e que o sentido poderia permanecer equivalente. O Cebraspe, contudo, manteve o gabarito **ERRADO**.
+
+Em manifestação reproduzida judicialmente, a fundamentação atribuída à banca foi mais estrita: no original, **de uma pessoa** está inequivocamente subordinado a **mente**; após a substituição, essa relação deixa de estar codificada da mesma forma e a nova frase admite outra leitura. Assim, para a banca, a introdução de uma leitura adicional já constitui **prejuízo ao sentido original**.
+
+### A chave objetiva para prova
+
+Não é necessário acreditar que a nova frase “passou a significar outra coisa” obrigatoriamente. O ponto operacional é este:
+
+> **Se a reescrita deixa de codificar de modo inequívoco a mesma relação sintática/semântica e passa a admitir interpretação adicional, o Cebraspe pode considerar que houve prejuízo do sentido.**
+
+Isto transforma a questão em um teste mais objetivo:
+
+- **Original:** pessoa → possui a **mente** → essa mente produz a construção.
+- **Reescrita:** *mental* apenas classifica **construção** como relativa à mente; **de uma pessoa** já não está gramaticalmente preso a *mente* e pode receber outro papel.
+
+Portanto, a nova frase pode conservar **uma leitura compatível** com a original, mas não conserva **exclusivamente e de forma estruturalmente inequívoca** a mesma relação.
 
 ### Sobre a fórmula “CN não pode virar adjetivo”
 
-Pode ser usada como pista didática em alguns materiais, mas não deve substituir a análise semântica.
+Não usar como regra geral neste item. Aqui, a análise mais consistente do trecho original é **AA**, não CN:
 
-O procedimento mais robusto é:
+> a mente constrói → agente → AA.
 
-> **substantivo abstrato + de → não decida ainda; reconstrua o verbo e descubra quem age e quem recebe a ação.**
-
-A possibilidade de substituir por adjetivo pode ajudar a reconhecer um valor adjetivo/adjunto, mas não basta para assegurar equivalência de sentido em uma reescrita.
+A fórmula “CN não vira adjetivo” não explica adequadamente esta questão e pode induzir erro em outras.
 
 ### Lição operacional para prova
 
@@ -94,13 +108,9 @@ A possibilidade de substituir por adjetivo pode ajudar a reconhecer um valor adj
 >
 > **paciente/alvo → CN**
 
-E, em questões de reescrita:
+E, em itens de reescrita Cebraspe:
 
-> faça a substituição e releia a frase inteira, porque a nova estrutura pode criar outra vinculação ou outro sentido.
-
-### Nota sobre o Cebraspe
-
-O caderno oficial do TSE/CPNUJE 2024 contém exatamente o item sobre **“da mente” → “mental”**, e o gabarito oficial definitivo é **ERRADO**. Não foi localizada, nos documentos públicos de justificativas de alteração de gabarito consultados, uma fundamentação específica da banca para este item; portanto, a análise acima é uma reconstrução gramatical baseada nos critérios normativos de AA × CN, e não uma justificativa oficial atribuída ao Cebraspe.
+> **“sem prejuízo do sentido” exige mais do que existir uma interpretação equivalente; verifique se a mudança introduz nova ambiguidade, altera o vínculo entre termos ou elimina uma relação que antes estava explicitamente codificada.**
 
 ---
 
@@ -112,6 +122,7 @@ O caderno oficial do TSE/CPNUJE 2024 contém exatamente o item sobre **“da men
 - Regra consolidada: substantivo abstrato é condição possível para CN, mas **não suficiente**.
 - Critério decisivo: **agente → AA; paciente/alvo → CN**.
 - No original, **da mente de uma pessoa** = AA de *construção* (a mente constrói).
-- Na reescrita, **mental** = AA; **de uma pessoa** torna-se potencialmente ambíguo entre AA e CN.
+- Na reescrita, **mental** = AA; **de uma pessoa** passa a integrar a estrutura de *construção* e pode admitir leituras diferentes.
+- Houve recurso defendendo gabarito **CERTO**; a banca manteve **ERRADO**.
+- Estratégia Cebraspe: nova ambiguidade ou novo vínculo sintático pode bastar para considerar prejuízo do sentido.
 - Não decorar como regra universal: “CN não vira adjetivo”.
-- Gabarito oficial definitivo: **ERRADO**.
