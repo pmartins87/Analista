@@ -22,7 +22,7 @@ Critérios:
 
 ## G0.5 — Diagnóstico inicial
 
-**Status: PENDENTE**
+**Status: EM EXECUÇÃO — sprint 19 a 25/09/2026**
 
 Objetivo: descobrir onde o tempo gera maior ganho antes de definir carga fixa.
 
@@ -44,7 +44,9 @@ Saída obrigatória:
 
 - **16/09/2026 — Português:** iniciada a trilha de Morfologia. Registrados em [PORTUGUES.md](PORTUGUES.md): dez classes de palavras, substantivização/nominalização, substantivos concretos e abstratos, complemento nominal × adjunto adnominal, derivação sufixal e regressiva, coletivos e concordância partitiva, gênero dos substantivos e concordância em *dois milhões de pessoas*.
 
-Este registro de conteúdo **não substitui o diagnóstico quantitativo**; o G0.5 continua pendente até haver baseline por área.
+- **19/09/2026 — plano operacional:** criado [PLANO_ESTUDOS_REVISOES.md](PLANO_ESTUDOS_REVISOES.md), com sprint de 7 dias para fechar o diagnóstico, rotina em blocos, revisões D+1/D+7/D+21 e métricas.
+
+O G0.5 continua aberto até haver baseline suficiente por área e identificação dos três maiores gargalos; o cronograma atual é deliberadamente provisório e será recalibrado pelos dados.
 
 ---
 
@@ -165,4 +167,4 @@ Não comprar apenas porque o edital está próximo ou porque a oferta é direcio
 
 ## Regra de atualização
 
-README.md, STATUS.md, ROADMAP.md e FONTES.md são documentos vivos. Qualquer mudança material no concurso ou na estratégia deve ser refletida neles; não podem virar arquivos esquecidos.
+README.md, STATUS.md, ROADMAP.md, FONTES.md e PLANO_ESTUDOS_REVISOES.md são documentos vivos. Qualquer mudança material no concurso ou na estratégia deve ser refletida neles; não podem virar arquivos esquecidos.
