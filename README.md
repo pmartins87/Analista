@@ -33,13 +33,13 @@ Regras adicionais:
 - em dúvida técnica relevante, verificar fontes antes de consolidar o conteúdo no caderno;
 - corrigir no Git qualquer explicação anterior que tenha sido simplificada de modo perigoso.
 
-## Estado oficial em 16/09/2026
+## Estado oficial em 19/09/2026
 
 1. A Mesa da Câmara autorizou em 11/09/2025 concurso que inclui **Analista Legislativo — Registro e Redação**.
 2. Em 09/09/2026, a Câmara anunciou o **terceiro edital**, com mais de 150 vagas de nível superior em 11 especialidades, incluindo Registro e Redação.
 3. A Câmara informou que o **Cebraspe** realizará o terceiro edital e que a publicação completa está prevista para **setembro de 2026**.
 4. O comunicado institucional afirma que haverá exames **teóricos e práticos** em âmbito nacional, mas ainda não publica o formato específico da etapa prática de Registro e Redação.
-5. Os conteúdos programáticos, datas e regras de avaliação ainda estão em fechamento.
+5. Em consulta ao Portal oficial de editais em 19/09/2026, ainda não constava o terceiro edital de Registro e Redação; permanece vigente a previsão institucional de publicação em setembro.
 
 ## Incerteza crítica: taquigrafia
 
@@ -60,6 +60,7 @@ Como hedge técnico, está em andamento uma microtrilha de otimização do Méto
 
 - [STATUS.md](STATUS.md) — estado atual, fatos, incertezas e próximo gate.
 - [ROADMAP.md](ROADMAP.md) — fases, critérios de decisão e métricas.
+- [PLANO_ESTUDOS_REVISOES.md](PLANO_ESTUDOS_REVISOES.md) — rotina diária, sprint diagnóstico, revisões D+1/D+7/D+21, métricas e protocolo pós-edital.
 - [FONTES.md](FONTES.md) — fontes oficiais, editais históricos e referências externas.
 - [PORTUGUES.md](PORTUGUES.md) — caderno cumulativo de aulas, dúvidas, regras, exemplos, pegadinhas e revisões de Português.
 - [PORTUGUES_02_ADJETIVOS_E_TERMOS_NOMINAIS.md](PORTUGUES_02_ADJETIVOS_E_TERMOS_NOMINAIS.md) — adjetivos, termos nominais, AA × CN, AA × predicativo e verbo de ligação.
@@ -75,6 +76,10 @@ Como hedge técnico, está em andamento uma microtrilha de otimização do Méto
 3. Concursos anteriores da Câmara e concursos equivalentes do Senado.
 4. Análises de servidores, professores e cursos (inclusive Fernando Mesquita/DOM).
 5. Rumores e redes sociais — apenas como pista, nunca como base de decisão.
+
+## Execução atual
+
+De 19 a 25/09/2026, o projeto executa o sprint do G0.5 definido em [PLANO_ESTUDOS_REVISOES.md](PLANO_ESTUDOS_REVISOES.md), sem esperar passivamente pelo edital.
 
 ## Próximo gate
 
