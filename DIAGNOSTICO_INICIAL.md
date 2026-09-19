@@ -2,6 +2,8 @@
 
 Objetivo: medir o ponto de partida antes de travar um ciclo de estudos definitivo.
 
+**Execução programada:** 19 a 25/09/2026, integrada ao sprint descrito em [PLANO_ESTUDOS_REVISOES.md](PLANO_ESTUDOS_REVISOES.md). O diagnóstico não suspende o estudo: ele é feito enquanto avançamos nos núcleos de maior retorno.
+
 ## Parte A — Português (prioridade máxima)
 
 Fazer um bloco de **30 questões Cebraspe de nível superior**, preferencialmente de Legislativo, tribunais, controle ou carreiras administrativas, cobrindo:
@@ -47,7 +49,7 @@ Bloco diagnóstico de **20 questões** sobre:
 - administração pública e servidores;
 - Lei 8.112/1990.
 
-Regimento Interno da Câmara e Regimento Comum serão medidos separadamente quando o edital confirmar extensão e peso.
+Regimento Interno da Câmara e Regimento Comum serão estudados desde já como núcleo de baixo arrependimento. A extensão definitiva e o peso serão recalibrados pelo edital.
 
 ## Parte D — Digitação
 
@@ -86,4 +88,4 @@ Preencher após execução:
 
 ## Gate
 
-G0.5 passa quando houver dados suficientes para definir o primeiro ciclo por desempenho real. Até lá, evitar montar cronograma excessivamente detalhado baseado apenas em suposição.
+G0.5 passa quando houver dados suficientes para definir o primeiro ciclo por desempenho real: baseline de Português, revisão textual, núcleo jurídico e digitação, além de três gargalos prioritários. O cronograma de 19–25/09 é provisório e existe para produzir esses dados sem paralisar a preparação.
