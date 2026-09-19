@@ -62,6 +62,7 @@ Como hedge técnico, está em andamento uma microtrilha de otimização do Méto
 - [ROADMAP.md](ROADMAP.md) — fases, critérios de decisão e métricas.
 - [PLANO_ESTUDOS_REVISOES.md](PLANO_ESTUDOS_REVISOES.md) — rotina diária, sprint diagnóstico, revisões D+1/D+7/D+21, métricas e protocolo pós-edital.
 - [FONTES.md](FONTES.md) — fontes oficiais, editais históricos e referências externas.
+- [ANKI.md](ANKI.md) — sistema de flashcards, critérios de validação, rastreabilidade de fontes e exportação para Anki/AnkiDroid.
 - [PORTUGUES.md](PORTUGUES.md) — caderno cumulativo de aulas, dúvidas, regras, exemplos, pegadinhas e revisões de Português.
 - [PORTUGUES_02_ADJETIVOS_E_TERMOS_NOMINAIS.md](PORTUGUES_02_ADJETIVOS_E_TERMOS_NOMINAIS.md) — adjetivos, termos nominais, AA × CN, AA × predicativo e verbo de ligação.
 - [PORTUGUES_QUESTOES_CEBRASPE.md](PORTUGUES_QUESTOES_CEBRASPE.md) — questões Cebraspe especialmente instrutivas e análise de pegadinhas.
