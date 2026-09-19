@@ -1,12 +1,12 @@
 # STATUS — Analista Registro e Redação
 
-Atualizado em: **16/09/2026**
+Atualizado em: **19/09/2026**
 
 ## Estado
 
 **PRE-EDITAL CRÍTICO / EDITAL IMINENTE**
 
-A Câmara anunciou em 09/09/2026 que o terceiro edital do concurso autorizado em 2025 será publicado ainda em setembro de 2026. Registro e Redação está expressamente incluído.
+A Câmara anunciou em 09/09/2026 que o terceiro edital do concurso autorizado em 2025 será publicado ainda em setembro de 2026. Registro e Redação está expressamente incluído. Em consulta ao Portal oficial de editais em 19/09/2026, esse terceiro edital ainda não constava na página.
 
 ## Confirmado oficialmente
 
@@ -44,6 +44,14 @@ Ao mesmo tempo, a reorganização de 2026 do trabalho de registro oficial incorp
 4. **Questões Cebraspe:** começar desde já para adaptação ao estilo da banca.
 5. **Gran:** usar como fonte de conteúdo, não como definidor da estratégia.
 6. **DOM:** não comprar por ansiedade pré-edital; reavaliar pelo ganho marginal real quando tivermos o conteúdo oficial.
+
+## Execução de estudo ativa
+
+- Plano mestre: [PLANO_ESTUDOS_REVISOES.md](PLANO_ESTUDOS_REVISOES.md).
+- Sprint G0.5: 19–25/09/2026.
+- Revisões: mesmo dia, D+1, D+7 e D+21; erro reincidente só sai da fila após duas exposições corretas consecutivas.
+- Prioridade pré-edital: Português/revisão textual + RICD/RCCN; taquigrafia permanece hedge pequeno até confirmação.
+- Lembrete diário deve consultar o plano, os erros e o estado oficial antes de definir as tarefas do dia.
 
 ## Próximo gate
 
