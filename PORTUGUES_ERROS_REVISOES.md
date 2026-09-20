@@ -139,3 +139,72 @@ Prioridade alta:
 - complemento nominal × adjunto adnominal.
 
 Esta fila deve ser atualizada conforme novas questões forem resolvidas.
+
+
+---
+
+## 19/09/2026 — Prova Câmara 2026 — itens 21, 24, 25 e 26
+
+### Q21 — ERRADA PELO ALUNO
+Tema: **paralelismo sintático e formas de complemento verbal**.
+
+Lacuna conceitual declarada: o aluno não conhecia o conceito de paralelismo sintático.
+
+Pontos de revisão:
+- paralelismo = simetria estrutural entre elementos coordenados/correlacionados de mesmo nível;
+- “reconhecem que há discriminação” contém objeto direto em forma oracional;
+- “reconhecem a existência de discriminação” contém objeto direto em forma nominal;
+- o gabarito definitivo do Cebraspe foi **CERTO**, embora exista controvérsia técnica relevante: no mesmo período permanece “reconhecem que há racismo”, o que permite defender quebra de simetria com “não reconhecem a existência de machismo”;
+- não extrair do item a regra falsa de que complemento oracional e nominal são sempre paralelos.
+
+Conteúdo consolidado em:
+- PORTUGUES.md — seção 4.6, Paralelismo sintático.
+
+### Q24 — ERRADA PELO ALUNO
+Tema: **classes/funções das diferentes ocorrências de “a”**.
+
+Trecho:
+> “a primeira a tratar da questão racial e a que tornou o racismo crime”
+
+Mapeamento:
+- **a primeira** → o “a” determina “primeira”; não é a preposição que introduz a oração reduzida;
+- **a tratar da questão racial** → este “a” é preposição e introduz a oração reduzida de infinitivo, equivalente a “que tratou...”;
+- **a que tornou o racismo crime** → o “a” é pronome demonstrativo (≈ “aquela”), e **que** é o pronome relativo que introduz a oração adjetiva.
+
+Ponto de revisão:
+> não classificar ocorrências de “a” pela aparência; testar a estrutura. Em “a que”, verificar se é possível substituir por “aquela que”.
+
+### Q25 — ERRADA PELO ALUNO, embora ANULADA
+Tema: **sujeito posposto + protocolo de leitura**.
+
+Causa do erro informada pelo aluno:
+- leu apenas “Tendem a ser”;
+- presumiu que o sujeito fosse “as cotas” do período anterior;
+- não leu o restante da oração.
+
+Estrutura real:
+> “Tendem a ser cada vez menos numerosos **os que acreditam na democracia racial**...”
+
+Ordem direta:
+> “**Os que acreditam na democracia racial** tendem a ser cada vez menos numerosos.”
+
+Logo, o sujeito é determinado e está posposto.
+
+A anulação decorreu de erro material da banca ao indicar o período errado, não de irresolubilidade da análise sintática.
+
+Regra operacional:
+> nunca classificar sujeito antes de ler a oração inteira; em verbo no plural seguido de sintagma nominal plural, testar a ordem direta.
+
+### Q26 — ERRADA PELO ALUNO, posteriormente compreendida
+Tema: **reescrita e alteração de relação semântica**.
+
+Pontos de revisão:
+- “considerando” cria relação circunstancial que não estava explicitada;
+- “já” acrescenta valor temporal/aspectual;
+- “são um sucesso” ≠ “são aceitas como um sucesso”.
+
+### Prioridade adicionada à fila
+1. paralelismo sintático;
+2. identificação da classe de “a” em estruturas como “a tratar” × “a que”;
+3. sujeito posposto e leitura integral da oração;
+4. reescritas que inserem relações ou pressupostos novos.
