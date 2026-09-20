@@ -1,6 +1,6 @@
 # STATUS — Analista Registro e Redação
 
-Atualizado em: **19/09/2026**
+Atualizado em: **20/09/2026**
 
 ## Estado
 
@@ -53,6 +53,7 @@ Ao mesmo tempo, a reorganização de 2026 do trabalho de registro oficial incorp
 - Prioridade pré-edital: Português/revisão textual + RICD/RCCN; taquigrafia permanece hedge pequeno até confirmação.
 - Lembrete diário deve consultar o plano, os erros e o estado oficial antes de definir as tarefas do dia.
 - Sistema de flashcards ativado em [ANKI.md](ANKI.md): somente cartões validados por fonte, com literalidade normativa quando aplicável, foco Cebraspe e prioridade para erros reais do aluno.
+- Baseline Anki v1 gerado em 20/09/2026: 78 cartões validados (30 Português, 30 RICD, 18 RCCN), organizados em subbaralhos de estudo; revisão reforçada será feita por tags/baralho filtrado, sem duplicação de cartões.
 
 ## Próximo gate
 
