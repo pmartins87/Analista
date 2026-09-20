@@ -988,3 +988,79 @@ A preposição é **classe gramatical**. Ela serve para introduzir um termo que 
 > chegou **com pressa**. → *com pressa* = adjunto adverbial.
 
 Logo, a mesma preposição pode introduzir funções sintáticas diferentes. A função é determinada pela relação do termo preposicionado com o seu regente.
+
+
+---
+
+## 4.6. Paralelismo sintático
+
+### Definição técnica
+
+**Paralelismo sintático é a correspondência ou simetria estrutural entre elementos coordenados, correlacionados, enumerados ou comparados que desempenham papéis equivalentes no enunciado.**
+
+Não significa repetir exatamente as mesmas palavras. O que se busca é apresentar ideias de mesmo nível por **estruturas sintáticas equivalentes**.
+
+Exemplos:
+
+> O servidor gosta **de estudar, de ler e de escrever**.
+
+Há paralelismo entre três construções preposicionadas com infinitivo.
+
+> No discurso, mostrou **determinação, segurança, inteligência e ambição**.
+
+Há paralelismo entre quatro sintagmas nominais coordenados.
+
+Quebra típica:
+
+> No discurso, mostrou **determinação, não ser inseguro, inteligência e ter ambição**.
+
+Misturam-se substantivos e orações reduzidas de infinitivo no mesmo nível de coordenação. O Manual de Redação da Presidência usa precisamente esse tipo de contraste para explicar erros de paralelismo.
+
+### Teste diagnóstico
+
+1. localizar a conjunção, correlação, enumeração ou comparação;
+2. separar os elementos postos no mesmo nível;
+3. identificar a estrutura de cada um;
+4. verificar se há simetria estrutural compatível com a relação estabelecida.
+
+Pergunta operacional:
+
+> **O que está sendo coordenado com o quê?**
+
+### Paralelismo não é sinônimo de correção gramatical
+
+Uma reescrita pode continuar compreensível e até gramatical em sentido amplo, mas perder a simetria estrutural exigida pelo paralelismo.
+
+### Câmara/Cebraspe 2026 — item 21
+
+Texto relevante:
+
+> Todos reconhecem que há discriminação contra pretos e pardos, mas não contra as mulheres; todos reconhecem que há racismo, mas não reconhecem que há machismo.
+
+Item: substituir, nos trechos indicados, **“que há”** por **“a existência de”**.
+
+Estruturas-alvo:
+
+- reconhecem **[que há discriminação]** → o complemento de *reconhecem* é uma oração subordinada substantiva objetiva direta;
+- reconhecem **[a existência de discriminação]** → o complemento passa a ser um sintagma nominal com função de objeto direto.
+
+A mesma transformação é possível em:
+
+- reconhecem **[que há machismo]**;
+- reconhecem **[a existência de machismo]**.
+
+A correção gramatical é preservada.
+
+O **gabarito oficial definitivo do Cebraspe foi CERTO**. Portanto, para a banca, a substituição proposta não prejudicou o paralelismo considerado no item.
+
+### Controvérsia relevante
+
+Há crítica técnica plausível ao gabarito. No mesmo período permanece:
+
+> reconhecem **que há racismo**, mas não reconhecem **a existência de machismo**.
+
+Assim, pode-se sustentar que houve assimetria entre um complemento oracional e um complemento nominal coordenados por **mas**. Recurso publicado pelo Gran defendeu exatamente essa leitura e pediu alteração para ERRADO, mas o Cebraspe manteve o gabarito definitivo **CERTO**.
+
+Como o item 21 não teve gabarito alterado nem foi anulado, as justificativas oficiais de alteração/anulação não fornecem fundamentação específica da banca para a manutenção de C.
+
+**Regra de estudo:** não generalizar deste item que complemento oracional e complemento nominal são sempre “paralelos”. O conceito geral continua sendo o de simetria estrutural entre elementos de mesmo nível; registrar o item 21 como caso controverso de aplicação do conceito pela banca.
