@@ -208,3 +208,78 @@ Sempre que houver alteração relevante do RICD, RCCN, Constituição, lei, reso
 É melhor deixar de criar um cartão hoje do que memorizar uma informação errada por meses.
 
 O baralho validado deve ser tratado como material de alta confiança.
+
+
+## Baseline v1 — 20/09/2026
+
+Foi gerado o primeiro baralho pré-edital validado do projeto.
+
+### Arquitetura decidida
+
+Não serão mantidas cópias independentes dos mesmos cartões em um baralho "Estudo" e outro "Revisão".
+
+Motivo: o Anki já mantém, para cada nota/cartão, um histórico de aprendizagem e um agendamento de repetição espaçada. Duplicar a mesma informação em dois baralhos cria dois históricos e pode gerar revisões redundantes.
+
+Estrutura oficial:
+
+- `Analista::Estudo::Português`
+- `Analista::Estudo::RICD`
+- `Analista::Estudo::RCCN`
+
+A revisão normal é feita pelo próprio agendamento do Anki. Revisões reforçadas devem usar baralho filtrado/tags, sem duplicação de notas.
+
+Consulta-base para revisão direcionada:
+
+`deck:"Analista::Estudo" (tag:erro_aluno OR tag:dificil OR tag:prioridade_1) is:due`
+
+### Conteúdo do baseline
+
+Total: **78 cartões VALIDADO**
+
+- Português: **30**
+- RICD: **30**
+- RCCN: **18**
+
+O baseline é deliberadamente pequeno e de alta confiança. Não existe meta de "cobrir tudo" antes do edital.
+
+### Critério de seleção pré-edital
+
+Foram priorizados:
+
+1. tópicos historicamente cobrados no cargo/equivalente;
+2. temas recorrentes e discriminativos no padrão Cebraspe;
+3. RICD e RCCN com alta densidade de prazos, competências, quóruns, exceções e literalidade;
+4. erros e dúvidas reais do aluno em Português;
+5. conteúdos de baixo arrependimento enquanto o edital específico de Registro e Redação ainda não foi publicado.
+
+### Fonte normativa do baseline
+
+- RICD: **texto oficial vigente da Câmara**, atualizado até a Resolução da Câmara dos Deputados nº 34/2026.
+- RCCN: **compilação oficial do Congresso Nacional/Senado** disponível em 2026.
+- As apostilas do Gran são material auxiliar e nunca prevalecem sobre a redação oficial vigente.
+
+### Artefato gerado
+
+Pacote: `Analista_Anki_Estudo_v1.zip`
+
+Conteúdo do pacote:
+- `Analista_Anki_Estudo_v1.txt` — importação principal;
+- arquivos separados por Português, RICD e RCCN;
+- `Analista_Anki_Estudo_v1_Auditoria.tsv` — rastreabilidade por ID, disciplina, assunto, prioridade, fonte e referência;
+- `LEIA-ME_Anki_Estudo_v1.md`.
+
+O formato principal usa importação textual UTF-8 do Anki, com colunas Frente, Verso, Deck e Tags.
+
+### Gate para expansão
+
+Antes do edital:
+- incorporar erros reais do aluno e pontos de alta recorrência;
+- evitar crescimento volumétrico por mera cobertura de apostila.
+
+Após publicação do edital:
+1. verticalizar o conteúdo;
+2. recalcular prioridades por peso/incidência;
+3. incluir novas disciplinas confirmadas;
+4. auditar todos os cartões normativos afetados por alterações;
+5. gerar v2 do baralho.
+
