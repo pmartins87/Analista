@@ -68,6 +68,7 @@ Como hedge técnico, está em andamento uma microtrilha de otimização do Méto
 - [PORTUGUES_QUESTOES_CEBRASPE.md](PORTUGUES_QUESTOES_CEBRASPE.md) — questões Cebraspe especialmente instrutivas e análise de pegadinhas.
 - [PORTUGUES_PROVA_CAMARA_2026_Q1_Q13.md](PORTUGUES_PROVA_CAMARA_2026_Q1_Q13.md) — correção dos itens 1 a 13 de Português da prova de Analista/Processo Legislativo e Gestão aplicada em 08/03/2026.
 - [PORTUGUES_PROVA_CAMARA_2026_Q14_Q26.md](PORTUGUES_PROVA_CAMARA_2026_Q14_Q26.md) — correção dos itens 14 a 26 de Português da mesma prova, com registro da controvérsia da Q14 e da anulação da Q25.
+- [INGLES_PROVA_CAMARA_2026_Q27_Q36.md](INGLES_PROVA_CAMARA_2026_Q27_Q36.md) — correção dos itens 27 a 36 de Inglês da prova de Conhecimentos Gerais, incluindo a anulação formal da Q30 e seu diagnóstico substantivo.
 - [PORTUGUES_ERROS_REVISOES.md](PORTUGUES_ERROS_REVISOES.md) — índice vivo de erros do aluno, correções conceituais, fragilidades e fila prioritária de revisão.
 - [TAQUIGRAFIA_FRASEOGRAMAS.md](TAQUIGRAFIA_FRASEOGRAMAS.md) — corpus parlamentar, critérios e biblioteca experimental de abreviações/fraseogramas.
 
