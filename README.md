@@ -59,6 +59,7 @@ Como hedge técnico, está em andamento uma microtrilha de otimização do Méto
 ## Documentos vivos
 
 - [STATUS.md](STATUS.md) — estado atual, fatos, incertezas e próximo gate.
+- [ORGANIZACAO_CHATS.md](ORGANIZACAO_CHATS.md) — arquitetura dos chats, regras de roteamento e sincronização com a fonte de verdade.
 - [ROADMAP.md](ROADMAP.md) — fases, critérios de decisão e métricas.
 - [PLANO_ESTUDOS_REVISOES.md](PLANO_ESTUDOS_REVISOES.md) — rotina diária, sprint diagnóstico, revisões D+1/D+7/D+21, métricas e protocolo pós-edital.
 - [FONTES.md](FONTES.md) — fontes oficiais, editais históricos e referências externas.
