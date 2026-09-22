@@ -168,3 +168,16 @@ Não comprar apenas porque o edital está próximo ou porque a oferta é direcio
 ## Regra de atualização
 
 README.md, STATUS.md, ROADMAP.md, FONTES.md e PLANO_ESTUDOS_REVISOES.md são documentos vivos. Qualquer mudança material no concurso ou na estratégia deve ser refletida neles; não podem virar arquivos esquecidos.
+
+## Intensificação operacional — 22/09/2026
+
+Foi ativado o modo de **imersão total ("Estudar 24h")**. Trata-se de aumento de intensidade, não de mudança de tese.
+
+Decisões preservadas:
+- G0.5 continua aberto até haver baseline suficiente;
+- Português/revisão textual e RICD/RCCN continuam sendo os eixos de maior prioridade pré-edital;
+- Cebraspe continua sendo treinado por questões e cartões contextualizados;
+- taquigrafia continua hedge pequeno até confirmação formal;
+- o G1 continua sendo a publicação do terceiro edital, que prevalecerá sobre qualquer hipótese pré-edital.
+
+A execução detalhada por tipo de janela de tempo está em `PLANO_ESTUDOS_REVISOES.md`.
