@@ -187,3 +187,11 @@ A execução detalhada por tipo de janela de tempo está em `PLANO_ESTUDOS_REVIS
 A execução passo a passo até a aprovação passou a ser controlada por [ROADMAP_OPERACIONAL_APROVACAO.md](ROADMAP_OPERACIONAL_APROVACAO.md).
 
 Esse arquivo não substitui os gates estratégicos G0–G5. Ele define a fila granular, os critérios para usar o Gran, a regra de avanço PASS/REMEDIAR/HOLD e o ponteiro da ação atual. Sempre que houver progresso relevante, o ponteiro operacional deve ser atualizado em conjunto com STATUS/ROADMAP quando aplicável.
+
+## Fonte operacional diária — Google Sheets
+
+A execução diária até a data-alvo operacional está em [PLANEJAMENTO_PLANILHA.md](PLANEJAMENTO_PLANILHA.md) e na planilha:
+
+https://docs.google.com/spreadsheets/d/1z5zYiFpN6FdSBtob95aNbsZN8QEskXGgnoeYWcDOdks/edit
+
+O roadmap estratégico continua controlando os gates. A planilha controla datas, tarefas e evidência de execução. O cronograma é recalibrado quando o edital sair ou quando desempenho real justificar mudança.
