@@ -181,3 +181,9 @@ Decisões preservadas:
 - o G1 continua sendo a publicação do terceiro edital, que prevalecerá sobre qualquer hipótese pré-edital.
 
 A execução detalhada por tipo de janela de tempo está em `PLANO_ESTUDOS_REVISOES.md`.
+
+## Roadmap operacional granular
+
+A execução passo a passo até a aprovação passou a ser controlada por [ROADMAP_OPERACIONAL_APROVACAO.md](ROADMAP_OPERACIONAL_APROVACAO.md).
+
+Esse arquivo não substitui os gates estratégicos G0–G5. Ele define a fila granular, os critérios para usar o Gran, a regra de avanço PASS/REMEDIAR/HOLD e o ponteiro da ação atual. Sempre que houver progresso relevante, o ponteiro operacional deve ser atualizado em conjunto com STATUS/ROADMAP quando aplicável.
