@@ -1,6 +1,6 @@
 # STATUS — Analista Registro e Redação
 
-Atualizado em: **20/09/2026**
+Atualizado em: **22/09/2026**
 
 ## Estado
 
@@ -76,3 +76,15 @@ Ações obrigatórias em até 24h:
 ## Critério de parada do modo pré-edital
 
 O modo pré-edital termina automaticamente quando o edital oficial for publicado. A partir daí, nenhuma hipótese histórica prevalece sobre o texto do edital.
+
+## Modo de execução — 22/09/2026
+
+O candidato decidiu pausar os demais projetos pessoais e entrar em **modo de imersão total ("Estudar 24h")** para o concurso.
+
+Interpretação operacional:
+- todo tempo discricionário útil deve alimentar a preparação;
+- microjanelas serão ocupadas por Anki, questões, literalidade normativa ou recuperação oral;
+- blocos de atenção plena continuam reservados para teoria, texto oficial, correção e questões;
+- sono, segurança, obrigações essenciais e atividades que exigem atenção plena não serão tratados como "tempo perdido".
+
+A mudança aumenta a carga e a frequência de revisão, mas **não altera as prioridades técnicas do pré-edital** nem encerra o G0.5.
