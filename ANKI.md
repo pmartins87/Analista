@@ -378,3 +378,51 @@ Foi gerado em 21/09/2026 um lote-piloto de Português com **25 cartões**:
 - 5 cartões-companheiros de fundamento, todos derivados de lacunas de alto valor.
 
 O piloto fica separado do baseline v1 para teste de usabilidade no AnkiDroid. **Gate de expansão:** somente após o aluno confirmar que a frente dos cartões reproduz adequadamente a sensação/raciocínio de prova, o padrão v2 será aplicado em escala ao banco de Português e depois a RICD/RCCN.
+
+
+## Decisão v2.1 — cartões autossuficientes (22/09/2026)
+
+A arquitetura anterior que previa cartões-companheiros de `fundamento` foi **revogada**.
+
+### Nova regra obrigatória
+
+Cada cartão deve ser **autossuficiente**:
+
+- a **frente** reproduz uma operação cognitiva compatível com o Cebraspe;
+- o **verso** traz o gabarito e explica, de forma profunda porém objetiva, todos os conceitos necessários para:
+  1. entender por que o item está certo ou errado;
+  2. reconhecer a mesma estrutura em outro contexto;
+  3. evitar o erro conceitual que a banca explora.
+
+Não haverá, por padrão, cartões separados de conceitos, definições ou fundamentos.
+
+### Estrutura padrão do verso
+
+1. **Gabarito** — resposta objetiva.
+2. **Ponto decisivo** — o detalhe exato que resolve o item.
+3. **Conceitos envolvidos** — explicação técnica suficiente para generalizar.
+4. **Como reconhecer na prova** — diagnóstico prático ou teste aplicável.
+5. **Armadilha Cebraspe** — a troca, extrapolação ou confusão conceitual explorada.
+6. **Fonte** — prova, norma ou referência confiável.
+
+A profundidade deve estar no **verso do próprio item**, sem transformar a resposta em texto prolixo. O objetivo é máxima densidade de aprendizagem por revisão.
+
+### Aplicação a todas as matérias
+
+Esta regra vale para:
+- Português;
+- RICD;
+- RCCN;
+- Constituição e legislação;
+- revisão/redação;
+- demais disciplinas que venham a constar do edital.
+
+Nos regimentos e normas:
+- a letra oficial vigente continua sendo a fonte primária;
+- o verso deve citar o dispositivo exato;
+- quando houver item simulado, explicar a diferença entre o enunciado e a redação normativa correta;
+- não criar cartão teórico separado apenas para memorizar a regra se a própria questão puder carregá-la no verso.
+
+### Consequência para o piloto v2
+
+O piloto v2 com cartões separados de fundamento fica **obsoleto**. A próxima exportação deve conter apenas cartões de aplicação/autossuficientes, com o conhecimento teórico incorporado ao verso.
