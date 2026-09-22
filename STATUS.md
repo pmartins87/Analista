@@ -88,3 +88,13 @@ Interpretação operacional:
 - sono, segurança, obrigações essenciais e atividades que exigem atenção plena não serão tratados como "tempo perdido".
 
 A mudança aumenta a carga e a frequência de revisão, mas **não altera as prioridades técnicas do pré-edital** nem encerra o G0.5.
+
+## Ponteiro operacional
+
+Fonte: [ROADMAP_OPERACIONAL_APROVACAO.md](ROADMAP_OPERACIONAL_APROVACAO.md)
+
+- Gate atual: **O0 — Sincronização e diagnóstico ativo**
+- Ação atual: **O0.01 — Anki devido**
+- Próxima, se PASS: **O0.02 — Português: período composto**
+- Regra Gran: não assistir linearmente aos 732 vídeos; vídeo é ferramenta seletiva por tópico e diagnóstico.
+- Matérias não confirmadas permanecem em HOLD para consumo sistemático até o edital, sem impedir diagnóstico pontual previsto no G0.5.
