@@ -122,3 +122,16 @@ Ela passa a ser a fonte operacional de tarefas, conclusão, minutos, questões, 
 Correção de 22/09/2026: a primeira passagem de RICD e RCCN será **integral e sequencial**, e não por saltos de artigos. O antigo cronograma avulso foi substituído pelo plano calendarizado até 13/12/2026 (data-alvo operacional, não previsão).
 
 Antes de emitir qualquer plano diário, consultar a planilha e `ESTADO_ESTUDO.md`.
+
+
+## Simplificação operacional — 22/09/2026
+
+A planilha foi reduzida para cinco abas: `Hoje`, `Plano`, `Regimentos`, `Anki` e `Fontes`.
+
+O projeto não controla mais vídeos/aulas do Gran. O Gran é gerenciado pelo candidato diretamente na plataforma e não entra no cronograma desta planilha.
+
+O único registro obrigatório diário é o checkbox `Feito?`. O campo de observação é opcional e deve ser usado apenas para dúvida, erro importante ou retomada.
+
+RICD/RCCN permanecem em leitura integral e sequencial; Português, Constitucional e Administrativo são estudados com ChatGPT e fontes oficiais.
+
+O ponteiro antigo de microtarefas fica superado por esta dinâmica. Antes de prescrever estudo, consultar a planilha simplificada e `ESTADO_ESTUDO.md`.
