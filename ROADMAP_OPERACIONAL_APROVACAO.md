@@ -79,24 +79,24 @@ Nunca assistir vídeo apenas para elevar o percentual “assistido” do Gran.
 Enquanto o terceiro edital de Registro e Redação não estiver publicado:
 
 ### Execução principal
-- Português;
-- revisão textual;
-- RICD;
-- RCCN;
-- questões Cebraspe;
+- Português e revisão textual;
+- RICD e RCCN;
+- Direito Constitucional / Poder Legislativo / Processo Legislativo;
+- Direito Administrativo;
+- questões Cebraspe como método transversal;
 - hedge curto de taquigrafia.
 
-### Diagnóstico permitido, sem iniciar curso linear
-- Direito Constitucional/Poder Legislativo;
-- Direito Administrativo/Lei 8.112.
-
-### HOLD para consumo sistemático
+### Diagnóstico/hedge sem curso linear
 - Língua Inglesa;
 - Raciocínio Lógico-Matemático;
-- Informática e Dados;
+- Informática e Dados.
+
+### HOLD para consumo sistemático
 - Redação Discursiva como curso linear;
 - Inteligência Emocional;
 - demais blocos não confirmados pelo edital.
+
+**Importante:** Constitucional e Administrativo entram na preparação pré-edital por alto valor esperado e forte evidência de recorrência no concurso atual da Câmara, mas não são rotulados como “oficialmente confirmados” para Registro e Redação antes da publicação do terceiro edital.
 
 O HOLD não significa que essas matérias serão irrelevantes. Significa apenas que, com edital oficialmente previsto para setembro, não se gastam dezenas de horas em conteúdo ainda não confirmado enquanto existem núcleos de alto retorno já identificados.
 
@@ -121,38 +121,57 @@ Critério de saída:
 
 ### Ações atuais pré-edital
 
-**O0.01 — Anki devido**
-- fazer somente os cartões devidos;
-- não adicionar conteúdo novo por ansiedade;
-- marcar mentalmente cartões que pareceram ambíguos ou excessivamente fáceis/difíceis;
-- reportar quantidade revisada e erros/dificuldades relevantes.
+**O0.00 / AS0 — Sincronizar o Anki real**
+- o estado instalado no AnkiDroid é atualmente desconhecido;
+- não prescrever revisão de uma versão possivelmente obsoleta;
+- fechar o gate com screenshot/export/descrição inequívoca;
+- classificar baralhos como MANTER / MIGRAR / APOSENTAR;
+- detalhes em `ESTADO_ESTUDO.md`.
 
-**O0.02 — Português: período composto**
+**O0.01 — Português: período composto**
 - usar o PDF Gran “A sintaxe do período composto” como base;
 - priorizar coordenação, subordinação, valor sintático e relação semântica;
 - após estudo, resolver 10–20 itens compatíveis com Cebraspe;
 - qualquer erro conceitual entra no banco de erros e pode gerar cartão autossuficiente.
 
-**O0.03 — Pontuação estrutural**
+**O0.02 — Pontuação estrutural**
 - estudar pontuação vinculada à estrutura sintática, não listas decoradas;
 - revisar especialmente deslocamento de orações/termos e o padrão de erro já observado na prova Câmara 2026;
 - resolver bateria curta de aplicação.
 
-**O0.04 — RICD**
+**O0.03 — RICD**
 - texto oficial: arts. 226 a 243;
 - ler literalmente;
 - depois usar Gran apenas para explicar estrutura/dúvidas;
 - testar retenção com questões ou itens simulados de literalidade.
 
-**O0.05 — Fechamento do ciclo**
+**O0.04 — Constitucional diagnóstico**
+- 20 itens Cebraspe de núcleo constitucional, Poder Legislativo e processo legislativo;
+- classificar por assunto e causa do erro;
+- não iniciar 100 vídeos do Gran antes do resultado.
+
+**O0.05 — Administrativo diagnóstico**
+- 20 itens Cebraspe de organização administrativa, atos, agentes/Lei 8.112, poderes e controle;
+- classificar por assunto e causa do erro;
+- não iniciar 128 vídeos do Gran antes do resultado.
+
+**O0.06 — Fechamento do ciclo Português**
 - 20 itens Cebraspe de período composto/pontuação;
 - classificar cada erro: desconhecimento, confusão, leitura, memória ou pressa;
 - registrar resultado.
 
-**O0.06 — Diagnóstico restante**
-- completar apenas os diagnósticos ainda não feitos do sprint G0.5;
-- fechar baseline e três gargalos;
-- recalibrar o ciclo se o edital ainda não tiver saído.
+**O0.07 — RCCN**
+- leitura dirigida + questões sobre líderes, sessões conjuntas, ordem dos trabalhos e votação.
+
+**O0.08 — Diagnóstico hedge**
+- baterias curtas de Inglês, RLM e Informática/Dados;
+- objetivo: medir domínio antes de qualquer curso linear.
+
+**O0.09 — Auditoria e recalibração**
+- consolidar baseline;
+- identificar três maiores gargalos;
+- atualizar níveis VERDE/AMARELO/VERMELHO;
+- recalibrar percentuais se o edital ainda não tiver saído.
 
 ---
 
@@ -331,10 +350,19 @@ Não se pula um gate apenas porque “já passou muito tempo”. O gate depende 
 
 ---
 
-## 5. PONTEIRO ATUAL
+## 5. PONTEIRO E FILA ATUAL
 
-**Gate:** O0 — Sincronização e diagnóstico ativo  
-**Ação atual:** **O0.01 — Anki devido**  
-**Próxima ação, se PASS:** O0.02 — Português: período composto
+**Gate:** O0 — Sincronização e diagnóstico ativo
 
-Se O0.01 já tiver sido concluído hoje, registrar como PASS e avançar imediatamente.
+O modelo deixa de usar um ponteiro que bloqueia todo o estudo por uma única microtarefa. Há agora duas trilhas simultâneas:
+
+- **Gate de estado:** AS0 — sincronizar o Anki real. Isso depende de informação do candidato e não deve bloquear estudo profundo.
+- **Fila acadêmica autônoma:** O0.01 Português período composto → O0.03 RICD → O0.04 Constitucional diagnóstico → O0.05 Administrativo diagnóstico → O0.02 Pontuação estrutural → O0.07 RCCN → O0.08 diagnósticos hedge → O0.09 auditoria.
+
+O candidato pode executar vários itens da fila sem retornar ao chat após cada um. O reporte pode ser feito ao final de 2–4 tarefas ou no fechamento do dia.
+
+**Próxima ação profunda atual:** **O0.01 — Português: período composto.**
+
+**Ação paralela de organização:** **AS0 — enviar screenshot/export do AnkiDroid atual para sincronização.**
+
+O snapshot completo de estado, alocação provisória de tempo e fila autônoma está em `ESTADO_ESTUDO.md`.
