@@ -1,6 +1,6 @@
 # PLANO DE ESTUDOS E REVISÕES — Analista Registro e Redação
 
-Atualizado em: **19/09/2026**
+Atualizado em: **22/09/2026**
 
 ## 1. Objetivo operacional
 
@@ -412,3 +412,62 @@ O lembrete diário deve:
 7. adaptar o próximo dia aos resultados reportados pelo aluno.
 
 O lembrete não deve ser uma mensagem genérica do tipo “estude Português”. Deve dizer **o quê, como e qual revisão está vencendo**.
+
+## 15. Modo Imersão Total — "Estudar 24h"
+
+**Ativado em 22/09/2026.**
+
+A expressão "estudar 24h" significa colocar o concurso como prioridade dominante e converter todo **tempo discricionário e cognitivamente aproveitável** em estudo, sem sacrificar sono, segurança, atenção operacional ou obrigações familiares essenciais.
+
+### Regra por tipo de janela
+
+- **50 min ou mais, com atenção plena:** executar o próximo bloco da fila principal.
+- **20–49 min:** questões Cebraspe, leitura literal de RICD/RCCN ou correção de erros.
+- **5–19 min:** Anki devido, questões curtas ou revisão de dispositivos sensíveis.
+- **1–4 min:** 1 a 3 cartões Anki; não abrir conteúdo novo.
+- **Mãos ocupadas / tarefa automática:** recuperação oral, explicação em voz alta, quiz por voz ou áudio de revisão previamente selecionado.
+- **Situação que exige atenção, segurança ou desempenho profissional:** não estudar.
+
+### Regra de fluxo
+
+Não escolher matéria do zero a cada brecha. A fila é única:
+
+1. Anki vencido e erros reincidentes;
+2. Português — fraqueza de maior ROI;
+3. RICD/RCCN — texto oficial + aplicação;
+4. questões Cebraspe do conteúdo estudado;
+5. revisão textual/diagnóstico;
+6. taquigrafia hedge;
+7. conteúdo novo secundário.
+
+Ao concluir um item, continuar do ponto exato na próxima janela disponível.
+
+### Carga diária
+
+Os blocos de 50 min continuam sendo a métrica de estudo profundo:
+- dia excepcionalmente pesado: preservar ao menos 2 blocos quando possível;
+- dia normal: alvo de 4 blocos;
+- dia livre/forte: alvo de 6 blocos;
+- fragmentos, Anki e estudo oral contam como complemento, não como substituto sistemático dos blocos profundos.
+
+O objetivo não é maximizar horas acordado estudando, mas maximizar **retenção e desempenho por dia**.
+
+### Fechamento diário obrigatório
+
+Antes de encerrar o dia:
+- zerar, se viável, a fila de cartões Anki devidos;
+- registrar questões feitas e erros;
+- converter erros de alto valor em candidatos a flashcard;
+- identificar o ponto exato de retomada para o próximo bloco;
+- não criar backlog artificial tentando "compensar" horários perdidos.
+
+### Fonte de conteúdo
+
+- **Gran:** aquisição de teoria e baterias de questões; PDF como padrão quando for mais rápido, vídeo/aula quando o conceito não estiver claro.
+- **ChatGPT/projeto Analista:** professor, correção de raciocínio, questões, revisão, transformação de erros em cartões e gestão adaptativa do plano.
+- **Anki:** retenção e recuperação espaçada; não é fonte primária de teoria.
+- **RICD/RCCN:** texto oficial vigente prevalece sobre material de curso.
+
+### Regra anti-dispersão
+
+Enquanto este modo estiver ativo, novos projetos pessoais não recebem tempo discricionário que poderia ser usado na preparação, salvo necessidade real. O concurso permanece como prioridade até nova decisão explícita ou até evidência de que a estratégia precisa mudar.
