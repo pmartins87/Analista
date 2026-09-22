@@ -426,3 +426,16 @@ Nos regimentos e normas:
 ### Consequência para o piloto v2
 
 O piloto v2 com cartões separados de fundamento fica **obsoleto**. A próxima exportação deve conter apenas cartões de aplicação/autossuficientes, com o conhecimento teórico incorporado ao verso.
+
+## Estado instalado — gate obrigatório AS0 (22/09/2026)
+
+A arquitetura do Anki está definida, mas o **estado real instalado no AnkiDroid não está confirmado**.
+
+Até sincronização:
+- não presumir que o candidato está usando v1, piloto v2 ou uma exportação posterior;
+- não prescrever revisão apenas porque há cartões “devidos”;
+- obter screenshot/export/descrição dos baralhos instalados;
+- classificar cada conjunto como MANTER / MIGRAR / APOSENTAR;
+- registrar a versão canônica em `ESTADO_ESTUDO.md`.
+
+A próxima versão canônica pré-edital será a **v3 CORE**, priorizando Português, RICD, RCCN, Constitucional e Administrativo, no padrão v2.1 de itens autossuficientes com alma Cebraspe.
