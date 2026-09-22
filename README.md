@@ -61,6 +61,9 @@ Como hedge técnico, está em andamento uma microtrilha de otimização do Méto
 - [STATUS.md](STATUS.md) — estado atual, fatos, incertezas e próximo gate.
 - [ORGANIZACAO_CHATS.md](ORGANIZACAO_CHATS.md) — arquitetura dos chats, regras de roteamento e sincronização com a fonte de verdade.
 - [ROADMAP.md](ROADMAP.md) — fases, critérios de decisão e métricas.
+- [ROADMAP_OPERACIONAL_APROVACAO.md](ROADMAP_OPERACIONAL_APROVACAO.md) — fases operacionais e regras de avanço.
+- [PLANEJAMENTO_PLANILHA.md](PLANEJAMENTO_PLANILHA.md) — integração com o Google Sheets e regras do cronograma diário.
+- [PESQUISA_CEBRASPE_PRIORIZACAO.md](PESQUISA_CEBRASPE_PRIORIZACAO.md) — evidências usadas para priorizar matérias e alocação pré-edital.
 - [PLANO_ESTUDOS_REVISOES.md](PLANO_ESTUDOS_REVISOES.md) — rotina diária, sprint diagnóstico, revisões D+1/D+7/D+21, métricas e protocolo pós-edital.
 - [FONTES.md](FONTES.md) — fontes oficiais, editais históricos e referências externas.
 - [ANKI.md](ANKI.md) — sistema de flashcards, critérios de validação, rastreabilidade de fontes e exportação para Anki/AnkiDroid.
@@ -97,3 +100,10 @@ Assim que ocorrer, o projeto deve, antes de qualquer outra coisa:
 4. verticalizar 100% do conteúdo;
 5. comparar com Gran e DOM;
 6. substituir o plano provisório pelo plano pós-edital em até 24 horas.
+
+## Fonte operacional diária
+
+Google Sheets — Plano Mestre:
+https://docs.google.com/spreadsheets/d/1z5zYiFpN6FdSBtob95aNbsZN8QEskXGgnoeYWcDOdks/edit
+
+O candidato marca execução diretamente na planilha; o ChatGPT deve lê-la antes de recomendar o estudo do dia.
