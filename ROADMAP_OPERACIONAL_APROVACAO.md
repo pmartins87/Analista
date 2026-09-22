@@ -4,79 +4,71 @@ Atualizado em: **22/09/2026**
 
 ## Regra central
 
-A execução diária **não é mais controlada por um ponteiro de microtarefas no chat**.
+A planilha [Plano de Estudos — Analista Registro e Redação — Simplificado](https://docs.google.com/spreadsheets/d/1z5zYiFpN6FdSBtob95aNbsZN8QEskXGgnoeYWcDOdks/edit) é a fonte operacional diária.
 
-A fonte operacional é a planilha [Plano Mestre — Analista Registro e Redação — 2026](https://docs.google.com/spreadsheets/d/1z5zYiFpN6FdSBtob95aNbsZN8QEskXGgnoeYWcDOdks/edit), descrita em [PLANEJAMENTO_PLANILHA.md](PLANEJAMENTO_PLANILHA.md).
+O GitHub guarda estratégia, método, decisões e estado do projeto. A planilha não deve virar um sistema burocrático.
 
-O candidato marca o que concluiu na planilha; o ChatGPT lê o estado e recalibra. Não é necessário enviar `continue` após cada tarefa.
+## Escopo controlado pelo projeto
+
+O projeto planeja e acompanha:
+- Português estudado com ChatGPT;
+- RICD e RCCN em fonte oficial;
+- Direito Constitucional pela Constituição e questões;
+- Direito Administrativo por leis oficiais, explicação e questões;
+- Anki;
+- revisões e simulados feitos com ChatGPT.
+
+O projeto **não controla o Gran**. O candidato administra vídeos/aulas diretamente na plataforma.
 
 ## Fases
 
-### O0 — Fundação / primeira passagem — 22/09 a 08/11
-- Português em sequência estruturada, com questões diárias.
-- **RICD integral e sequencial do art. 1º ao art. 282.**
-- **RCCN integral e sequencial do art. 1º ao art. 152.**
-- Constituição em leitura dirigida de alta evidência.
-- Administrativo por núcleo Câmara/Cebraspe e legislação.
-- diagnósticos rotativos de Inglês, RLM e Informática/Dados.
-- revisão textual semanal.
-- taquigrafia como hedge curto.
-- Anki somente após fechar AS0.
+### O0 — Fundação / primeira passagem — 22/09 a 15/11
+- Português estruturado com ChatGPT.
+- RICD e RCCN em primeira leitura integral e sequencial.
+- Constituição em leitura dirigida.
+- Administrativo por lei oficial + estudo guiado.
+- AS0 do Anki.
+- domingos: simulado/revisão, não nova carga pesada.
 
 ### O1 — Captura do edital
 **Gatilho:** publicação do terceiro edital de Registro e Redação.
 
-Interromper o cronograma pré-edital e, em até 24h:
+Em até 24h:
 1. arquivar edital/retificações;
-2. verticalizar 100%;
+2. verticalizar conteúdo;
 3. mapear pesos, mínimos e etapas;
 4. confirmar prática/revisão/taquigrafia;
-5. comparar edital × Gran × cobertura já feita;
-6. recalibrar a planilha inteira.
+5. recalibrar a planilha;
+6. adicionar/remover matérias conforme o texto oficial.
 
-### O2 — Consolidação / segunda passagem — hipótese 09/11 a 22/11
+### O2 — Consolidação — 16/11 a 29/11 (hipótese)
 - questões em maior volume;
 - segunda passagem dirigida de regimentos;
 - Constitucional/Admin pelos erros;
-- redução forte de teoria passiva;
-- simulados parciais.
+- revisão de Português.
 
-### O3 — Simulados e remediação — hipótese 23/11 a 06/12
-- simulados parciais/integrais;
-- auditoria de erro;
-- remediação do tópico vermelho de maior impacto;
-- lei seca e regimentos pelos erros.
+### O3 — Simulados e remediação — 30/11 a 06/12 (hipótese)
+- simulados;
+- remediação de pontos fracos;
+- lei seca/regimentos.
 
-### O4 — Reta final — hipótese 07/12 a 12/12
-- nenhum curso novo volumoso;
-- erros históricos, lei seca, regimentos, Anki devido e questões representativas;
-- redução de carga e preservação do sono.
+### O4 — Reta final — 07/12 a 12/12 (hipótese)
+- revisão leve;
+- erros históricos;
+- regimentos/lei seca;
+- Anki devido;
+- preservar sono e estratégia.
 
-### O5 — Prova-alvo operacional — 13/12/2026
-Data escolhida apenas para planejamento regressivo. **Não é previsão.**
-
-## Gates de domínio por tópico
-
-- **VERMELHO:** <70% ou erro conceitual reincidente → teoria dirigida; vídeo permitido.
-- **AMARELO:** 70–84% → PDF/lei + questões; vídeo só se dúvida persistir.
-- **VERDE:** >=85% em duas baterias independentes, sem erro conceitual recorrente → reduzir teoria e manter revisão/questões.
-
-## Gran
-
-732 vídeos no snapshot de 22/09. A 30 min/vídeo e reprodução 2x, assistir tudo consumiria cerca de 183h só de playback.
-
-**Decisão:** não zerar o curso. O vídeo precisa justificar seu custo.
+### O5 — 13/12/2026
+Data-alvo operacional, não previsão.
 
 ## Anki — AS0
 
-O estado instalado no AnkiDroid ainda não está sincronizado. Até screenshot/export:
-- não mandar revisar versão desconhecida;
-- não criar backlog;
-- manter v2.1 como padrão canônico futuro.
+O estado instalado ainda precisa ser sincronizado por screenshot/export. Até AS0:
+- não presumir versão;
+- não criar backlog de revisão;
+- não mandar revisar baralho desconhecido.
 
-## Fontes de verdade
+## Regra de gestão
 
-1. Edital/retificações e fontes oficiais.
-2. Planilha Google Sheets para execução diária.
-3. GitHub para estratégia, método, erros, Anki e documentação.
-4. Gran como biblioteca de conteúdo.
+O candidato marca `Feito?` na planilha. Só usa Observação quando houver algo que mereça retorno. O ChatGPT lê o estado, ajusta o plano e ensina; não exige relatórios detalhados de rotina.
