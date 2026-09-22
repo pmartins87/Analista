@@ -283,3 +283,89 @@ Após publicação do edital:
 4. auditar todos os cartões normativos afetados por alterações;
 5. gerar v2 do baralho.
 
+
+
+## Padrão Cebraspe v2 — 21/09/2026
+
+### Motivo da revisão
+
+O baseline v1 acertou a seleção de muitos conteúdos, mas a frente de vários cartões ficou excessivamente didática/definicional. Isso treina memória declarativa, porém não reproduz suficientemente a operação mental exigida pelo Cebraspe.
+
+A partir desta revisão, **"estilo Cebraspe" não significa apenas formato CERTO/ERRADO**. Significa reproduzir a forma como a banca constrói o problema: texto-base, recorte preciso, alteração mínima, dupla exigência (gramática + sentido/coerência), inferência controlada, classificação dependente do contexto e distrator plausível.
+
+### Corpus inicial de calibração
+
+Foram examinadas provas oficiais recentes e históricas da banca, com prioridade para nível superior e Língua Portuguesa:
+
+- Câmara dos Deputados — 2026;
+- TCU/AUFC — 2025;
+- PCDF — 2024;
+- IRBr/CACD — 2024;
+- PCPE — 2023;
+- SEE/PE — 2022;
+- PC/AL — Delegado — 2022.
+
+O corpus deve continuar crescendo. A criação de cartões novos deve usar esse banco de provas como referência de estilo e incidência, não apenas como fonte de questões isoladas.
+
+### Assinatura observada da banca
+
+Os cartões principais devem reproduzir, quando aplicável, estas características:
+
+1. **âncora textual concreta**: trecho, período, parágrafo ou microtexto;
+2. **operação sobre o texto**, não pergunta abstrata de definição;
+3. **alteração mínima e plausível**: troca, deslocamento, supressão, inserção, mudança de flexão ou reclassificação;
+4. **dupla condição** frequente: correção gramatical + sentido/coerência/relações sintático-semânticas;
+5. **inferência versus extrapolação**: o erro costuma acrescentar uma premissa pequena, mas não autorizada;
+6. **conceitos próximos**: percepção × ocorrência; AA × CN; AA × aposto; artigo × preposição × pronome; sujeito × complemento; concessão × adversidade etc.;
+7. **referência precisa ao contexto**: "no terceiro período", "no segmento...", "a forma verbal...", "o termo...";
+8. **sem pistas pedagógicas na frente**: o cartão não deve anunciar "tema: crase", "pegadinha: sujeito" etc.;
+9. **dificuldade por ponto de ruptura único**: item plausível, resolvido por um detalhe técnico decisivo;
+10. **linguagem da banca**: construções como "estariam mantidos...", "sem prejuízo...", "infere-se...", "a substituição...", "a supressão...", "a flexão...", quando naturais ao caso.
+
+### Arquitetura recomendada
+
+Não criar, por padrão, dois baralhos independentes ("Questões" e "Teoria"). Isso duplicaria o ciclo de revisão.
+
+Usar o mesmo baralho por disciplina, distinguindo cartões por tags:
+
+- `cebraspe_item` — frente em formato de item/problema contextualizado;
+- `cebraspe_real` — questão real ou excerto autorizado/curto, com referência;
+- `fundamento` — cartão-companheiro criado somente quando o item exige uma base que merece recuperação direta;
+- `erro_aluno` — derivado de erro real;
+- `regra_literal` — recuperação direta de norma, quando a literalidade em si é conteúdo central.
+
+### Estrutura do verso dos cartões Cebraspe
+
+Ordem padrão:
+
+1. **Gabarito** — CERTO/ERRADO ou resposta objetiva;
+2. **Ponto decisivo** — 1–3 frases explicando exatamente o que decide o item;
+3. **Regra necessária** — apenas a teoria indispensável para generalizar;
+4. **Armadilha da banca** — quando houver, identificar a troca sutil feita no item;
+5. **Fonte** — prova/dispositivo/gramática oficial ou confiável.
+
+O verso não deve virar aula longa. Se o fundamento for grande, criar cartão-companheiro separado.
+
+### Proporção-alvo em Português
+
+Antes do edital específico, usar como referência:
+
+- **70–80%** cartões de aplicação no estilo Cebraspe;
+- **20–30%** cartões de fundamento/contraste, principalmente para lacunas reais do aluno.
+
+Definições puras como "O que é preposição?" deixam de ser padrão e passam a ser exceção, usada quando a recuperação direta do conceito for realmente necessária.
+
+### Regimentos
+
+Para RICD/RCCN, a fonte continua sendo a letra oficial vigente. Contudo, o treinamento será dividido em duas camadas:
+
+- recuperação literal atômica quando prazo, competência, quórum, composição ou exceção precisarem ser memorizados;
+- item Cebraspe derivado da norma, com alteração mínima plausível ou cenário procedural.
+
+Nenhum item simulado pode alterar a literalidade sem que o verso mostre explicitamente o dispositivo que decide a questão.
+
+### Situação do baseline v1
+
+Os fatos e fontes do v1 **não são descartados**. O baseline permanece como inventário de conhecimento já validado, mas sua forma de pergunta, especialmente em Português, fica marcada para **refatoração v2**.
+
+A expansão em grande escala só ocorrerá depois de validar um lote-piloto v2 em uso real no AnkiDroid.
