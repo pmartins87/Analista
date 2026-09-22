@@ -98,3 +98,15 @@ Fonte: [ROADMAP_OPERACIONAL_APROVACAO.md](ROADMAP_OPERACIONAL_APROVACAO.md)
 - Próxima, se PASS: **O0.02 — Português: período composto**
 - Regra Gran: não assistir linearmente aos 732 vídeos; vídeo é ferramenta seletiva por tópico e diagnóstico.
 - Matérias não confirmadas permanecem em HOLD para consumo sistemático até o edital, sem impedir diagnóstico pontual previsto no G0.5.
+
+## Controle de estado persistente
+
+Antes de prescrever a próxima tarefa, consultar obrigatoriamente:
+1. `ESTADO_ESTUDO.md` — snapshot mutável do que está realmente conhecido;
+2. `ROADMAP_OPERACIONAL_APROVACAO.md` — fila e gates;
+3. `ANKI.md` — política/arquitetura dos cartões;
+4. demais fontes de verdade conforme a disciplina.
+
+O estado do AnkiDroid está atualmente **NÃO SINCRONIZADO**. Até AS0 ser fechado, não usar “faça o Anki devido” como instrução automática.
+
+A fila acadêmica não fica bloqueada por AS0: a próxima ação profunda é Português — período composto.
