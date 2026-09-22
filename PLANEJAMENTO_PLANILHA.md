@@ -4,70 +4,51 @@ Atualizado em: **22/09/2026**
 
 ## Fonte operacional diária
 
-A execução diária do projeto passou a ser controlada pela planilha:
+A execução diária do projeto é controlada pela planilha:
 
-**[Plano Mestre — Analista Registro e Redação — 2026](https://docs.google.com/spreadsheets/d/1z5zYiFpN6FdSBtob95aNbsZN8QEskXGgnoeYWcDOdks/edit)**
+**[Plano de Estudos — Analista Registro e Redação — Simplificado](https://docs.google.com/spreadsheets/d/1z5zYiFpN6FdSBtob95aNbsZN8QEskXGgnoeYWcDOdks/edit)**
 
 ID: `1z5zYiFpN6FdSBtob95aNbsZN8QEskXGgnoeYWcDOdks`
 
-A planilha é a **fonte operacional de verdade do estudo diário**. O GitHub continua sendo a fonte de verdade estratégica, metodológica e documental.
+A planilha deve ser **simples o suficiente para não competir com o estudo**. Ela controla apenas aquilo que o projeto consegue realmente acompanhar: estudo com ChatGPT, Anki, RICD/RCCN, Constituição, leis e revisões/questões.
+
+O Gran fica **fora da planilha**. O candidato gerencia o curso diretamente na plataforma do Gran. O projeto não agenda vídeos cujo inventário/títulos não esteja disponível de forma confiável.
 
 ## Data-alvo
 
-Foi adotada **13/12/2026 (segundo domingo de dezembro)** como **hipótese operacional de prova** para permitir planejamento regressivo.
+Adotada **13/12/2026** como hipótese operacional para planejamento regressivo.
 
-Isso **não é previsão da data real**. O terceiro edital oficial substitui imediatamente essa hipótese e exige recalibração da planilha em até 24 horas.
+Não é previsão da prova. O edital específico substitui essa hipótese imediatamente e exige recalibração.
+
+## Estrutura simplificada
+
+A planilha possui somente cinco abas:
+
+- `Hoje`: regra de uso e lembrete de que o Gran fica fora do controle.
+- `Plano`: Data, Dia, Prioridade, Estudar, Meta simples, Fonte, Feito? e Observação opcional.
+- `Regimentos`: sequência da primeira leitura integral de RICD/RCCN.
+- `Anki`: gate AS0 e estado mínimo do sistema de cartões.
+- `Fontes`: links oficiais usados pelo projeto.
+
+Não há controle obrigatório de minutos, quantidade de questões, acurácia, cobertura, causas de erro ou inventário do Gran. Esses dados só serão registrados quando forem realmente úteis para uma decisão.
 
 ## Princípios congelados
 
-1. **RICD e RCCN:** primeira passagem integral e sequencial, do art. 1º ao fim. Não saltar para blocos avulsos na primeira leitura.
-2. **Constituição:** leitura dirigida aos títulos com maior evidência para Câmara/Cebraspe; não ler toda a Constituição indiscriminadamente antes do edital.
-3. **Gran:** biblioteca e remediação, não playlist. Vídeo somente quando o tópico estiver vermelho (<70%), houver erro conceitual ou PDF/lei + questões não forem suficientes.
-4. **Questões Cebraspe:** aplicação diária e fonte de decisão sobre aprofundamento.
-5. **Anki:** não prescrever revisão enquanto o estado instalado não estiver sincronizado (AS0). A versão canônica futura segue padrão v2.1: frente com operação cognitiva de banca e verso autossuficiente.
-6. **Português e revisão textual:** trilha diária ou quase diária por relevância histórica e funcional.
-7. **Constitucional e Administrativo:** entram desde o pré-edital por forte evidência na própria Câmara e em concursos Cebraspe de alto nível; a alocação continua provisória até o edital de Registro e Redação.
-8. **Inglês, RLM e Informática/Dados:** diagnóstico e manutenção antes do edital, sem maratona linear.
-9. **Taquigrafia:** hedge pequeno até confirmação ou exclusão formal.
-
-## Alocação provisória pré-edital
-
-- Português + revisão textual: **28%**
-- RICD + RCCN + processo legislativo: **27%**
-- Direito Constitucional: **15%**
-- Direito Administrativo: **10%**
-- Inglês: **5%**
-- Informática/Dados: **5%**
-- RLM: **5%**
-- Taquigrafia hedge: **5%**
-
-Esses percentuais são **alocação de recursos**, não pesos afirmados da futura prova.
-
-## Estrutura da planilha
-
-- `Painel`: KPIs, data-alvo e alocação.
-- `Plano Diário`: 390 tarefas programadas até 13/12/2026; conclusão, minutos, questões e acertos.
-- `Gran`: inventário dos 732 vídeos e regra de uso seletivo.
-- `Regimentos`: primeira leitura integral, sequencial e calendarizada do RICD e RCCN.
-- `CF & Leis`: blocos constitucionais e administrativos.
-- `Anki`: versões conhecidas e gate AS0.
-- `Simulados`: registro de desempenho.
-- `Erros`: causa e ação corretiva.
-- `Cobertura`: estado vermelho/amarelo/verde.
-- `Pesquisa Cebraspe`: evidências usadas para priorização.
-- `Como usar`: instruções operacionais.
+1. **RICD/RCCN:** primeira passagem integral e sequencial, do início ao fim.
+2. **Português:** estudo guiado com ChatGPT + aplicação em itens Cebraspe.
+3. **Constituição:** leitura dirigida; não ler todo o texto indiscriminadamente antes do edital.
+4. **Administrativo:** estudo por lei oficial + explicação/questões com ChatGPT.
+5. **Anki:** revisão somente após AS0 identificar a versão/baralhos instalados.
+6. **Gran:** fora da planilha e do controle operacional deste projeto.
+7. **Observação na planilha:** usar apenas para dúvida, erro importante ou retomada necessária.
+8. **Checkbox:** o único registro obrigatório diário é marcar `Feito?`.
 
 ## Regra de sincronização
 
-O candidato marca na planilha o que realizou. Antes de emitir o plano diário, o ChatGPT deve:
+Antes de emitir o plano diário, o ChatGPT deve:
 1. verificar se saiu o edital;
-2. ler a planilha, especialmente tarefas vencidas/hoje e dados de desempenho;
-3. consultar os documentos estratégicos do GitHub;
-4. informar apenas o plano realmente pendente;
-5. recalibrar quando dados novos justificarem mudança.
+2. ler a aba `Plano` para a data atual e pendências relevantes;
+3. ler `Anki` e `Regimentos` quando necessário;
+4. informar apenas o que precisa ser feito, sem criar burocracia paralela.
 
-O candidato **não precisa** responder `continue` entre microtarefas.
-
-## Gate AS0 — Anki
-
-Ainda é necessário identificar qual versão está realmente instalada no AnkiDroid. Fechar AS0 com screenshot da tela principal (baralhos + contagens) ou export do baralho. Até isso ocorrer, tarefas de microestudo usam recuperação oral quando necessário, em vez de revisar um baralho possivelmente obsoleto.
+O candidato não precisa enviar `continue` entre microtarefas.
