@@ -471,3 +471,15 @@ Antes de encerrar o dia:
 ### Regra anti-dispersão
 
 Enquanto este modo estiver ativo, novos projetos pessoais não recebem tempo discricionário que poderia ser usado na preparação, salvo necessidade real. O concurso permanece como prioridade até nova decisão explícita ou até evidência de que a estratégia precisa mudar.
+
+## 16. Integração com o roadmap operacional
+
+A fila granular de execução está em `ROADMAP_OPERACIONAL_APROVACAO.md`.
+
+Quando houver conflito aparente entre calendário e progresso real, prevalece a lógica da fila:
+1. executar a ação atual;
+2. registrar resultado;
+3. aplicar PASS/REMEDIAR/HOLD;
+4. avançar o ponteiro.
+
+O calendário diário organiza carga; o roadmap operacional decide sequência e gates.
