@@ -369,3 +369,12 @@ Nenhum item simulado pode alterar a literalidade sem que o verso mostre explicit
 Os fatos e fontes do v1 **não são descartados**. O baseline permanece como inventário de conhecimento já validado, mas sua forma de pergunta, especialmente em Português, fica marcada para **refatoração v2**.
 
 A expansão em grande escala só ocorrerá depois de validar um lote-piloto v2 em uso real no AnkiDroid.
+
+
+### Lote-piloto v2
+
+Foi gerado em 21/09/2026 um lote-piloto de Português com **25 cartões**:
+- 20 cartões de aplicação contextualizada em padrão Cebraspe;
+- 5 cartões-companheiros de fundamento, todos derivados de lacunas de alto valor.
+
+O piloto fica separado do baseline v1 para teste de usabilidade no AnkiDroid. **Gate de expansão:** somente após o aluno confirmar que a frente dos cartões reproduz adequadamente a sensação/raciocínio de prova, o padrão v2 será aplicado em escala ao banco de Português e depois a RICD/RCCN.
