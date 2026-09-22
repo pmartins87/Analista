@@ -110,3 +110,15 @@ Antes de prescrever a próxima tarefa, consultar obrigatoriamente:
 O estado do AnkiDroid está atualmente **NÃO SINCRONIZADO**. Até AS0 ser fechado, não usar “faça o Anki devido” como instrução automática.
 
 A fila acadêmica não fica bloqueada por AS0: a próxima ação profunda é Português — período composto.
+
+## Plano Mestre no Google Sheets
+
+A execução diária foi migrada para a planilha nativa Google Sheets:
+
+https://docs.google.com/spreadsheets/d/1z5zYiFpN6FdSBtob95aNbsZN8QEskXGgnoeYWcDOdks/edit
+
+Ela passa a ser a fonte operacional de tarefas, conclusão, minutos, questões, acertos e progresso. O GitHub mantém estratégia e documentação.
+
+Correção de 22/09/2026: a primeira passagem de RICD e RCCN será **integral e sequencial**, e não por saltos de artigos. O antigo cronograma avulso foi substituído pelo plano calendarizado até 13/12/2026 (data-alvo operacional, não previsão).
+
+Antes de emitir qualquer plano diário, consultar a planilha e `ESTADO_ESTUDO.md`.
