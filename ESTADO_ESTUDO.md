@@ -2,62 +2,45 @@
 
 Atualizado em: **22/09/2026**
 
-## Fonte operacional diária
+## Fonte operacional
 
-Google Sheets: https://docs.google.com/spreadsheets/d/1z5zYiFpN6FdSBtob95aNbsZN8QEskXGgnoeYWcDOdks/edit
+Google Sheets:
+https://docs.google.com/spreadsheets/d/1z5zYiFpN6FdSBtob95aNbsZN8QEskXGgnoeYWcDOdks/edit
 
-A planilha registra o que está planejado e o que foi efetivamente cumprido. O ChatGPT deve consultá-la antes de montar o plano diário.
+A planilha foi simplificada em 22/09/2026 para evitar que o controle concorra com o estudo.
 
 ## Estado atual
 
 - Modo: **imersão total / Estudar 24h**.
-- Data-alvo operacional: **13/12/2026** — hipótese de planejamento, não previsão.
-- Fase: **F1 — Fundação / 1ª passagem**.
-- RICD: primeira leitura integral e sequencial, começando no art. 1º.
-- RCCN: primeira leitura integral e sequencial, começando no art. 1º.
-- Constituição: leitura dirigida aos blocos de maior evidência Câmara/Cebraspe.
-- Administrativo: núcleo do edital atual da Câmara + legislação correlata.
-- Português: sequência estruturada a partir de sintaxe do período simples, porque funções sintáticas já apareceram como fraqueza real.
-- Questões Cebraspe: aplicação diária.
-- Revisão textual: semanal na F1, crescente nas fases seguintes.
-- Taquigrafia: hedge de 15 min até edital confirmar/excluir.
-- Gran: uso seletivo; não zerar 732 vídeos.
+- Data-alvo operacional: **13/12/2026** — hipótese, não previsão.
+- Português: estudo guiado com ChatGPT, começando pelas fraquezas sintáticas já observadas.
+- RICD: primeira leitura integral e sequencial desde o art. 1º.
+- RCCN: primeira leitura integral e sequencial desde o art. 1º.
+- Constituição: leitura dirigida, com prioridade a Administração Pública, Poder Legislativo, processo legislativo e fiscalização.
+- Administrativo: lei oficial + explicação/questões com ChatGPT.
+- Gran: **fora do controle da planilha e do projeto operacional**; o candidato gerencia diretamente na plataforma.
+- Planilha: único registro obrigatório diário = checkbox `Feito?`.
 
 ## Anki — AS0 ABERTO
 
-O estado real instalado no AnkiDroid ainda não foi confirmado.
+Ainda não está confirmado qual conjunto está instalado no AnkiDroid.
 
-Conhecido no repositório:
-- v1: 78 cartões — 30 Português, 30 RICD, 18 RCCN;
-- piloto v2: 25 cartões de Português, arquitetura posteriormente revogada;
-- v2.1: padrão canônico de cartão autossuficiente com frente de aplicação estilo Cebraspe.
+Conhecido:
+- v1: 78 cartões (30 Português, 30 RICD, 18 RCCN);
+- piloto v2: 25 cartões de Português, arquitetura revogada;
+- v2.1: padrão canônico autossuficiente, estilo Cebraspe.
 
 Até fechar AS0:
-- não presumir qual versão está instalada;
+- não presumir versão instalada;
 - não prescrever revisão automática;
-- usar recuperação oral nas microjanelas;
-- fechar AS0 com screenshot da tela principal do AnkiDroid ou export.
-
-## Alocação pré-edital
-
-- Português + revisão textual: 28%
-- RICD + RCCN + processo legislativo: 27%
-- Constitucional: 15%
-- Administrativo: 10%
-- Inglês: 5%
-- Informática/Dados: 5%
-- RLM: 5%
-- Taquigrafia: 5%
-
-Não são pesos oficiais; são alocação provisória de recursos.
+- fechar AS0 com screenshot da tela principal ou export.
 
 ## Próximo gatilho externo
 
-Publicação do terceiro edital de Registro e Redação.
+Publicação do terceiro edital.
 
 Quando ocorrer:
 - interromper o cronograma pré-edital;
-- arquivar e verticalizar o edital;
-- mapear pesos/mínimos/etapas;
-- confirmar prática/taquigrafia;
+- verticalizar conteúdo e pesos;
+- confirmar etapas práticas;
 - recalibrar a planilha em até 24h.
