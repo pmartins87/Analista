@@ -1,6 +1,6 @@
 # Guia canônico de estudo pós-edital
 
-Atualizado em: 02/10/2026
+Atualizado em: 03/10/2026
 
 ## Função deste arquivo
 
@@ -95,10 +95,14 @@ http://www.cebraspe.org.br/concursos/cd_26_analista
 Câmara — Regimento Interno:
 https://www2.camara.leg.br/atividade-legislativa/legislacao/regimento-interno-da-camara-dos-deputados
 
-Recorte do edital:
-- arts. 1–200;
-- arts. 226–251;
-- arts. 262–273.
+Recortes exatos do edital:
+- **P1 — Direito Constitucional e Regimento — item 7.1:** arts. 1º–24;
+- **P1 — item 7.2:** arts. 65–94;
+- **P1 — item 7.3:** arts. 226–251;
+- **P1 — item 7.4:** arts. 262–273;
+- **P2 — Processo Legislativo e Regimentos — item 2.1:** arts. 25–64 e 95–200.
+
+A união prática dos recortes é: arts. 1º–200, 226–251 e 262–273. A união serve para controle global, mas as apostilas devem preservar a identificação de P1/P2 e do item exato do edital.
 
 ### RCCN
 Senado/Congresso — Regimento Comum:
@@ -237,9 +241,25 @@ Resolver o máximo de questões úteis durante os 106 dias é objetivo explícit
 
 Toda apostila deve terminar com seção **Fontes desta apostila**, discriminando, por bloco, as fontes efetivamente utilizadas. Em regimentos/leis, prevalece a fonte oficial e a literalidade. Em Linguística/Português, usar bibliografia consagrada indicada neste guia e provas oficiais Cebraspe; materiais do Gran podem complementar explicação e questões, sem substituir fonte oficial quando houver. Afirmações cuja formulação varie por corrente teórica devem indicar o enquadramento (por exemplo, “na formulação saussuriana”).
 
+### Aderência obrigatória ao edital verticalizado — regra vinculante de 03/10/2026
+
+O **Edital nº 1/2026 e eventuais retificações** definem o universo de conteúdo. A aba **Edital Verticalizado** da planilha operacional é a tradução de controle desse universo e deve ser conferida antes de redigir ou liberar cada apostila.
+
+Regras obrigatórias para A001–A106:
+1. nenhum bloco de estudo entra na apostila sem estar vinculado a **prova (P1/P2/P3), disciplina e item/subitem exato do edital**;
+2. o início da apostila deve trazer um **Mapa do edital coberto no dia**, com a numeração exata;
+3. ao terminar cada tópico de estudo, registrar de forma explícita: **“COM ISSO, VIMOS: [prova] — [disciplina] — item [número] — [tópico]”**;
+4. quando a sessão cobrir apenas parte de um item, registrar **COBERTURA PARCIAL**, especificar exatamente o trecho estudado e o que permanece pendente; item parcial não pode ser marcado como integralmente estudado;
+5. conceitos auxiliares podem ser explicados apenas quando necessários para compreender/resolver o item do edital e devem ser tratados como apoio, não como novo conteúdo programático;
+6. toda questão autoral deve trazer a indicação do item do edital testado; questões oficiais devem ser vinculadas ao mesmo item quando inseridas;
+7. antes de liberar a apostila, cruzar seu índice com a aba **Edital Verticalizado**. Se não houver correspondência justificável com um item do edital, o conteúdo deve ser removido da unidade diária;
+8. em caso de conflito entre plano anterior, apostila, curso, memória ou resumo e o edital vigente, **o edital vigente prevalece**.
+
+Exemplo vinculante para RICD: arts. 1º–24 pertencem a **P1, item 7.1**; arts. 25–64 e 95–200 pertencem a **P2, item 2.1**. Não fundir esses recortes ao indicar o que foi efetivamente estudado, mesmo que a união prática seja usada para controle global.
+
 ### Gate de qualidade antes de liberar uma apostila
 
-Não liberar como pronta se houver: conceito abstrato sem exemplo; definição circular; seção sem fonte rastreável; questão autoral não rotulada; conteúdo regimental sem conferência oficial; bloco teórico relevante sem aplicação; ou divergência com o mapa A001–A106 sem justificativa baseada em desempenho/edital.
+Não liberar como pronta se houver: conceito abstrato sem exemplo; definição circular; seção sem fonte rastreável; questão autoral não rotulada; conteúdo regimental sem conferência oficial; bloco teórico relevante sem aplicação; tópico sem prova/disciplina/item exato do edital; encerramento de tópico sem registro do item coberto; cobertura parcial apresentada como integral; ou divergência com o edital verticalizado/mapa A001–A106 sem justificativa.
 
 ### Correção da A001
 
