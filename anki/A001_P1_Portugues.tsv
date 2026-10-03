@@ -1,0 +1,10 @@
+#separator:tab
+#html:true
+#deck:Analista::P1::Português
+#notetype:Basic
+#columns:Front	Back	Tags
+#tags:A001 P1_PORT
+Front	Back	Tags
+A presença de uma sequência de ações em um texto é suficiente para classificá-lo como predominantemente narrativo.	<b>ERRADO.</b><br>O tipo textual dominante depende da finalidade e da organização global. Um texto pode descrever etapas ou explicar um processo e continuar sendo predominantemente <b>expositivo</b>. Foi exatamente a armadilha explorada em item oficial Cebraspe sobre texto da Embrapa: a existência de ações encadeadas não transforma, por si só, explicação em narração.	A001 P1_PORT_2 tipo_textual derivado_oficial_cebraspe
+Se o texto afirma que o perito médico é pessoa entendida e experimentada em medicina, é lícito inferir que todo médico está apto ao exercício da perícia médico-legal.	<b>ERRADO.</b><br>Há extrapolação de escopo. “Pessoa entendida e experimentada” delimita um subconjunto; transformar isso em “todo médico” universaliza uma condição que o texto não autorizou. Em Cebraspe, mudanças de quantificador como <i>alguns/todos</i>, <i>pode/deve</i> e <i>tende a/necessariamente</i> são decisivas.	A001 P1_PORT_1 inferencia extrapolacao derivado_oficial_cebraspe
+Reconhecer corretamente o assunto geral de um texto é suficiente para identificar seu gênero textual.	<b>ERRADO.</b><br>Gênero não se define apenas pelo assunto. Deve-se observar finalidade comunicativa, situação de circulação, composição, interlocutores e escolhas linguísticas. Um mesmo tema pode aparecer em artigo científico, notícia, parecer, relatório ou editorial.	A001 P1_PORT_2 genero_textual
