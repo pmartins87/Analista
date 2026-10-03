@@ -1,101 +1,96 @@
 # ROADMAP OPERACIONAL — Aprovação em Registro e Redação
 
-Atualizado em: **02/10/2026**
+Atualizado em: **03/10/2026**
 
-## Regra central
+## Norma máxima
 
-A planilha [Plano de Estudos — Analista Registro e Redação — Simplificado](https://docs.google.com/spreadsheets/d/1z5zYiFpN6FdSBtob95aNbsZN8QEskXGgnoeYWcDOdks/edit) é a fonte operacional diária.
+Ler primeiro [CONSTITUICAO_PROJETO.md](CONSTITUICAO_PROJETO.md). Este roadmap é adaptativo e não pode contrariá-la.
 
-O GitHub guarda estratégia, método, decisões e estado. O plano canônico pós-edital é [PLANO_POS_EDITAL_2026_2027.md](PLANO_POS_EDITAL_2026_2027.md).
+## Estrutura oficial
 
-## O1 — Captura do edital
+- Prova: 17/01/2027.
+- P1: 90 itens.
+- P2: 90 itens.
+- Objetiva: C/E com +1 por acerto, -1 por erro e 0 em branco.
+- Discursiva: 60 pontos — 2 questões específicas de até 20 linhas + 1 peça técnica específica de até 50 linhas.
+- Sem prova prática de taquigrafia.
 
-**Status: PASS — 02/10/2026**
+## Sistema operacional
 
-Confirmado:
-- prova em 17/01/2027;
-- P1 = 90 itens;
-- P2 = 90 itens;
-- objetiva = 5h;
-- discursiva = 60 pontos / 3h;
-- discursiva = 2 questões específicas + 1 peça técnica específica;
-- não há prova prática de taquigrafia;
-- 25 vagas imediatas + 25 CR para Registro e Redação.
+1. Edital Verticalizado.
+2. Mapa A001–A106.
+3. Apostila diária canônica.
+4. Anki por matéria.
+5. Chats de revisão de cada apostila.
+6. Questões oficiais Cebraspe + inéditas calibradas.
+7. Simulados e remediação por erros.
 
-Consequência: encerrar taquigrafia e aumentar prioridade de P2 + discursiva.
+## F1 — Cobertura integral
 
-## O0 — Primeira passagem integral — 03/10 a 15/11
+Objetivos:
+- fechar todos os itens/subitens do edital;
+- iniciar revisões desde a A002;
+- inserir Anki desde a primeira apostila;
+- incluir questões em toda sessão;
+- treinar discursiva desde cedo.
 
-**Carga: 250h**
+A data exata de fechamento da primeira passagem só será congelada após o mapa A001–A106 ser auditado contra os 182 itens/subitens da verticalização.
 
-- P2 todos os dias úteis de estudo.
-- RICD literal: arts. 1–200, 226–251 e 262–273.
-- RCCN literal: arts. 1–103.
-- P1 completo: Português, Inglês, Administrativo, Constitucional, TI/IA/Dados.
-- Discursiva desde a primeira semana.
-- domingos: revisão acumulada.
+## F2 — Consolidação
 
-Gate de saída:
-- 100% dos macrotemas do edital vistos;
-- regimentos fechados no recorte oficial;
-- discursiva operacional;
-- nenhum núcleo de P2 virgem.
-
-## O2 — Consolidação — 16/11 a 13/12
-
-**Carga: 164h**
-
-- questões por blocos;
+Predomínio de:
+- questões oficiais;
 - segunda passagem dirigida;
-- P2 em prioridade;
-- regimentos por erros/prazos/competências;
-- discursiva cronometrada;
-- simulado integral 1 em 29/11.
+- lei seca/regimentos;
+- erros;
+- discursiva cronometrada.
 
-Gate interno ao fim de novembro:
-- objetivo >= 90 líquidos;
-- discursiva >= 35/60.
+## F3 — Intensificação
 
-## O3 — Simulados e remediação — 14/12 a 03/01
+Predomínio de:
+- baterias Cebraspe;
+- simulados;
+- correção profunda;
+- remediação por perda líquida de pontos.
 
-**Carga: 128h**
+## F4 — Reta final
 
-- baterias cronometradas;
-- discursiva recorrente;
-- simulados integrais em 20/12 e 03/01;
-- remediação por custo em pontos.
+Predomínio de:
+- erros;
+- Anki devido;
+- literalidade;
+- P2;
+- discursiva;
+- simulados finais;
+- proteção de sono e desempenho.
 
-Gate interno em 20/12:
-- objetivo >= 105 líquidos;
-- discursiva >= 40/60.
+## Recorte regimental
 
-## O4 — Reta final — 04/01 a 16/01
+RICD:
+- 1–24;
+- 25–64;
+- 65–94;
+- 95–200;
+- 226–251;
+- 262–273.
 
-**Carga: 74h**
+**201–225 não são conteúdo de prova.**
 
-- P2 e erros históricos;
-- regimentos/lei seca;
-- P1 fraco;
-- último simulado integral em 10/01;
-- zero matéria nova nos últimos dias;
-- 16/01: 3h leves.
+RCCN:
+- P2: 1–71;
+- P1: Título I e Título IV, capítulos II e III, até 103.
 
-Meta interna de estabilização:
-- >= 120 líquidos, preferencialmente 125–130+;
-- P2 forte;
-- discursiva >= 45/60.
+## Regra de mudança
 
-## O5 — Prova — 17/01/2027
+Retificação oficial prevalece imediatamente.
 
-- manhã: objetiva;
-- tarde: discursiva;
-- nenhuma carga pesada de estudo no dia.
+Desempenho pode redistribuir horas, mas a alteração só é válida após:
+- identificar o motivo;
+- indicar o conteúdo deslocado;
+- indicar onde será recuperado;
+- atualizar mapa, planilha e GitHub;
+- confirmar que 100% do edital continua coberto.
 
-## Regra de gestão
+## Gate de qualidade de apostila
 
-- O candidato marca apenas `Feito?` na planilha.
-- Observação só para dúvida, erro importante ou ponto de retomada.
-- Gran permanece fora do controle do projeto.
-- AS0 do Anki continua aberto; até fechá-lo, não presumir baralho.
-- Retificação oficial prevalece imediatamente.
-- Dois simulados sem evolução acionam redistribuição de horas, não aumento automático de carga.
+Sem auditoria edital + fonte + questões + revisão + Anki + tempo + marcação da verticalização, a apostila é **rascunho**, não canônica.
