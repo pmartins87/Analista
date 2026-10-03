@@ -22,7 +22,15 @@ Prova: **17/01/2027**.
 3. **Apostila diária** — unidade de estudo.
 4. **Anki por matéria** — revisão, em artefato separado da apostila.
 
-Na planilha, ficam visíveis apenas `Hoje`, `Edital Verticalizado` e `Mapa 106 Apostilas`. `Plano`, `Regimentos`, `Anki` e `Fontes` foram preservadas, mas ocultadas para rastreabilidade.
+Na planilha, ficam visíveis:
+- `Hoje`;
+- `Edital Verticalizado`;
+- `Mapa 106 Apostilas`;
+- `Apostilas e Anki` — índice A001–A106 e downloads;
+- `Discursivas` — cronograma P3, provas, espelhos e exemplos;
+- `Materiais` — índice de fontes e materiais canônicos.
+
+`Plano`, `Regimentos`, `Anki` e `Fontes` antigos foram preservados, mas ocultados para rastreabilidade.
 
 ## A001 — concluída em 03/10/2026
 
@@ -49,6 +57,7 @@ A verticalização já foi atualizada. D+1/D+7/D+21 e Anki continuam desmarcados
 - O **Resumo Estratégico — RICD 1º–15** agora está explicitamente titulado e visível.
 - O mapa de remissões foi refeito: remissão interna mostra apenas o RICD integrado; remissão externa identificável traz o texto literal externo e depois o RICD integrado; remissão externa aberta não recebe destino inventado.
 - A auditoria acrescentou remissões antes ausentes, inclusive art. 7º, parágrafo único → art. 7º, II–V, e art. 2º, § 3º → LDO (remissão dinâmica).
+- Correção de fidelidade no art. 14: a Mesa compõe-se de Presidente, dois Vice-Presidentes e quatro Secretários; os quatro Suplentes do § 2º ficam fora da composição estrita. A A001 e o Anki registram essa distinção.
 
 ## A002 — 04/10/2026
 Função: **D+1 da A001; nenhum item novo**.
@@ -57,9 +66,30 @@ Documento: https://docs.google.com/document/d/1IAZhDuNKD2QGzU3YsRx248kkKYpRcUzBi
 Estrutura: recuperação ativa; conferência dirigida das remissões; bateria mista de 20 itens; correção por pontuação líquida/causa do erro; remediação; fila de Anki separada.
 
 ## Anki A001
-**PENDENTE DE ARTEFATO CANÔNICO.**
-Não há arquivo importável/sincronizado comprovado. Declarações anteriores de “pacote preparado” foram retificadas. O próximo artefato deve ser produzido separadamente após a análise empírica do conteúdo A001 e dos resultados da D+1.
+**BASE CANÔNICA CRIADA; NÃO SINCRONIZADA.**
+
+Existem 15 cartões-base em três arquivos TSV importáveis:
+- P1 Português — 3;
+- P2 Linguística — 4;
+- P1 Constitucional/Regimentos — 8.
+
+Índice/download: https://github.com/pmartins87/Analista/blob/main/anki/A001_INDEX.md
+
+A D+1 da A002 poderá acrescentar cartões `erro_real` e `acerto_com_duvida`. Não há integração Anki/AnkiDroid disponível no projeto neste momento, portanto nenhuma sincronização automática foi realizada.
 
 ## Recorte regimental
 RICD: P1 1–24, 65–94, 226–251, 262–273; P2 25–64, 95–200. **201–225 fora do edital.**
 RCCN: P2 1–71; P1 Título I e Título IV, capítulos II e III, até art. 103.
+
+
+## Discursivas — integração operacional
+
+A planilha possui agora aba `Discursivas` com as 18 sessões P3 previstas no Mapa 106.
+
+Índice operacional do dossiê:
+https://docs.google.com/document/d/1OAC1qb-QxvGNTxQ-tk1kBosKnqlKDp0zfqtUmpaDOSQ/edit
+
+Primeiro comparador oficial estruturado:
+**Câmara/Cebraspe 2026 — Processo Legislativo e Gestão — medida provisória/crédito extraordinário**, com prova aplicada, espelho oficial e exemplo de resposta do projeto.
+Exemplo do projeto:
+https://docs.google.com/document/d/19zLyodSgkNNk7HEAuvuJTwLqePZ8jY5lOcED6CNp2tU/edit
