@@ -1,46 +1,72 @@
 # ESTADO OPERACIONAL DE ESTUDOS
 
-Atualizado em: **22/09/2026**
-
-## Fonte operacional
-
-Google Sheets:
-https://docs.google.com/spreadsheets/d/1z5zYiFpN6FdSBtob95aNbsZN8QEskXGgnoeYWcDOdks/edit
-
-A planilha foi simplificada em 22/09/2026 para evitar que o controle concorra com o estudo.
+Atualizado em: **02/10/2026**
 
 ## Estado atual
 
-- Modo: **imersão total / Estudar 24h**.
-- Data-alvo operacional: **13/12/2026** — hipótese, não previsão.
-- Português: estudo guiado com ChatGPT, começando pelas fraquezas sintáticas já observadas.
-- RICD: primeira leitura integral e sequencial desde o art. 1º.
-- RCCN: primeira leitura integral e sequencial desde o art. 1º.
-- Constituição: leitura dirigida, com prioridade a Administração Pública, Poder Legislativo, processo legislativo e fiscalização.
-- Administrativo: lei oficial + explicação/questões com ChatGPT.
-- Gran: **fora do controle da planilha e do projeto operacional**; o candidato gerencia diretamente na plataforma.
-- Planilha: único registro obrigatório diário = checkbox `Feito?`.
+**PÓS-EDITAL / IMERSÃO TOTAL**
+
+O Edital nº 1 — Câmara dos Deputados — Analista Legislativo foi publicado em 02/10/2026.
+
+Prova: **17/01/2027**.
+
+Para Registro e Redação:
+- 25 vagas imediatas + 25 CR;
+- P1: 90 itens de conhecimentos básicos;
+- P2: 90 itens de conhecimentos específicos;
+- discursiva: 60 pontos — 2 questões de até 20 linhas + 1 peça técnica de até 50 linhas;
+- prova objetiva: 5h;
+- discursiva: 3h;
+- **não há prova prática de taquigrafia**.
+
+## Decisão de carga
+
+Plano competitivo aprovado:
+- 616 horas líquidas entre 03/10/2026 e 16/01/2027;
+- regra-base: 6h líquidas de segunda a sábado e 4h aos domingos;
+- simulados integrais: 29/11, 20/12, 03/01 e 10/01;
+- primeira passagem integral do edital concluída até 15/11.
+
+Fonte estratégica: [PLANO_POS_EDITAL_2026_2027.md](PLANO_POS_EDITAL_2026_2027.md).
+
+Fonte operacional diária:
+https://docs.google.com/spreadsheets/d/1z5zYiFpN6FdSBtob95aNbsZN8QEskXGgnoeYWcDOdks/edit
+
+## Prioridade
+
+1. Conhecimentos específicos (P2), porque valem 90 itens e aparecem também na discursiva.
+2. Processo legislativo + RICD/RCCN.
+3. Conhecimentos básicos P1.
+4. Discursiva desde a primeira semana.
+
+Taquigrafia: **ENCERRADA**, salvo retificação oficial.
+
+## Recorte literal de regimentos
+
+- RICD: arts. 1–200, 226–251 e 262–273.
+- RCCN: arts. 1–103.
 
 ## Anki — AS0 ABERTO
 
 Ainda não está confirmado qual conjunto está instalado no AnkiDroid.
 
-Conhecido:
-- v1: 78 cartões (30 Português, 30 RICD, 18 RCCN);
-- piloto v2: 25 cartões de Português, arquitetura revogada;
-- v2.1: padrão canônico autossuficiente, estilo Cebraspe.
-
 Até fechar AS0:
 - não presumir versão instalada;
 - não prescrever revisão automática;
-- fechar AS0 com screenshot da tela principal ou export.
+- o cronograma não depende do Anki.
 
-## Próximo gatilho externo
+Depois do AS0, Anki ocupa apenas as horas de revisão já previstas.
 
-Publicação do terceiro edital.
+## Gran
 
-Quando ocorrer:
-- interromper o cronograma pré-edital;
-- verticalizar conteúdo e pesos;
-- confirmar etapas práticas;
-- recalibrar a planilha em até 24h.
+Permanece fora do controle operacional. O cronograma define assunto e tempo; o candidato gerencia o material do Gran diretamente.
+
+## Próximo gate
+
+**O0 — primeira passagem integral do edital, 03/10 a 15/11.**
+
+Saída:
+- 100% dos macrotemas vistos;
+- recortes de RICD/RCCN fechados;
+- discursiva em rotina;
+- nenhum núcleo de P2 completamente virgem.
