@@ -33,23 +33,21 @@ Regras adicionais:
 - em dúvida técnica relevante, verificar fontes antes de consolidar o conteúdo no caderno;
 - corrigir no Git qualquer explicação anterior que tenha sido simplificada de modo perigoso.
 
-## Estado oficial em 19/09/2026
+## Estado oficial em 02/10/2026
 
-1. A Mesa da Câmara autorizou em 11/09/2025 concurso que inclui **Analista Legislativo — Registro e Redação**.
-2. Em 09/09/2026, a Câmara anunciou o **terceiro edital**, com mais de 150 vagas de nível superior em 11 especialidades, incluindo Registro e Redação.
-3. A Câmara informou que o **Cebraspe** realizará o terceiro edital e que a publicação completa está prevista para **setembro de 2026**.
-4. O comunicado institucional afirma que haverá exames **teóricos e práticos** em âmbito nacional, mas ainda não publica o formato específico da etapa prática de Registro e Redação.
-5. Em consulta ao Portal oficial de editais em 19/09/2026, ainda não constava o terceiro edital de Registro e Redação; permanece vigente a previsão institucional de publicação em setembro.
+1. O Edital nº 1 — Câmara dos Deputados — Analista Legislativo foi publicado em **02/10/2026**.
+2. Provas objetiva e discursiva: **17/01/2027**.
+3. Registro e Redação: **25 vagas imediatas + 25 CR**.
+4. Estrutura: **P1 90 itens + P2 90 itens + discursiva de 60 pontos**.
+5. A discursiva tem duas questões de conhecimentos específicos e uma peça técnica.
+6. **Não há prova prática de taquigrafia.**
+7. O planejamento pré-edital está encerrado; a fonte estratégica atual é [PLANO_POS_EDITAL_2026_2027.md](PLANO_POS_EDITAL_2026_2027.md).
 
-## Incerteza crítica: taquigrafia
+## Taquigrafia — decisão pós-edital
 
-Em 2012, o antigo cargo de Taquígrafo Legislativo teve prova prática de análise textual e prova prática de apanhamento taquigráfico. A etapa de taquigrafia incluía ditados de aproximadamente 105–110 palavras por minuto e permitia método taquigráfico manual de livre escolha.
+O edital publicado não prevê prova prática de taquigrafia.
 
-Entretanto, em março de 2026 o antigo Departamento de Taquigrafia, Revisão e Redação (DETAQ) foi transformado no **Departamento de Registro Oficial e Redação Parlamentar (DEREP)**. O novo ato enfatiza registro oficial, redação final, tratamento/indexação do discurso e uso de tecnologia e inteligência artificial. Isso torna inadequado simplesmente copiar o edital de 2012 como se nada tivesse mudado.
-
-**Decisão operacional atual:** tratar prova prática de taquigrafia como risco real, mas ainda não confirmado. Não abandonar o tema, nem sacrificar o estudo central de Português e conteúdo legislativo antes do edital.
-
-Como hedge técnico, está em andamento uma microtrilha de otimização do Método Oscar Leite Alves por vocabulário parlamentar e fraseogramas. Ela é experimental e não altera a prioridade estratégica antes do edital; ver [TAQUIGRAFIA_FRASEOGRAMAS.md](TAQUIGRAFIA_FRASEOGRAMAS.md).
+**Decisão:** encerrar imediatamente a trilha de taquigrafia. O arquivo histórico permanece apenas como registro. Só reabrir a trilha se uma retificação oficial criar etapa prática.
 
 ## Material de estudo
 
@@ -59,6 +57,7 @@ Como hedge técnico, está em andamento uma microtrilha de otimização do Méto
 ## Documentos vivos
 
 - [STATUS.md](STATUS.md) — estado atual, fatos, incertezas e próximo gate.
+- [PLANO_POS_EDITAL_2026_2027.md](PLANO_POS_EDITAL_2026_2027.md) — plano canônico pós-edital, carga, fases, gates e prioridades.
 - [ORGANIZACAO_CHATS.md](ORGANIZACAO_CHATS.md) — arquitetura dos chats, regras de roteamento e sincronização com a fonte de verdade.
 - [ROADMAP.md](ROADMAP.md) — fases, critérios de decisão e métricas.
 - [ROADMAP_OPERACIONAL_APROVACAO.md](ROADMAP_OPERACIONAL_APROVACAO.md) — fases operacionais e regras de avanço.
@@ -86,20 +85,13 @@ Como hedge técnico, está em andamento uma microtrilha de otimização do Méto
 
 ## Execução atual
 
-De 19 a 25/09/2026, o projeto executa o sprint do G0.5 definido em [PLANO_ESTUDOS_REVISOES.md](PLANO_ESTUDOS_REVISOES.md), sem esperar passivamente pelo edital.
+Fase: **O0 — primeira passagem integral do edital, 03/10 a 15/11/2026**.
+
+Carga competitiva: 616h líquidas até 16/01/2027. A planilha Google Sheets controla a execução diária.
 
 ## Próximo gate
 
-**G1 — publicação do terceiro edital.**
-
-Assim que ocorrer, o projeto deve, antes de qualquer outra coisa:
-
-1. baixar e registrar o edital;
-2. identificar número de vagas, cronograma e formato de prova;
-3. confirmar ou descartar taquigrafia prática;
-4. verticalizar 100% do conteúdo;
-5. comparar com Gran e DOM;
-6. substituir o plano provisório pelo plano pós-edital em até 24 horas.
+Fechar 100% dos macrotemas e os recortes literais de RICD/RCCN até 15/11, com discursiva já em rotina.
 
 ## Fonte operacional diária
 
