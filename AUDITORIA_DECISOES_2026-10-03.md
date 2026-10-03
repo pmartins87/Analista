@@ -17,6 +17,7 @@ A exclusão dos arts. 1º–24 foi reavaliada contra editais e provas anteriores
 Evidências:
 - Edital 2026, P1, item 7.1: inclui expressamente “Disposições preliminares e Órgãos da Câmara (arts. 1º a 24 e suas alterações)”.
 - O item P2 2.1 (arts. 25–64 e 95–200) é um recorte **adicional** dos conhecimentos específicos; não substitui nem limita o recorte de P1.
+- Câmara 2025/2026 — Analista Legislativo/Processo Legislativo e Gestão, Cebraspe: o edital básico explicitou **arts. 1º–13 e 14–22**; na prova de 08/03/2026 a banca cobrou diretamente o bloco inicial, inclusive **blocos parlamentares (art. 12)** em três itens consecutivos e atribuições de Presidente/Mesa em vários itens seguintes. É o precedente mais próximo em banca, órgão e tempo.
 - Câmara 2012 — Analista Legislativo/Taquígrafo, CESPE: o edital cobrava a **íntegra da Resolução nº 17/1989**; a prova efetivamente cobrou conteúdo do art. 3º (posse/apresentação do diploma do Deputado eleito).
 - Câmara 2007 — diversos cargos de Analista, FCC: o edital incluía expressamente o Título I (Disposições Preliminares) e o Título II (Órgãos da Câmara); provas reais cobraram, entre outros, sessão preparatória/eleição da Mesa e competências da Mesa, isto é, dispositivos do bloco inicial do RICD.
 - Câmara 2023 — FGV: editais voltaram a explicitar faixas iniciais do RICD, e provas reais cobraram temas como blocos parlamentares, novamente dentro do bloco inicial.
