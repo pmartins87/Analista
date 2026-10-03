@@ -1,137 +1,63 @@
 # STATUS — Analista Registro e Redação
 
-Atualizado em: **22/09/2026**
+Atualizado em: **02/10/2026**
 
 ## Estado
 
-**PRE-EDITAL CRÍTICO / EDITAL IMINENTE**
+**PÓS-EDITAL / O1 PASS / O0 EM EXECUÇÃO**
 
-A Câmara anunciou em 09/09/2026 que o terceiro edital do concurso autorizado em 2025 será publicado ainda em setembro de 2026. Registro e Redação está expressamente incluído. Em consulta ao Portal oficial de editais em 19/09/2026, esse terceiro edital ainda não constava na página.
+O Edital nº 1 — Câmara dos Deputados — Analista Legislativo foi publicado em 02/10/2026.
 
 ## Confirmado oficialmente
 
-- Cargo: Analista Legislativo — especialidade Registro e Redação (CD-AL-012).
-- Formação: graduação de nível superior em qualquer área.
-- Banca indicada para o terceiro edital: Cebraspe.
-- Terceiro edital: mais de 150 vagas de nível superior distribuídas em 11 especialidades.
-- Aplicação nacional das avaliações anunciada pela Câmara.
-- A Câmara mencionou avaliações teóricas e práticas.
-- Conteúdo, datas e regras específicas ainda estavam em fechamento em 09/09/2026.
-- Estrutura administrativa atual: Departamento de Registro Oficial e Redação Parlamentar (DEREP), criado pela transformação do antigo DETAQ em março de 2026.
+- Cargo: Analista Legislativo — Registro e Redação.
+- Formação: graduação em qualquer área.
+- Prova: **17/01/2027**.
+- Banca: Cebraspe.
+- Registro e Redação: **25 vagas imediatas + 25 CR**.
+- P1: 90 itens de conhecimentos básicos.
+- P2: 90 itens de conhecimentos específicos.
+- Objetiva: 180 itens C/E, 5 horas.
+- Discursiva: 60 pontos, 3 horas.
+- Discursiva: 2 questões específicas de até 20 linhas + 1 peça técnica específica de até 50 linhas.
+- Pontuação objetiva: +1 certo, -1 errado, 0 em branco.
+- Mínimos eliminatórios: P1 >= 18; P2 >= 27; total >= 54.
+- Nota final: objetiva + discursiva.
+- **Não há prova prática de taquigrafia.**
 
-## Não confirmado
+## Decisão estratégica
 
-- número de vagas especificamente para Registro e Redação;
-- data da prova;
-- disciplinas e pesos;
-- existência e formato exato de prova discursiva;
-- existência e formato exato de prova prática de revisão textual;
-- existência e formato exato de prova prática de taquigrafia;
-- velocidade exigida, caso haja apanhamento taquigráfico;
-- critérios de habilitação/cortes entre etapas.
+- Encerrar taquigrafia.
+- Priorizar P2 e discursiva.
+- Fechar primeira passagem até 15/11.
+- Carga planejada: **616h líquidas** de 03/10 a 16/01.
+- Regra-base: 6h líquidas de segunda a sábado; 4h aos domingos, com quatro simulados integrais de 8h.
 
-## Risco principal
+Plano canônico:
+[PLANO_POS_EDITAL_2026_2027.md](PLANO_POS_EDITAL_2026_2027.md)
 
-Começar tarde demais a taquigrafia caso a prova prática seja mantida. Em 2012, a Câmara exigiu apanhamento manual em velocidades de cerca de 105–110 palavras por minuto; esse nível não é construído rapidamente.
-
-Ao mesmo tempo, a reorganização de 2026 do trabalho de registro oficial incorporou explicitamente tecnologia e IA, então é arriscado assumir que o modelo de 2012 será repetido sem alterações.
-
-## Estratégia até o edital
-
-1. **Português e revisão textual:** prioridade máxima e de baixo arrependimento.
-2. **Legislação/estrutura legislativa:** iniciar núcleo durável, sem tentar decorar um edital inexistente.
-3. **Taquigrafia:** manter exposição inicial/hedge, sem consumir a maior parte do tempo antes da confirmação formal.
-4. **Questões Cebraspe:** começar desde já para adaptação ao estilo da banca.
-5. **Gran:** usar como fonte de conteúdo, não como definidor da estratégia.
-6. **DOM:** não comprar por ansiedade pré-edital; reavaliar pelo ganho marginal real quando tivermos o conteúdo oficial.
-
-## Execução de estudo ativa
-
-- Plano mestre: [PLANO_ESTUDOS_REVISOES.md](PLANO_ESTUDOS_REVISOES.md).
-- Sprint G0.5: 19–25/09/2026.
-- Revisões: mesmo dia, D+1, D+7 e D+21; erro reincidente só sai da fila após duas exposições corretas consecutivas.
-- Prioridade pré-edital: Português/revisão textual + RICD/RCCN; taquigrafia permanece hedge pequeno até confirmação.
-- Lembrete diário deve consultar o plano, os erros e o estado oficial antes de definir as tarefas do dia.
-- Sistema de flashcards ativado em [ANKI.md](ANKI.md): somente cartões validados por fonte, com literalidade normativa quando aplicável, foco Cebraspe e prioridade para erros reais do aluno.
-- Baseline Anki v1 gerado em 20/09/2026: 78 cartões validados (30 Português, 30 RICD, 18 RCCN), organizados em subbaralhos de estudo; revisão reforçada será feita por tags/baralho filtrado, sem duplicação de cartões.
-
-## Próximo gate
-
-### G1 — EDITAL PUBLICADO
-
-Disparadores:
-- publicação no Portal da Câmara;
-- publicação no Cebraspe;
-- publicação no DOU/Diário da Câmara.
-
-Ações obrigatórias em até 24h:
-- atualizar README/STATUS/ROADMAP/FONTES;
-- arquivar o edital;
-- verticalizar o conteúdo;
-- produzir matriz de pesos e ROI;
-- definir ciclo semanal;
-- confirmar estratégia de taquigrafia;
-- comparar Gran × DOM por lacuna concreta.
-
-## Critério de parada do modo pré-edital
-
-O modo pré-edital termina automaticamente quando o edital oficial for publicado. A partir daí, nenhuma hipótese histórica prevalece sobre o texto do edital.
-
-## Modo de execução — 22/09/2026
-
-O candidato decidiu pausar os demais projetos pessoais e entrar em **modo de imersão total ("Estudar 24h")** para o concurso.
-
-Interpretação operacional:
-- todo tempo discricionário útil deve alimentar a preparação;
-- microjanelas serão ocupadas por Anki, questões, literalidade normativa ou recuperação oral;
-- blocos de atenção plena continuam reservados para teoria, texto oficial, correção e questões;
-- sono, segurança, obrigações essenciais e atividades que exigem atenção plena não serão tratados como "tempo perdido".
-
-A mudança aumenta a carga e a frequência de revisão, mas **não altera as prioridades técnicas do pré-edital** nem encerra o G0.5.
-
-## Ponteiro operacional
-
-Fonte: [ROADMAP_OPERACIONAL_APROVACAO.md](ROADMAP_OPERACIONAL_APROVACAO.md)
-
-- Gate atual: **O0 — Sincronização e diagnóstico ativo**
-- Ação atual: **O0.01 — Anki devido**
-- Próxima, se PASS: **O0.02 — Português: período composto**
-- Regra Gran: não assistir linearmente aos 732 vídeos; vídeo é ferramenta seletiva por tópico e diagnóstico.
-- Matérias não confirmadas permanecem em HOLD para consumo sistemático até o edital, sem impedir diagnóstico pontual previsto no G0.5.
-
-## Controle de estado persistente
-
-Antes de prescrever a próxima tarefa, consultar obrigatoriamente:
-1. `ESTADO_ESTUDO.md` — snapshot mutável do que está realmente conhecido;
-2. `ROADMAP_OPERACIONAL_APROVACAO.md` — fila e gates;
-3. `ANKI.md` — política/arquitetura dos cartões;
-4. demais fontes de verdade conforme a disciplina.
-
-O estado do AnkiDroid está atualmente **NÃO SINCRONIZADO**. Até AS0 ser fechado, não usar “faça o Anki devido” como instrução automática.
-
-A fila acadêmica não fica bloqueada por AS0: a próxima ação profunda é Português — período composto.
-
-## Plano Mestre no Google Sheets
-
-A execução diária foi migrada para a planilha nativa Google Sheets:
-
+Fonte operacional:
 https://docs.google.com/spreadsheets/d/1z5zYiFpN6FdSBtob95aNbsZN8QEskXGgnoeYWcDOdks/edit
 
-Ela passa a ser a fonte operacional de tarefas, conclusão, minutos, questões, acertos e progresso. O GitHub mantém estratégia e documentação.
+## Recorte literal de regimentos
 
-Correção de 22/09/2026: a primeira passagem de RICD e RCCN será **integral e sequencial**, e não por saltos de artigos. O antigo cronograma avulso foi substituído pelo plano calendarizado até 13/12/2026 (data-alvo operacional, não previsão).
+- RICD: arts. 1–200, 226–251 e 262–273.
+- RCCN: arts. 1–103.
 
-Antes de emitir qualquer plano diário, consultar a planilha e `ESTADO_ESTUDO.md`.
+## Anki
 
+AS0 continua aberto. Não presumir qual baralho está instalado. O cronograma não depende do Anki até o fechamento do gate.
 
-## Simplificação operacional — 22/09/2026
+## Gran
 
-A planilha foi reduzida para cinco abas: `Hoje`, `Plano`, `Regimentos`, `Anki` e `Fontes`.
+Fora do controle operacional. O plano define assunto e tempo; o candidato escolhe o material na plataforma.
 
-O projeto não controla mais vídeos/aulas do Gran. O Gran é gerenciado pelo candidato diretamente na plataforma e não entra no cronograma desta planilha.
+## Gate atual
 
-O único registro obrigatório diário é o checkbox `Feito?`. O campo de observação é opcional e deve ser usado apenas para dúvida, erro importante ou retomada.
+**O0 — primeira passagem integral — 03/10 a 15/11.**
 
-RICD/RCCN permanecem em leitura integral e sequencial; Português, Constitucional e Administrativo são estudados com ChatGPT e fontes oficiais.
-
-O ponteiro antigo de microtarefas fica superado por esta dinâmica. Antes de prescrever estudo, consultar a planilha simplificada e `ESTADO_ESTUDO.md`.
+Saída:
+- 100% dos macrotemas vistos;
+- recortes regimentais fechados;
+- discursiva em rotina;
+- nenhum núcleo de P2 virgem.
