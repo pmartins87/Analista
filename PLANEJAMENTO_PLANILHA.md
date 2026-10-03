@@ -1,58 +1,76 @@
 # PLANEJAMENTO MESTRE — Google Sheets
 
-Atualizado em: **02/10/2026**
+Atualizado em: **03/10/2026**
 
-## Fonte operacional diária
+## Norma superior
+
+Toda gestão da planilha obedece a [CONSTITUICAO_PROJETO.md](CONSTITUICAO_PROJETO.md).
+
+## Fonte operacional
 
 [Plano de Estudos — Analista Registro e Redação — Simplificado](https://docs.google.com/spreadsheets/d/1z5zYiFpN6FdSBtob95aNbsZN8QEskXGgnoeYWcDOdks/edit)
 
-ID: `1z5zYiFpN6FdSBtob95aNbsZN8QEskXGgnoeYWcDOdks`.
+## Abas canônicas
 
-## Estado
+- `Hoje`: orientação rápida.
+- `Plano`: uma linha por data/apostila.
+- `Regimentos`: apoio sequencial dentro do recorte oficial.
+- `Anki`: estado mínimo dos baralhos/revisões.
+- `Fontes`: fontes oficiais e materiais.
+- `Edital Verticalizado`: controle mestre de cobertura, um item/subitem por linha.
+- `Mapa 106 Apostilas`: alocação prévia de A001–A106.
 
-O edital específico foi publicado em 02/10/2026. A antiga data-alvo hipotética de 13/12 foi descartada.
+## Edital Verticalizado
 
-Data oficial da prova: **17/01/2027**.
+Campos:
+- Prova;
+- Disciplina;
+- Item;
+- tópico/subitem literal;
+- Estudado?;
+- Data do 1º estudo;
+- D+1;
+- D+7;
+- D+21;
+- Questões Cebraspe?;
+- Anki?;
+- Observação/erro.
 
-A planilha deve permanecer simples. O documento estratégico detalhado é [PLANO_POS_EDITAL_2026_2027.md](PLANO_POS_EDITAL_2026_2027.md).
+Só marcar `Estudado?` após cobertura integral.
 
-## Carga pós-edital
+## Apostilas
 
-- segunda a sábado: regra-base de 6h líquidas;
-- domingos: 4h, salvo simulados integrais;
-- simulados integrais de 8h: 29/11, 20/12, 03/01 e 10/01;
-- 16/01: 3h leves;
-- total planejado: 616h.
+- A001 = 03/10/2026.
+- A106 = 16/01/2027.
+- Prova = 17/01/2027, fora da série.
 
-## Estrutura da planilha
+A coluna de fonte da aba `Plano` deve apontar para a apostila diária canônica, não para pacote genérico.
 
-Mantêm-se cinco abas:
-- `Hoje`: regras e estado do edital;
-- `Plano`: uma linha simples por data pós-edital;
-- `Regimentos`: sequência literal apenas do recorte oficial;
-- `Anki`: AS0 e estado mínimo;
-- `Fontes`: links oficiais.
+## Anki
 
-O único registro obrigatório continua sendo `Feito?`.
+Organizado por matéria e alimentado por apostila/erros. O antigo AS0 não bloqueia mais o estudo.
 
-## Princípios congelados pós-edital
+## Recorte regimental
 
-1. P2 recebe prioridade porque vale 90 itens, alimenta a discursiva e é primeiro critério acadêmico de desempate.
-2. Discursiva começa imediatamente e usa apenas conteúdo específico, conforme edital.
-3. RICD literal: arts. 1–200, 226–251 e 262–273.
-4. RCCN literal: arts. 1–103.
-5. Taquigrafia: encerrada; não há etapa prática.
-6. P1 deve cobrir Português, Inglês, Administrativo, Constitucional e TI/IA/Dados.
-7. Gran continua fora da planilha; o candidato escolhe o material.
-8. Anki só entra após AS0.
-9. Observação continua opcional.
-10. Retificação oficial substitui imediatamente este planejamento.
+RICD:
+- P1: arts. 1–24, 65–94, 226–251, 262–273;
+- P2: arts. 25–64, 95–200;
+- arts. 201–225 ficam fora do conteúdo.
 
-## Regra de sincronização
+RCCN:
+- P2: arts. 1–71;
+- P1: Título I e Título IV, capítulos II e III, até o art. 103.
 
-Antes do plano diário:
-1. verificar retificações;
-2. ler a linha da data na aba `Plano`;
-3. consultar `Regimentos` e `Anki` quando aplicável;
-4. consultar [ESTADO_ESTUDO.md](ESTADO_ESTUDO.md) e [PLANO_POS_EDITAL_2026_2027.md](PLANO_POS_EDITAL_2026_2027.md);
-5. informar o que executar, sem criar burocracia paralela.
+## Carga
+
+Carga e distribuição de horas são parâmetros **adaptativos**, não constitucionais. A regra-base em auditoria é 6h líquidas de segunda a sábado e 4h aos domingos, com simulados integrais em domingos selecionados e redução na véspera. Qualquer total deverá ser recalculado a partir do mapa vigente; o antigo total de 616h não deve ser reutilizado automaticamente.
+
+## Mudanças
+
+Qualquer redistribuição deve atualizar:
+1. Mapa 106 Apostilas;
+2. aba Plano;
+3. impacto na verticalização;
+4. GitHub.
+
+Nada muda silenciosamente.
