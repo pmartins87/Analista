@@ -1,45 +1,37 @@
-# A001 — Registro de questões e Anki
+# A001 — Registro pós-estudo e Anki
 
 Data: 03/10/2026  
-Status: **MATERIAL PREPARADO; QUESTÕES AINDA NÃO RESOLVIDAS; ANKI AINDA NÃO IMPORTADO/SINCRONIZADO**
+Status: **APOSTILA CONCLUÍDA; ANKI CANÔNICO PENDENTE**
 
-## Escopo
+## Cobertura
+- P2 Linguística item 1 — concluído.
+- P1 Português itens 1 e 2 — concluídos.
+- P1 Constitucional/Regimento item 7.1 — parcial: RICD 1º–15 concluídos; 16–24 pendentes.
 
-Conforme a A001 canônica e o Edital Verticalizado:
-- P1 — Direito Constitucional e Regimento — item 7.1, recorte da A001: RICD arts. 1º–15;
-- P2 — Linguística — item 1: teoria do signo linguístico, linguagem/língua/fala, significante/significado, significação, arbitrariedade/motivação, linearidade, referente/referência/representação/sentido, denotação/conotação.
+## Questões
+A versão estudada da A001 continha 12 itens autorais. Resultado informado: **12/12**, com percepção de dificuldade muito baixa e tempo muito inferior ao previsto.
 
-## Caderno A001
+Após o feedback:
+- a A001 foi recalibrada para uma bateria mista de **20 itens**;
+- foram inseridas questões oficiais completas de Português e RICD a partir de materiais fornecidos ao projeto;
+- Linguística recebeu itens inéditos mais exigentes;
+- o tempo passou a separar **resolução** de **correção**;
+- a bateria nova será executada na D+1 da A002, sem reabrir a conclusão da A001.
 
-Foi preparado um caderno com **46 itens**:
-- **16 questões oficiais CESPE/CEBRASPE históricas** sobre o RICD, concentradas nos arts. 1º–15;
-- **15 itens autorais CEBRASPE-style**, explicitamente rotulados, destinados às regras vigentes e às alterações recentes de 2026 que ainda não poderiam ter sido cobradas por provas anteriores;
-- **15 questões oficiais CESPE/CEBRASPE** de Linguística/Semântica aderentes ao item 1 da A001.
+## Anki
+Retificação importante: **não foi localizado arquivo importável/sincronizado correspondente ao antigo registro de “16 cartões preparados”**. Portanto, essa afirmação não é mais tratada como artefato existente.
 
-As questões oficiais de RICD foram selecionadas dos materiais licenciados fornecidos pelo usuário. Seus enunciados foram preservados sem transformação material. Quando uma questão histórica foi afetada por alteração posterior do RICD, o gabarito histórico foi mantido e a correção passou a destacar a regra vigente.
+O Anki A001 será produzido separadamente da apostila, pelo projeto, depois de:
+1. minerar questões oficiais Cebraspe/Cespe aderentes;
+2. confrontar com o RICD vigente e o item de Linguística;
+3. identificar padrões de confusão da banca;
+4. incorporar erros e acertos com dúvida da D+1;
+5. deduplicar contra baralhos existentes.
 
-### Alterações normativas consideradas
+O candidato não deve criar manualmente os cartões.
 
-- RICD consolidado oficial atualizado até a Resolução da Câmara dos Deputados nº 34/2026;
-- Resolução nº 33/2026: alterações nos arts. 13-A, 13-B e 14 e revogação do art. 9º, § 5º;
-- a Bancada Negra foi criada pela Resolução nº 6/2023; a Resolução nº 33/2026 modificou sua eleição e funcionamento.
-
-A questão histórica sobre participação de membros da Mesa em comissão foi marcada como **afetada pela Resolução nº 33/2026**, para impedir memorização da fundamentação antiga.
-
-## Anki A001
-
-Pacote preparado com **16 cartões de alto valor**:
-- 9 cartões em `Analista::P1::Constitucional_Regimentos`;
-- 7 cartões em `Analista::P2::Linguística`.
-
-Todos os cartões têm tag `A001`, item do edital e tema. Os cartões normativos foram redigidos contra a regra oficial vigente em 2026.
-
-**Não marcar `Anki?` como concluído na planilha ainda.** O pacote foi gerado, mas não foi importado nem sincronizado na conta do usuário. Após a resolução do caderno, erros reais e acertos com dúvida têm prioridade sobre a criação de cartões adicionais.
-
-## Regra de fechamento
-
-Somente depois de o usuário resolver e corrigir o caderno:
-1. calcular pontuação líquida (+1/-1/0);
-2. classificar a causa de cada erro;
-3. acrescentar ao Anki apenas erros reais, acertos com dúvida e distinções frágeis;
-4. então atualizar os controles da verticalização conforme o que foi efetivamente executado.
+## Lições permanentes
+- não colocar frente/verso de cartões na apostila;
+- não selecionar cartão apenas porque há prazo, número, competência ou exceção;
+- priorizar evidência de prova + regra vigente + fragilidade real;
+- nunca marcar `Anki?` na verticalização antes do uso efetivo.
