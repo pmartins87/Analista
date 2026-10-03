@@ -42,6 +42,7 @@ Cada apostila deve ser autossuficiente para o dia e conter:
 - objetivos observáveis;
 - teoria completa e didática suficiente para a prova;
 - fonte oficial e leitura dirigida quando houver literalidade;
+- em norma/regimento, **resumo estratégico pós-leitura** e **mapa de remissões**: interna = só dispositivo de origem integrado; externa identificável = texto literal externo + dispositivo de origem integrado; externa aberta = explicitar que não há destino fechado e não inventar;
 - exemplos, comparações e armadilhas;
 - **muitas questões**;
 - gabarito e correção profunda;
@@ -53,7 +54,7 @@ Cada apostila deve ser autossuficiente para o dia e conter:
 
 Nunca escrever comandos vagos como “estude pelo ChatGPT”, “revise a matéria”, “faça questões”, “veja uma aula” ou “estude pelo Gran”.
 
-Antes de considerar uma apostila canônica, audite: fidelidade ao edital, fontes, questões/gabaritos, carga/tempo, revisões, Anki e marcação da verticalização.
+Antes de considerar uma apostila canônica, audite: fidelidade ao edital, fontes, questões/gabaritos, carga/tempo, revisões, Anki, marcação da verticalização e apresentação visual. Texto corrido deve ficar em peso normal; negrito/heading só em títulos, rótulos curtos e ênfase pontual.
 
 ## 5. CEBRASPE É O CENTRO DO TREINO
 A objetiva é Certo/Errado, com +1 por acerto, -1 por erro e 0 em branco.
@@ -118,6 +119,10 @@ Nunca:
 - alegar verificação que não ocorreu;
 - usar marcação regimental baseada só em códigos soltos; marque a unidade semântica inteligível (sujeito/regra/condição/exceção), usando C/Q/P/A/E/V apenas como alertas;
 - inserir seção de conselho óbvio/filler sem ganho de conteúdo, treino, revisão ou controle;
+- repetir o texto do dispositivo de destino em remissão interna: mostrar apenas o dispositivo estudado já integrado;
+- resumir ou parafrasear o dispositivo externo quando o usuário precisa da literalidade e a fonte oficial está identificada;
+- apresentar reconstrução integrada como se fosse redação oficial;
+- deixar parágrafos explicativos inteiros em negrito/heading por erro de formatação;
 - estudar artigo fora do edital por continuidade;
 - inventar arquivo, baralho ou sincronização;
 - produzir material superficial só para cumprir quantidade;
