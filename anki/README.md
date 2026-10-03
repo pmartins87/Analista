@@ -1,28 +1,38 @@
-# Anki — artefatos e versões
+# Anki — política canônica pós-edital
 
-Este diretório registra as versões e decisões do sistema Anki do projeto.
+Atualizado em: **03/10/2026**
 
-## v1 — 20/09/2026 — pré-edital
+O Anki é um dos três instrumentos centrais do projeto, mas **é separado das apostilas**.
 
-Pacote distribuído ao aluno: `Analista_Anki_Estudo_v1.zip`
+## Organização
+Baralhos por matéria:
+- P1::Português
+- P1::Inglês
+- P1::Administrativo
+- P1::Constitucional_Regimentos
+- P1::TI_Dados_IA
+- P2::Linguística
+- P2::ASR_Transcrição_IA
+- P2::Processo_Regimentos
+- P2::Ciência_Política
+- Discursiva
 
-### Quantidade
-- Português: 30
-- RICD: 30
-- RCCN: 18
-- Total: 78 cartões
+Tags: apostila (A001 etc.), item do edital, tema e, quando couber, erro_real/literalidade/oficial_cebraspe.
 
-### Estrutura
-- `Analista::Estudo::Português`
-- `Analista::Estudo::RICD`
-- `Analista::Estudo::RCCN`
+## Seleção
+O candidato **não redige os cartões**. O projeto os produz em artefato separado.
 
-### Decisão de revisão
-Não duplicar notas em um segundo baralho. Usar o agendamento normal do Anki e, quando necessário, baralhos filtrados por tags.
+Não existe regra “prazo/competência/exceção = cartão”. Cada candidato a cartão deve ser avaliado por:
+1. incidência/padrões de provas Cebraspe/Cespe;
+2. aderência ao edital;
+3. regra oficial vigente;
+4. potencial de confusão/discriminação;
+5. importância conceitual;
+6. erro real ou acerto com dúvida do candidato.
 
-### Rastreamento
-A política, gates de validação, fontes e regras de manutenção estão em [../ANKI.md](../ANKI.md).
+Evitar volume automático e cartões triviais.
 
-### Estado
-Baseline válido enquanto pré-edital. Deve ser reavaliado imediatamente após a publicação do edital específico de Registro e Redação.
+## Estado do material antigo
+O pacote pré-edital v1 fica **arquivado como histórico**, não como fonte canônica pós-edital.
 
+Nenhum baralho deve ser declarado criado, importado ou sincronizado sem artefato comprovável e confirmação de uso.
