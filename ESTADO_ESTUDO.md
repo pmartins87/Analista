@@ -79,6 +79,14 @@ Escopo:
 
 Os arts. 1º–15 estão dentro do edital.
 
+### Leitura literal e remissões — 03/10/2026
+
+- Leitura literal dos **arts. 1º–15 do RICD** realizada pelo candidato.
+- O item P1 7.1 permanece **parcial**, pois os arts. 16–24 ainda não foram estudados.
+- A A001 foi atualizada com **Resumo Estratégico** e **Mapa de Remissões Resolvidas** dos arts. 1º–15.
+- O mapa resolve as referências internas e externas relevantes e explicita o resultado semântico que pode aparecer em questão Cebraspe, evitando consultas repetidas a vários diplomas depois da primeira leitura.
+- Novo padrão canônico: toda apostila futura com bloco normativo deverá conter resumo pós-leitura e mapa de remissões resolvidas; norma externa fora do edital entra somente como **APOIO — REMISSÃO**, sem gerar cobertura autônoma.
+
 ### Material de questões e Anki — 03/10/2026
 
 Preparado caderno específico da A001 com **46 itens**:
