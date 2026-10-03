@@ -111,15 +111,17 @@ Cada apostila deve ser autossuficiente para aquele dia e conter, nesta ordem:
 6. teoria completa suficiente para a prova;
 7. remissão à fonte oficial quando a literalidade for relevante;
 8. leitura dirigida da fonte, com indicação exata do trecho;
-9. exemplos e contrastes;
-10. pegadinhas típicas Cebraspe;
-11. muitas questões;
-12. correção comentada;
-13. recuperação ativa sem consulta;
-14. discursiva/peça técnica quando programada;
-15. cartões Anki candidatos;
-16. checklist de encerramento;
-17. instrução exata de quais linhas do Edital Verticalizado podem ser marcadas.
+9. **resumo estratégico pós-leitura** dos dispositivos normativos estudados, sem substituir a fonte oficial;
+10. **mapa de remissões resolvidas**, sempre que o bloco normativo remeter a outro artigo, Constituição, lei, resolução, código ou outra norma: origem da remissão, conteúdo referenciado em síntese fiel, resultado semântico da combinação e modo provável de cobrança; remissão externa fora do edital entra somente como **APOIO — REMISSÃO**, sem checkbox autônomo;
+11. exemplos e contrastes;
+12. pegadinhas típicas Cebraspe;
+13. muitas questões;
+14. correção comentada;
+15. recuperação ativa sem consulta;
+16. discursiva/peça técnica quando programada;
+17. cartões Anki candidatos;
+18. checklist de encerramento;
+19. instrução exata de quais linhas do Edital Verticalizado podem ser marcadas.
 
 Não usar comandos vagos como:
 - “estude pelo ChatGPT”;
@@ -375,10 +377,11 @@ Antes de escrever:
 2. consultar o mapa das 106;
 3. consultar o Edital Verticalizado;
 4. conferir o trecho literal do edital oficial;
-5. verificar o que já foi marcado como estudado/revisado;
-6. verificar erros relevantes das apostilas anteriores;
-7. selecionar questões oficiais do tema;
-8. só então escrever.
+5. nos blocos normativos, identificar previamente as remissões e resolver o conteúdo efetivamente importado por elas;
+6. verificar o que já foi marcado como estudado/revisado;
+7. verificar erros relevantes das apostilas anteriores;
+8. selecionar questões oficiais do tema, incluindo cobrança de remissões já resolvidas quando houver precedente;
+9. só então escrever.
 
 Depois de escrever:
 1. auditar todos os conteúdos contra o edital;
