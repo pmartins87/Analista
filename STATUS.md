@@ -61,3 +61,12 @@ Saída:
 - recortes regimentais fechados;
 - discursiva em rotina;
 - nenhum núcleo de P2 virgem.
+
+
+## Apostilas diárias — atualização 03/10/2026
+
+- A001 está em estudo e foi revisada após feedback de qualidade.
+- Problema identificado: excesso de definições abstratas, baixa rastreabilidade e questões concentradas em vez de intercaladas.
+- Novo padrão vinculante A001–A106 registrado em `MATERIAIS/00_GUIA_FONTES_E_METODO.md`: **teoria → exemplo → questão → fundamento**, com preferência por questões oficiais Cebraspe e fontes explícitas.
+- Item 2.7 da A001 (referente/referência/representação/sentido) refeito com exemplos e aplicação; adicionadas questões oficiais sobre signo e gênero/tipo e seção de fontes.
+- O mapa global das 106 apostilas permanece preservado; feedback de desempenho ajusta profundidade e remediação, não autoriza improvisar a cobertura.
