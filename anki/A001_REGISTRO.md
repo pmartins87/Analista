@@ -1,7 +1,7 @@
 # A001 — Registro pós-estudo e Anki
 
 Data: 03/10/2026  
-Status: **APOSTILA CONCLUÍDA; ANKI CANÔNICO PENDENTE**
+Status: **APOSTILA CONCLUÍDA; BASE ANKI CRIADA; D+1 PENDENTE**
 
 ## Cobertura
 - P2 Linguística item 1 — concluído.
@@ -12,26 +12,29 @@ Status: **APOSTILA CONCLUÍDA; ANKI CANÔNICO PENDENTE**
 A versão estudada da A001 continha 12 itens autorais. Resultado informado: **12/12**, com percepção de dificuldade muito baixa e tempo muito inferior ao previsto.
 
 Após o feedback:
-- a A001 foi recalibrada para uma bateria mista de **20 itens**;
-- foram inseridas questões oficiais completas de Português e RICD a partir de materiais fornecidos ao projeto;
+- a A001 foi recalibrada para bateria mista de 20 itens;
+- foram inseridas questões oficiais completas de Português e RICD;
 - Linguística recebeu itens inéditos mais exigentes;
-- o tempo passou a separar **resolução** de **correção**;
+- resolução e correção passaram a ter tempos separados;
 - a bateria nova será executada na D+1 da A002, sem reabrir a conclusão da A001.
 
-## Anki
-Retificação importante: **não foi localizado arquivo importável/sincronizado correspondente ao antigo registro de “16 cartões preparados”**. Portanto, essa afirmação não é mais tratada como artefato existente.
+## Anki — artefatos existentes
+Foram criados **15 cartões-base**, separados por matéria:
+- `A001_P1_Portugues.tsv` — 3 cartões;
+- `A001_P2_Linguistica.tsv` — 4 cartões;
+- `A001_P1_Constitucional_Regimentos.tsv` — 8 cartões.
 
-O Anki A001 será produzido separadamente da apostila, pelo projeto, depois de:
-1. minerar questões oficiais Cebraspe/Cespe aderentes;
-2. confrontar com o RICD vigente e o item de Linguística;
-3. identificar padrões de confusão da banca;
-4. incorporar erros e acertos com dúvida da D+1;
-5. deduplicar contra baralhos existentes.
+Índice: [A001_INDEX.md](A001_INDEX.md)
 
-O candidato não deve criar manualmente os cartões.
+A seleção usou aderência ao edital, padrões Cebraspe, regra vigente e potencial discriminativo. O cartão sobre composição da Mesa registra expressamente: art. 14, §1º = Presidente + 2 Vice-Presidentes + 4 Secretários; os 4 Suplentes são previstos separadamente no §2º.
+
+A002 poderá acrescentar cartões apenas se surgirem erros reais ou acertos com dúvida. **Não existe quota mínima de cartões por apostila.**
+
+Nenhum arquivo foi sincronizado automaticamente com Anki/AnkiDroid.
 
 ## Lições permanentes
-- não colocar frente/verso de cartões na apostila;
-- não selecionar cartão apenas porque há prazo, número, competência ou exceção;
-- priorizar evidência de prova + regra vigente + fragilidade real;
-- nunca marcar `Anki?` na verticalização antes do uso efetivo.
+- Anki fora da apostila;
+- candidato não redige cartões;
+- não selecionar cartão apenas por conter prazo/número/competência;
+- registrar todos os artefatos e links na planilha;
+- só marcar `Anki?` na verticalização quando o material correspondente tiver sido efetivamente incorporado/revisado conforme o controle do projeto.
