@@ -259,6 +259,28 @@ Exemplo vinculante para RICD: arts. 1º–24 pertencem a **P1, item 7.1**; arts.
 
 Ao usar o arquivo oficial da Resolução nº 17/1989, distinguir a **Resolução que aprova o Regimento** de seu **texto anexo (RICD)**. Os arts. 1º–8º iniciais da Resolução não se confundem com os arts. 1º–8º do RICD. Quando o edital indicar “RICD: arts. ...”, estudar os artigos do texto regimental anexo, salvo menção expressa do edital à parte preambular da Resolução.
 
+### Regra de remissões normativas no RICD/RCCN — decisão de 03/10/2026
+
+Remissão expressa no texto normativo não será estudada apenas como número de artigo. Para fins de prova Cebraspe, deve-se distinguir **texto de remissão** e **regra resolvida**.
+
+Procedimento:
+1. quando um dispositivo do RICD remeter a outro dispositivo do próprio RICD que esteja no edital, abrir a referência e estudar a consequência normativa completa que foi incorporada;
+2. quando a remissão for à Constituição ou a outra norma que também esteja no edital, resolver a referência e integrar os dois textos;
+3. quando a remissão for a norma/dispositivo externo que não constitua conteúdo autônomo do edital, estudar somente o fragmento indispensável para compreender a regra do RICD, rotulado **APOIO — remissão**, sem criar checkbox de cobertura externo;
+4. em questões e Anki, treinar tanto a formulação literal (“nos termos do art. X”) quanto a formulação **desreferenciada**, em que a banca substitui o número do artigo pelo conteúdo efetivo do dispositivo referido;
+5. registrar remissões com alta capacidade de alterar competência, sujeito, prazo, quórum, prerrogativa, condição ou exceção como pontos de alta prioridade.
+
+Evidência Cebraspe: Câmara/Analista/Técnica Legislativa/2012, item 104, cobrou diretamente uma prerrogativa do Líder do Governo. O art. 11 do RICD não reproduzia a prerrogativa; remetia aos incisos I, III e IV do art. 10. A banca apresentou no item o conteúdo do art. 10, III (“participar... dos trabalhos de qualquer Comissão... sem direito a voto”), demonstrando que uma remissão interna pode ser cobrada já **resolvida**.
+
+Aplicações prioritárias no recorte inicial:
+- art. 9º → CF, art. 17, § 3º: requisito para existência de Liderança partidária;
+- art. 10, I → arts. 66, §§ 1º e 3º, e 89 do RICD: uso da palavra/Comunicações de Liderança;
+- art. 10, V → art. 8º, III: registro/documentação dos candidatos à Mesa;
+- art. 11 e art. 11-A → art. 10, I, III e IV: prerrogativas das Lideranças do Governo e da Minoria;
+- art. 15, II → CF, art. 57, § 5º: constituição da Mesa do Congresso Nacional.
+
+Não é necessário transformar toda remissão em estudo ilimitado da norma externa. A unidade mínima de estudo é a **regra importada pela remissão**, preservado o recorte do edital.
+
 ### Gate de qualidade antes de liberar uma apostila
 
 Não liberar como pronta se houver: conceito abstrato sem exemplo; definição circular; seção sem fonte rastreável; questão autoral não rotulada; conteúdo regimental sem conferência oficial; bloco teórico relevante sem aplicação; tópico sem prova/disciplina/item exato do edital; encerramento de tópico sem registro do item coberto; cobertura parcial apresentada como integral; ou divergência com o edital verticalizado/mapa A001–A106 sem justificativa.
