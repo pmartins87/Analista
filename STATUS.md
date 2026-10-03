@@ -1,6 +1,6 @@
 # STATUS — Analista Registro e Redação
 
-Atualizado em: **02/10/2026**
+Atualizado em: **03/10/2026**
 
 ## Estado
 
@@ -65,8 +65,11 @@ Saída:
 
 ## Apostilas diárias — atualização 03/10/2026
 
-- A001 está em estudo e foi revisada após feedback de qualidade.
-- Problema identificado: excesso de definições abstratas, baixa rastreabilidade e questões concentradas em vez de intercaladas.
-- Novo padrão vinculante A001–A106 registrado em `MATERIAIS/00_GUIA_FONTES_E_METODO.md`: **teoria → exemplo → questão → fundamento**, com preferência por questões oficiais Cebraspe e fontes explícitas.
-- Item 2.7 da A001 (referente/referência/representação/sentido) refeito com exemplos e aplicação; adicionadas questões oficiais sobre signo e gênero/tipo e seção de fontes.
-- O mapa global das 106 apostilas permanece preservado; feedback de desempenho ajusta profundidade e remediação, não autoriza improvisar a cobertura.
+- A001 está em estudo e passou por nova auditoria contra a aba **Edital Verticalizado**.
+- Correção importante: os **arts. 1º–15 do RICD são conteúdo válido do edital**, pois integram **P1 — Direito Constitucional e Regimento — item 7.1 (arts. 1º–24)**. A afirmação anterior de que esse trecho estaria fora do edital foi erro de resposta, causado pela confusão com **P2 — Processo Legislativo e Regimentos — item 2.1 (arts. 25–64 e 95–200)**.
+- A001 agora identifica no mapa inicial e nos fechamentos de bloco a **prova, disciplina e item exato do edital**.
+- No RICD, A001 registra **cobertura parcial** do item 7.1: arts. 1º–15 estudados; arts. 16–24 permanecem pendentes.
+- A bateria autoral da A001 foi rotulada como **CEBRASPE-style — autoral**, e cada questão passou a indicar o item do edital testado.
+- Novo padrão vinculante A001–A106 registrado em `MATERIAIS/00_GUIA_FONTES_E_METODO.md`: conteúdo exclusivamente aderente ao edital, conferência prévia na verticalização, **teoria → exemplo → questão → fundamento**, fontes rastreáveis e fechamento de cada tópico com “COM ISSO, VIMOS: [item do edital]”.
+- Conteúdo auxiliar só pode entrar para explicar/aplicar um item expresso do edital; não cria novo tópico de estudo.
+- O edital vigente e suas retificações prevalecem sobre plano anterior, apostila, curso, memória ou resumo.
