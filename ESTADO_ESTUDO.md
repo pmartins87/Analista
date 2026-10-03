@@ -4,40 +4,59 @@ Atualizado em: **03/10/2026**
 
 ## Norma máxima
 
-A partir de 03/10/2026, o arquivo [CONSTITUICAO_PROJETO.md](CONSTITUICAO_PROJETO.md) é a norma máxima do projeto.
-
-Prompt de uso: [PROMPT_PROJETO.md](PROMPT_PROJETO.md).
+[CONSTITUICAO_PROJETO.md](CONSTITUICAO_PROJETO.md) é a norma máxima do projeto.  
+[PROMPT_PROJETO.md](PROMPT_PROJETO.md) é a versão curta destinada às instruções do Projeto.
 
 Em caso de conflito com planejamento antigo, a Constituição prevalece, salvo retificação oficial ou decisão expressa posterior do usuário.
 
 ## Estado atual
 
-**PÓS-EDITAL / IMERSÃO TOTAL**
-
-Edital nº 1 publicado em 02/10/2026.
+**PÓS-EDITAL / SISTEMA CANÔNICO IMPLANTADO**
 
 Prova: **17/01/2027**.
 
 Registro e Redação:
-- 25 vagas imediatas + 25 CR;
 - P1: 90 itens;
 - P2: 90 itens;
-- P3 discursiva: 60 pontos — 2 questões de até 20 linhas + 1 peça técnica de até 50 linhas;
-- objetiva: 5h;
-- discursiva: 3h;
+- discursiva: 60 pontos — 2 questões de até 20 linhas + 1 peça técnica de até 50 linhas;
 - sem prova prática de taquigrafia.
 
-## Método congelado
+## Os três instrumentos centrais
 
-O estudo passa a ter três instrumentos centrais:
-
-1. **Edital Verticalizado** — controle mestre literal, um item/subitem por linha.
-2. **106 Apostilas Diárias** — A001 em 03/10/2026 até A106 em 16/01/2027.
+1. **Edital Verticalizado** — 182 itens/subitens individualizados.
+2. **Mapa 106 Apostilas** — A001 em 03/10/2026 até A106 em 16/01/2027.
 3. **Anki por matéria** — alimentado progressivamente pelas apostilas e pelos erros reais.
 
-A prova de 17/01/2027 fica fora da série de 106 apostilas.
+A prova de 17/01/2027 fica fora da série de apostilas.
 
-## Fidelidade ao edital
+## Mapa A001–A106
+
+A aba `Mapa 106 Apostilas` está preenchida com:
+- data;
+- fase;
+- carga-base;
+- itens/cobertura;
+- escopo canônico;
+- revisões automáticas D+1/D+7/D+21;
+- status;
+- link da apostila quando criada;
+- observações/alterações.
+
+Fases:
+- A001–A051: F1 — cobertura integral;
+- A052–A072: F2 — consolidação;
+- A073–A093: F3 — intensificação;
+- A094–A106: F4 — reta final.
+
+Simulados integrais previstos:
+- A058 — 29/11/2026;
+- A079 — 20/12/2026;
+- A093 — 03/01/2027;
+- A100 — 10/01/2027.
+
+A carga-base do mapa atual soma **619 horas líquidas**. Esse número é adaptativo; não é regra constitucional.
+
+## Recorte regimental
 
 RICD:
 - P1: arts. 1º–24; 65–94; 226–251; 262–273;
@@ -47,24 +66,18 @@ RICD:
 
 RCCN:
 - P2: arts. 1º–71;
-- P1: Título I e Título IV, capítulos II e III, até art. 103;
-- conferir a estrutura literal antes de inferir intervalos.
+- P1: Título I e Título IV, capítulos II e III, até o art. 103.
 
-## Apostilas
+## A001
 
-Cada apostila deve ser autossuficiente e incluir:
-- itens do edital;
-- revisões;
-- teoria;
-- fontes oficiais;
-- questões Cebraspe;
-- correção;
-- recuperação ativa;
-- discursiva quando programada;
-- candidatos a cartões Anki;
-- indicação exata do que marcar no Edital Verticalizado.
+A001 — 03/10/2026 — criada e em revisão.
 
-Nenhum comando vago do tipo “estudar pelo ChatGPT” é canônico.
+Escopo:
+- P2 Linguística item 1;
+- P1 Português itens 1–2;
+- P1 Constitucional/Regimento item 7.1, parcialmente: RICD arts. 1º–15.
+
+Os arts. 1º–15 estão dentro do edital.
 
 ## Questões
 
@@ -73,38 +86,23 @@ Prioridade:
 2. oficiais de tema próximo;
 3. inéditas com alma Cebraspe.
 
-Nunca chamar questão criada de oficial.
-
-Métrica principal em blocos/simulados: pontuação líquida (+1/-1/0) e causa do erro.
+Métrica principal em simulados e baterias: pontuação líquida (+1/-1/0) e causa do erro.
 
 ## Anki
 
-O antigo gate AS0 deixa de bloquear o projeto.
+O antigo AS0 não bloqueia mais o estudo.
 
-O Anki será construído progressivamente **por matéria**, com tags por apostila e item do edital.
+Baralhos por matéria, tags por apostila/item do edital, com prioridade para:
+- erros reais;
+- acertos com dúvida;
+- literalidade;
+- distinções;
+- prazos/quóruns/competências;
+- conceitos de alta incidência.
 
-## Planilha
+## Próximo trabalho
 
-Fonte operacional:
-https://docs.google.com/spreadsheets/d/1z5zYiFpN6FdSBtob95aNbsZN8QEskXGgnoeYWcDOdks/edit
-
-A aba `Edital Verticalizado` foi reconstruída em 03/10/2026 com 182 itens/subitens individualizados do edital.
-
-## Situação da A001
-
-A001 — 03/10/2026.
-
-RICD arts. 1º–15 está **dentro** do edital, pois o P1 cobra arts. 1º–24.
-
-O erro real encontrado na auditoria estava no mapa futuro, que havia previsto RICD 201–215 como “ponte/contexto”; isso é proibido pela Constituição e deve ser removido.
-
-## Próximo trabalho estratégico
-
-Fechar e auditar o mapa das 106 apostilas, garantindo:
-- 100% de cobertura;
-- zero conteúdo extraprogramático tratado como prova;
-- revisões D+1/D+7/D+21;
-- questões recorrentes;
-- discursiva;
-- simulados;
-- reta final sem conteúdo novo relevante.
+1. auditar a A001 pelas novas diretrizes;
+2. usar o chat `A001 — Revisão` para dúvidas/erros;
+3. fechar cartões Anki derivados da A001;
+4. produzir A002 respeitando o mapa e as revisões previstas.
