@@ -211,3 +211,36 @@ Uma sessão só está “feita” quando:
 - houve aplicação (questão, exemplo, mapa ou escrita);
 - erros relevantes foram registrados ou convertidos em cartão;
 - o checkbox `Feito?` foi marcado na planilha.
+
+
+## Padrão canônico das 106 apostilas diárias — decisão de 03/10/2026
+
+As apostilas A001–A106 são a unidade diária de estudo. O mapa dos 106 dias deve permanecer previamente definido; a redação detalhada de cada apostila pode ser produzida progressivamente, incorporando desempenho e erros reais sem improvisar a cobertura global.
+
+### Regra pedagógica obrigatória
+
+Apostila diária não pode ser mero roteiro nem lista de conceitos. Deve ser material autossuficiente para a sessão, com ciclo recorrente **teoria → exemplo concreto → questão → correção/fundamento**, repetido ao longo do conteúdo. Instruções vagas como “estudar X pelo ChatGPT” não satisfazem o padrão.
+
+Para cada conceito novo:
+1. explicar em linguagem precisa e concreta, evitando definições circulares ou que apenas troquem um termo desconhecido por outros;
+2. apresentar pelo menos um exemplo e, quando houver confusão provável, um contraexemplo/contraste;
+3. identificar a fonte conceitual ou normativa usada e permitir rastreabilidade para aprofundamento;
+4. inserir aplicação imediata em questão, preferencialmente **questão oficial Cebraspe/Cespe pertinente**, com identificação da prova/ano quando disponível;
+5. quando não houver questão oficial adequada, usar questão autoral explicitamente rotulada **CEBRASPE-style**, nunca apresentada como oficial;
+6. comentar o gabarito pelo fundamento e pela pegadinha, não apenas indicar C/E.
+
+### Densidade de questões
+
+Resolver o máximo de questões úteis durante os 106 dias é objetivo explícito. Questões não devem ficar concentradas apenas em um bloco final: devem aparecer intercaladas com a teoria (“assunto → questão → assunto → questão”), além das baterias, revisões e simulados programados. Priorizar questões oficiais Cebraspe do mesmo tema e nível; usar questões autorais para preencher lacunas ou testar distinções específicas.
+
+### Fontes e confiança
+
+Toda apostila deve terminar com seção **Fontes desta apostila**, discriminando, por bloco, as fontes efetivamente utilizadas. Em regimentos/leis, prevalece a fonte oficial e a literalidade. Em Linguística/Português, usar bibliografia consagrada indicada neste guia e provas oficiais Cebraspe; materiais do Gran podem complementar explicação e questões, sem substituir fonte oficial quando houver. Afirmações cuja formulação varie por corrente teórica devem indicar o enquadramento (por exemplo, “na formulação saussuriana”).
+
+### Gate de qualidade antes de liberar uma apostila
+
+Não liberar como pronta se houver: conceito abstrato sem exemplo; definição circular; seção sem fonte rastreável; questão autoral não rotulada; conteúdo regimental sem conferência oficial; bloco teórico relevante sem aplicação; ou divergência com o mapa A001–A106 sem justificativa baseada em desempenho/edital.
+
+### Correção da A001
+
+A versão inicial da A001 (03/10/2026) foi considerada abaixo deste padrão, especialmente no item 2.7 (referente, referência, representação e sentido) e pela baixa integração de questões com a teoria. Deve ser revisada integralmente segundo este padrão; a falha é tratada como correção metodológica para A001–A106, não como exceção pontual.
