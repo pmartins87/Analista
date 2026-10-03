@@ -1,6 +1,6 @@
 # CONSTITUIÇÃO DO PROJETO — ANALISTA REGISTRO E REDAÇÃO
 
-Versão: 1.1  
+Versão: 1.2  
 Data: 03/10/2026  
 Status: **NORMA MÁXIMA DO PROJETO**
 
@@ -112,7 +112,12 @@ Cada apostila deve ser autossuficiente para aquele dia e conter, nesta ordem:
 7. remissão à fonte oficial quando a literalidade for relevante;
 8. leitura dirigida da fonte, com indicação exata do trecho;
 9. **resumo estratégico pós-leitura** dos dispositivos normativos estudados, sem substituir a fonte oficial;
-10. **mapa de remissões resolvidas**, sempre que o bloco normativo remeter a outro artigo, Constituição, lei, resolução, código ou outra norma: origem da remissão, conteúdo referenciado em síntese fiel, resultado semântico da combinação e modo provável de cobrança; remissão externa fora do edital entra somente como **APOIO — REMISSÃO**, sem checkbox autônomo;
+10. **mapa de remissões resolvidas**, sempre que o bloco normativo remeter a outro dispositivo ou norma, obedecendo ao padrão:
+   - **remissão interna ao mesmo diploma**: não repetir separadamente o dispositivo de destino; mostrar somente o dispositivo de origem em versão integrada, com o conteúdo chamado pela remissão incorporado;
+   - **remissão externa com destino identificável**: transcrever primeiro o texto exato do dispositivo externo referenciado e, em seguida, mostrar o dispositivo estudado em versão integrada;
+   - **remissão externa aberta/dinâmica, sem artigo ou ato numericamente identificável**: não inventar destino; explicar a limitação e produzir apenas a integração que seja possível sem falsa precisão;
+   - toda “versão integrada” deve ser rotulada como reconstrução didática, **não como nova redação oficial**;
+   - apoio externo fora do edital não cria checkbox autônomo;
 11. exemplos e contrastes;
 12. pegadinhas típicas Cebraspe;
 13. muitas questões;
@@ -134,6 +139,15 @@ A apostila deve dizer **o que, onde, como e quanto**.
 Nos blocos normativos, códigos como C=competência, Q=quórum, P=prazo, A=autoridade, E=exceção e V=verbo podem ser usados apenas como **alertas de incidência**, nunca como método exclusivo de marcação. A marcação deve preservar a menor unidade semântica inteligível: sujeito/autoridade + regra/ação + condição/limite/exceção quando relevante. Também podem ser marcadas definições, consequências, sequências, vedações, faculdades, remissões e quaisquer trechos cujo apagamento altere a resposta de uma questão plausível.
 
 Evitar seções de preenchimento ou conselhos comportamentais genéricos (“não abra outros materiais”, “não adiante amanhã” etc.). Se uma seção não agrega conteúdo, treino, revisão, fonte ou controle de cobertura, ela não entra na apostila.
+
+### 3.2.1 Padrão visual
+A apresentação deve facilitar leitura sem competir com o conteúdo:
+- texto corrido em peso normal;
+- negrito reservado a títulos, subtítulos, rótulos curtos e ênfase pontual;
+- nunca transformar parágrafo explicativo inteiro em heading/negrito;
+- hierarquia tipográfica estável em toda a apostila;
+- blocos de literalidade/remissões podem ser recuados para se distinguirem do comentário;
+- toda edição deve ser auditada contra concatenações, títulos desaparecidos, duplicações e estilos herdados acidentalmente.
 
 ### 3.3 Anki — retenção de longo prazo
 
@@ -477,7 +491,7 @@ A aprovação é o objetivo; os artefatos são apenas instrumentos.
 - qualquer planejamento que inclua RICD 201–225 como conteúdo de prova está errado e deve ser corrigido;
 - Edital Verticalizado atual deve ser refeito em granularidade de um item/subitem por linha;
 - antigo AS0 não bloqueia mais o Anki: os cartões passam a ser gerados progressivamente por matéria a partir das apostilas e dos erros;
-- lições da revisão A001: marcação regimental deve preservar unidade semântica; Anki é artefato separado e selecionado por evidência; bateria precisa cobrir todos os blocos do dia e refletir dificuldade real; tempos de resolução e correção são separados; P3 só entra nas sessões previstas pelo Dossiê/Mapa; documentos devem ter hierarquia visual consistente sem sacrificar conteúdo.
+- lições da revisão A001: marcação regimental deve preservar unidade semântica; Anki é artefato separado e selecionado por evidência; bateria precisa cobrir todos os blocos do dia e refletir dificuldade real; tempos de resolução e correção são separados; P3 só entra nas sessões previstas pelo Dossiê/Mapa; documentos devem ter hierarquia visual consistente sem sacrificar conteúdo; mapa de remissões segue o padrão interno=apenas RICD integrado / externo=texto literal externo + RICD integrado / destino aberto=não inventar.
 
 ---
 
