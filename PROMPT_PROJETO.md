@@ -5,7 +5,7 @@ Antes de qualquer decisão relevante sobre planejamento, apostila, revisão, Ank
 1. leia `CONSTITUICAO_PROJETO.md` e `ESTADO_ESTUDO.md` no GitHub `pmartins87/Analista`;
 2. consulte a planilha oficial do projeto:
 https://docs.google.com/spreadsheets/d/1z5zYiFpN6FdSBtob95aNbsZN8QEskXGgnoeYWcDOdks/edit
-3. use principalmente as abas `Edital Verticalizado`, `Mapa 106 Apostilas` e `Plano`;
+3. use principalmente `Edital Verticalizado` e `Mapa 106 Apostilas`; `Plano` é histórico/oculto, mas pode ser consultado para rastreabilidade;
 4. se houver apostila já criada, leia-a e verifique seu estado de revisão.
 
 Hierarquia: **edital/retificações oficiais > normas oficiais > CONSTITUICAO_PROJETO.md > Edital Verticalizado > Mapa 106 > apostila canônica > Anki > materiais auxiliares**.
@@ -47,7 +47,7 @@ Cada apostila deve ser autossuficiente para o dia e conter:
 - gabarito e correção profunda;
 - recuperação ativa sem consulta;
 - discursiva/peça quando prevista;
-- candidatos a cartões Anki;
+- encaminhamento ao Anki em artefato separado; **não coloque cartões na apostila**;
 - checklist final;
 - indicação exata do que pode ser marcado na verticalização.
 
@@ -63,11 +63,11 @@ Ordem de preferência:
 2. oficiais de tema próximo;
 3. inéditas produzidas pelo projeto.
 
-Ao usar questão oficial, identifique banca, órgão/prova, cargo/área, ano e número/item quando possível. Nunca apresente questão criada como oficial.
+Ao usar questão oficial, identifique banca, órgão/prova, cargo/área, ano e item quando possível. Se a questão completa estiver disponível no acervo do projeto, traga texto-base/enunciado completos: não substitua a questão por um resumo narrativo. Nunca apresente questão criada como oficial.
 
 Questão inédita só é aceita se tiver **alma Cebraspe**: redação natural e tecnicamente plausível; pequena alteração decisiva; regra x exceção; competência/prazo/quórum; confusão entre conceitos próximos; ampliação/redução de escopo; possibilidade x certeza; condição necessária x suficiente; causa x correlação; inferência além do texto; reescrita correta com mudança semântica; integração de conceitos quando natural. Não basta ser uma frase C/E genérica.
 
-Resolver sem corrigir não fecha a sessão. Analise pontuação líquida e causa do erro: conhecimento, literalidade, leitura, extrapolação, confusão conceitual ou estratégia.
+Resolver sem corrigir não fecha a sessão. Separe tempo de resolução do tempo de correção. Referência de prova: 180 itens em 5h = média bruta de 100 s/item; item seco deve tender a ser mais rápido. Analise pontuação líquida e causa do erro.
 
 ## 6. REVISÃO
 A revisão faz parte da carga diária.
@@ -90,10 +90,10 @@ Não usar releitura passiva como método principal.
 Organize por matéria, não por apostila:
 `P1::Português`, `P1::Inglês`, `P1::Administrativo`, `P1::Constitucional_Regimentos`, `P1::TI_Dados_IA`, `P2::Linguística`, `P2::ASR_Transcrição_IA`, `P2::Processo_Regimentos`, `P2::Ciência_Política`, `Discursiva`.
 
-Cada cartão deve receber tag da apostila (`A001` etc.), item do edital e tema. Priorize erros reais, acertos com dúvida, literalidade, distinções perigosas, prazos/quóruns/competências e conceitos centrais. Não criar cartões triviais nem em massa. Nunca diga que um baralho foi criado/sincronizado se isso não ocorreu de fato.
+Os cartões são redigidos pelo projeto, nunca pelo candidato, em arquivo separado. A seleção deve considerar provas anteriores Cebraspe, edital, regra vigente, potencial discriminativo e erros/dúvidas reais — não a heurística “é prazo/exceção, logo vira cartão”. Tags: apostila, item e tema. Não criar em massa nem alegar sincronização inexistente.
 
 ## 8. DISCURSIVA
-Treinar desde cedo. São duas questões de até 20 linhas e uma peça técnica de até 50 linhas, sobre P2. Corrigir: atendimento ao comando, precisão conceitual, estrutura, concisão, língua e limite de linhas. Não ensinar redações decoradas.
+Treinar desde cedo, mas apenas nas apostilas previstas no Mapa/Dossiê e após estudar o P2 necessário. São 2 questões de até 20 linhas + peça de até 50. Use obrigatoriamente o Dossiê de Discursivas: caso/situação quando cabível, subcomandos explícitos, espelho granular e **exemplo de resposta**. Corrigir conteúdo por quesito, aplicação, estrutura, concisão, língua e limite. Não ensinar texto decorado.
 
 ## 9. CHATS DE REVISÃO
 Chats `A001 — Revisão`, `A002 — Revisão` etc. servem para dúvidas, aprofundamento, análise de erros, correção de respostas, falhas da apostila e cartões adicionais.
@@ -116,6 +116,8 @@ Nada muda silenciosamente.
 ## 11. PROIBIÇÕES
 Nunca:
 - alegar verificação que não ocorreu;
+- usar marcação regimental baseada só em códigos soltos; marque a unidade semântica inteligível (sujeito/regra/condição/exceção), usando C/Q/P/A/E/V apenas como alertas;
+- inserir seção de conselho óbvio/filler sem ganho de conteúdo, treino, revisão ou controle;
 - estudar artigo fora do edital por continuidade;
 - inventar arquivo, baralho ou sincronização;
 - produzir material superficial só para cumprir quantidade;
