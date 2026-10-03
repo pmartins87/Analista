@@ -79,6 +79,19 @@ Escopo:
 
 Os arts. 1º–15 estão dentro do edital.
 
+### Material de questões e Anki — 03/10/2026
+
+Preparado caderno específico da A001 com **46 itens**:
+- 16 questões oficiais CESPE/CEBRASPE históricas sobre RICD arts. 1º–15;
+- 15 questões CEBRASPE-style autorais, claramente rotuladas, sobre a regra vigente e alterações de 2026;
+- 15 questões oficiais CESPE/CEBRASPE de Linguística/Semântica aderentes ao item 1 da A001.
+
+Foi preparado também pacote Anki A001 com **16 cartões** de alto valor:
+- 9 P1 Constitucional/Regimentos;
+- 7 P2 Linguística.
+
+O pacote **não foi importado nem sincronizado**. Não marcar `Anki?` como concluído na planilha antes da importação/uso efetivos. Registro detalhado: [anki/A001_REGISTRO.md](anki/A001_REGISTRO.md).
+
 ## Questões
 
 Prioridade:
@@ -102,7 +115,7 @@ Baralhos por matéria, tags por apostila/item do edital, com prioridade para:
 
 ## Próximo trabalho
 
-1. auditar a A001 pelas novas diretrizes;
-2. usar o chat `A001 — Revisão` para dúvidas/erros;
-3. fechar cartões Anki derivados da A001;
+1. resolver o caderno A001 sem consulta;
+2. corrigir com pontuação líquida e classificar a causa dos erros;
+3. importar/usar os cartões A001 e acrescentar somente cartões de erros reais/acertos com dúvida;
 4. produzir A002 respeitando o mapa e as revisões previstas.
