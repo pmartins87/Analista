@@ -1,0 +1,213 @@
+# Guia canônico de estudo pós-edital
+
+Atualizado em: 02/10/2026
+
+## Função deste arquivo
+
+Este é o mapa de materiais do projeto. A planilha define **quando** estudar. Os cadernos em `MATERIAIS/` definem **o quê** estudar. O banco de questões define **como testar**. O Anki define **como reter**.
+
+O candidato não deve gastar tempo escolhendo livro, aula ou fonte a cada sessão.
+
+## Hierarquia de fontes
+
+1. Edital, retificações e fontes oficiais.
+2. Constituição, leis, RICD e RCCN oficiais.
+3. Manuais institucionais e documentação técnica oficial.
+4. Cadernos do projeto, produzidos a partir dessas fontes e bibliografia consagrada.
+5. Gran Cursos, usado seletivamente como explicação complementar e banco de questões.
+6. Bibliografia acadêmica, consultada por capítulo/tópico — não lida de capa a capa.
+7. Fontes avulsas da internet somente quando resolverem lacuna específica.
+
+## Material diário
+
+Todo dia deve conter cinco componentes dentro da carga prevista:
+
+1. **Revisão inicial (R)** — recuperação ativa + Anki devido.
+2. **Núcleo específico (P2)** — principal matéria do dia.
+3. **Processo/regimentos** — texto oficial ou processo legislativo.
+4. **P1** — Português, Inglês, Administrativo, Constitucional ou TI.
+5. **Aplicação** — questões, correção ou discursiva.
+
+A revisão faz parte das horas líquidas. Não é uma tarefa extra.
+
+## Revisão
+
+### Anki
+O pós-edital terá um baralho canônico novo, separado de versões anteriores:
+`Analista 2027`.
+
+Subbaralhos:
+- P2::Linguística
+- P2::ASR_Transcrição_IA
+- P2::Processo_Regimentos
+- P2::Ciência_Política
+- P1::Português
+- P1::Inglês
+- P1::Administrativo
+- P1::Constitucional
+- P1::TI_Dados_IA
+- Discursiva
+
+Regra:
+- revisar cartões devidos **todos os dias**;
+- novos cartões entram somente de literalidade importante, conceitos de alta incidência, confusões reais e erros;
+- preferência por cartões Cebraspe autossuficientes, não cartões escolares do tipo “defina X”;
+- verso curto, mas explicativo;
+- quando houver erro em questão, criar/ajustar cartão que ataque a causa do erro;
+- domingo: revisão devidos e erros da semana; normalmente sem “encher” o baralho de novos cartões.
+
+### Recuperação espaçada além do Anki
+O Anki cuida de fatos e distinções. Temas amplos precisam de recuperação:
+- D+1: explicar sem consulta por 5–10 min;
+- D+7: mini-bateria/questão discursiva ou reconstrução de mapa;
+- D+21: revisão por questões e erros.
+
+Isso será embutido nos pacotes diários.
+
+## Questões
+
+A prova Cebraspe usa +1 / -1. Portanto:
+- treinar C/E desde o início;
+- marcar “certo” somente quando a proposição inteira estiver sustentada;
+- não usar regra de chute fixa antes de simulados mostrarem o custo real da incerteza;
+- toda questão original criada pelo projeto deve indicar gabarito, fundamento e pegadinha;
+- questões oficiais podem ser usadas via Gran ou plataforma do candidato; o projeto não reproduz em massa material protegido.
+
+## Discursiva
+
+Começa na primeira semana, porque vale 60 pontos e cobra conhecimentos específicos:
+- 2 questões de até 20 linhas, 15 pontos cada;
+- 1 peça técnica de até 50 linhas, 30 pontos.
+
+Treino:
+1. primeiro: esqueleto de resposta;
+2. depois: resposta em limite de linhas;
+3. depois: tempo cronometrado;
+4. reta final: prova discursiva completa.
+
+## Fontes canônicas por bloco
+
+### Edital
+Cebraspe — página do concurso:
+http://www.cebraspe.org.br/concursos/cd_26_analista
+
+### RICD
+Câmara — Regimento Interno:
+https://www2.camara.leg.br/atividade-legislativa/legislacao/regimento-interno-da-camara-dos-deputados
+
+Recorte do edital:
+- arts. 1–200;
+- arts. 226–251;
+- arts. 262–273.
+
+### RCCN
+Senado/Congresso — Regimento Comum:
+https://www25.senado.leg.br/web/atividade/legislacao/regimento-interno
+
+Recorte combinado:
+- arts. 1–103. O básico exige Título I e Título IV, capítulos II e III, até o art. 103; o específico exige arts. 1–71. A união prática é 1–103.
+
+### Processo legislativo
+Câmara — Entenda o processo legislativo:
+https://www.camara.leg.br/entenda-o-processo-legislativo/
+
+EVC Câmara:
+https://evc.camara.leg.br/material/entenda-o-processo-legislativo/
+
+Constituição Federal, especialmente arts. 44–75 e 59–69:
+https://www2.camara.leg.br/atividade-legislativa/legislacao/constituicao1988
+
+### Redação oficial
+Manual de Redação da Presidência da República:
+https://www.gov.br/pt-br/servicos/consultar-o-manual-de-redacao-da-presidencia-da-republica
+
+LC 95/1998:
+https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp95.htm
+
+### ASR, transcrição e IA
+Jurafsky & Martin — Speech and Language Processing (3rd ed. online), capítulos de speech recognition/NLP:
+https://web.stanford.edu/~jurafsky/slp3/
+
+OpenAI Whisper — README/model card:
+https://github.com/openai/whisper
+https://github.com/openai/whisper/blob/main/model-card.md
+
+Documentação oficial dos provedores citados no edital:
+- Google Cloud Speech-to-Text
+- Microsoft Azure AI Speech
+- AWS Transcribe
+
+Usar os cadernos do projeto como síntese; documentação dos provedores entra para diferenças de recurso, terminologia e fluxo.
+
+### Administração/Governança
+Constituição, Lei 8.112, Lei 9.784, Lei 8.429, Lei 14.133, LAI e LGPD nas versões oficiais do Planalto.
+
+TCU — Referencial Básico de Governança Organizacional:
+https://portal.tcu.gov.br/publicacoes-institucionais/cartilha-manual-ou-tutorial/referencial-basico-de-governanca-organizacional
+
+### TI e segurança
+CERT.br — Cartilha de Segurança para Internet:
+https://cartilha.cert.br/
+
+Microsoft Learn para Office 365/OneDrive/Teams e fundamentos de dados, quando aplicável.
+
+### Ciência Política
+TSE — O sistema eleitoral brasileiro: síntese e história:
+https://www.tse.jus.br/institucional/catalogo-de-publicacoes/lista-do-catalogo-de-publicacoes/publicacoes/o/o-sistema-eleitoral-brasileiro-2013-2a-edicao
+
+Bibliografia de consulta, não leitura integral:
+- Norberto Bobbio, Nicola Matteucci e Gianfranco Pasquino — Dicionário de Política.
+- Arend Lijphart — Modelos de Democracia.
+- Robert Dahl — Poliarquia / Sobre a Democracia.
+- Jairo Nicolau — Sistemas Eleitorais.
+- Scott Mainwaring — sistemas partidários e presidencialismo no Brasil, como apoio seletivo.
+- José Murilo de Carvalho — cidadania e formação política brasileira, leitura seletiva.
+
+### Linguística/textualidade
+Bibliografia de consulta:
+- Ferdinand de Saussure — Curso de Linguística Geral.
+- Ingedore Koch — Coesão Textual; Desvendando os Segredos do Texto.
+- Luiz Antônio Marcuschi — Produção Textual, Análise de Gêneros e Compreensão; Da Fala para a Escrita.
+- José Luiz Fiorin — Introdução à Linguística / Elementos de Análise do Discurso, conforme o tópico.
+- Mikhail Bakhtin — Estética da Criação Verbal, especialmente gêneros do discurso.
+- Evanildo Bechara — Moderna Gramática Portuguesa.
+- Cunha & Cintra — Nova Gramática do Português Contemporâneo.
+
+Não ler essas obras integralmente antes da prova. Os cadernos indicam o conceito-alvo e a obra serve para resolver dúvida ou aprofundar ponto vermelho.
+
+## Gran Cursos
+
+Usar seletivamente. O Gran não é fonte de verdade do cronograma.
+
+Materiais já disponíveis no projeto:
+- Português: PDFs de sintaxe simples/composta, classes, concordância/regência/crase/pontuação, coesão/semântica/reescrita, interpretação, gêneros e cadernos de questões Cebraspe.
+- RICD: PDFs de disposições preliminares/estrutura e sessões/exercício do mandato.
+- RCCN: PDF de Regimento Comum.
+
+Quando o Gran publicar material pós-edital:
+- usar se cobrir exatamente o item do edital;
+- não esperar o Gran para iniciar;
+- não assistir linearmente por obrigação;
+- usar aula/PDF quando o caderno do projeto ou a fonte oficial não forem suficientes.
+
+## Cadernos canônicos
+
+- `01_P2_LINGUISTICA_TEXTO_REDACAO.md`
+- `02_P2_ASR_TRANSCRICAO_IA.md`
+- `03_P2_PROCESSO_REGIMENTOS.md`
+- `04_P2_CIENCIA_POLITICA.md`
+- `05_P1_PORTUGUES_INGLES.md`
+- `06_P1_ADMIN_CONST_TI.md`
+- `07_DISCURSIVA_PECA_TECNICA.md`
+- `08_BANCO_QUESTOES_CEBRASPE_STYLE.md`
+- `09_ANKI_POS_EDITAL.md`
+- `PACOTES_DIARIOS.md`
+
+## Critério de encerramento de uma sessão
+
+Uma sessão só está “feita” quando:
+- o conteúdo-alvo foi visto;
+- o aluno consegue recuperar a regra/estrutura central sem olhar;
+- houve aplicação (questão, exemplo, mapa ou escrita);
+- erros relevantes foram registrados ou convertidos em cartão;
+- o checkbox `Feito?` foi marcado na planilha.
