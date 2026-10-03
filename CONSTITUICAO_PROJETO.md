@@ -1,6 +1,6 @@
 # CONSTITUIÇÃO DO PROJETO — ANALISTA REGISTRO E REDAÇÃO
 
-Versão: 1.0  
+Versão: 1.1  
 Data: 03/10/2026  
 Status: **NORMA MÁXIMA DO PROJETO**
 
@@ -28,8 +28,8 @@ Toda decisão de estudo deve responder: **isso aumenta a probabilidade de aprova
 
 1. Edital oficial e retificações oficiais.
 2. Texto oficial de Constituição, leis, RICD, RCCN e demais normas expressamente cobradas.
-3. Planilha `Edital Verticalizado`, desde que auditada contra o edital.
-4. Esta Constituição do Projeto.
+3. Esta Constituição do Projeto.
+4. Planilha `Edital Verticalizado`, desde que auditada contra o edital.
 5. Mapa das 106 apostilas.
 6. Apostilas diárias.
 7. Anki canônico.
@@ -118,8 +118,8 @@ Cada apostila deve ser autossuficiente para aquele dia e conter, nesta ordem:
 13. muitas questões;
 14. correção comentada;
 15. recuperação ativa sem consulta;
-16. discursiva/peça técnica quando programada;
-17. cartões Anki candidatos;
+16. discursiva/peça técnica somente quando programada e justificada pelo conteúdo já estudado;
+17. indicação de que haverá encaminhamento ao Anki em artefato separado, **sem colocar frente/verso de cartões no corpo da apostila**;
 18. checklist de encerramento;
 19. instrução exata de quais linhas do Edital Verticalizado podem ser marcadas.
 
@@ -130,6 +130,10 @@ Não usar comandos vagos como:
 - “veja o Gran”.
 
 A apostila deve dizer **o que, onde, como e quanto**.
+
+Nos blocos normativos, códigos como C=competência, Q=quórum, P=prazo, A=autoridade, E=exceção e V=verbo podem ser usados apenas como **alertas de incidência**, nunca como método exclusivo de marcação. A marcação deve preservar a menor unidade semântica inteligível: sujeito/autoridade + regra/ação + condição/limite/exceção quando relevante. Também podem ser marcadas definições, consequências, sequências, vedações, faculdades, remissões e quaisquer trechos cujo apagamento altere a resposta de uma questão plausível.
+
+Evitar seções de preenchimento ou conselhos comportamentais genéricos (“não abra outros materiais”, “não adiante amanhã” etc.). Se uma seção não agrega conteúdo, treino, revisão, fonte ou controle de cobertura, ela não entra na apostila.
 
 ### 3.3 Anki — retenção de longo prazo
 
@@ -147,7 +151,7 @@ Estrutura recomendada:
 - Analista::P2::Ciência_Política
 - Analista::Discursiva
 
-Cada apostila gera cartões que são adicionados ao baralho da matéria correspondente.
+Cada apostila gera, **fora da apostila**, um artefato Anki separado que será adicionado ao baralho da matéria correspondente. O candidato não é responsável por redigir os cartões; o projeto faz a seleção e a redação.
 
 Tags obrigatórias:
 - `A001`, `A002` etc.;
@@ -157,13 +161,14 @@ Tags obrigatórias:
 - `literalidade` quando norma/regimento;
 - `oficial_cebraspe` quando derivado de questão oficial.
 
-Priorizar:
-- erros reais;
-- acertos com dúvida;
-- distinções perigosas;
-- literalidade de alto valor;
-- prazo/quórum/competência;
-- conceitos centrais.
+A seleção não pode ser feita por heurística simplista do tipo “é prazo, logo vira cartão”. Deve ser embasada, na medida do possível, por:
+- incidência em provas anteriores Cebraspe/Cespe do mesmo tema;
+- padrões de confusão efetivamente explorados pela banca;
+- aderência ao edital atual;
+- literalidade vigente e potencial discriminativo;
+- erros reais e acertos com dúvida do candidato;
+- distinções perigosas, competências, prazos, quóruns e exceções **quando demonstradamente relevantes**;
+- conceitos centrais cuja recuperação rápida aumente desempenho.
 
 Evitar:
 - cartões escolares triviais;
@@ -211,6 +216,8 @@ Ordem:
 
 Quando questão oficial for usada:
 - identificar banca, órgão, cargo/prova, ano e item quando possível;
+- **trazer a questão efetivamente resolvível, com texto-base e enunciado completos quando esses materiais estiverem disponíveis no acervo fornecido ao projeto**; não substituir questão por uma descrição do que ela “pediu”;
+- quando a reprodução integral não estiver disponível/for inadequada, fornecer locator/link preciso e usar outro item completo do acervo para o treino;
 - nunca chamar questão criada de “oficial”;
 - preservar o gabarito oficial, registrando eventual anulação/alteração;
 - se houver controvérsia, conferir fonte normativa/teórica.
@@ -246,6 +253,10 @@ Regra:
 - simulados → preferencialmente itens oficiais e, onde faltar material, inéditos calibrados.
 
 A correção é parte do estudo. Resolver sem corrigir profundamente não conta como sessão completa.
+
+### 5.4 Calibragem de tempo
+
+O edital atual prevê **180 itens objetivos em 5 horas**, média bruta de **100 segundos (1min40s) por item**, incluindo leitura de textos, marcações e transições. Essa média é teto operacional, não meta fixa: itens secos devem tender a ser mais rápidos; itens com texto podem consumir mais tempo. Nas apostilas, o tempo de **resolução** deve ser separado do tempo de **correção**, pois correção é estudo e não simulação de prova.
 
 ---
 
@@ -299,9 +310,12 @@ A discursiva cobra somente conhecimentos específicos e vale 60 pontos:
 
 Consequências:
 - P2 recebe dupla utilidade: objetiva + discursiva;
-- treino discursivo começa cedo;
-- teoria específica deve ser ensinada também para produção escrita;
-- toda correção discursiva deve avaliar cobertura do comando, precisão conceitual, estrutura, concisão, língua e limite de linhas.
+- treino discursivo começa cedo, **mas não aparece automaticamente em toda apostila**;
+- só inserir P3 quando o Mapa 106/Dossiê de Discursivas prever a sessão e o repertório P2 necessário já tiver sido estudado;
+- usar o `Dossie_Discursivas_Cebraspe_Analista_Registro_Redacao_v1.docx` como referência obrigatória de arquitetura;
+- questões devem reproduzir o padrão observado: situação/caso concreto quando cabível, subcomandos explícitos, quesitos objetivamente corrigíveis e espelho granular;
+- toda questão/peça de treino deve trazer **espelho de correção e exemplo de resposta**, deixando claro que o exemplo não é texto para decorar;
+- toda correção deve avaliar atendimento a cada subcomando, precisão conceitual, aplicação ao caso, estrutura, concisão, língua e limite de linhas.
 
 Não memorizar redações prontas.
 
@@ -380,8 +394,10 @@ Antes de escrever:
 5. nos blocos normativos, identificar previamente as remissões e resolver o conteúdo efetivamente importado por elas;
 6. verificar o que já foi marcado como estudado/revisado;
 7. verificar erros relevantes das apostilas anteriores;
-8. selecionar questões oficiais do tema, incluindo cobrança de remissões já resolvidas quando houver precedente;
-9. só então escrever.
+8. selecionar questões oficiais do tema, preferindo itens completos do acervo e incluindo cobrança de remissões quando houver precedente;
+9. se houver P3, consultar obrigatoriamente o Dossiê de Discursivas e os comparadores Cebraspe antes de elaborar comando/espelho;
+10. calibrar separadamente tempo de resolução e de correção;
+11. só então escrever.
 
 Depois de escrever:
 1. auditar todos os conteúdos contra o edital;
@@ -428,7 +444,11 @@ Toda mudança deve ser registrada:
 - marcar tópico como coberto sem cobertura integral;
 - alterar mapa das 106 silenciosamente;
 - dizer que um arquivo/baralho foi criado ou sincronizado se ele não existe de fato;
-- fazer o candidato gastar mais tempo administrando o sistema do que estudando.
+- fazer o candidato gastar mais tempo administrando o sistema do que estudando;
+- colocar cartões Anki dentro da apostila;
+- mandar o candidato criar cartões que são responsabilidade do projeto;
+- substituir questão oficial por um resumo narrativo do que ela cobrava quando o item completo estiver disponível;
+- inserir seção apenas para “encher” apostila ou dar conselho óbvio sem ganho de pontos.
 
 ---
 
@@ -450,13 +470,14 @@ A aprovação é o objetivo; os artefatos são apenas instrumentos.
 
 - prova: 17/01/2027;
 - 106 dias de preparação de 03/10/2026 a 16/01/2027;
-- A001 corresponde a 03/10/2026;
+- A001 corresponde a 03/10/2026 e foi **concluída** pelo candidato nessa data;
 - A106 corresponde a 16/01/2027;
 - dia da prova fica fora da série de apostilas;
 - A001 cobre, entre outros pontos, RICD 1º–15, que está dentro do item básico 7.1 (RICD 1º–24);
 - qualquer planejamento que inclua RICD 201–225 como conteúdo de prova está errado e deve ser corrigido;
 - Edital Verticalizado atual deve ser refeito em granularidade de um item/subitem por linha;
-- antigo AS0 não bloqueia mais o Anki: os cartões passam a ser gerados progressivamente por matéria a partir das apostilas e dos erros.
+- antigo AS0 não bloqueia mais o Anki: os cartões passam a ser gerados progressivamente por matéria a partir das apostilas e dos erros;
+- lições da revisão A001: marcação regimental deve preservar unidade semântica; Anki é artefato separado e selecionado por evidência; bateria precisa cobrir todos os blocos do dia e refletir dificuldade real; tempos de resolução e correção são separados; P3 só entra nas sessões previstas pelo Dossiê/Mapa; documentos devem ter hierarquia visual consistente sem sacrificar conteúdo.
 
 ---
 
