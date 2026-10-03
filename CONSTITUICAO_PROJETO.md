@@ -1,6 +1,6 @@
 # CONSTITUIÇÃO DO PROJETO — ANALISTA REGISTRO E REDAÇÃO
 
-Versão: 1.2  
+Versão: 1.3  
 Data: 03/10/2026  
 Status: **NORMA MÁXIMA DO PROJETO**
 
@@ -192,6 +192,19 @@ Evitar:
 
 O Anki faz parte da carga diária. Não é tarefa extra ilimitada.
 
+**Não existe quota de cartões por apostila.** Toda apostila deve atualizar o estado do Anki, mas uma sessão pode gerar zero cartões novos quando não houver erro, dúvida ou informação com valor de recuperação suficiente. Volume artificial de cartões é proibido.
+
+### 3.4 Registro central de artefatos e links
+
+A planilha oficial é também o índice operacional dos materiais do projeto. Devem permanecer visíveis e atualizadas:
+- `Apostilas e Anki`: uma linha para cada A001–A106, com data, escopo, status, link da apostila, estado do Anki e link de download/importação quando houver artefato;
+- `Discursivas`: todas as sessões P3 previstas no Mapa 106, com tipo de treino, pré-requisito P2, prova/comando oficial, espelho e exemplo do projeto;
+- `Materiais`: normas, comparadores, dossiês e outros materiais canônicos que o candidato precise reencontrar.
+
+Regra de governança: **nenhum artefato relevante deve depender de ser reencontrado em uma conversa**. Se uma apostila, pacote Anki, dossiê, comparador ou exemplo de resposta for criado, seu link estável deve ser registrado na planilha.
+
+Nunca alegar sincronização com Anki/AnkiDroid sem conexão efetivamente disponível e ação de sincronização confirmada. Na ausência de integração, fornecer arquivos importáveis e manter os links na planilha.
+
 ---
 
 ## 4. MAPA DAS 106 APOSTILAS
@@ -329,6 +342,7 @@ Consequências:
 - usar o `Dossie_Discursivas_Cebraspe_Analista_Registro_Redacao_v1.docx` como referência obrigatória de arquitetura;
 - questões devem reproduzir o padrão observado: situação/caso concreto quando cabível, subcomandos explícitos, quesitos objetivamente corrigíveis e espelho granular;
 - toda questão/peça de treino deve trazer **espelho de correção e exemplo de resposta**, deixando claro que o exemplo não é texto para decorar;
+- comparadores de provas anteriores só entram como material canônico quando houver rastreabilidade: prova/comando oficial, padrão/espelho oficial quando localizado e exemplo de resposta produzido pelo projeto; se o espelho oficial não for encontrado, registrar expressamente a ausência em vez de reconstruí-lo como se fosse oficial;
 - toda correção deve avaliar atendimento a cada subcomando, precisão conceitual, aplicação ao caso, estrutura, concisão, língua e limite de linhas.
 
 Não memorizar redações prontas.
@@ -491,7 +505,9 @@ A aprovação é o objetivo; os artefatos são apenas instrumentos.
 - qualquer planejamento que inclua RICD 201–225 como conteúdo de prova está errado e deve ser corrigido;
 - Edital Verticalizado atual deve ser refeito em granularidade de um item/subitem por linha;
 - antigo AS0 não bloqueia mais o Anki: os cartões passam a ser gerados progressivamente por matéria a partir das apostilas e dos erros;
-- lições da revisão A001: marcação regimental deve preservar unidade semântica; Anki é artefato separado e selecionado por evidência; bateria precisa cobrir todos os blocos do dia e refletir dificuldade real; tempos de resolução e correção são separados; P3 só entra nas sessões previstas pelo Dossiê/Mapa; documentos devem ter hierarquia visual consistente sem sacrificar conteúdo; mapa de remissões segue o padrão interno=apenas RICD integrado / externo=texto literal externo + RICD integrado / destino aberto=não inventar.
+- lições da revisão A001: marcação regimental deve preservar unidade semântica; Anki é artefato separado e selecionado por evidência; bateria precisa cobrir todos os blocos do dia e refletir dificuldade real; tempos de resolução e correção são separados; P3 só entra nas sessões previstas pelo Dossiê/Mapa; documentos devem ter hierarquia visual consistente sem sacrificar conteúdo; mapa de remissões segue o padrão interno=apenas RICD integrado / externo=texto literal externo + RICD integrado / destino aberto=não inventar;
+- art. 14: composição estrita da Mesa = Presidência (Presidente + dois Vice-Presidentes) + Secretaria (quatro Secretários); os quatro Suplentes de Secretário são previstos separadamente no § 2º e não devem ser somados quando a questão perguntar simplesmente quem compõe a Mesa;
+- todos os links de apostilas, Anki e P3 são registrados na planilha, não deixados apenas em chats.
 
 ---
 
