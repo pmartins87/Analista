@@ -257,6 +257,8 @@ Regras obrigatórias para A001–A106:
 
 Exemplo vinculante para RICD: arts. 1º–24 pertencem a **P1, item 7.1**; arts. 25–64 e 95–200 pertencem a **P2, item 2.1**. Não fundir esses recortes ao indicar o que foi efetivamente estudado, mesmo que a união prática seja usada para controle global.
 
+Ao usar o arquivo oficial da Resolução nº 17/1989, distinguir a **Resolução que aprova o Regimento** de seu **texto anexo (RICD)**. Os arts. 1º–8º iniciais da Resolução não se confundem com os arts. 1º–8º do RICD. Quando o edital indicar “RICD: arts. ...”, estudar os artigos do texto regimental anexo, salvo menção expressa do edital à parte preambular da Resolução.
+
 ### Gate de qualidade antes de liberar uma apostila
 
 Não liberar como pronta se houver: conceito abstrato sem exemplo; definição circular; seção sem fonte rastreável; questão autoral não rotulada; conteúdo regimental sem conferência oficial; bloco teórico relevante sem aplicação; tópico sem prova/disciplina/item exato do edital; encerramento de tópico sem registro do item coberto; cobertura parcial apresentada como integral; ou divergência com o edital verticalizado/mapa A001–A106 sem justificativa.
