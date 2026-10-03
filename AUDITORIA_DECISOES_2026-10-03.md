@@ -10,6 +10,23 @@ Revisar as decisões pós-edital e eliminar deriva de escopo antes de multiplica
 
 O edital básico cobra RICD arts. 1º–24. Logo, os arts. 1º–15 da A001 estão dentro do conteúdo.
 
+#### Validação histórica do recorte 1º–24
+
+A exclusão dos arts. 1º–24 foi reavaliada contra editais e provas anteriores e está **definitivamente rejeitada**.
+
+Evidências:
+- Edital 2026, P1, item 7.1: inclui expressamente “Disposições preliminares e Órgãos da Câmara (arts. 1º a 24 e suas alterações)”.
+- O item P2 2.1 (arts. 25–64 e 95–200) é um recorte **adicional** dos conhecimentos específicos; não substitui nem limita o recorte de P1.
+- Câmara 2012 — Analista Legislativo/Taquígrafo, CESPE: o edital cobrava a **íntegra da Resolução nº 17/1989**; a prova efetivamente cobrou conteúdo do art. 3º (posse/apresentação do diploma do Deputado eleito).
+- Câmara 2007 — diversos cargos de Analista, FCC: o edital incluía expressamente o Título I (Disposições Preliminares) e o Título II (Órgãos da Câmara); provas reais cobraram, entre outros, sessão preparatória/eleição da Mesa e competências da Mesa, isto é, dispositivos do bloco inicial do RICD.
+- Câmara 2023 — FGV: editais voltaram a explicitar faixas iniciais do RICD, e provas reais cobraram temas como blocos parlamentares, novamente dentro do bloco inicial.
+
+Conclusão operacional: os arts. 1º–24 são **conteúdo nuclear e examinável** do edital vigente. Não há base para excluí-los. A001 mantém 1º–15 e os arts. 16–24 devem ser cobertos em sequência conforme o mapa.
+
+Fontes de conferência:
+- Edital oficial 2012 (Câmara): https://www2.camara.leg.br/transparencia/recursos-humanos/concursos/concursos-novos-1/resolveuid/27e3ed6dbf3cdffadc3ce2bc07ec7b1f
+- Edital oficial 2007 (Câmara): https://www2.camara.leg.br/transparencia/recursos-humanos/concursos/concursos-realizados/2007/analista-legislativo/arquivos/grupo-ii/editaiscomuns-1/Edital-Reabertura8-2007.pdf
+
 ### 2. RICD 201–225
 **EXCLUIR do conteúdo de prova.**
 
