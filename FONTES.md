@@ -1,8 +1,21 @@
 # FONTES — Analista Registro e Redação
 
-Atualizado em: **16/09/2026**
+Atualizado em: **02/10/2026**
 
 ## 1. Fontes oficiais atuais
+
+### Edital nº 1 — Analista Legislativo — 02/10/2026
+- Edital específico publicado.
+- Registro e Redação incluído.
+- Provas objetiva e discursiva em 17/01/2027.
+- Página do concurso no Cebraspe:
+- http://www.cebraspe.org.br/concursos/cd_26_analista
+
+### Notícia oficial da Câmara — publicação do terceiro edital — 02/10/2026
+- Confirma a publicação, 66 vagas imediatas e 118 CR no conjunto das 11 especialidades, inscrições de 15/10 a 17/11 e prova em 17/01/2027.
+- https://www.camara.leg.br/noticias/
+
+
 
 ### Autorização do concurso — Câmara dos Deputados
 - Decisão da Mesa de 11/09/2025: autoriza concurso e inclui Analista Legislativo — Registro e Redação (CD-AL-012).
