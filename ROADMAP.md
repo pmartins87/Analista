@@ -52,7 +52,7 @@ O G0.5 continua aberto até haver baseline suficiente por área e identificaçã
 
 ## G1 — Publicação do terceiro edital
 
-**Status: AGUARDANDO — previsão oficial: setembro/2026**
+**Status: PASS — 02/10/2026**
 
 Quando ocorrer:
 1. arquivar edital e retificações;
@@ -64,15 +64,15 @@ Quando ocorrer:
 
 ### Decisão taquigrafia
 
-- **Se houver prova prática de apanhamento taquigráfico:** vira trilha diária obrigatória, com métricas de palavras por minuto, erros e tempo de tradução.
-- **Se não houver:** a trilha é encerrada imediatamente e o tempo migra para Português, revisão textual e específicos.
-- **Se houver prova prática diferente:** criar treino específico espelhando exatamente o edital.
+O edital de 02/10/2026 **não prevê prova prática de taquigrafia**. A trilha está encerrada. Só reabrir se retificação oficial criar a etapa.
+
+Plano operacional pós-edital: [PLANO_POS_EDITAL_2026_2027.md](PLANO_POS_EDITAL_2026_2027.md).
 
 ---
 
 ## G2 — Cobertura inicial do edital
 
-**Status: BLOQUEADO por G1**
+**Status: EM EXECUÇÃO — 03/10 a 15/11/2026**
 
 Meta:
 - 100% do edital classificado por importância e domínio;
@@ -195,3 +195,14 @@ A execução diária até a data-alvo operacional está em [PLANEJAMENTO_PLANILH
 https://docs.google.com/spreadsheets/d/1z5zYiFpN6FdSBtob95aNbsZN8QEskXGgnoeYWcDOdks/edit
 
 O roadmap estratégico continua controlando os gates. A planilha controla datas, tarefas e evidência de execução. O cronograma é recalibrado quando o edital sair ou quando desempenho real justificar mudança.
+
+
+## Atualização pós-edital — 02/10/2026
+
+- Prova em 17/01/2027.
+- P1 90 itens + P2 90 itens + discursiva 60 pontos.
+- 25 vagas imediatas + 25 CR em Registro e Redação.
+- Carga operacional: 616h líquidas até 16/01.
+- Primeiro fechamento do edital: 15/11.
+- Simulados integrais: 29/11, 20/12, 03/01 e 10/01.
+- Fonte operacional: ROADMAP_OPERACIONAL_APROVACAO.md + Google Sheets.
