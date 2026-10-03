@@ -259,6 +259,22 @@ Exemplo vinculante para RICD: arts. 1º–24 pertencem a **P1, item 7.1**; arts.
 
 Ao usar o arquivo oficial da Resolução nº 17/1989, distinguir a **Resolução que aprova o Regimento** de seu **texto anexo (RICD)**. Os arts. 1º–8º iniciais da Resolução não se confundem com os arts. 1º–8º do RICD. Quando o edital indicar “RICD: arts. ...”, estudar os artigos do texto regimental anexo, salvo menção expressa do edital à parte preambular da Resolução.
 
+### Resumo estratégico obrigatório em blocos normativos — decisão de 03/10/2026
+
+Depois da leitura literal de cada bloco de RICD, RCCN, Constituição, lei ou resolução, a própria apostila deve trazer um **resumo estratégico pós-leitura**. O resumo serve como compressão para revisão; não substitui a fonte oficial e não amplia o edital.
+
+Quando houver remissões, o resumo deve ser seguido de um **Mapa de Remissões Resolvidas** com, no mínimo:
+- dispositivo de origem;
+- dispositivo/norma de destino;
+- conteúdo referenciado em síntese fiel;
+- resultado semântico da combinação;
+- pegadinha ou forma plausível de cobrança Cebraspe, quando relevante;
+- identificação **APOIO — REMISSÃO** quando o destino não for conteúdo autônomo do edital.
+
+O objetivo é permitir que, depois da primeira leitura da fonte, o candidato revise pela apostila sem ter de abrir em sequência diversos artigos e diplomas apenas para reconstruir referências cruzadas. A unidade a memorizar não é só o número do artigo remetido, mas a **regra normativa completa resultante da remissão**.
+
+Esse padrão é obrigatório da A001 à A106 sempre que houver conteúdo normativo com remissões.
+
 ### Regra de remissões normativas no RICD/RCCN — decisão de 03/10/2026
 
 Remissão expressa no texto normativo não será estudada apenas como número de artigo. Para fins de prova Cebraspe, deve-se distinguir **texto de remissão** e **regra resolvida**.
