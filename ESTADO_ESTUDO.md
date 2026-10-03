@@ -1,72 +1,110 @@
 # ESTADO OPERACIONAL DE ESTUDOS
 
-Atualizado em: **02/10/2026**
+Atualizado em: **03/10/2026**
+
+## Norma máxima
+
+A partir de 03/10/2026, o arquivo [CONSTITUICAO_PROJETO.md](CONSTITUICAO_PROJETO.md) é a norma máxima do projeto.
+
+Prompt de uso: [PROMPT_PROJETO.md](PROMPT_PROJETO.md).
+
+Em caso de conflito com planejamento antigo, a Constituição prevalece, salvo retificação oficial ou decisão expressa posterior do usuário.
 
 ## Estado atual
 
 **PÓS-EDITAL / IMERSÃO TOTAL**
 
-O Edital nº 1 — Câmara dos Deputados — Analista Legislativo foi publicado em 02/10/2026.
+Edital nº 1 publicado em 02/10/2026.
 
 Prova: **17/01/2027**.
 
-Para Registro e Redação:
+Registro e Redação:
 - 25 vagas imediatas + 25 CR;
-- P1: 90 itens de conhecimentos básicos;
-- P2: 90 itens de conhecimentos específicos;
-- discursiva: 60 pontos — 2 questões de até 20 linhas + 1 peça técnica de até 50 linhas;
-- prova objetiva: 5h;
+- P1: 90 itens;
+- P2: 90 itens;
+- P3 discursiva: 60 pontos — 2 questões de até 20 linhas + 1 peça técnica de até 50 linhas;
+- objetiva: 5h;
 - discursiva: 3h;
-- **não há prova prática de taquigrafia**.
+- sem prova prática de taquigrafia.
 
-## Decisão de carga
+## Método congelado
 
-Plano competitivo aprovado:
-- 616 horas líquidas entre 03/10/2026 e 16/01/2027;
-- regra-base: 6h líquidas de segunda a sábado e 4h aos domingos;
-- simulados integrais: 29/11, 20/12, 03/01 e 10/01;
-- primeira passagem integral do edital concluída até 15/11.
+O estudo passa a ter três instrumentos centrais:
 
-Fonte estratégica: [PLANO_POS_EDITAL_2026_2027.md](PLANO_POS_EDITAL_2026_2027.md).
+1. **Edital Verticalizado** — controle mestre literal, um item/subitem por linha.
+2. **106 Apostilas Diárias** — A001 em 03/10/2026 até A106 em 16/01/2027.
+3. **Anki por matéria** — alimentado progressivamente pelas apostilas e pelos erros reais.
 
-Fonte operacional diária:
+A prova de 17/01/2027 fica fora da série de 106 apostilas.
+
+## Fidelidade ao edital
+
+RICD:
+- P1: arts. 1º–24; 65–94; 226–251; 262–273;
+- P2: arts. 25–64; 95–200;
+- união: arts. 1º–200, 226–251 e 262–273;
+- **arts. 201–225 não são conteúdo de prova**.
+
+RCCN:
+- P2: arts. 1º–71;
+- P1: Título I e Título IV, capítulos II e III, até art. 103;
+- conferir a estrutura literal antes de inferir intervalos.
+
+## Apostilas
+
+Cada apostila deve ser autossuficiente e incluir:
+- itens do edital;
+- revisões;
+- teoria;
+- fontes oficiais;
+- questões Cebraspe;
+- correção;
+- recuperação ativa;
+- discursiva quando programada;
+- candidatos a cartões Anki;
+- indicação exata do que marcar no Edital Verticalizado.
+
+Nenhum comando vago do tipo “estudar pelo ChatGPT” é canônico.
+
+## Questões
+
+Prioridade:
+1. oficiais Cebraspe/Cespe do mesmo tema;
+2. oficiais de tema próximo;
+3. inéditas com alma Cebraspe.
+
+Nunca chamar questão criada de oficial.
+
+Métrica principal em blocos/simulados: pontuação líquida (+1/-1/0) e causa do erro.
+
+## Anki
+
+O antigo gate AS0 deixa de bloquear o projeto.
+
+O Anki será construído progressivamente **por matéria**, com tags por apostila e item do edital.
+
+## Planilha
+
+Fonte operacional:
 https://docs.google.com/spreadsheets/d/1z5zYiFpN6FdSBtob95aNbsZN8QEskXGgnoeYWcDOdks/edit
 
-## Prioridade
+A aba `Edital Verticalizado` foi reconstruída em 03/10/2026 com 182 itens/subitens individualizados do edital.
 
-1. Conhecimentos específicos (P2), porque valem 90 itens e aparecem também na discursiva.
-2. Processo legislativo + RICD/RCCN.
-3. Conhecimentos básicos P1.
-4. Discursiva desde a primeira semana.
+## Situação da A001
 
-Taquigrafia: **ENCERRADA**, salvo retificação oficial.
+A001 — 03/10/2026.
 
-## Recorte literal de regimentos
+RICD arts. 1º–15 está **dentro** do edital, pois o P1 cobra arts. 1º–24.
 
-- RICD: arts. 1–200, 226–251 e 262–273.
-- RCCN: arts. 1–103.
+O erro real encontrado na auditoria estava no mapa futuro, que havia previsto RICD 201–215 como “ponte/contexto”; isso é proibido pela Constituição e deve ser removido.
 
-## Anki — AS0 ABERTO
+## Próximo trabalho estratégico
 
-Ainda não está confirmado qual conjunto está instalado no AnkiDroid.
-
-Até fechar AS0:
-- não presumir versão instalada;
-- não prescrever revisão automática;
-- o cronograma não depende do Anki.
-
-Depois do AS0, Anki ocupa apenas as horas de revisão já previstas.
-
-## Gran
-
-Permanece fora do controle operacional. O cronograma define assunto e tempo; o candidato gerencia o material do Gran diretamente.
-
-## Próximo gate
-
-**O0 — primeira passagem integral do edital, 03/10 a 15/11.**
-
-Saída:
-- 100% dos macrotemas vistos;
-- recortes de RICD/RCCN fechados;
-- discursiva em rotina;
-- nenhum núcleo de P2 completamente virgem.
+Fechar e auditar o mapa das 106 apostilas, garantindo:
+- 100% de cobertura;
+- zero conteúdo extraprogramático tratado como prova;
+- revisões D+1/D+7/D+21;
+- questões recorrentes;
+- discursiva;
+- simulados;
+- reta final sem conteúdo novo relevante.
