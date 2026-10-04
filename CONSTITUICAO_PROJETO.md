@@ -1,6 +1,6 @@
 # CONSTITUIÇÃO DO PROJETO — ANALISTA REGISTRO E REDAÇÃO
 
-Versão: 1.5  
+Versão: 1.6  
 Data: 03/10/2026  
 Status: **NORMA MÁXIMA DO PROJETO**
 
@@ -276,6 +276,8 @@ O mapa deve garantir:
 - simulados crescentes;
 - ausência de matéria nova relevante na reta final.
 
+Auditoria de 04/10/2026: A002 foi corrigida de revisão integral para **D+1 curta + RICD 16–24**, fechando P1-CONST 7.1. A003 absorve apenas RICD 25–30, além de Processo 1–1.1 e Administrativo 1–1.1. A004 em diante permanece sem deslocamento. A revisão semanal A009 continua válida por ocorrer após seis dias de conteúdo novo.
+
 O conteúdo de uma apostila futura pode ser recalibrado por desempenho, mas qualquer alteração deve:
 1. preservar a cobertura de todo o edital;
 2. registrar qual apostila assumirá o conteúdo deslocado;
@@ -383,7 +385,7 @@ A revisão será planejada, não improvisada.
 ### 7.1 Camadas
 
 - **Anki diário**: fatos, distinções, literalidade e erros.
-- **D+1**: recuperação ativa curta dos núcleos estudados.
+- **D+1**: recuperação ativa curta dos núcleos estudados; **não ocupa uma apostila inteira por padrão**. Deve coexistir com matéria nova enquanto houver cobertura primária relevante pendente. Dia integral de revisão só é admissível por revisão semanal já acumulada, gate/simulado ou evidência de desempenho que justifique remediação intensiva.
 - **D+7**: questões novas e recuperação sem reler.
 - **D+21**: bateria cumulativa/erros.
 - **revisão semanal**: mistura de matérias.
