@@ -81,6 +81,20 @@ A bateria não repete o caderno extraordinário A001. Após a auditoria pós-res
 
 A002 revisada possui 13 páginas e passou por inspeção visual integral das 13 páginas e preflight do PDF.
 
+## Política Anki — ajuste de 04/10/2026
+
+Feedback do candidato: a política anterior estava excessivamente econômica. O Anki será usado também como canal intensivo de estudo no celular e em tempos fragmentados do dia.
+
+Nova regra canônica:
+- matérias altamente ankizáveis, sobretudo RICD/RCCN e normas, terão **alta densidade de cartões**;
+- o baralho-base cobre teoria/literalidade relevante mesmo sem erro prévio;
+- erro real e acerto com dúvida acrescentam cartões, mas não são o núcleo exclusivo da seleção;
+- uma mesma regra pode gerar cartões diferentes quando cada um testar recuperação distinta (direta, inversão Cebraspe, regra x exceção, remissão integrada);
+- interpretação de texto continua com densidade menor e foco em mecanismos transferíveis;
+- não há teto artificial; se houver sobrecarga, controla-se a entrada de cartões novos sem empobrecer preventivamente a cobertura.
+
+A base de 16 cartões da A001 passa a ser tratada como **subdimensionada** e deverá ser expandida, principalmente em RICD 1–15 e teoria de Linguística, preservando o cartão de erro real já existente.
+
 ## Anki A001
 **BASE CANÔNICA CRIADA; NÃO SINCRONIZADA.**
 
