@@ -93,3 +93,31 @@ Primeiro comparador oficial estruturado:
 **Câmara/Cebraspe 2026 — Processo Legislativo e Gestão — medida provisória/crédito extraordinário**, com prova aplicada, espelho oficial e exemplo de resposta do projeto.
 Exemplo do projeto:
 https://docs.google.com/document/d/19zLyodSgkNNk7HEAuvuJTwLqePZ8jY5lOcED6CNp2tU/edit
+
+
+## Migração para PDF consolidado — 03/10/2026
+
+Decisão: o artefato canônico das apostilas passa a ser **PDF consolidado**, armazenado no Google Drive e linkado na planilha.
+
+Motivo:
+- o candidato efetivamente estuda em PDF;
+- o PDF permite apresentação mais profissional e estável;
+- reduz risco de apagar/alterar conteúdo durante marcações;
+- a etapa de renderização é barata comparada à pesquisa/auditoria, portanto não justifica sacrificar conteúdo;
+- questões, gabarito e correção passam a integrar a própria apostila, evitando dezenas de cadernos separados.
+
+A001 foi recriada nesse padrão com 39 páginas e incorpora:
+- teoria integral da A001;
+- resumo e mapa de remissões;
+- questões oficiais de Português já previstas;
+- o caderno de 46 itens de RICD/Linguística já criado antes da decisão;
+- gabaritos/correções;
+- fechamento e controle de cobertura.
+
+PDF canônico A001:
+https://drive.google.com/file/d/1FqDKKErud2KWITIWwtI-UgsYzyU_lLRH/view
+
+Pasta das apostilas:
+https://drive.google.com/drive/folders/17Y83E9zU8YRiojc81f2aVaxH_vJVUKIk
+
+A002 permanece como fonte editável em Google Docs, mas deve ser convertida para PDF consolidado antes da execução. A002 e seguintes não terão caderno de questões diário separado.
