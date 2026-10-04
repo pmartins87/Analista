@@ -36,15 +36,17 @@ Nenhum arquivo foi sincronizado automaticamente com Anki/AnkiDroid.
 
 ## Correção de consistência do PDF canônico — 03/10/2026
 
-Foi detectada e corrigida uma frase residual do caderno preliminar incorporado ao PDF consolidado. O trecho antigo dizia **16 cartões (9 RICD + 7 Linguística)**, correspondente ao primeiro pacote provisório criado antes da auditoria final do Anki.
+Foi detectada uma frase residual do **primeiro pacote provisório** incorporado ao PDF consolidado: **16 cartões = 9 RICD + 7 Linguística**. Essa composição deixou de ser válida após a auditoria final da A001, que redistribuiu a seleção entre as três matérias estudadas.
 
-A base canônica vigente é a posterior, auditada e linkada na planilha:
+No momento em que a divergência foi identificada, o índice canônico registrava **15 cartões = 3 Português + 8 Constitucional/Regimentos + 4 Linguística**. Em seguida, após a correção do caderno, o erro real do item 42 (`mais ou menos` x `comedidamente`) foi incorporado ao Anki de Linguística. A base canônica atual passou a ser:
 - P1 Português — **3**;
 - P1 Constitucional/Regimentos — **8**;
-- P2 Linguística — **4**;
-- total — **15 cartões-base**.
+- P2 Linguística — **5**;
+- total atual — **16 cartões-base**.
 
-O PDF canônico A001 foi corrigido **no mesmo arquivo/ID do Drive**, portanto o link da planilha permanece válido. GitHub, planilha e PDF passam a registrar a mesma base.
+O número **16 atual não é o mesmo pacote antigo 9+7**: é a base auditada 3+8+5, já com o cartão `erro_real`.
+
+Para impedir nova divergência, o PDF canônico da A001 deixou de exibir quantidade fixa de cartões e passou a remeter à planilha para a **contagem vigente**. O link/ID do PDF permaneceu o mesmo e a paginação não foi alterada. A planilha e `A001_INDEX.md` são a referência operacional para o Anki vivo.
 
 ## Lições permanentes
 - Anki fora da apostila;
