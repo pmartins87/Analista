@@ -29,7 +29,7 @@ Confira a estrutura oficial; não amplie por continuidade numérica.
 Só marque algo quando efetivamente executado. Item parcialmente coberto não é “Estudado”.
 
 ## 4. APOSTILA — CONTEÚDO E FORMATO
-Cada apostila é a unidade de execução do dia e deve conter: número/data/carga; itens exatos do edital; revisões; objetivos observáveis; teoria suficiente para prova; fontes e leitura dirigida; exemplos/contrastes/armadilhas; muitas questões; gabarito e resolução comentada; recuperação ativa; P3 quando prevista; encaminhamento ao Anki separado; fechamento; checkboxes exatos da verticalização.
+Cada apostila é a unidade de execução do dia e deve conter: número/data/carga; itens exatos do edital; revisões; objetivos observáveis; teoria suficiente para prova; fontes e leitura dirigida; exemplos/contrastes/armadilhas; muitas questões; gabarito e resolução comentada; recuperação ativa; P3 quando prevista; encaminhamento ao Anki separado; fechamento; checkboxes exatos da verticalização. **Perguntas abertas nunca ficam sem resposta:** toda pergunta de recuperação, checagem ou fechamento deve ter resposta esperada/modelo na própria apostila, em bloco separado para consulta somente após a tentativa.
 
 Em normas/regimentos: incluir **resumo estratégico pós-leitura** e **mapa de remissões**.
 - interna: mostrar somente o dispositivo estudado integrado ao conteúdo chamado;
