@@ -222,6 +222,16 @@ Uma mesma regra pode gerar **mais de um cartão** quando houver recuperações g
 
 Erros reais e acertos com dúvida são **camada adicional**, não substituta da teoria. O baralho-base deve cobrir o conteúdo relevante mesmo que o candidato ainda não tenha errado uma questão sobre ele.
 
+### 3.3.2 Erro real como semente de expansão
+
+Todo erro real do candidato gera obrigatoriamente ao menos um cartão específico, salvo item anulado, defeituoso ou fora do edital. Esse cartão preserva o mecanismo que causou o erro e recebe a tag `erro_real`.
+
+O erro também deve expandir o baralho para cobranças vizinhas do mesmo mecanismo. Prioridade: questão oficial Cebraspe/Cespe do mesmo tema e nível; depois questão oficial próxima com o mesmo mecanismo; só então item autoral com alma Cebraspe.
+
+Para Anki, uma questão oficial pode ser reduzida ao trecho mínimo autossuficiente e decisivo, desde que a redação necessária à resolução seja preservada e o cartão seja identificado como `oficial_cebraspe`. O objetivo é revisão rápida no celular.
+
+Exemplo: um erro em `mais ou menos` versus `comedidamente` mantém o cartão específico e também justifica cartões sobre falsa sinonímia contextual, substituição lexical com mudança de sentido e equivalência apenas aparente.
+
 Para conteúdos menos “ankizáveis”, como interpretação de texto, a densidade pode ser menor. Priorizar mecanismos reutilizáveis de prova, contrastes conceituais e erros reais; evitar cartões dependentes de um texto isolado quando não houver ganho transferível.
 
 A seleção continua orientada por:
