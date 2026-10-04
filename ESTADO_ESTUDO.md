@@ -95,6 +95,8 @@ Nova regra canônica:
 
 A base de 16 cartões da A001 passa a ser tratada como **subdimensionada** e deverá ser expandida, principalmente em RICD 1–15 e teoria de Linguística, preservando o cartão de erro real já existente.
 
+Complemento de 04/10: **erro real é semente obrigatória de expansão**. O cartão específico do erro deve ser mantido e, em seguida, ampliado com cartões que testem a mesma armadilha ou distinção, preferencialmente derivados de questões oficiais Cebraspe/Cespe de nível semelhante. Para revisão móvel, pode-se usar apenas o trecho autossuficiente e decisivo da questão, em vez de reproduzir o enunciado inteiro.
+
 ## Anki A001
 **BASE CANÔNICA CRIADA; NÃO SINCRONIZADA.**
 
