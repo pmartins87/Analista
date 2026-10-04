@@ -48,6 +48,17 @@ O número **16 atual não é o mesmo pacote antigo 9+7**: é a base auditada 3+8
 
 Para impedir nova divergência, o PDF canônico da A001 deixou de exibir quantidade fixa de cartões e passou a remeter à planilha para a **contagem vigente**. O link/ID do PDF permaneceu o mesmo e a paginação não foi alterada. A planilha e `A001_INDEX.md` são a referência operacional para o Anki vivo.
 
+## Pacote único APKG — 03/10/2026
+
+Foi criado `anki/A001_Anki_16_cartoes.apkg` com os **16 cartões canônicos atuais**, distribuídos em:
+- `Analista::P1::Português` — 3;
+- `Analista::P1::Constitucional_Regimentos` — 8;
+- `Analista::P2::Linguística` — 5.
+
+O APKG passou por auditoria estrutural: arquivo reconhecido como pacote Anki, coleção SQLite íntegra, **16 notas e 16 cartões**, sem mídia externa. Os TSVs continuam preservados como fonte auditável e contingência.
+
+A criação do pacote **não equivale a importação nem sincronização** no Anki/AnkiDroid do candidato.
+
 ## Lições permanentes
 - Anki fora da apostila;
 - candidato não redige cartões;
