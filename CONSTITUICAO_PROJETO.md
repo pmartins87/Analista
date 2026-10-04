@@ -187,6 +187,8 @@ Estrutura recomendada:
 
 Cada apostila gera, **fora da apostila**, um artefato Anki separado que será adicionado ao baralho da matéria correspondente. O candidato não é responsável por redigir os cartões; o projeto faz a seleção e a redação.
 
+Como o Anki é **evolutivo** (erros reais e acertos com dúvida podem acrescentar cartões depois do fechamento da apostila), o PDF da apostila **não deve congelar contagem numérica de cartões nem composição por matéria**. O PDF apenas remete ao índice operacional `Apostilas e Anki`; a contagem vigente e os arquivos importáveis ficam na planilha/GitHub canônico. Isso evita divergência entre apostila estática e baralho vivo.
+
 Tags obrigatórias:
 - `A001`, `A002` etc.;
 - item do edital;
