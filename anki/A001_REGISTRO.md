@@ -79,6 +79,31 @@ Direção:
 
 A expansão do Anki **não reabre a cobertura da apostila nem altera o status do Edital Verticalizado**; altera apenas o instrumento de retenção.
 
+## Substituição concluída — base densa A001 — 04/10/2026
+
+A base provisória de 16 cartões foi substituída pelo pacote canônico `A001_Anki_DENSO.apkg`.
+
+Composição atual:
+- P1 Português — **9**;
+- P1 Constitucional/Regimentos — **122**;
+- P2 Linguística — **24**;
+- total — **155 cartões**.
+
+Critério: alta densidade para RICD 1–15, com cartões de literalidade, competência, prazo, quórum, condição, exceção, composição, vacância, remissões e inversões plausíveis de Cebraspe; Linguística foi ampliada com teoria e contrastes; Português ficou concentrado em mecanismos transferíveis e questões/erros de alto valor.
+
+O cartão `erro_real` da Q42 foi preservado. A expansão também incluiu cartões vizinhos do mesmo mecanismo sem apagar o erro original.
+
+QA do APKG:
+- SQLite `integrity_check = ok`;
+- **155 notas / 155 cartões**;
+- **0 frentes duplicadas**;
+- **0 GUIDs duplicados**;
+- sem mídia externa;
+- 16 cartões anteriores preservados com seus identificadores internos para minimizar duplicação em importação incremental;
+- schema de decks mantém os campos necessários ao AnkiDroid que corrigiram o erro anterior de `decoding decks`.
+
+Os TSVs antigos de 16 cartões ficam apenas como histórico e não são a base de importação atual. Nenhuma sincronização com Anki/AnkiDroid foi alegada ou realizada.
+
 ## Lições permanentes
 - Anki fora da apostila;
 - candidato não redige cartões;
