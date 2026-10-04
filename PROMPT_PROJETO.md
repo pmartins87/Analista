@@ -65,7 +65,7 @@ Resolver sem corrigir não fecha sessão. Separe resolução de correção. Refe
 ## 6. REVISÃO
 Revisão integra a carga:
 - Anki vencidos;
-- D+1: A[n−1], recuperação ativa breve;
+- D+1: A[n−1], recuperação ativa breve; não reservar dia inteiro enquanto houver 1ª cobertura pendente, salvo gate/semanal/simulado ou remediação por desempenho;
 - D+7: A[n−7], questões novas/recuperação;
 - D+21: A[n−21], bateria cumulativa/erros;
 - revisão semanal e simulados conforme mapa.
