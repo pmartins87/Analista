@@ -70,16 +70,14 @@ Defeito visual identificado na A001: uma questão teve linha recortada na transi
 - Correção de fidelidade no art. 14: a Mesa compõe-se de Presidente, dois Vice-Presidentes e quatro Secretários; os quatro Suplentes do § 2º ficam fora da composição estrita. A A001 e o Anki registram essa distinção.
 
 ## A002 — 04/10/2026
-Função: **D+1 da A001; nenhum item novo**.
+Função: **D+1 curta da A001 + conteúdo novo: RICD arts. 16–24, fechando P1-CONST 7.1**.
 Status: **PDF CANÔNICO PRONTO PARA EXECUÇÃO**.
-PDF: https://drive.google.com/file/d/1p0yYTy14lFH4ngdjIcsmq4IsMXsuXKtv/view
+PDF: https://drive.google.com/file/d/1qumOBlkFnrR0EiHxzuMGMkjFLzU5CDfo/view
 Fonte editável anterior: **não canônica; não usar para estudar**.
 
-Estrutura final: recuperação ativa; conferência dirigida das remissões; folha de respostas; bateria D+1 de **20 itens novos**; correção profunda; remediação; fila de Anki separada; fechamento.
+Estrutura final: 30 min de D+1 ativa da A001; 2h20 de RICD 16–24 com leitura dirigida, resumo e remissões; 35 min de questões; 35 min de resolução comentada e fechamento.
 
-A bateria não repete o caderno extraordinário A001. Após a auditoria pós-resolução, Português foi refiltrado por **nível do cargo + aderência temática**: 4 itens oficiais Cebraspe de Analista/TRF 6 e 2 inéditos de tipos/gêneros; RICD e Linguística mantêm 7 itens inéditos cada, diretamente ligados à A001. A resolução repete cada assertiva e o trecho decisivo quando necessário.
-
-A002 revisada possui 13 páginas e passou por inspeção visual integral das 13 páginas e preflight do PDF.
+A antiga A002 de revisão integral foi **invalidada** após auditoria do Mapa 106. A nova versão contém 18 itens sobre RICD 16–24, sendo 1 questão oficial de alto nível e 17 inéditas Cebraspe-style sobre a regra vigente. A resolução repete as assertivas. O PDF possui 12 páginas e foi inspecionado visualmente página a página.
 
 ## Política Anki — ajuste de 04/10/2026
 
@@ -164,3 +162,22 @@ A002 permanece como fonte editável em Google Docs, mas deve ser convertida para
 ## Próxima produção — A003
 
 A003 = 05/10/2026, 6h, com conteúdo novo em P2 Processo, P1 Administrativo e RICD. **Não foi produzida junto com a A002** para não comprimir no mesmo ciclo a pesquisa normativa, seleção de questões e auditoria de três blocos novos. Próxima unidade de produção: A003, já no padrão PDF consolidado.
+
+
+## Auditoria do Mapa 106 — 04/10/2026
+
+Conclusão: **A002 como dia inteiro de revisão era erro de desenho**. Foi um efeito mecânico da cadência semanal aplicado após apenas um dia de estudo e contrariava a própria regra do projeto de D+1 curta.
+
+Dados da F1:
+- 51 dias, de A001 a A051;
+- 43 dias de 6h e 8 dias de 4h;
+- 8 dias originalmente sem matéria nova: A002, A009, A016, A023, A030, A037, A044 e A051;
+- A009 em diante, os dias de revisão semanal aparecem após blocos de seis dias de conteúdo novo e permanecem estrategicamente válidos;
+- A051 é gate de cobertura e também permanece válido.
+
+Correção sem efeito cascata:
+- **A002**: D+1 A001 curta + RICD 16–24 (fecha P1-CONST 7.1);
+- **A003**: P2 Processo 1–1.1 + P1 Administrativo 1–1.1 + RICD 25–30;
+- **A004 em diante**: sem alteração.
+
+O fechamento da primeira passagem continua previsto para A051 (22/11/2026), preservando aproximadamente 55 dias para consolidação, intensificação e reta final.
