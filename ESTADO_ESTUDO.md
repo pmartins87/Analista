@@ -1,6 +1,6 @@
 # ESTADO OPERACIONAL DE ESTUDOS
 
-Atualizado em: **03/10/2026**
+Atualizado em: **04/10/2026**
 
 ## Norma máxima
 [CONSTITUICAO_PROJETO.md](CONSTITUICAO_PROJETO.md) é a norma máxima.  
@@ -98,18 +98,22 @@ A base de 16 cartões da A001 passa a ser tratada como **subdimensionada** e dev
 Complemento de 04/10: **erro real é semente obrigatória de expansão**. O cartão específico do erro deve ser mantido e, em seguida, ampliado com cartões que testem a mesma armadilha ou distinção, preferencialmente derivados de questões oficiais Cebraspe/Cespe de nível semelhante. Para revisão móvel, pode-se usar apenas o trecho autossuficiente e decisivo da questão, em vez de reproduzir o enunciado inteiro.
 
 ## Anki A001
-**BASE CANÔNICA CRIADA; NÃO SINCRONIZADA.**
+**BASE DENSA CANÔNICA CRIADA; NÃO SINCRONIZADA.**
 
-Existem 16 cartões-base em três arquivos TSV importáveis:
-- P1 Português — 3;
-- P2 Linguística — 5;
-- P1 Constitucional/Regimentos — 8.
+A base provisória de 16 cartões foi substituída em 04/10/2026 por **155 cartões**:
+- P1 Português — **9**;
+- P2 Linguística — **24**;
+- P1 Constitucional/Regimentos — **122**.
 
-Importação principal (pacote único APKG): https://github.com/pmartins87/Analista/raw/refs/heads/main/anki/A001_Anki_16_cartoes.apkg
+Importação principal:
+https://github.com/pmartins87/Analista/raw/refs/heads/main/anki/A001_Anki_DENSO.apkg
 
-Índice/auditoria e TSVs: https://github.com/pmartins87/Analista/blob/main/anki/A001_INDEX.md
+Índice/auditoria:
+https://github.com/pmartins87/Analista/blob/main/anki/A001_INDEX.md
 
-O APKG contém 16 notas/cartões e cria os três baralhos por matéria. A D+1 da A002 poderá acrescentar cartões `erro_real` e `acerto_com_duvida`. Não há integração Anki/AnkiDroid disponível no projeto neste momento, portanto nenhuma sincronização automática foi realizada.
+O pacote preserva os 16 cartões anteriores e seus identificadores internos, reduzindo risco de duplicação se a versão anterior tiver sido importada. O cartão `erro_real` da Q42 foi mantido e usado como semente para cartões vizinhos de falsa sinonímia contextual/substituição lexical.
+
+Auditoria estrutural: SQLite íntegro; **155 notas e 155 cartões**; sem frentes ou GUIDs duplicados; sem mídia externa. A D+1 da A002 poderá acrescentar novos cartões `erro_real` e `acerto_com_duvida`. Não houve sincronização automática com Anki/AnkiDroid.
 
 ## Recorte regimental
 RICD: P1 1–24, 65–94, 226–251, 262–273; P2 25–64, 95–200. **201–225 fora do edital.**
