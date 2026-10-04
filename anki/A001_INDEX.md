@@ -13,7 +13,7 @@ A expansão segue a política de alta densidade: cobertura ativa de teoria/liter
 
 ## Importação recomendada — pacote único
 
-- [BAIXAR A001 — pacote Anki denso (.apkg)](https://github.com/pmartins87/Analista/raw/refs/heads/main/anki/A001_Anki_DENSO.apkg)
+- [BAIXAR A001 — pacote Anki denso (.apkg)](https://drive.google.com/file/d/151QMkNQuDWHBy01jAAL1PjTcoTI9RnEZ/view?usp=drivesdk)
 
 O pacote cria/atualiza:
 - `Analista::P1::Português`
@@ -50,4 +50,4 @@ Esse erro também foi usado como semente para cartões de mesma família de risc
 - sincronização automática: **não realizada**;
 - D+1/A002 pode acrescentar novos `erro_real` e `acerto_com_duvida` sem substituir a teoria-base.
 
-Os TSVs antigos permanecem no repositório apenas como **registro histórico da base de 16 cartões** e não devem ser usados para importar a versão atual.
+Os TSVs antigos permanecem no repositório apenas como **registro histórico da base de 16 cartões** e não devem ser usados para importar a versão atual. O binário `.apkg` canônico fica no Google Drive; os APKGs antigos foram removidos do GitHub para evitar download acidental de versão obsoleta.
