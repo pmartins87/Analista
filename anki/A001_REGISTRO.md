@@ -9,6 +9,8 @@ Status: **APOSTILA CONCLUÍDA; BASE ANKI CRIADA; D+1 PENDENTE**
 - P1 Constitucional/Regimento item 7.1 — parcial: RICD 1º–15 concluídos; 16–24 pendentes.
 
 ## Questões
+Resultado válido do caderno extraordinário: **44 itens (R17 e R24 excluídos), 43 acertos, 1 erro, líquido 42/44**. Erro real: item 42, sinonímia contextual (`mais ou menos` x `comedidamente`).
+
 A versão estudada da A001 continha 12 itens autorais. Resultado informado: **12/12**, com percepção de dificuldade muito baixa e tempo muito inferior ao previsto.
 
 Após o feedback:
@@ -19,9 +21,9 @@ Após o feedback:
 - a bateria nova será executada na D+1 da A002, sem reabrir a conclusão da A001.
 
 ## Anki — artefatos existentes
-Foram criados **15 cartões-base**, separados por matéria:
+Foram criados **16 cartões-base**, separados por matéria:
 - `A001_P1_Portugues.tsv` — 3 cartões;
-- `A001_P2_Linguistica.tsv` — 4 cartões;
+- `A001_P2_Linguistica.tsv` — 5 cartões;
 - `A001_P1_Constitucional_Regimentos.tsv` — 8 cartões.
 
 Índice: [A001_INDEX.md](A001_INDEX.md)
