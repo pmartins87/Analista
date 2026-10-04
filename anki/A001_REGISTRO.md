@@ -65,6 +65,18 @@ O primeiro `.apkg` gerado manualmente falhou no AnkiDroid com `500: JsonError { 
 
 O pacote `A001_Anki_16_cartoes.apkg` foi regenerado no mesmo caminho do GitHub, com esses campos incluídos. A coleção continua com **16 notas e 16 cartões**, SQLite íntegro. O link da planilha não mudou.
 
+## Reabertura do Anki A001 para expansão — 04/10/2026
+
+A base de 16 cartões foi considerada **subdimensionada** para o uso pretendido. A A001 permanece concluída como estudo, mas seu artefato Anki será expandido sob a nova política de alta densidade.
+
+Direção:
+- ampliar fortemente RICD 1–15, cobrindo unidades semânticas testáveis, exceções, competências, prazos, composições, vacâncias e remissões resolvidas;
+- ampliar Linguística com teoria e contrastes, não apenas itens derivados de questões;
+- Português recebe cartões somente para mecanismos reutilizáveis e erros relevantes;
+- preservar os cartões atuais úteis, inclusive o `erro_real` da Q42.
+
+A expansão do Anki **não reabre a cobertura da apostila nem altera o status do Edital Verticalizado**; altera apenas o instrumento de retenção.
+
 ## Lições permanentes
 - Anki fora da apostila;
 - candidato não redige cartões;
