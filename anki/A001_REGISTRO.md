@@ -93,6 +93,8 @@ Critério: alta densidade para RICD 1–15, com cartões de literalidade, compet
 
 O cartão `erro_real` da Q42 foi preservado. A expansão também incluiu cartões vizinhos do mesmo mecanismo sem apagar o erro original.
 
+Drive canônico: https://drive.google.com/file/d/151QMkNQuDWHBy01jAAL1PjTcoTI9RnEZ/view?usp=drivesdk
+
 QA do APKG:
 - SQLite `integrity_check = ok`;
 - **155 notas / 155 cartões**;
@@ -102,7 +104,7 @@ QA do APKG:
 - 16 cartões anteriores preservados com seus identificadores internos para minimizar duplicação em importação incremental;
 - schema de decks mantém os campos necessários ao AnkiDroid que corrigiram o erro anterior de `decoding decks`.
 
-Os TSVs antigos de 16 cartões ficam apenas como histórico e não são a base de importação atual. Nenhuma sincronização com Anki/AnkiDroid foi alegada ou realizada.
+Os TSVs antigos de 16 cartões ficam apenas como histórico e não são a base de importação atual. Os binários APKG antigos foram removidos do GitHub após a migração do pacote canônico para o Drive. Nenhuma sincronização com Anki/AnkiDroid foi alegada ou realizada.
 
 ## Lições permanentes
 - Anki fora da apostila;
