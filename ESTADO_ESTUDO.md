@@ -42,6 +42,16 @@ Escopo efetivamente estudado:
 
 A verticalização já foi atualizada. D+1/D+7/D+21 e Anki continuam desmarcados até execução real.
 
+### Resultado do caderno A001 — 03/10/2026
+
+Caderno extraordinário: 46 itens. **R17 e R24 foram excluídos da medição**, pois cobravam história de alteração normativa (Resoluções de 2023/2026) e não a regra vigente, padrão inadequado ao edital e pouco plausível como item Cebraspe.
+
+Resultado válido: **44 itens; 43 acertos; 1 erro (item 42); pontuação líquida = 42/44**. Erro 42: falsa sinonímia entre “mais ou menos” (aproximadamente/em maior ou menor grau) e “comedidamente” (com moderação/prudência). Foi criado cartão Anki `erro_real` a partir desse item oficial.
+
+Alguns acertos tiveram dúvida, mas os números não foram enumerados; não foram criados cartões fictícios a partir deles.
+
+Defeito visual identificado na A001: uma questão teve linha recortada na transição de página. A001 **não será reemitida**, para preservar as marcações do candidato. A falha virou regra de QA para A002+.
+
 ### Feedback metodológico incorporado após a A001
 - C/Q/P/A/E/V são apenas alertas; marcação regimental deve preservar unidade semântica inteligível.
 - Cartões Anki **não ficam na apostila** e não são redigidos pelo candidato.
@@ -62,21 +72,21 @@ A verticalização já foi atualizada. D+1/D+7/D+21 e Anki continuam desmarcados
 ## A002 — 04/10/2026
 Função: **D+1 da A001; nenhum item novo**.
 Status: **PDF CANÔNICO PRONTO PARA EXECUÇÃO**.
-PDF: https://drive.google.com/file/d/1UPapw6RezpcuzS6T8klvP_fP3WgiZYFE/view
-Fonte editável legada: https://docs.google.com/document/d/1IAZhDuNKD2QGzU3YsRx248kkKYpRcUzBiWDloMEvrt0/edit
+PDF: https://drive.google.com/file/d/1p0yYTy14lFH4ngdjIcsmq4IsMXsuXKtv/view
+Fonte editável anterior: **não canônica; não usar para estudar**.
 
 Estrutura final: recuperação ativa; conferência dirigida das remissões; folha de respostas; bateria D+1 de **20 itens novos**; correção profunda; remediação; fila de Anki separada; fechamento.
 
-A bateria não repete o caderno extraordinário A001 de 46 itens para evitar ganho artificial por memória de resposta. Traz 6 questões oficiais novas de Português do acervo licenciado + 7 itens RICD Cebraspe-style + 7 itens Linguística Cebraspe-style. As questões oficiais tiveram os textos-base disponíveis preservados no PDF final.
+A bateria não repete o caderno extraordinário A001. Após a auditoria pós-resolução, Português foi refiltrado por **nível do cargo + aderência temática**: 4 itens oficiais Cebraspe de Analista/TRF 6 e 2 inéditos de tipos/gêneros; RICD e Linguística mantêm 7 itens inéditos cada, diretamente ligados à A001. A resolução repete cada assertiva e o trecho decisivo quando necessário.
 
-A002 possui 13 páginas e passou por inspeção visual integral e preflight do PDF.
+A002 revisada possui 13 páginas e passou por inspeção visual integral das 13 páginas e preflight do PDF.
 
 ## Anki A001
 **BASE CANÔNICA CRIADA; NÃO SINCRONIZADA.**
 
-Existem 15 cartões-base em três arquivos TSV importáveis:
+Existem 16 cartões-base em três arquivos TSV importáveis:
 - P1 Português — 3;
-- P2 Linguística — 4;
+- P2 Linguística — 5;
 - P1 Constitucional/Regimentos — 8.
 
 Índice/download: https://github.com/pmartins87/Analista/blob/main/anki/A001_INDEX.md
