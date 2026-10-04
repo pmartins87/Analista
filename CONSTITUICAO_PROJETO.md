@@ -1,6 +1,6 @@
 # CONSTITUIÇÃO DO PROJETO — ANALISTA REGISTRO E REDAÇÃO
 
-Versão: 1.6  
+Versão: 1.7  
 Data: 03/10/2026  
 Status: **NORMA MÁXIMA DO PROJETO**
 
@@ -123,10 +123,11 @@ Cada apostila deve ser autossuficiente para aquele dia e conter, nesta ordem:
 13. muitas questões;
 14. correção comentada;
 15. recuperação ativa sem consulta;
-16. discursiva/peça técnica somente quando programada e justificada pelo conteúdo já estudado;
-17. indicação de que haverá encaminhamento ao Anki em artefato separado, **sem colocar frente/verso de cartões no corpo da apostila**;
-18. checklist de encerramento;
-19. instrução exata de quais linhas do Edital Verticalizado podem ser marcadas.
+16. **respostas esperadas das perguntas abertas** de recuperação, checagem ou fechamento, no próprio PDF, em bloco separado para não destruir a recuperação ativa;
+17. discursiva/peça técnica somente quando programada e justificada pelo conteúdo já estudado;
+18. indicação de que haverá encaminhamento ao Anki em artefato separado, **sem colocar frente/verso de cartões no corpo da apostila**;
+19. checklist de encerramento;
+20. instrução exata de quais linhas do Edital Verticalizado podem ser marcadas.
 
 Não usar comandos vagos como:
 - “estude pelo ChatGPT”;
@@ -135,6 +136,8 @@ Não usar comandos vagos como:
 - “veja o Gran”.
 
 A apostila deve dizer **o que, onde, como e quanto**.
+
+**Pergunta aberta nunca fica sem gabarito.** Toda pergunta de recuperação ativa, autoexplicação, checagem ou fechamento deve ter, na própria apostila, uma resposta esperada/modelo suficiente para autocorreção. Para preservar o esforço de recuperação, a resposta deve aparecer em bloco separado e sinalizado para ser consultado somente depois da tentativa.
 
 Nos blocos normativos, códigos como C=competência, Q=quórum, P=prazo, A=autoridade, E=exceção e V=verbo podem ser usados apenas como **alertas de incidência**, nunca como método exclusivo de marcação. A marcação deve preservar a menor unidade semântica inteligível: sujeito/autoridade + regra/ação + condição/limite/exceção quando relevante. Também podem ser marcadas definições, consequências, sequências, vedações, faculdades, remissões e quaisquer trechos cujo apagamento altere a resposta de uma questão plausível.
 
