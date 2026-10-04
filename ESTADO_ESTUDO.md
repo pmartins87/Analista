@@ -52,6 +52,11 @@ Alguns acertos tiveram dúvida, mas os números não foram enumerados; não fora
 
 Defeito visual identificado na A001: uma questão teve linha recortada na transição de página. A001 **não será reemitida**, para preservar as marcações do candidato. A falha virou regra de QA para A002+.
 
+### Regra incorporada em 04/10/2026 — perguntas abertas
+- **Pergunta aberta = resposta obrigatória na própria apostila.** Recuperação ativa, checagem e fechamento podem continuar em formato aberto, mas precisam de resposta esperada/modelo para autocorreção.
+- A resposta fica em bloco separado, identificado para consulta somente depois da tentativa, preservando o efeito de recuperação ativa.
+- A002 foi atualizada retroativamente para cumprir essa regra.
+
 ### Feedback metodológico incorporado após a A001
 - C/Q/P/A/E/V são apenas alertas; marcação regimental deve preservar unidade semântica inteligível.
 - Cartões Anki **não ficam na apostila** e não são redigidos pelo candidato.
@@ -72,12 +77,12 @@ Defeito visual identificado na A001: uma questão teve linha recortada na transi
 ## A002 — 04/10/2026
 Função: **D+1 curta da A001 + conteúdo novo: RICD arts. 16–24, fechando P1-CONST 7.1**.
 Status: **PDF CANÔNICO PRONTO PARA EXECUÇÃO**.
-PDF: https://drive.google.com/file/d/1qumOBlkFnrR0EiHxzuMGMkjFLzU5CDfo/view
+PDF: https://drive.google.com/file/d/1WYeGO9Znjq-DSrt2L6PeayduWQce2IR1/view
 Fonte editável anterior: **não canônica; não usar para estudar**.
 
 Estrutura final: 30 min de D+1 ativa da A001; 2h20 de RICD 16–24 com leitura dirigida, resumo e remissões; 35 min de questões; 35 min de resolução comentada e fechamento.
 
-A antiga A002 de revisão integral foi **invalidada** após auditoria do Mapa 106. A nova versão contém 18 itens sobre RICD 16–24, sendo 1 questão oficial de alto nível e 17 inéditas Cebraspe-style sobre a regra vigente. A resolução repete as assertivas. O PDF possui 12 páginas e foi inspecionado visualmente página a página.
+A antiga A002 de revisão integral foi **invalidada** após auditoria do Mapa 106. A nova versão contém 18 itens sobre RICD 16–24, sendo 1 questão oficial de alto nível e 17 inéditas Cebraspe-style sobre a regra vigente. A resolução repete as assertivas. O PDF possui 14 páginas e foi inspecionado visualmente página a página. Todas as perguntas abertas da D+1 e do fechamento agora trazem respostas esperadas no próprio PDF, em bloco separado para preservar a recuperação ativa.
 
 ## Política Anki — ajuste de 04/10/2026
 
