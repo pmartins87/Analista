@@ -61,9 +61,15 @@ A verticalização já foi atualizada. D+1/D+7/D+21 e Anki continuam desmarcados
 
 ## A002 — 04/10/2026
 Função: **D+1 da A001; nenhum item novo**.
-Status: **CRIADA E PRONTA PARA EXECUÇÃO**.
-Documento: https://docs.google.com/document/d/1IAZhDuNKD2QGzU3YsRx248kkKYpRcUzBiWDloMEvrt0/edit
-Estrutura: recuperação ativa; conferência dirigida das remissões; bateria mista de 20 itens; correção por pontuação líquida/causa do erro; remediação; fila de Anki separada.
+Status: **PDF CANÔNICO PRONTO PARA EXECUÇÃO**.
+PDF: https://drive.google.com/file/d/1UPapw6RezpcuzS6T8klvP_fP3WgiZYFE/view
+Fonte editável legada: https://docs.google.com/document/d/1IAZhDuNKD2QGzU3YsRx248kkKYpRcUzBiWDloMEvrt0/edit
+
+Estrutura final: recuperação ativa; conferência dirigida das remissões; folha de respostas; bateria D+1 de **20 itens novos**; correção profunda; remediação; fila de Anki separada; fechamento.
+
+A bateria não repete o caderno extraordinário A001 de 46 itens para evitar ganho artificial por memória de resposta. Traz 6 questões oficiais novas de Português do acervo licenciado + 7 itens RICD Cebraspe-style + 7 itens Linguística Cebraspe-style. As questões oficiais tiveram os textos-base disponíveis preservados no PDF final.
+
+A002 possui 13 páginas e passou por inspeção visual integral e preflight do PDF.
 
 ## Anki A001
 **BASE CANÔNICA CRIADA; NÃO SINCRONIZADA.**
@@ -121,3 +127,8 @@ Pasta das apostilas:
 https://drive.google.com/drive/folders/17Y83E9zU8YRiojc81f2aVaxH_vJVUKIk
 
 A002 permanece como fonte editável em Google Docs, mas deve ser convertida para PDF consolidado antes da execução. A002 e seguintes não terão caderno de questões diário separado.
+
+
+## Próxima produção — A003
+
+A003 = 05/10/2026, 6h, com conteúdo novo em P2 Processo, P1 Administrativo e RICD. **Não foi produzida junto com a A002** para não comprimir no mesmo ciclo a pesquisa normativa, seleção de questões e auditoria de três blocos novos. Próxima unidade de produção: A003, já no padrão PDF consolidado.
