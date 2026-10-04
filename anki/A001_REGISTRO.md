@@ -34,6 +34,18 @@ A002 poderá acrescentar cartões apenas se surgirem erros reais ou acertos com 
 
 Nenhum arquivo foi sincronizado automaticamente com Anki/AnkiDroid.
 
+## Correção de consistência do PDF canônico — 03/10/2026
+
+Foi detectada e corrigida uma frase residual do caderno preliminar incorporado ao PDF consolidado. O trecho antigo dizia **16 cartões (9 RICD + 7 Linguística)**, correspondente ao primeiro pacote provisório criado antes da auditoria final do Anki.
+
+A base canônica vigente é a posterior, auditada e linkada na planilha:
+- P1 Português — **3**;
+- P1 Constitucional/Regimentos — **8**;
+- P2 Linguística — **4**;
+- total — **15 cartões-base**.
+
+O PDF canônico A001 foi corrigido **no mesmo arquivo/ID do Drive**, portanto o link da planilha permanece válido. GitHub, planilha e PDF passam a registrar a mesma base.
+
 ## Lições permanentes
 - Anki fora da apostila;
 - candidato não redige cartões;
