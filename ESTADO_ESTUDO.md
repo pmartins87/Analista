@@ -89,9 +89,11 @@ Existem 16 cartões-base em três arquivos TSV importáveis:
 - P2 Linguística — 5;
 - P1 Constitucional/Regimentos — 8.
 
-Índice/download: https://github.com/pmartins87/Analista/blob/main/anki/A001_INDEX.md
+Importação principal (pacote único APKG): https://github.com/pmartins87/Analista/raw/refs/heads/main/anki/A001_Anki_16_cartoes.apkg
 
-A D+1 da A002 poderá acrescentar cartões `erro_real` e `acerto_com_duvida`. Não há integração Anki/AnkiDroid disponível no projeto neste momento, portanto nenhuma sincronização automática foi realizada.
+Índice/auditoria e TSVs: https://github.com/pmartins87/Analista/blob/main/anki/A001_INDEX.md
+
+O APKG contém 16 notas/cartões e cria os três baralhos por matéria. A D+1 da A002 poderá acrescentar cartões `erro_real` e `acerto_com_duvida`. Não há integração Anki/AnkiDroid disponível no projeto neste momento, portanto nenhuma sincronização automática foi realizada.
 
 ## Recorte regimental
 RICD: P1 1–24, 65–94, 226–251, 262–273; P2 25–64, 95–200. **201–225 fora do edital.**
