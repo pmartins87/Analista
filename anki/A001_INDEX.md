@@ -1,36 +1,53 @@
 # A001 — Anki canônico
 
-Atualizado em: 03/10/2026
+Atualizado em: 04/10/2026
 
-**16 cartões-base**, separados por matéria:
-- P1 Português — 3;
-- P1 Constitucional e Regimentos — 8;
-- P2 Linguística — 5.
+## Base canônica atual
 
-## Importação recomendada — um único arquivo
-- [BAIXAR A001 — pacote único Anki/AnkiDroid (.apkg)](https://github.com/pmartins87/Analista/raw/refs/heads/main/anki/A001_Anki_16_cartoes.apkg)
+**155 cartões**, distribuídos por matéria:
+- P1 Português — **9**;
+- P1 Constitucional e Regimentos — **122**;
+- P2 Linguística — **24**.
 
-O pacote cria/atualiza estes baralhos:
+A expansão segue a política de alta densidade: cobertura ativa de teoria/literalidade, competências, prazos, quóruns, exceções, composições, remissões e pegadinhas Cebraspe. Erros reais permanecem obrigatórios e também servem como semente para cartões vizinhos.
+
+## Importação recomendada — pacote único
+
+- [BAIXAR A001 — pacote Anki denso (.apkg)](https://github.com/pmartins87/Analista/raw/refs/heads/main/anki/A001_Anki_DENSO.apkg)
+
+O pacote cria/atualiza:
 - `Analista::P1::Português`
 - `Analista::P1::Constitucional_Regimentos`
 - `Analista::P2::Linguística`
 
-No AnkiDroid: baixe o arquivo `.apkg`, toque nele e escolha abrir/importar com o AnkiDroid. O pacote contém os 16 cartões e suas tags.
+No AnkiDroid, baixe o `.apkg`, abra-o com o aplicativo e importe. O pacote contém **155 notas e 155 cartões**.
 
-## TSVs — fonte técnica e contingência
-Use estes arquivos somente se a importação `.apkg` falhar ou se precisar auditar os cartões individualmente:
-- [P1 Português — 3 cartões (TSV)](https://raw.githubusercontent.com/pmartins87/Analista/main/anki/A001_P1_Portugues.tsv)
-- [P1 Constitucional e Regimentos — 8 cartões (TSV)](https://raw.githubusercontent.com/pmartins87/Analista/main/anki/A001_P1_Constitucional_Regimentos.tsv)
-- [P2 Linguística — 5 cartões (TSV)](https://raw.githubusercontent.com/pmartins87/Analista/main/anki/A001_P2_Linguistica.tsv)
+## Continuidade com a versão anterior
 
-## Erro real incorporado
-- Cebraspe/INSS/Perito Médico/2025: `mais ou menos` ≠ `comedidamente` no contexto do item; cartão marcado `erro_real`.
+Os 16 cartões da base anterior foram preservados no pacote denso com seus identificadores internos, para reduzir risco de duplicação caso a versão anterior já tenha sido importada. O pacote antigo de 16 cartões está **substituído** e não é mais a fonte canônica.
+
+## Erro real Q42
+
+Permanece o cartão específico do erro:
+- Cebraspe/INSS/Perito Médico/2025 — `mais ou menos` ≠ `comedidamente`.
+
+Esse erro também foi usado como semente para cartões de mesma família de risco, sobretudo sinonímia contextual aparente e substituição lexical com mudança de sentido, priorizando itens oficiais quando disponíveis.
+
+## Auditoria do pacote
+
+- coleção SQLite: íntegra;
+- notas: **155**;
+- cartões: **155**;
+- frentes duplicadas: **0**;
+- GUIDs duplicados: **0**;
+- mídia externa: **nenhuma**;
+- schema de baralhos inclui os campos exigidos pelo importador legado do Anki/AnkiDroid.
 
 ## Estado
-- seleção-base: concluída;
-- pacote único `.apkg`: criado;
-- D+1/A002: poderá acrescentar `erro_real` ou `acerto_com_duvida`;
-- sincronização automática: **não realizada**;
-- não existe quota de cartões por apostila.
 
-O link principal da planilha aponta para o pacote `.apkg`. Este índice permanece como página de auditoria e contingência.
+- seleção densa A001: concluída;
+- APKG canônico: `A001_Anki_DENSO.apkg`;
+- sincronização automática: **não realizada**;
+- D+1/A002 pode acrescentar novos `erro_real` e `acerto_com_duvida` sem substituir a teoria-base.
+
+Os TSVs antigos permanecem no repositório apenas como **registro histórico da base de 16 cartões** e não devem ser usados para importar a versão atual.
