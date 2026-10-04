@@ -29,7 +29,7 @@ Confira a estrutura oficial; não amplie por continuidade numérica.
 Só marque algo quando efetivamente executado. Item parcialmente coberto não é “Estudado”.
 
 ## 4. APOSTILA — CONTEÚDO E FORMATO
-Cada apostila é a unidade de execução do dia e deve conter: número/data/carga; itens exatos do edital; revisões; objetivos observáveis; teoria suficiente para prova; fontes e leitura dirigida; exemplos/contrastes/armadilhas; muitas questões; gabarito e correção profunda; recuperação ativa; P3 quando prevista; encaminhamento ao Anki separado; fechamento; checkboxes exatos da verticalização.
+Cada apostila é a unidade de execução do dia e deve conter: número/data/carga; itens exatos do edital; revisões; objetivos observáveis; teoria suficiente para prova; fontes e leitura dirigida; exemplos/contrastes/armadilhas; muitas questões; gabarito e resolução comentada; recuperação ativa; P3 quando prevista; encaminhamento ao Anki separado; fechamento; checkboxes exatos da verticalização.
 
 Em normas/regimentos: incluir **resumo estratégico pós-leitura** e **mapa de remissões**.
 - interna: mostrar somente o dispositivo estudado integrado ao conteúdo chamado;
@@ -44,7 +44,7 @@ O **artefato canônico de estudo é um único PDF consolidado por apostila**, ar
 
 O PDF reúne no mesmo arquivo teoria, leitura dirigida, resumo, remissões, questões, gabarito/correção, recuperação, P3 quando prevista e fechamento. **Não criar caderno diário de questões separado.** Exceção somente para instrumento funcionalmente distinto/transversal, como Anki, dossiê, comparador ou simulado integral, quando a separação melhorar de fato o uso.
 
-Qualidade intelectual precede estética. Primeiro pesquisar/redigir/auditar; depois diagramar. O PDF final deve ter hierarquia visual estável, corpo em peso normal, negrito pontual e inspeção visual de todas as páginas contra cortes, sobreposições, glifos quebrados e paginação ruim.
+Qualidade intelectual precede estética. Primeiro pesquisar/redigir/auditar; depois diagramar. O PDF final deve ter hierarquia visual estável, corpo em peso normal, negrito pontual e inspeção visual de todas as páginas contra cortes, sobreposições, glifos quebrados, invasão de rodapé e paginação ruim.
 
 A planilha deve conter o link do PDF final. Nenhum artefato relevante pode depender de ser reencontrado em chat.
 
@@ -54,9 +54,11 @@ Objetiva: C/E, +1 acerto, -1 erro, 0 branco. Prioridade:
 2. oficial de tema próximo;
 3. inédita do projeto.
 
-Questão oficial: identificar prova/cargo/ano/item quando possível e trazer texto-base/enunciado completos quando disponíveis no acervo; não substituir por narrativa. Questão autoral nunca é “oficial”.
+Questão oficial: identificar prova/cargo/ano/item quando possível e trazer texto-base/enunciado completos quando disponíveis no acervo; não substituir por narrativa. Questão autoral nunca é “oficial”. Priorize questões de cargos de alta complexidade e editais semelhantes; técnico/auxiliar só excepcionalmente quando a aderência temática justificar. Questão deve incidir diretamente no tema do dia. Não crie item sobre qual resolução criou/revogou dispositivo se o edital cobra apenas a regra vigente.
 
 Inédita precisa ter alma Cebraspe: alteração pequena decisiva; regra x exceção; competência/prazo/quórum; conceitos próximos; ampliação/redução; possibilidade x certeza; condição necessária x suficiente; causa x correlação; inferência indevida; reescrita com mudança semântica; integração natural.
+
+A resolução comentada repete a assertiva e, se necessário, o trecho-base decisivo, para ser autossuficiente. Use “Gabarito” e “Resolução comentada”; evite “gabarito seco” e “correção profunda”.
 
 Resolver sem corrigir não fecha sessão. Separe resolução de correção. Referência: 180 itens/5h = 100 s/item em média bruta. Avalie pontuação líquida e causa dominante: conhecimento, literalidade, leitura, extrapolação, confusão conceitual ou estratégia.
 
