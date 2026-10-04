@@ -197,24 +197,48 @@ Tags obrigatórias:
 - `literalidade` quando norma/regimento;
 - `oficial_cebraspe` quando derivado de questão oficial.
 
-A seleção não pode ser feita por heurística simplista do tipo “é prazo, logo vira cartão”. Deve ser embasada, na medida do possível, por:
-- incidência em provas anteriores Cebraspe/Cespe do mesmo tema;
-- padrões de confusão efetivamente explorados pela banca;
+### 3.3.1 Princípio de densidade — cobertura ativa, não austeridade
+
+O projeto **não economiza cartões por economia**. O Anki é um segundo canal de estudo, especialmente útil no celular e em tempos fragmentados do dia. A seleção deve maximizar **recuperação ativa de conteúdo examinável**, mantendo qualidade e atomicidade.
+
+Para conteúdos altamente “ankizáveis” — especialmente **RICD, RCCN, Constituição, leis, resoluções, competências, prazos, quóruns, composições, exceções e remissões** — a política é de **alta densidade**. Deve virar cartão toda unidade semântica autônoma cuja recuperação rápida possa decidir uma questão plausível.
+
+Em normas/regimentos, considerar sistematicamente:
+- sujeito/autoridade + competência;
+- prazo + termo inicial + eventual prorrogação;
+- quórum/número e hipótese a que se aplica;
+- condição de incidência;
+- exceção;
+- consequência;
+- composição e ordem de substituição;
+- vedação e faculdade;
+- definição/classificação regimental;
+- regra x exceção;
+- remissão resolvida e resultado semântico;
+- distinção entre institutos próximos;
+- alteração mínima típica de Cebraspe.
+
+Uma mesma regra pode gerar **mais de um cartão** quando houver recuperações genuinamente diferentes e úteis — por exemplo: pergunta direta, inversão Cebraspe, regra x exceção ou remissão integrada. Isso não é duplicação inútil se cada cartão testar um ponto decisório diferente.
+
+Erros reais e acertos com dúvida são **camada adicional**, não substituta da teoria. O baralho-base deve cobrir o conteúdo relevante mesmo que o candidato ainda não tenha errado uma questão sobre ele.
+
+Para conteúdos menos “ankizáveis”, como interpretação de texto, a densidade pode ser menor. Priorizar mecanismos reutilizáveis de prova, contrastes conceituais e erros reais; evitar cartões dependentes de um texto isolado quando não houver ganho transferível.
+
+A seleção continua orientada por:
 - aderência ao edital atual;
+- incidência e estilo de cobrança Cebraspe/Cespe;
 - literalidade vigente e potencial discriminativo;
-- erros reais e acertos com dúvida do candidato;
-- distinções perigosas, competências, prazos, quóruns e exceções **quando demonstradamente relevantes**;
+- erros reais e acertos com dúvida;
 - conceitos centrais cuja recuperação rápida aumente desempenho.
 
-Evitar:
-- cartões escolares triviais;
-- perguntas descontextualizadas;
-- parágrafos enormes;
-- transformar toda apostila em flashcards.
+Evitar apenas:
+- cartões triviais sem valor de prova;
+- paráfrases duplicadas que testem exatamente a mesma coisa;
+- frente ambígua;
+- verso desnecessariamente longo;
+- conteúdo fora do edital apresentado como matéria.
 
-O Anki faz parte da carga diária. Não é tarefa extra ilimitada.
-
-**Não existe quota de cartões por apostila.** Toda apostila deve atualizar o estado do Anki, mas uma sessão pode gerar zero cartões novos quando não houver erro, dúvida ou informação com valor de recuperação suficiente. Volume artificial de cartões é proibido.
+O Anki faz parte da carga diária e pode ocupar tempos fragmentados fora da sessão principal. **Não existe teto ou quota artificial de cartões por apostila.** O limite é a qualidade e a sustentabilidade das revisões. Se o volume vencido crescer demais, primeiro se ajusta a entrada diária de cartões novos; não se empobrece preventivamente a cobertura de matérias altamente ankizáveis.
 
 ### 3.4 Registro central de artefatos e links
 
