@@ -59,6 +59,12 @@ O APKG passou por auditoria estrutural: arquivo reconhecido como pacote Anki, co
 
 A criação do pacote **não equivale a importação nem sincronização** no Anki/AnkiDroid do candidato.
 
+## Correção de compatibilidade AnkiDroid — 03/10/2026
+
+O primeiro `.apkg` gerado manualmente falhou no AnkiDroid com `500: JsonError { info: "decoding decks: JsonError" }`. A causa foi identificada no schema legado da coleção: os objetos de baralho estavam sem os campos obrigatórios de contadores diários (`lrnToday`, `revToday`, `newToday`, `timeToday`).
+
+O pacote `A001_Anki_16_cartoes.apkg` foi regenerado no mesmo caminho do GitHub, com esses campos incluídos. A coleção continua com **16 notas e 16 cartões**, SQLite íntegro. O link da planilha não mudou.
+
 ## Lições permanentes
 - Anki fora da apostila;
 - candidato não redige cartões;
