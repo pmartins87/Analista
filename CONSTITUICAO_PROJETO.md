@@ -1,6 +1,6 @@
 # CONSTITUIÇÃO DO PROJETO — ANALISTA REGISTRO E REDAÇÃO
 
-Versão: 1.3  
+Versão: 1.4  
 Data: 03/10/2026  
 Status: **NORMA MÁXIMA DO PROJETO**
 
@@ -149,6 +149,26 @@ A apresentação deve facilitar leitura sem competir com o conteúdo:
 - blocos de literalidade/remissões podem ser recuados para se distinguirem do comentário;
 - toda edição deve ser auditada contra concatenações, títulos desaparecidos, duplicações e estilos herdados acidentalmente.
 
+### 3.2.2 Formato canônico de entrega — PDF consolidado
+
+A partir de A001, o **artefato de estudo do candidato é um PDF consolidado** armazenado na pasta oficial do Google Drive e linkado na planilha.
+
+Motivo: o candidato estuda e marca o material em PDF; o formato oferece melhor hierarquia visual, leitura mais estável, menor risco de edição acidental e permite um padrão gráfico mais consistente sem sacrificar conteúdo.
+
+Regras:
+- a qualidade de conteúdo, fidelidade ao edital e auditoria normativa têm prioridade sobre estética;
+- o PDF só é gerado **depois** da pesquisa, redação e auditoria do conteúdo; renderização não pode reduzir tempo/rigor da etapa intelectual;
+- a fonte editável pode existir internamente (GitHub, DOCX/estrutura intermediária ou documento legado), mas **não é o artefato canônico de estudo**;
+- a planilha deve apontar para o PDF final no Google Drive;
+- correções posteriores devem gerar nova versão do mesmo artefato, evitando proliferação de arquivos;
+- a apostila diária deve reunir em **um único PDF** teoria, fonte/leitura dirigida, resumo, remissões, questões, gabarito/correção, recuperação ativa, discursiva quando prevista e checklist;
+- **não criar caderno de questões diário separado**. Questões e correções pertencem à própria apostila;
+- exceções de separação só existem para instrumentos funcionalmente distintos ou de uso transversal, como Anki, dossiê/comparadores de discursiva, simulados integrais ou anexos oficiais extensos que não faça sentido reproduzir;
+- tamanho do PDF, isoladamente, não é motivo para fragmentar. Só separar se a divisão aumentar de fato a usabilidade ou for tecnicamente necessária sem perda de continuidade;
+- o PDF final deve passar por renderização/inspeção visual para garantir ausência de cortes, sobreposições, glifos quebrados e problemas de paginação.
+
+A001 foi migrada retroativamente para esse padrão em 03/10/2026. O caderno de questões já criado antes da mudança foi incorporado ao PDF consolidado e preservado apenas como exceção histórica.
+
 ### 3.3 Anki — retenção de longo prazo
 
 O Anki será organizado **por matéria**, não por apostila.
@@ -197,7 +217,7 @@ O Anki faz parte da carga diária. Não é tarefa extra ilimitada.
 ### 3.4 Registro central de artefatos e links
 
 A planilha oficial é também o índice operacional dos materiais do projeto. Devem permanecer visíveis e atualizadas:
-- `Apostilas e Anki`: uma linha para cada A001–A106, com data, escopo, status, link da apostila, estado do Anki e link de download/importação quando houver artefato;
+- `Apostilas e Anki`: uma linha para cada A001–A106, com data, escopo, status, link do **PDF canônico da apostila no Google Drive**, estado do Anki e link de download/importação quando houver artefato;
 - `Discursivas`: todas as sessões P3 previstas no Mapa 106, com tipo de treino, pré-requisito P2, prova/comando oficial, espelho e exemplo do projeto;
 - `Materiais`: normas, comparadores, dossiês e outros materiais canônicos que o candidato precise reencontrar.
 
@@ -476,7 +496,8 @@ Toda mudança deve ser registrada:
 - colocar cartões Anki dentro da apostila;
 - mandar o candidato criar cartões que são responsabilidade do projeto;
 - substituir questão oficial por um resumo narrativo do que ela cobrava quando o item completo estiver disponível;
-- inserir seção apenas para “encher” apostila ou dar conselho óbvio sem ganho de pontos.
+- inserir seção apenas para “encher” apostila ou dar conselho óbvio sem ganho de pontos;
+- criar caderno de questões separado da apostila diária, salvo exceção estratégica expressamente registrada (por exemplo, simulado integral ou material transversal).
 
 ---
 
@@ -507,7 +528,8 @@ A aprovação é o objetivo; os artefatos são apenas instrumentos.
 - antigo AS0 não bloqueia mais o Anki: os cartões passam a ser gerados progressivamente por matéria a partir das apostilas e dos erros;
 - lições da revisão A001: marcação regimental deve preservar unidade semântica; Anki é artefato separado e selecionado por evidência; bateria precisa cobrir todos os blocos do dia e refletir dificuldade real; tempos de resolução e correção são separados; P3 só entra nas sessões previstas pelo Dossiê/Mapa; documentos devem ter hierarquia visual consistente sem sacrificar conteúdo; mapa de remissões segue o padrão interno=apenas RICD integrado / externo=texto literal externo + RICD integrado / destino aberto=não inventar;
 - art. 14: composição estrita da Mesa = Presidência (Presidente + dois Vice-Presidentes) + Secretaria (quatro Secretários); os quatro Suplentes de Secretário são previstos separadamente no § 2º e não devem ser somados quando a questão perguntar simplesmente quem compõe a Mesa;
-- todos os links de apostilas, Anki e P3 são registrados na planilha, não deixados apenas em chats.
+- todos os links de apostilas, Anki e P3 são registrados na planilha, não deixados apenas em chats;
+- formato canônico das apostilas: PDF consolidado no Google Drive; questões e correções ficam dentro da própria apostila; Google Docs deixa de ser o artefato de estudo principal.
 
 ---
 
