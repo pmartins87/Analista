@@ -1,6 +1,6 @@
 # CONSTITUIÇÃO DO PROJETO — ANALISTA REGISTRO E REDAÇÃO
 
-Versão: 1.4  
+Versão: 1.5  
 Data: 03/10/2026  
 Status: **NORMA MÁXIMA DO PROJETO**
 
@@ -165,7 +165,7 @@ Regras:
 - **não criar caderno de questões diário separado**. Questões e correções pertencem à própria apostila;
 - exceções de separação só existem para instrumentos funcionalmente distintos ou de uso transversal, como Anki, dossiê/comparadores de discursiva, simulados integrais ou anexos oficiais extensos que não faça sentido reproduzir;
 - tamanho do PDF, isoladamente, não é motivo para fragmentar. Só separar se a divisão aumentar de fato a usabilidade ou for tecnicamente necessária sem perda de continuidade;
-- o PDF final deve passar por renderização/inspeção visual para garantir ausência de cortes, sobreposições, glifos quebrados e problemas de paginação.
+- o PDF final deve passar por renderização/inspeção visual **de todas as páginas** para garantir ausência de cortes, sobreposições, glifos quebrados e problemas de paginação; nenhum texto pode invadir/ser recortado pela área de rodapé; blocos de questão devem evitar quebra ruim entre páginas.
 
 A001 foi migrada retroativamente para esse padrão em 03/10/2026. O caderno de questões já criado antes da mudança foi incorporado ao PDF consolidado e preservado apenas como exceção histórica.
 
@@ -269,6 +269,14 @@ Quando questão oficial for usada:
 - preservar o gabarito oficial, registrando eventual anulação/alteração;
 - se houver controvérsia, conferir fonte normativa/teórica.
 
+### 5.1.1 Filtro de aderência e nível
+
+A seleção de questões deve considerar conjuntamente **aderência ao item estudado, nível do cargo e semelhança do edital**. Priorizar Analista, Consultor, Auditor, Diplomata, controle, Legislativo, Judiciário e outros cargos de alta complexidade. Questões de técnico/auxiliar só entram excepcionalmente, quando houver aderência temática muito superior e mecanismo de cobrança útil; nunca para preencher quantidade.
+
+Questão tangencial ao conteúdo do dia não compensa apenas por ser oficial.
+
+Em questão autoral normativa, é proibido cobrar **história da alteração normativa** (“qual resolução criou/revogou o dispositivo”) se o edital cobra o texto vigente e não o ato alterador. Cobrar a regra vigente, sua exceção, competência, condição, prazo, quórum ou efeito.
+
 ### 5.2 “Alma Cebraspe”
 
 Questão inédita não será aceita apenas por estar em formato C/E.
@@ -304,6 +312,12 @@ A correção é parte do estudo. Resolver sem corrigir profundamente não conta 
 ### 5.4 Calibragem de tempo
 
 O edital atual prevê **180 itens objetivos em 5 horas**, média bruta de **100 segundos (1min40s) por item**, incluindo leitura de textos, marcações e transições. Essa média é teto operacional, não meta fixa: itens secos devem tender a ser mais rápidos; itens com texto podem consumir mais tempo. Nas apostilas, o tempo de **resolução** deve ser separado do tempo de **correção**, pois correção é estudo e não simulação de prova.
+
+### 5.5 Forma da resolução comentada
+
+A correção deve ser **autossuficiente**: repetir a assertiva antes da explicação e, quando o item depender de contexto, repetir também o trecho-base decisivo. O candidato não deve precisar voltar várias páginas apenas para lembrar o que estava julgando.
+
+Usar nomenclatura simples e profissional: **Gabarito** e **Resolução comentada**. Evitar “gabarito seco”, “correção profunda” ou “apostila consolidada” no corpo do material. O gabarito pode ser compacto (ex.: `1 C · 2 E · 3 C`).
 
 ---
 
