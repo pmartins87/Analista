@@ -74,6 +74,8 @@ Direção:
 - ampliar Linguística com teoria e contrastes, não apenas itens derivados de questões;
 - Português recebe cartões somente para mecanismos reutilizáveis e erros relevantes;
 - preservar os cartões atuais úteis, inclusive o `erro_real` da Q42.
+- usar a Q42 como semente: manter o cartão específico `mais ou menos` x `comedidamente` e acrescentar cartões de mesma estrutura, priorizando questões oficiais Cebraspe/Cespe de nível comparável sobre sinonímia contextual, substituição lexical e mudança de sentido.
+- em cartões derivados de questão oficial, usar o trecho mínimo autossuficiente que preserve a decisão do item, em vez de carregar texto desnecessário.
 
 A expansão do Anki **não reabre a cobertura da apostila nem altera o status do Edital Verticalizado**; altera apenas o instrumento de retenção.
 
