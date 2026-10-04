@@ -106,7 +106,7 @@ A base provisória de 16 cartões foi substituída em 04/10/2026 por **155 cart�
 - P1 Constitucional/Regimentos — **122**.
 
 Importação principal:
-https://github.com/pmartins87/Analista/raw/refs/heads/main/anki/A001_Anki_DENSO.apkg
+https://drive.google.com/file/d/151QMkNQuDWHBy01jAAL1PjTcoTI9RnEZ/view?usp=drivesdk
 
 Índice/auditoria:
 https://github.com/pmartins87/Analista/blob/main/anki/A001_INDEX.md
