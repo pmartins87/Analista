@@ -1,7 +1,7 @@
 # CONSTITUIÇÃO DO PROJETO — ANALISTA REGISTRO E REDAÇÃO
 
-Versão: 1.7  
-Data: 03/10/2026  
+Versão: 1.8  
+Data: 04/10/2026  
 Status: **NORMA MÁXIMA DO PROJETO**
 
 Este arquivo contém as diretrizes permanentes do projeto de preparação para o concurso da Câmara dos Deputados — Analista Legislativo — Especialidade Registro e Redação.
@@ -111,23 +111,23 @@ Cada apostila deve ser autossuficiente para aquele dia e conter, nesta ordem:
 6. teoria completa suficiente para a prova;
 7. remissão à fonte oficial quando a literalidade for relevante;
 8. leitura dirigida da fonte, com indicação exata do trecho;
-9. **resumo estratégico pós-leitura** dos dispositivos normativos estudados, sem substituir a fonte oficial;
-10. **mapa de remissões resolvidas**, sempre que o bloco normativo remeter a outro dispositivo ou norma, obedecendo ao padrão:
-   - **remissão interna ao mesmo diploma**: não repetir separadamente o dispositivo de destino; mostrar somente o dispositivo de origem em versão integrada, com o conteúdo chamado pela remissão incorporado;
-   - **remissão externa com destino identificável**: transcrever primeiro o texto exato do dispositivo externo referenciado e, em seguida, mostrar o dispositivo estudado em versão integrada;
-   - **remissão externa aberta/dinâmica, sem artigo ou ato numericamente identificável**: não inventar destino; explicar a limitação e produzir apenas a integração que seja possível sem falsa precisão;
-   - toda “versão integrada” deve ser rotulada como reconstrução didática, **não como nova redação oficial**;
+9. **resumo estratégico pós-leitura** dos dispositivos normativos estudados, sem substituir a fonte oficial. O resumo deve incorporar, de forma contextualizada e apenas quando útil à prova, o conteúdo material das remissões necessárias à compreensão da regra:
+   - **remissão interna ao mesmo diploma**: integrar o conteúdo chamado à explicação da regra estudada, sem transformar número de artigo/inciso em objeto autônomo de memorização;
+   - **remissão externa identificável**: conferir o texto externo exato e incorporar ao resumo o efeito material relevante para a prova; reproduzir a literalidade externa apenas quando ela própria tiver valor de cobrança;
+   - **remissão externa aberta/dinâmica**: declarar a limitação e não inventar destino;
+   - a integração é reconstrução didática, **não nova redação oficial**;
+   - não criar seção autônoma de “mapa de remissões” nem cobrar cartografia de números de artigos sem valor probatório concreto;
    - apoio externo fora do edital não cria checkbox autônomo;
-11. exemplos e contrastes;
-12. pegadinhas típicas Cebraspe;
-13. muitas questões;
-14. correção comentada;
-15. recuperação ativa sem consulta;
-16. **respostas esperadas das perguntas abertas** de recuperação, checagem ou fechamento, no próprio PDF, em bloco separado para não destruir a recuperação ativa;
-17. discursiva/peça técnica somente quando programada e justificada pelo conteúdo já estudado;
-18. indicação de que haverá encaminhamento ao Anki em artefato separado, **sem colocar frente/verso de cartões no corpo da apostila**;
-19. checklist de encerramento;
-20. instrução exata de quais linhas do Edital Verticalizado podem ser marcadas.
+10. exemplos e contrastes;
+11. pegadinhas típicas Cebraspe;
+12. muitas questões;
+13. correção comentada;
+14. recuperação ativa sem consulta;
+15. **respostas esperadas das perguntas abertas** de recuperação, checagem ou fechamento, no próprio PDF, em bloco separado para não destruir a recuperação ativa;
+16. discursiva/peça técnica somente quando programada e justificada pelo conteúdo já estudado;
+17. indicação de que haverá encaminhamento ao Anki em artefato separado, **sem colocar frente/verso de cartões no corpo da apostila**;
+18. checklist de encerramento;
+19. instrução exata de quais linhas do Edital Verticalizado podem ser marcadas.
 
 Não usar comandos vagos como:
 - “estude pelo ChatGPT”;
@@ -149,7 +149,7 @@ A apresentação deve facilitar leitura sem competir com o conteúdo:
 - negrito reservado a títulos, subtítulos, rótulos curtos e ênfase pontual;
 - nunca transformar parágrafo explicativo inteiro em heading/negrito;
 - hierarquia tipográfica estável em toda a apostila;
-- blocos de literalidade/remissões podem ser recuados para se distinguirem do comentário;
+- blocos de literalidade ou integrações normativas realmente úteis podem ser recuados para se distinguirem do comentário;
 - toda edição deve ser auditada contra concatenações, títulos desaparecidos, duplicações e estilos herdados acidentalmente.
 
 ### 3.2.2 Formato canônico de entrega — PDF consolidado
@@ -164,7 +164,7 @@ Regras:
 - a fonte editável pode existir internamente (GitHub, DOCX/estrutura intermediária ou documento legado), mas **não é o artefato canônico de estudo**;
 - a planilha deve apontar para o PDF final no Google Drive;
 - correções posteriores devem gerar nova versão do mesmo artefato, evitando proliferação de arquivos;
-- a apostila diária deve reunir em **um único PDF** teoria, fonte/leitura dirigida, resumo, remissões, questões, gabarito/correção, recuperação ativa, discursiva quando prevista e checklist;
+- a apostila diária deve reunir em **um único PDF** teoria, fonte/leitura dirigida, resumo estratégico já incorporando remissões úteis, questões, gabarito/correção, recuperação ativa, discursiva quando prevista e checklist;
 - **não criar caderno de questões diário separado**. Questões e correções pertencem à própria apostila;
 - exceções de separação só existem para instrumentos funcionalmente distintos ou de uso transversal, como Anki, dossiê/comparadores de discursiva, simulados integrais ou anexos oficiais extensos que não faça sentido reproduzir;
 - tamanho do PDF, isoladamente, não é motivo para fragmentar. Só separar se a divisão aumentar de fato a usabilidade ou for tecnicamente necessária sem perda de continuidade;
@@ -217,7 +217,7 @@ Em normas/regimentos, considerar sistematicamente:
 - vedação e faculdade;
 - definição/classificação regimental;
 - regra x exceção;
-- remissão resolvida e resultado semântico;
+- resultado semântico de remissão relevante, sem exigir memorização da numeração da remissão quando ela não tiver valor probatório;
 - distinção entre institutos próximos;
 - alteração mínima típica de Cebraspe.
 
@@ -494,10 +494,10 @@ Antes de escrever:
 2. consultar o mapa das 106;
 3. consultar o Edital Verticalizado;
 4. conferir o trecho literal do edital oficial;
-5. nos blocos normativos, identificar previamente as remissões e resolver o conteúdo efetivamente importado por elas;
+5. nos blocos normativos, identificar as remissões necessárias à compreensão e incorporar ao resumo estratégico apenas o conteúdo material que aumente desempenho em prova;
 6. verificar o que já foi marcado como estudado/revisado;
 7. verificar erros relevantes das apostilas anteriores;
-8. selecionar questões oficiais do tema, preferindo itens completos do acervo e incluindo cobrança de remissões quando houver precedente;
+8. selecionar questões oficiais do tema, preferindo itens completos do acervo e cobrando o efeito material de remissões quando houver precedente, não a cartografia de artigos por si só;
 9. se houver P3, consultar obrigatoriamente o Dossiê de Discursivas e os comparadores Cebraspe antes de elaborar comando/espelho;
 10. calibrar separadamente tempo de resolução e de correção;
 11. só então escrever.
@@ -581,7 +581,7 @@ A aprovação é o objetivo; os artefatos são apenas instrumentos.
 - qualquer planejamento que inclua RICD 201–225 como conteúdo de prova está errado e deve ser corrigido;
 - Edital Verticalizado atual deve ser refeito em granularidade de um item/subitem por linha;
 - antigo AS0 não bloqueia mais o Anki: os cartões passam a ser gerados progressivamente por matéria a partir das apostilas e dos erros;
-- lições da revisão A001: marcação regimental deve preservar unidade semântica; Anki é artefato separado e selecionado por evidência; bateria precisa cobrir todos os blocos do dia e refletir dificuldade real; tempos de resolução e correção são separados; P3 só entra nas sessões previstas pelo Dossiê/Mapa; documentos devem ter hierarquia visual consistente sem sacrificar conteúdo; mapa de remissões segue o padrão interno=apenas RICD integrado / externo=texto literal externo + RICD integrado / destino aberto=não inventar;
+- lições da revisão A001: marcação regimental deve preservar unidade semântica; Anki é artefato separado e selecionado por evidência; bateria precisa cobrir todos os blocos do dia e refletir dificuldade real; tempos de resolução e correção são separados; P3 só entra nas sessões previstas pelo Dossiê/Mapa; documentos devem ter hierarquia visual consistente sem sacrificar conteúdo; remissões relevantes são resolvidas dentro do resumo estratégico, de forma contextualizada; não há mapa autônomo de remissões nem memorização de cartografia normativa sem valor de prova;
 - art. 14: composição estrita da Mesa = Presidência (Presidente + dois Vice-Presidentes) + Secretaria (quatro Secretários); os quatro Suplentes de Secretário são previstos separadamente no § 2º e não devem ser somados quando a questão perguntar simplesmente quem compõe a Mesa;
 - todos os links de apostilas, Anki e P3 são registrados na planilha, não deixados apenas em chats;
 - formato canônico das apostilas: PDF consolidado no Google Drive; questões e correções ficam dentro da própria apostila; Google Docs deixa de ser o artefato de estudo principal.
