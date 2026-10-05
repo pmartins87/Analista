@@ -215,9 +215,9 @@ Tags obrigatórias:
 
 ### 3.3.1 Princípio de densidade — cobertura ativa, não austeridade
 
-O projeto **não economiza cartões por economia**. O Anki é um segundo canal de estudo, especialmente útil no celular e em tempos fragmentados do dia. A seleção deve maximizar **recuperação ativa de conteúdo examinável**, mantendo qualidade e atomicidade.
+O projeto não usa austeridade artificial, mas também não transforma cobertura em contagem de cartões. O Anki é um segundo canal de estudo, especialmente útil no celular e em tempos fragmentados. A seleção deve maximizar **recuperação ativa de conteúdo examinável por unidade de tempo**, mantendo qualidade e atomicidade.
 
-Para conteúdos altamente “ankizáveis” — especialmente **RICD, RCCN, Constituição, leis, resoluções, competências, prazos, quóruns, composições, exceções e remissões** — a política é de **alta densidade**. Deve virar cartão toda unidade semântica autônoma cuja recuperação rápida possa decidir uma questão plausível.
+Para conteúdos altamente “ankizáveis” — especialmente **RICD, RCCN, Constituição, leis, resoluções, competências, prazos, quóruns, composições, exceções e remissões** — a política é de **densidade seletiva alta**: ampla cobertura dos pontos discriminativos, mas sem atomizar todo inciso. Só vira cartão a unidade cuja recuperação rápida tenha ganho esperado de prova superior ao custo cumulativo de revisá-la.
 
 Em normas/regimentos, considerar sistematicamente:
 - sujeito/autoridade + competência;
