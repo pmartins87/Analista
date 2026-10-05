@@ -1,38 +1,33 @@
 # A002 — Índice Anki
 
-Data: 04/10/2026  
-Apostila: A002  
+Data-base: 04/10/2026  
+Reformulação: 05/10/2026  
 Escopo: RICD arts. 16–24 — fechamento de P1-CONST 7.1  
 Baralho: `Analista::P1::Constitucional_Regimentos`
 
 ## Artefato canônico
 
-- APKG: https://drive.google.com/file/d/15y6NnG4BRRuUqaKUTGw6Y5Q6dxLK2hGG/view
-- 195 notas / 195 cartões
+- APKG: https://drive.google.com/file/d/1UsvFA-h_LEm-IbaZaTaMEQKgGOFoTmk8/view?usp=drivesdk
+- **106 notas / 106 cartões**
 - não sincronizado automaticamente com Anki/AnkiDroid
 
-## Critério
+## Reforma de 05/10
 
-Alta densidade para conteúdo normativo útil: competências, prazos, quóruns, composições, escolha/designação, mandato, recondução, substituição, condições, exceções, consequências e distinções entre órgãos/institutos próximos.
+A versão anterior tinha 195 cartões. Foram removidos **89** por baixo ganho esperado ou repetição da mesma decisão.
 
-Remissões entram apenas pelo efeito material útil; não há cartões de cartografia normativa sem valor probatório.
+A revisão preservou os pontos capazes de gerar erro real de prova: competências confundíveis, verbos decisivos, composição, escolha, mandato, recondução, substituição, quóruns, exceções e contrastes entre órgãos.
 
-Inclui reforços para dúvidas reais surgidas na execução da A002, entre elas:
-- Presidente da Câmara x Presidência/Mesa;
-- Comissão x Secretaria;
-- Procuradoria Parlamentar e forma de atuação judicial/extrajudicial;
-- Ouvidor-Geral como membro da Casa;
-- exceção do Conselho de Ética às regras de perda automática por mudança de bancada;
-- Comunicação Social x Participação, Interação e Mídias Digitais;
-- art. 24: propor sustação x sustar diretamente.
+Alguns cartões foram reescritos para subir um pouco o nível sem criar microscopia ou pegadinha desleal. Exemplos:
+- Colégio de Líderes e posição do Líder do Governo;
+- padrão de escolha dos titulares das Secretarias dos arts. 21-H a 21-X;
+- Comunicação Social × Participação/Mídias Digitais;
+- exceções à deliberação conclusiva das Comissões.
 
 ## Auditoria
 
 - SQLite: íntegro
-- GUIDs únicos: 195/195
-- frentes únicas: 195/195
+- JSON interno do Anki: válido
+- GUIDs únicos: 106/106
+- frentes únicas: 106/106
 - mídia externa: nenhuma
-- tags-base: `A002`, `P1_CONST_7_1`, `RICD`, `literalidade`
-- `oficial_cebraspe`: usado apenas nos cartões efetivamente derivados de itens oficiais localizados
-
-A002 já foi estudada e seu PDF não será reemitido por melhorias metodológicas. As lições da revisão passam a valer a partir da A003.
+- pacote anterior no Drive: marcado como OBSOLETO
