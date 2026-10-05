@@ -7,7 +7,7 @@ Atualizado em: **04/10/2026**
 [PROMPT_PROJETO.md](PROMPT_PROJETO.md) é a versão curta para as instruções do Projeto.
 
 ## Estado atual
-**PÓS-EDITAL / A001 CONCLUÍDA / A002 = D+1**
+**PÓS-EDITAL / A001 E A002 CONCLUÍDAS / PRÓXIMA: A003**
 
 Prova: **17/01/2027**.
 - P1: 90 itens.
@@ -81,19 +81,19 @@ O mapa autônomo de remissões foi descontinuado por baixo retorno prático. A p
 - o conteúdo útil da remissão deve ser incorporado ao resumo estratégico, já contextualizado;
 - não haverá pergunta de recuperação do tipo "cite remissões" ou cobrança de cartografia de artigos/incisos sem valor probatório concreto;
 - quadros comparativos/esquemáticos continuam permitidos quando reduzirem confusão entre estruturas, competências, prazos, composições ou exceções;
-- A001 permanece como registro histórico e não será reemitida por essa mudança;
-- A002 será consolidada ao fim da revisão/leitura do dia; até lá, o PDF atual permanece canônico, com revisão pendente registrada na planilha;
-- impacto na verticalização e no Mapa 106: nenhum; escopo, carga e cobertura permanecem inalterados.
+- A001 e A002 permanecem como registros estudados e não serão reemitidas por essa mudança metodológica;
+- as melhorias passam a valer prospectivamente **a partir da A003**;
+- impacto no Mapa 106: nenhum; escopo e carga permanecem inalterados. A verticalização foi atualizada apenas para refletir a execução efetiva da A002.
 
 ## A002 — 04/10/2026
 Função: **D+1 curta da A001 + conteúdo novo: RICD arts. 16–24, fechando P1-CONST 7.1**.
-Status: **PDF CANÔNICO PRONTO PARA EXECUÇÃO**.
+Status: **CONCLUÍDA EM 04/10/2026; PDF CONGELADO APÓS ESTUDO**.
 PDF: https://drive.google.com/file/d/1WYeGO9Znjq-DSrt2L6PeayduWQce2IR1/view
 Fonte editável anterior: **não canônica; não usar para estudar**.
 
-Estrutura final: 30 min de D+1 ativa da A001; 2h20 de RICD 16–24 com leitura dirigida, resumo e remissões; 35 min de questões; 35 min de resolução comentada e fechamento.
+Execução realizada: D+1 curta da A001 + leitura/estudo de RICD 16–24 + questões + correção/fechamento. O item P1-CONST 7.1 (RICD 1–24) foi fechado em 04/10/2026.
 
-A antiga A002 de revisão integral foi **invalidada** após auditoria do Mapa 106. A nova versão contém 18 itens sobre RICD 16–24, sendo 1 questão oficial de alto nível e 17 inéditas Cebraspe-style sobre a regra vigente. A resolução repete as assertivas. O PDF possui 14 páginas e foi inspecionado visualmente página a página. Todas as perguntas abertas da D+1 e do fechamento agora trazem respostas esperadas no próprio PDF, em bloco separado para preservar a recuperação ativa.
+A antiga A002 de revisão integral foi **invalidada** após auditoria do Mapa 106. A versão efetivamente estudada contém 18 itens sobre RICD 16–24, sendo 1 questão oficial e 17 inéditas. Na revisão posterior foi constatado que havia outras questões oficiais Cebraspe diretamente aderentes que deveriam ter sido localizadas antes da produção das inéditas. **A002 não será reemitida por isso**, pois já foi estudada; a correção metodológica é prospectiva a partir da A003: busca oficial exaustiva antes de inéditas, preservação de excedentes para revisões e inéditas justas/plausíveis. O PDF possui 14 páginas e permanece canônico como registro do estudo executado.
 
 ## Política Anki — ajuste de 04/10/2026
 
@@ -128,6 +128,23 @@ https://github.com/pmartins87/Analista/blob/main/anki/A001_INDEX.md
 O pacote preserva os 16 cartões anteriores e seus identificadores internos, reduzindo risco de duplicação se a versão anterior tiver sido importada. O cartão `erro_real` da Q42 foi mantido e usado como semente para cartões vizinhos de falsa sinonímia contextual/substituição lexical.
 
 Auditoria estrutural: SQLite íntegro; **155 notas e 155 cartões**; sem frentes ou GUIDs duplicados; sem mídia externa. A D+1 da A002 poderá acrescentar novos cartões `erro_real` e `acerto_com_duvida`. Não houve sincronização automática com Anki/AnkiDroid.
+
+
+## Anki A002
+**BASE CANÔNICA CRIADA; NÃO SINCRONIZADA.**
+
+Criada em 04/10/2026 uma base de **195 cartões** sobre RICD arts. 16–24, no baralho:
+`Analista::P1::Constitucional_Regimentos`.
+
+Importação:
+https://drive.google.com/file/d/15y6NnG4BRRuUqaKUTGw6Y5Q6dxLK2hGG/view
+
+Escopo: Presidência; Vice-Presidentes; Secretaria; Suplentes; Colégio de Líderes; Secretaria da Mulher e suas estruturas; secretarias e órgãos dos arts. 20-F a 21-X; Procuradoria Parlamentar; Ouvidoria; Conselho de Ética; Corregedoria; Comissões; competências do art. 24; contrastes e dúvidas reais surgidas na execução.
+
+Política aplicada: alta densidade de regras úteis, competências, composição, escolha, mandato, recondução, substituição, exceções e contrastes; sem cartões de mera cartografia de remissões. Quatro cartões foram marcados `oficial_cebraspe` a partir de itens oficiais diretamente aderentes localizados e auditados; os demais são cartões do projeto baseados na regra vigente.
+
+Auditoria estrutural do APKG: SQLite íntegro; **195 notas/195 cartões**; **195 GUIDs únicos**; **195 frentes únicas**; sem mídia externa. O arquivo foi enviado para a pasta oficial do Drive. **Não houve importação nem sincronização automática com Anki/AnkiDroid.**
+
 
 ## Recorte regimental
 RICD: P1 1–24, 65–94, 226–251, 262–273; P2 25–64, 95–200. **201–225 fora do edital.**
