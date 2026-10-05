@@ -1,6 +1,6 @@
 # CONSTITUIÇÃO DO PROJETO — ANALISTA REGISTRO E REDAÇÃO
 
-Versão: 1.8  
+Versão: 1.9  
 Data: 04/10/2026  
 Status: **NORMA MÁXIMA DO PROJETO**
 
@@ -172,6 +172,19 @@ Regras:
 
 A001 foi migrada retroativamente para esse padrão em 03/10/2026. O caderno de questões já criado antes da mudança foi incorporado ao PDF consolidado e preservado apenas como exceção histórica.
 
+### 3.2.3 Apostila já estudada — estabilidade
+
+Melhoria metodológica descoberta **depois da execução** vale prospectivamente. Não reemitir apostila já estudada apenas por melhoria de estilo, reorganização, novo quadro, mudança de preferência didática ou questão autoral aperfeiçoável.
+
+Reabrir uma apostila estudada somente por:
+- erro factual ou normativo relevante;
+- conteúdo fora do edital tratado como matéria;
+- lacuna real de cobertura do edital;
+- alteração normativa relevante;
+- defeito material que prejudique o estudo futuro.
+
+Quando a melhoria for apenas metodológica, registrar a lição e aplicá-la às apostilas seguintes.
+
 ### 3.3 Anki — retenção de longo prazo
 
 O Anki será organizado **por matéria**, não por apostila.
@@ -297,10 +310,15 @@ A prova será Cebraspe/Cespe, certo ou errado. O treinamento deve reproduzir iss
 
 ### 5.1 Prioridade
 
+Antes de criar inéditas, fazer **busca ampla e exaustiva**, não apenas suficiente, por questões oficiais Cebraspe/Cespe aderentes ao conteúdo do dia.
+
 Ordem:
-1. questões oficiais Cebraspe/Cespe do mesmo tema;
-2. questões oficiais Cebraspe de temas próximos;
-3. questões originais produzidas pelo projeto.
+1. própria Câmara dos Deputados + mesmo tema;
+2. mesmo tema em Legislativo ou cargos de alto nível;
+3. tema próximo com mecanismo de cobrança útil;
+4. questões originais produzidas pelo projeto.
+
+Não substituir questão oficial diretamente aderente por inédita apenas para equilibrar quantidade. Se houver oficiais úteis em excesso para a carga do dia, preservar o excedente para D+7, D+21, revisões semanais e simulados.
 
 Quando questão oficial for usada:
 - identificar banca, órgão, cargo/prova, ano e item quando possível;
@@ -315,6 +333,8 @@ Quando questão oficial for usada:
 A seleção de questões deve considerar conjuntamente **aderência ao item estudado, nível do cargo e semelhança do edital**. Priorizar Analista, Consultor, Auditor, Diplomata, controle, Legislativo, Judiciário e outros cargos de alta complexidade. Questões de técnico/auxiliar só entram excepcionalmente, quando houver aderência temática muito superior e mecanismo de cobrança útil; nunca para preencher quantidade.
 
 Questão tangencial ao conteúdo do dia não compensa apenas por ser oficial.
+
+Nunca afirmar que um ponto “cai muito”, “é recorrente”, “a banca gosta de cobrar” ou equivalente sem pesquisa real de questões anteriores que sustente a afirmação. Sem essa evidência, usar apenas formulações como “possível fonte de confusão”, “pegadinha plausível” ou “ponto sensível pela literalidade”.
 
 Em questão autoral normativa, é proibido cobrar **história da alteração normativa** (“qual resolução criou/revogou o dispositivo”) se o edital cobra o texto vigente e não o ato alterador. Cobrar a regra vigente, sua exceção, competência, condição, prazo, quórum ou efeito.
 
@@ -337,6 +357,8 @@ Ela deve reproduzir mecanismos reais da banca:
 - item interdisciplinar quando a banca faria isso.
 
 A questão deve ser tão natural que, sem indicação de origem, um candidato experiente não consiga identificá-la facilmente como questão artificial.
+
+A dificuldade deve ser **justa**. Evitar erro denunciado pela própria redação, pegadinha artificial, microscopia sem valor material e armadilha mais maliciosa que a banca. Preferir alteração pequena e plausível de autoridade, competência, condição, exceção, verbo, prazo, quórum, alcance ou instituto próximo.
 
 ### 5.3 Quantidade
 
@@ -497,7 +519,7 @@ Antes de escrever:
 5. nos blocos normativos, identificar as remissões necessárias à compreensão e incorporar ao resumo estratégico apenas o conteúdo material que aumente desempenho em prova;
 6. verificar o que já foi marcado como estudado/revisado;
 7. verificar erros relevantes das apostilas anteriores;
-8. selecionar questões oficiais do tema, preferindo itens completos do acervo e cobrando o efeito material de remissões quando houver precedente, não a cartografia de artigos por si só;
+8. fazer busca exaustiva por questões oficiais Cebraspe/Cespe do tema, priorizando Câmara + mesmo tema; preservar excedentes úteis para revisões; só depois complementar lacunas com inéditas justas e calibradas;
 9. se houver P3, consultar obrigatoriamente o Dossiê de Discursivas e os comparadores Cebraspe antes de elaborar comando/espelho;
 10. calibrar separadamente tempo de resolução e de correção;
 11. só então escrever.
