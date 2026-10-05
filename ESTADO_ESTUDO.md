@@ -1,13 +1,13 @@
 # ESTADO OPERACIONAL DE ESTUDOS
 
-Atualizado em: **04/10/2026**
+Atualizado em: **05/10/2026**
 
 ## Norma máxima
 [CONSTITUICAO_PROJETO.md](CONSTITUICAO_PROJETO.md) é a norma máxima.  
 [PROMPT_PROJETO.md](PROMPT_PROJETO.md) é a versão curta para as instruções do Projeto.
 
 ## Estado atual
-**PÓS-EDITAL / A001 E A002 CONCLUÍDAS / PRÓXIMA: A003**
+**PÓS-EDITAL / A001 E A002 CONCLUÍDAS / A003 PRONTA PARA ESTUDO**
 
 Prova: **17/01/2027**.
 - P1: 90 itens.
@@ -203,9 +203,25 @@ https://drive.google.com/drive/folders/17Y83E9zU8YRiojc81f2aVaxH_vJVUKIk
 A002 permanece como fonte editável em Google Docs, mas deve ser convertida para PDF consolidado antes da execução. A002 e seguintes não terão caderno de questões diário separado.
 
 
-## Próxima produção — A003
+## A003 — produzida em 05/10/2026; aguardando execução
 
-A003 = 05/10/2026, 6h, com conteúdo novo em P2 Processo, P1 Administrativo e RICD. **Não foi produzida junto com a A002** para não comprimir no mesmo ciclo a pesquisa normativa, seleção de questões e auditoria de três blocos novos. Próxima unidade de produção: A003, já no padrão PDF consolidado.
+Escopo canônico: **D+1 A002 + P2-PROC 1–1.1 + P1-ADM 1–1.1 + RICD arts. 25–30**. Carga: **6h**.
+
+Status: **PRONTA PARA ESTUDO; NÃO MARCADA COMO CONCLUÍDA.**
+
+PDF canônico:
+https://drive.google.com/file/d/1vUKNYVlt3S1bz0wdptQ2xSWWgU5D_gFi/view?usp=drivesdk
+
+A A003 é a primeira apostila integralmente produzida sob as melhorias prospectivas pós-A002:
+- remissões resolvidas por **efeito material útil** dentro da teoria/resumo, sem mapa autônomo;
+- busca por questões oficiais Cebraspe/Cespe realizada **antes** da elaboração das inéditas;
+- inéditas calibradas por alterações pequenas e plausíveis de autoridade, prazo, alcance, condição e exceção;
+- perguntas abertas com respostas esperadas para autocorreção;
+- Anki permanece separado e só será gerado/ajustado após a sessão, sem quota artificial e com piso de relevância.
+
+A busca oficial diretamente aderente incorporou itens UNEAL/CEBRASPE 2026 sobre conceitos de Administração, TCE-AC/CEBRASPE 2024 sobre autotutela e Câmara/CESPE 2003 sobre Subcomissões. O item 93 da Câmara/2014 sobre composição das Comissões foi conferido no gabarito definitivo como **C** e mantido como comparador de pesquisa; o mecanismo é treinado na bateria autoral da A003. A discursiva Câmara/2014 sobre procedimento ordinário × sumário foi usada apenas para calibrar teoria, sem antecipar sessão P3 fora do Mapa 106.
+
+Ao concluir a execução da A003, podem ser fechados P1-ADM 1, P1-ADM 1.1, P2-PROC 1 e P2-PROC 1.1. P2-PROC 2.1 **permanece parcial**, pois A003 cobre somente RICD 25–30.
 
 
 ## Auditoria do Mapa 106 — 04/10/2026
