@@ -257,14 +257,34 @@ A seleção continua orientada por:
 - erros reais e acertos com dúvida;
 - conceitos centrais cuja recuperação rápida aumente desempenho.
 
-Evitar apenas:
-- cartões triviais sem valor de prova;
-- paráfrases duplicadas que testem exatamente a mesma coisa;
+### 3.3.3 Piso de relevância e dificuldade
+
+Cartão Anki precisa justificar o seu **custo cumulativo de revisão**. Não basta estar correto ou estar no edital.
+
+Um cartão só deve entrar se testar conhecimento cujo esquecimento possa plausivelmente custar ponto ou causar confusão relevante. Priorizar:
+- regra não óbvia;
+- competência, autoridade, prazo, quórum, composição, condição ou exceção;
+- contraste entre institutos próximos;
+- detalhe literal com potencial discriminativo;
+- mecanismo efetivamente observado em questão oficial;
+- erro real ou acerto com dúvida;
+- inferência ou distinção que não possa ser respondida apenas por senso comum ou pela forma da frase.
+
+Excluir:
+- obviedade que qualquer candidato resolveria sem ter estudado o conteúdo;
+- afirmação cujo erro seja denunciado pela própria redação;
+- truísmo de interpretação ou conceito excessivamente elementar;
+- paráfrase duplicada que teste exatamente a mesma decisão;
+- cartão criado apenas para atomizar cada frase/inciso;
 - frente ambígua;
 - verso desnecessariamente longo;
 - conteúdo fora do edital apresentado como matéria.
 
-O Anki faz parte da carga diária e pode ocupar tempos fragmentados fora da sessão principal. **Não existe teto ou quota artificial de cartões por apostila.** O limite é a qualidade e a sustentabilidade das revisões. Se o volume vencido crescer demais, primeiro se ajusta a entrada diária de cartões novos; não se empobrece preventivamente a cobertura de matérias altamente ankizáveis.
+**Piso prático:** se a resposta puder ser dada com segurança apenas por senso comum, estratégia genérica de prova ou por uma palavra “entregando” o gabarito, o cartão tende a ser descartado.
+
+A dificuldade não deve ser artificialmente elevada. O objetivo é retirar trivialidades e aumentar o valor discriminativo, não criar pegadinhas desleais.
+
+O Anki faz parte da carga diária e pode ocupar tempos fragmentados fora da sessão principal. **Não existe quota fixa por apostila**, mas a produção deve ser sustentável. A quantidade é consequência dos cartões que passam pelo filtro de relevância; não se atomiza a matéria apenas para aumentar cobertura numérica.
 
 ### 3.4 Registro central de artefatos e links
 
