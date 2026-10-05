@@ -145,7 +145,7 @@ Auditoria estrutural: SQLite íntegro; **89 notas/89 cartões**; **89 GUIDs e fr
 **BASE REFORMULADA E PODADA EM 05/10/2026; NÃO SINCRONIZADA AUTOMATICAMENTE.**
 
 A base de 195 cartões sobre RICD arts. 16–24 foi auditada e reduzida para **106 cartões relevantes**, no baralho:
-`Analista::P1::Constitucional_Regimentos`.
+`Analista::P1::Consti_Regimentos`.
 
 Importação canônica:
 https://drive.google.com/file/d/1UsvFA-h_LEm-IbaZaTaMEQKgGOFoTmk8/view?usp=drivesdk
@@ -156,6 +156,14 @@ Foram excluídos 89 cartões de baixo ganho esperado. Permaneceram competências
 
 Auditoria estrutural: SQLite íntegro; **106 notas/106 cartões**; **106 GUIDs e frentes únicos**; JSON interno compatível; sem mídia externa. O pacote anterior foi marcado como OBSOLETO no Drive.
 
+
+## Ajuste de nomenclatura Anki — 05/10/2026
+
+Para reduzir confusão visual entre a disciplina de Direito Constitucional e os blocos regimentais, sem perder a indicação de que os baralhos misturam a disciplina-base com regimentos conforme o P1/P2, ficam adotados como nomes canônicos:
+- `Analista::P1::Consti_Regimentos` — Direito Constitucional + conteúdos regimentais de P1;
+- `Analista::P2::Proc_Regimentos` — Processo Legislativo + conteúdos regimentais de P2.
+
+Os conteúdos regimentais incluem, conforme o recorte do edital, tanto **RICD** quanto **RCCN**; por isso não usar `_RICD` no nome, pois excluiria semanticamente o Regimento Comum. A mudança é apenas de nomenclatura/organização e não altera cobertura, cartões ou planejamento. Pacotes Anki futuros devem usar os novos nomes.
 
 ## Recorte regimental
 RICD: P1 1–24, 65–94, 226–251, 262–273; P2 25–64, 95–200. **201–225 fora do edital.**
