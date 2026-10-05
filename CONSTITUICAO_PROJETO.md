@@ -234,7 +234,7 @@ Em normas/regimentos, considerar sistematicamente:
 - distinção entre institutos próximos;
 - alteração mínima típica de Cebraspe.
 
-Uma mesma regra pode gerar **mais de um cartão** quando houver recuperações genuinamente diferentes e úteis — por exemplo: pergunta direta, inversão Cebraspe, regra x exceção ou remissão integrada. Isso não é duplicação inútil se cada cartão testar um ponto decisório diferente.
+Uma mesma regra pode gerar **mais de um cartão** quando houver recuperações genuinamente diferentes e úteis — por exemplo: pergunta direta, inversão Cebraspe, regra x exceção ou efeito material de remissão relevante. Isso não é duplicação inútil se cada cartão testar um ponto decisório diferente.
 
 Erros reais e acertos com dúvida são **camada adicional**, não substituta da teoria. O baralho-base deve cobrir o conteúdo relevante mesmo que o candidato ainda não tenha errado uma questão sobre ele.
 
@@ -584,7 +584,7 @@ O projeto deve preferir:
 - um documento excelente a dez documentos medianos;
 - um item de edital fechado de verdade a cinco superficialmente “vistos”;
 - vinte questões bem corrigidas a cinquenta passadas rapidamente;
-- cartões baseados em erros a centenas de cartões genéricos;
+- cartões úteis e discriminativos — incluindo teoria, literalidade, erros e dúvidas reais — a cartões genéricos sem valor de prova;
 - fonte oficial a resumo;
 - adaptação por evidência a improviso.
 
