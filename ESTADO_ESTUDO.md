@@ -111,6 +111,17 @@ A base de 16 cartões da A001 passa a ser tratada como **subdimensionada** e dev
 
 Complemento de 04/10: **erro real é semente obrigatória de expansão**. O cartão específico do erro deve ser mantido e, em seguida, ampliado com cartões que testem a mesma armadilha ou distinção, preferencialmente derivados de questões oficiais Cebraspe/Cespe de nível semelhante. Para revisão móvel, pode-se usar apenas o trecho autossuficiente e decisivo da questão, em vez de reproduzir o enunciado inteiro.
 
+## Ajuste Anki — 05/10/2026 — piso de relevância
+
+Feedback após uso real no AnkiDroid: cartões óbvios e resolvíveis por senso comum geram custo cumulativo sem ganho de pontos. A política passa a exigir **piso de relevância/dificuldade**:
+- retirar truísmos e itens cujo gabarito seja evidente sem domínio da matéria;
+- não atomizar todo inciso em cartões só porque é possível;
+- manter forte cobertura de regras não óbvias, competências, prazos, quóruns, exceções, contrastes e mecanismos de cobrança;
+- questão C/E autoral no Anki deve ser plausível e discriminativa, sem entregar o erro pela redação;
+- dificuldade deve subir pela relevância e pela proximidade entre alternativas conceituais, não por microscopia ou malícia.
+
+O cartão de A001 sobre tratar automaticamente fala de personagem/fonte como posição do autor foi identificado como exemplo de cartão a excluir na próxima poda dos baralhos A001/A002.
+
 ## Anki A001
 **BASE DENSA CANÔNICA CRIADA; NÃO SINCRONIZADA.**
 
