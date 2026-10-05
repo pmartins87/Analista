@@ -74,6 +74,17 @@ Defeito visual identificado na A001: uma questão teve linha recortada na transi
 - A auditoria acrescentou remissões antes ausentes, inclusive art. 7º, parágrafo único → art. 7º, II–V, e art. 2º, § 3º → LDO (remissão dinâmica).
 - Correção de fidelidade no art. 14: a Mesa compõe-se de Presidente, dois Vice-Presidentes e quatro Secretários; os quatro Suplentes do § 2º ficam fora da composição estrita. A A001 e o Anki registram essa distinção.
 
+## Mudança metodológica — 04/10/2026 — remissões
+
+O mapa autônomo de remissões foi descontinuado por baixo retorno prático. A partir desta decisão:
+- remissões continuam sendo verificadas na fonte oficial, mas entram na apostila somente quando seu efeito material ajudar a compreender ou resolver questão plausível;
+- o conteúdo útil da remissão deve ser incorporado ao resumo estratégico, já contextualizado;
+- não haverá pergunta de recuperação do tipo "cite remissões" ou cobrança de cartografia de artigos/incisos sem valor probatório concreto;
+- quadros comparativos/esquemáticos continuam permitidos quando reduzirem confusão entre estruturas, competências, prazos, composições ou exceções;
+- A001 permanece como registro histórico e não será reemitida por essa mudança;
+- A002 será consolidada ao fim da revisão/leitura do dia; até lá, o PDF atual permanece canônico, com revisão pendente registrada na planilha;
+- impacto na verticalização e no Mapa 106: nenhum; escopo, carga e cobertura permanecem inalterados.
+
 ## A002 — 04/10/2026
 Função: **D+1 curta da A001 + conteúdo novo: RICD arts. 16–24, fechando P1-CONST 7.1**.
 Status: **PDF CANÔNICO PRONTO PARA EXECUÇÃO**.
