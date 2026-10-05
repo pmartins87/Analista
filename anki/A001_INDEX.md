@@ -1,53 +1,39 @@
-# A001 — Anki canônico
+# A001 — Índice Anki
 
-Atualizado em: 04/10/2026
+Data-base: 03/10/2026  
+Reformulação: 05/10/2026  
+Escopo: P1 Português 1–2; P2 Linguística 1; RICD arts. 1–15
 
-## Base canônica atual
+## Artefato canônico
 
-**155 cartões**, distribuídos por matéria:
-- P1 Português — **9**;
-- P1 Constitucional e Regimentos — **122**;
-- P2 Linguística — **24**.
+- APKG: https://drive.google.com/file/d/166NiSJL0H4h945GPLEC73PVnfNSVnd9Z/view?usp=drivesdk
+- **89 notas / 89 cartões**
+- P1 Português: 6
+- P2 Linguística: 15
+- P1 Constitucional/Regimentos: 68
+- não sincronizado automaticamente com Anki/AnkiDroid
 
-A expansão segue a política de alta densidade: cobertura ativa de teoria/literalidade, competências, prazos, quóruns, exceções, composições, remissões e pegadinhas Cebraspe. Erros reais permanecem obrigatórios e também servem como semente para cartões vizinhos.
+## Reforma de 05/10
 
-## Importação recomendada — pacote único
+A versão anterior tinha 155 cartões. Foram removidos **66** após uso real revelar custo excessivo de cartões triviais e atomização.
 
-- [BAIXAR A001 — pacote Anki denso (.apkg)](https://drive.google.com/file/d/151QMkNQuDWHBy01jAAL1PjTcoTI9RnEZ/view?usp=drivesdk)
+Critério de permanência:
+- regra não óbvia com potencial de custar ponto;
+- prazo, quórum, competência, composição, condição ou exceção relevante;
+- contraste entre institutos próximos;
+- mecanismo oficial Cebraspe útil;
+- erro real ou dúvida real;
+- distinção semântica/interpretativa transferível.
 
-O pacote cria/atualiza:
-- `Analista::P1::Português`
-- `Analista::P1::Constitucional_Regimentos`
-- `Analista::P2::Linguística`
+Excluídos: truísmos, cartões respondíveis por senso comum, gabarito entregue pela redação, duplicações e atomizações de baixo retorno.
 
-No AnkiDroid, baixe o `.apkg`, abra-o com o aplicativo e importe. O pacote contém **155 notas e 155 cartões**.
+O erro real Q42 (`mais ou menos` ≠ `comedidamente`) foi preservado.
 
-## Continuidade com a versão anterior
+## Auditoria
 
-Os 16 cartões da base anterior foram preservados no pacote denso com seus identificadores internos, para reduzir risco de duplicação caso a versão anterior já tenha sido importada. O pacote antigo de 16 cartões está **substituído** e não é mais a fonte canônica.
-
-## Erro real Q42
-
-Permanece o cartão específico do erro:
-- Cebraspe/INSS/Perito Médico/2025 — `mais ou menos` ≠ `comedidamente`.
-
-Esse erro também foi usado como semente para cartões de mesma família de risco, sobretudo sinonímia contextual aparente e substituição lexical com mudança de sentido, priorizando itens oficiais quando disponíveis.
-
-## Auditoria do pacote
-
-- coleção SQLite: íntegra;
-- notas: **155**;
-- cartões: **155**;
-- frentes duplicadas: **0**;
-- GUIDs duplicados: **0**;
-- mídia externa: **nenhuma**;
-- schema de baralhos inclui os campos exigidos pelo importador legado do Anki/AnkiDroid.
-
-## Estado
-
-- seleção densa A001: concluída;
-- APKG canônico: `A001_Anki_DENSO.apkg`;
-- sincronização automática: **não realizada**;
-- D+1/A002 pode acrescentar novos `erro_real` e `acerto_com_duvida` sem substituir a teoria-base.
-
-Os TSVs antigos permanecem no repositório apenas como **registro histórico da base de 16 cartões** e não devem ser usados para importar a versão atual. O binário `.apkg` canônico fica no Google Drive; os APKGs antigos foram removidos do GitHub para evitar download acidental de versão obsoleta.
+- SQLite: íntegro
+- JSON interno do Anki: válido
+- GUIDs únicos: 89/89
+- frentes únicas: 89/89
+- mídia externa: nenhuma
+- pacote anterior no Drive: marcado como OBSOLETO
