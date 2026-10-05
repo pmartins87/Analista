@@ -40,7 +40,7 @@ Escopo efetivamente estudado:
 - P1 Português item 2 — **integralmente estudado**;
 - P1 Constitucional/Regimento item 7.1 — **parcial**: RICD arts. 1º–15 estudados; arts. 16–24 pendentes.
 
-A verticalização já foi atualizada. D+1/D+7/D+21 e Anki continuam desmarcados até execução real.
+A verticalização foi atualizada conforme a execução: D+1 da A001 foi concluída na A002 em 04/10 e o Anki A001 já existe; D+7 e D+21 permanecem pendentes.
 
 ### Resultado do caderno A001 — 03/10/2026
 
@@ -103,7 +103,7 @@ Nova regra canônica:
 - matérias altamente ankizáveis, sobretudo RICD/RCCN e normas, terão **alta densidade de cartões**;
 - o baralho-base cobre teoria/literalidade relevante mesmo sem erro prévio;
 - erro real e acerto com dúvida acrescentam cartões, mas não são o núcleo exclusivo da seleção;
-- uma mesma regra pode gerar cartões diferentes quando cada um testar recuperação distinta (direta, inversão Cebraspe, regra x exceção, remissão integrada);
+- uma mesma regra pode gerar cartões diferentes quando cada um testar recuperação distinta (direta, inversão Cebraspe, regra x exceção, efeito material de remissão útil), sem cobrar cartografia normativa por si só;
 - interpretação de texto continua com densidade menor e foco em mecanismos transferíveis;
 - não há teto artificial; se houver sobrecarga, controla-se a entrada de cartões novos sem empobrecer preventivamente a cobertura.
 
@@ -127,7 +127,7 @@ https://github.com/pmartins87/Analista/blob/main/anki/A001_INDEX.md
 
 O pacote preserva os 16 cartões anteriores e seus identificadores internos, reduzindo risco de duplicação se a versão anterior tiver sido importada. O cartão `erro_real` da Q42 foi mantido e usado como semente para cartões vizinhos de falsa sinonímia contextual/substituição lexical.
 
-Auditoria estrutural: SQLite íntegro; **155 notas e 155 cartões**; sem frentes ou GUIDs duplicados; sem mídia externa. A D+1 da A002 poderá acrescentar novos cartões `erro_real` e `acerto_com_duvida`. Não houve sincronização automática com Anki/AnkiDroid.
+Auditoria estrutural: SQLite íntegro; **155 notas e 155 cartões**; sem frentes ou GUIDs duplicados; sem mídia externa. A D+1 da A001 foi executada na A002. Não houve sincronização automática com Anki/AnkiDroid.
 
 
 ## Anki A002
