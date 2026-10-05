@@ -95,6 +95,8 @@ Anki é separado da apostila e organizado por matéria.
 
 Para RICD, RCCN, Constituição e normas, usar alta densidade de cartões úteis: competências, prazos, quóruns, composições, substituições, condições, exceções, consequências, distinções e resultado material de remissões relevantes.
 
+Aplicar piso de relevância: não criar cartão óbvio, resolvível por senso comum, com gabarito entregue pela redação ou mera atomização de cada inciso. A dificuldade deve ser justa e discriminativa, não artificial.
+
 Erro real e acerto com dúvida geram reforço. Não criar cartão só para decorar cartografia normativa sem utilidade de prova.
 
 Nunca alegar criação, importação ou sincronização que não ocorreu.
