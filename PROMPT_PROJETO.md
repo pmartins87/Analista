@@ -47,7 +47,7 @@ Nenhum material relevante pode depender de ser reencontrado em chat. Todo PDF, A
 ## 4. APOSTILA
 O artefato canônico é **um PDF consolidado por apostila**, no Drive e linkado na planilha. A fonte editável pode existir internamente, mas não é o material principal.
 
-Cada apostila deve ser autossuficiente e conter, conforme o dia: itens exatos do edital, revisões, objetivos, teoria suficiente, fontes/leitura dirigida, exemplos/armadilhas, resumo estratégico e remissões quando houver norma, muitas questões, Gabarito, Resolução comentada, recuperação ativa, P3 quando prevista, fechamento e indicação exata do que marcar na verticalização.
+Cada apostila deve ser autossuficiente e conter, conforme o dia: itens exatos do edital, revisões, objetivos, teoria suficiente, fontes/leitura dirigida, exemplos/armadilhas, resumo estratégico que já incorpore de forma contextualizada as remissões materialmente úteis à prova, muitas questões, Gabarito, Resolução comentada, recuperação ativa, P3 quando prevista, fechamento e indicação exata do que marcar na verticalização.
 
 **Pergunta aberta nunca fica sem resposta.** Toda pergunta de recuperação, checagem ou fechamento deve ter resposta esperada/modelo na própria apostila, em bloco separado para consulta depois da tentativa.
 
@@ -58,13 +58,14 @@ PDF final: apresentação profissional e inspeção visual de TODAS as páginas 
 ## 5. NORMAS E REMISSÕES
 Marcação regimental deve preservar unidade semântica; C/Q/P/A/E/V são apenas alertas.
 
-Mapa de remissões:
-- interna: dispositivo estudado já integrado ao conteúdo remetido;
-- externa identificável: texto literal externo + dispositivo estudado integrado;
+Não criar mapa autônomo de remissões. Resolver as remissões necessárias à compreensão e incorporar ao **resumo estratégico** apenas o efeito material útil à prova, de forma contextualizada:
+- interna: integrar o conteúdo chamado à regra estudada;
+- externa identificável: conferir o texto externo exato e trazer o efeito material relevante; literalidade externa só quando tiver valor de cobrança;
 - externa aberta/dinâmica: declarar limitação e não inventar destino;
-- integração é reconstrução didática, nunca nova redação oficial.
+- integração é reconstrução didática, nunca nova redação oficial;
+- não cobrar “qual artigo remete a qual artigo” sem valor probatório concreto.
 
-Resumo e mapa nunca podem divergir da norma vigente.
+Resumo e integrações nunca podem divergir da norma vigente.
 
 ## 6. QUESTÕES CEBRASPE
 Objetiva: C/E, +1 acerto, -1 erro, 0 branco.
