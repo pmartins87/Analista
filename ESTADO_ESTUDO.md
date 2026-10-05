@@ -123,38 +123,38 @@ Feedback após uso real no AnkiDroid: cartões óbvios e resolvíveis por senso 
 O cartão de A001 sobre tratar automaticamente fala de personagem/fonte como posição do autor foi identificado como exemplo de cartão a excluir na próxima poda dos baralhos A001/A002.
 
 ## Anki A001
-**BASE DENSA CANÔNICA CRIADA; NÃO SINCRONIZADA.**
+**BASE REFORMULADA E PODADA EM 05/10/2026; NÃO SINCRONIZADA AUTOMATICAMENTE.**
 
-A base provisória de 16 cartões foi substituída em 04/10/2026 por **155 cartões**:
-- P1 Português — **9**;
-- P2 Linguística — **24**;
-- P1 Constitucional/Regimentos — **122**.
+Após teste real no AnkiDroid, a base de 155 cartões foi auditada cartão por cartão e reduzida para **89 cartões relevantes**:
+- P1 Português — **6**;
+- P2 Linguística — **15**;
+- P1 Constitucional/Regimentos — **68**.
 
-Importação principal:
-https://drive.google.com/file/d/151QMkNQuDWHBy01jAAL1PjTcoTI9RnEZ/view?usp=drivesdk
+Importação canônica:
+https://drive.google.com/file/d/166NiSJL0H4h945GPLEC73PVnfNSVnd9Z/view?usp=drivesdk
 
 Índice/auditoria:
 https://github.com/pmartins87/Analista/blob/main/anki/A001_INDEX.md
 
-O pacote preserva os 16 cartões anteriores e seus identificadores internos, reduzindo risco de duplicação se a versão anterior tiver sido importada. O cartão `erro_real` da Q42 foi mantido e usado como semente para cartões vizinhos de falsa sinonímia contextual/substituição lexical.
+Foram excluídos 66 cartões, priorizando a remoção de obviedades, truísmos, atomizações de baixo retorno e duplicações de decisão. O cartão `erro_real` da Q42 foi preservado. Alguns cartões restantes foram reescritos para elevar a relevância sem criar pegadinhas desleais.
 
-Auditoria estrutural: SQLite íntegro; **155 notas e 155 cartões**; sem frentes ou GUIDs duplicados; sem mídia externa. A D+1 da A001 foi executada na A002. Não houve sincronização automática com Anki/AnkiDroid.
+Auditoria estrutural: SQLite íntegro; **89 notas/89 cartões**; **89 GUIDs e frentes únicos**; JSON interno compatível; sem mídia externa. O pacote anterior foi marcado como OBSOLETO no Drive.
 
 
 ## Anki A002
-**BASE CANÔNICA CRIADA; NÃO SINCRONIZADA.**
+**BASE REFORMULADA E PODADA EM 05/10/2026; NÃO SINCRONIZADA AUTOMATICAMENTE.**
 
-Criada em 04/10/2026 uma base de **195 cartões** sobre RICD arts. 16–24, no baralho:
+A base de 195 cartões sobre RICD arts. 16–24 foi auditada e reduzida para **106 cartões relevantes**, no baralho:
 `Analista::P1::Constitucional_Regimentos`.
 
-Importação:
-https://drive.google.com/file/d/15y6NnG4BRRuUqaKUTGw6Y5Q6dxLK2hGG/view
+Importação canônica:
+https://drive.google.com/file/d/1UsvFA-h_LEm-IbaZaTaMEQKgGOFoTmk8/view?usp=drivesdk
 
-Escopo: Presidência; Vice-Presidentes; Secretaria; Suplentes; Colégio de Líderes; Secretaria da Mulher e suas estruturas; secretarias e órgãos dos arts. 20-F a 21-X; Procuradoria Parlamentar; Ouvidoria; Conselho de Ética; Corregedoria; Comissões; competências do art. 24; contrastes e dúvidas reais surgidas na execução.
+Escopo preservado: Presidência; Vice-Presidentes; Secretaria; Suplentes; Colégio de Líderes; Secretaria da Mulher; demais órgãos dos arts. 20-F a 21-X; Procuradoria Parlamentar; Ouvidoria; Conselho de Ética; Corregedoria; Comissões e art. 24.
 
-Política aplicada: alta densidade de regras úteis, competências, composição, escolha, mandato, recondução, substituição, exceções e contrastes; sem cartões de mera cartografia de remissões. Quatro cartões foram marcados `oficial_cebraspe` a partir de itens oficiais diretamente aderentes localizados e auditados; os demais são cartões do projeto baseados na regra vigente.
+Foram excluídos 89 cartões de baixo ganho esperado. Permaneceram competências e contrastes não óbvios, composição/prazo/quórum realmente discriminativos, dúvidas reais e mecanismos Cebraspe úteis. Cartões selecionados foram reescritos quando a versão anterior era excessivamente fácil ou atomizada.
 
-Auditoria estrutural do APKG: SQLite íntegro; **195 notas/195 cartões**; **195 GUIDs únicos**; **195 frentes únicas**; sem mídia externa. O arquivo foi enviado para a pasta oficial do Drive. **Não houve importação nem sincronização automática com Anki/AnkiDroid.**
+Auditoria estrutural: SQLite íntegro; **106 notas/106 cartões**; **106 GUIDs e frentes únicos**; JSON interno compatível; sem mídia externa. O pacote anterior foi marcado como OBSOLETO no Drive.
 
 
 ## Recorte regimental
