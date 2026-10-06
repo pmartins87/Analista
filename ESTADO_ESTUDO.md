@@ -306,6 +306,8 @@ Após protótipo de mapa amplo (RICD 1–31) e validação positiva de um organo
 - vale prospectivamente a partir da **A004**; A001–A003 não são reemitidas por essa melhoria metodológica;
 - impacto: **nenhuma alteração** de escopo, carga ou verticalização do Mapa 106; muda apenas a forma de apresentação quando útil.
 
+- Mapas procedimentais podem também formar **caderno visual avulso**. O padrão de referência é o organograma de Lei Delegada validado no chat; cada mapa deve ser auditado individualmente e não substitui apostila, Anki ou verticalização.
+
 ## Ajuste metodológico — 05/10/2026 — links obrigatórios nas leituras dirigidas
 
 Feedback durante a execução da A003: a apostila manda abrir fontes externas (ex.: Manual de Redação da Presidência da República e Constituição Federal), mas não fornece links, obrigando o candidato a procurar documentos por conta própria e criando atrito desnecessário.
