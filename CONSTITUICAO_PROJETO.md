@@ -1,6 +1,6 @@
 # CONSTITUIÇÃO DO PROJETO — ANALISTA REGISTRO E REDAÇÃO
 
-Versão: 1.16  
+Versão: 1.17  
 Data: 05/10/2026  
 Status: **NORMA MÁXIMA DO PROJETO**
 
@@ -164,7 +164,9 @@ A apostila entregue ao candidato deve conter matéria de prova, explicações, e
 
 Exemplo de texto a excluir: “esses efeitos ajudam a resolver a regra estudada sem transformar números de artigos em objeto autônomo de memorização”. A ideia metodológica pode orientar internamente a produção, mas não agrega conteúdo examinável ao candidato.
 
-Exceção: comentário metodológico só entra no PDF quando altera concretamente a ação do estudante naquele ponto (por exemplo, “tente responder antes de abrir o gabarito” ou “leia apenas os arts. X–Y”).
+Também eliminar relatos de bastidor, justificativas de seleção, instruções genéricas e rótulos redundantes. Usar a forma mínima inequívoca: questão autoral deve ser identificada apenas como **“Inédita”**.
+
+Exceção: comentário metodológico só entra no PDF quando altera concretamente a ação do estudante naquele ponto, como tempo, formato, trecho a ler ou momento de consultar o gabarito.
 
 ### 3.2.1 Praticidade da leitura de fontes externas
 
