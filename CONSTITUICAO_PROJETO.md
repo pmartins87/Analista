@@ -1,6 +1,6 @@
 # CONSTITUIÇÃO DO PROJETO — ANALISTA REGISTRO E REDAÇÃO
 
-Versão: 1.14  
+Versão: 1.15  
 Data: 05/10/2026  
 Status: **NORMA MÁXIMA DO PROJETO**
 
@@ -157,6 +157,14 @@ A apostila deve dizer **o que, onde, como e quanto**.
 Nos blocos normativos, códigos como C=competência, Q=quórum, P=prazo, A=autoridade, E=exceção e V=verbo podem ser usados apenas como **alertas de incidência**, nunca como método exclusivo de marcação. A marcação deve preservar a menor unidade semântica inteligível: sujeito/autoridade + regra/ação + condição/limite/exceção quando relevante. Também podem ser marcadas definições, consequências, sequências, vedações, faculdades, remissões e quaisquer trechos cujo apagamento altere a resposta de uma questão plausível.
 
 Evitar seções de preenchimento ou conselhos comportamentais genéricos (“não abra outros materiais”, “não adiante amanhã” etc.). Se uma seção não agrega conteúdo, treino, revisão, fonte ou controle de cobertura, ela não entra na apostila.
+
+### 3.2.1 Praticidade da leitura de fontes externas
+
+A apostila deve minimizar troca desnecessária de documentos. Se a leitura externa for curta — por exemplo, súmula, dispositivo isolado ou pequeno conjunto de artigos curtos — reproduzir na própria apostila o texto oficial pertinente, identificado e auditado, mantendo também link oficial clicável para conferência.
+
+Só encaminhar o candidato para leitura fora do PDF quando o bloco for extenso a ponto de reproduzi-lo prejudicar a usabilidade da apostila. Nesse caso, fornecer link oficial direto, delimitação exata do trecho e resumo estratégico posterior.
+
+Não obrigar o candidato a abrir outro documento para ler poucas linhas que cabem razoavelmente na apostila. A decisão deve equilibrar fidelidade, praticidade e tamanho útil do material.
 
 ### 3.2.1 Padrão visual
 A apresentação deve facilitar leitura sem competir com o conteúdo:
