@@ -1,6 +1,6 @@
 # CONSTITUIÇÃO DO PROJETO — ANALISTA REGISTRO E REDAÇÃO
 
-Versão: 1.17  
+Versão: 1.18  
 Data: 05/10/2026  
 Status: **NORMA MÁXIMA DO PROJETO**
 
@@ -387,7 +387,7 @@ Ordem:
 3. tema próximo com mecanismo de cobrança útil;
 4. questões originais produzidas pelo projeto.
 
-Não substituir questão oficial diretamente aderente por inédita apenas para equilibrar quantidade. Se houver oficiais úteis em excesso para a carga do dia, preservar o excedente para D+7, D+21, revisões semanais e simulados.
+**Questão inédita é exceção.** Só pode ser usada quando, após esgotar a busca oficial, restar ponto relevante sem item oficial adequado e reproduzível. Havendo questão oficial aderente, ela prevalece; é proibido criar autoral por variedade, equilíbrio, quota ou conveniência. Se houver oficiais úteis em excesso para a carga do dia, preservar o excedente para D+7, D+21, revisões semanais e simulados.
 
 Quando questão oficial for usada:
 - identificar banca, órgão, cargo/prova, ano e item quando possível;
