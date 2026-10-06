@@ -271,6 +271,21 @@ Impacto de governança:
 - Anki: aplicar a mesma lógica — testar regra/decisão relevante, não cartografia de artigos sem valor probatório.
 
 
+
+## Ajuste metodológico — 06/10/2026 — mapas visuais de prova
+
+Após protótipo de mapa amplo (RICD 1–31) e validação positiva de um organograma específico sobre **lei delegada**, foi definido o padrão visual prospectivo:
+- mapas não são um quarto sistema de estudo nem material obrigatório por apostila; integram a apostila quando houver ganho real e podem existir pontualmente como reforço específico;
+- **não existe limite numérico mínimo ou máximo por apostila**: pode haver zero ou vários mapas, inclusive pequenos (meia página, 1/4 de página etc.), conforme a necessidade da unidade de conhecimento;
+- priorizar **um mapa por processo/procedimento/unidade de conhecimento**, em vez de condensar grandes blocos normativos em um único infográfico;
+- formato preferencial quando adequado: **organograma/fluxograma** com sequência de atos, atores, prazos, bifurcações, competências, condições e consequências;
+- legibilidade tem prioridade estética: letras grandes, pouco texto por caixa, setas claras e leitura de relance;
+- imagens/ícones só entram quando têm função semântica ou mnemônica; nada decorativo;
+- todo mapa normativo deve ser auditado contra a fonte oficial vigente antes de integrar o PDF;
+- a quantidade de mapas é decidida por ganho didático, nunca por quota, simetria ou meta de produção;
+- vale prospectivamente a partir da **A004**; A001–A003 não são reemitidas por essa melhoria metodológica;
+- impacto: **nenhuma alteração** de escopo, carga ou verticalização do Mapa 106; muda apenas a forma de apresentação quando útil.
+
 ## Ajuste metodológico — 05/10/2026 — links obrigatórios nas leituras dirigidas
 
 Feedback durante a execução da A003: a apostila manda abrir fontes externas (ex.: Manual de Redação da Presidência da República e Constituição Federal), mas não fornece links, obrigando o candidato a procurar documentos por conta própria e criando atrito desnecessário.
