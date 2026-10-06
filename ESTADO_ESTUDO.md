@@ -306,3 +306,14 @@ Foram identificados 3 cartões da A002 que devem ser corrigidos:
 Também foram encontradas paráfrases de competências com `pode` em que o texto oficial usa verbo no infinitivo sob cabeçalho de competência/atribuição. Não foram classificadas automaticamente como erro material, mas a redação futura deve preferir `compete`, `é atribuição` ou a literalidade do verbo para evitar transformar competência/dever em faculdade discricionária.
 
 A001 não apresentou erro inequívoco desse mesmo padrão na auditoria dirigida. O pacote A002 já importado pelo candidato não é sincronizado automaticamente; as 3 notas devem ser corrigidas manualmente no AnkiDroid. O índice operacional/planilha deve indicar que o APKG de 05/10 contém essas 3 correções pendentes até eventual regeneração do pacote.
+
+
+## Ajuste de governança — 06/10/2026 — limite do prompt operacional
+
+O `PROMPT_PROJETO.md` ultrapassou o limite prático do campo de instruções apesar de ter apenas cerca de 1,2 mil palavras; o problema era o tamanho em caracteres. Foi compactado sem retirada de regras materiais.
+
+Regra permanente:
+- `PROMPT_PROJETO.md` ≤ **8.000 caracteres**;
+- ao atualizar, cortar redundância e palavras sem função antes de qualquer conteúdo;
+- não remover escopo, exceções, controles ou regras para caber;
+- `CONSTITUICAO_PROJETO.md` permanece como versão detalhada integral.
