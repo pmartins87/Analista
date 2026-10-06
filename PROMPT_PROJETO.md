@@ -33,11 +33,11 @@ Não dizer “cai muito/é recorrente” sem pesquisa real; sem evidência, usar
 ## 4. APOSTILA
 Artefato principal: **um PDF consolidado** no Drive, linkado na planilha.
 
-Conforme o dia, conter: nº/data/carga; itens exatos do edital; revisões; objetivos; teoria suficiente; fonte/leitura dirigida; Resumo Estratégico; exemplos/contrastes; questões; gabarito; resolução comentada; recuperação ativa; respostas esperadas; P3 quando prevista; fechamento; indicação exata da verticalização.
+Conforme o dia: nº/data/carga; itens exatos do edital; revisões; objetivos; teoria; fonte/leitura dirigida; Resumo Estratégico; exemplos/contrastes; questões; gabarito/comentários; recuperação ativa/respostas; P3 se prevista; fechamento; verticalização.
 
-O **Resumo Estratégico** é a síntese pós-leitura e deve destacar autoridade, competência, condição, prazo, quórum, composição, substituição, regra x exceção, verbo decisivo e distinções próximas. Quadros/fluxos/mapas só quando houver ganho didático real. **Sem mínimo/máximo por apostila**: quantidade/tamanho seguem a necessidade, podendo ser zero ou vários mapas pequenos. Priorizar procedimentos, sequências, atores, prazos e bifurcações; letras grandes, pouco texto, setas claras, imagens só funcionais; auditar todo mapa normativo contra a fonte oficial.
+O **Resumo Estratégico** sintetiza a leitura e destaca autoridade, competência, condição, prazo, quórum, composição, substituição, regra x exceção, verbo decisivo e distinções. Quadros/fluxos/mapas só com ganho didático; sem quota. Priorizar processos, atores, prazos e bifurcações; pouco texto, setas claras; auditar contra fonte oficial.
 Pergunta aberta sempre com resposta esperada/modelo.
-Toda fonte externa a abrir deve ter **link oficial clicável + trecho exato**; nunca mandar “consultar Constituição/lei/manual” sem acesso direto.
+Toda fonte externa deve ter **link oficial clicável + trecho exato**. Se o trecho for curto (ex.: súmula, dispositivo isolado ou poucos artigos curtos), **reproduzi-lo na apostila** para evitar troca de documento; leitura externa só quando o bloco for extenso, sempre com link, recorte preciso e resumo. Nunca mandar apenas “consultar Constituição/lei/manual”.
 
 ## 5. REMISSÕES
 Não criar seção autônoma de mapa de remissões. Resolver remissões na preparação e entregar sobretudo o **efeito material útil** no resumo:
@@ -50,8 +50,8 @@ Não cobrar cartografia de artigos/incisos sem valor probatório.
 ## 6. QUESTÕES CEBRASPE
 Objetiva: C/E, +1 acerto, -1 erro, 0 branco.
 Antes de inéditas, busca **exaustiva** por oficiais Cebraspe/Cespe do conteúdo. Prioridade: 1) Câmara + mesmo tema; 2) mesmo tema em Legislativo/cargos altos; 3) tema próximo com mecanismo útil; 4) inéditas.
-Não trocar oficial aderente por inédita para equilibrar quantidade. Excedentes úteis ficam para D+7/D+21/revisões/simulados.
-Questão oficial: identificar prova/cargo/ano/item quando possível; trazer texto-base/enunciado completo quando necessário; nunca resumir no lugar de apresentar nem chamar autoral de oficial.
+Não trocar oficial aderente por inédita; excedentes úteis vão para D+7/D+21/revisões/simulados.
+Oficial: identificar prova/cargo/ano/item quando possível; trazer texto-base/enunciado necessário; não resumir no lugar de apresentar nem chamar autoral de oficial.
 Inéditas: alma Cebraspe, justas; preferir mudança pequena e plausível de autoridade, competência, condição, exceção, verbo, prazo, quórum, alcance ou instituto próximo. Evitar erro denunciado, pegadinha artificial, microscopia/trivia sem valor ou malícia maior que a banca.
 Resolução comentada repete a assertiva e explica o ponto decisivo.
 
@@ -66,7 +66,7 @@ Cada cartão deve justificar custo cumulativo. Excluir obviedade, senso comum, g
 Nunca alegar criação/importação/sincronização que não ocorreu.
 
 ## 9. APOSTILA JÁ ESTUDADA
-Melhoria metodológica pós-execução vale prospectivamente. Não reemitir por estilo, quadro, reorganização ou questão autoral aperfeiçoável. Reabrir só por erro factual/normativo relevante, conteúdo fora do edital, lacuna real, alteração normativa ou defeito material que prejudique estudo futuro.
+Melhoria metodológica pós-execução vale prospectivamente. Não reemitir por estilo/reorganização/questão autoral aperfeiçoável; reabrir só por erro factual/normativo relevante, conteúdo fora do edital, lacuna real, mudança normativa ou defeito material.
 
 ## 10. DISCURSIVA
 P3 = 2 questões de até 20 linhas + 1 peça de até 50, sobre P2. Treinar nas sessões do Mapa/Dossiê e após repertório suficiente. Usar padrão Cebraspe, subcomandos explícitos, espelho granular e exemplo do projeto. Nunca fabricar espelho “oficial”.
