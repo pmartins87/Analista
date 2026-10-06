@@ -1,6 +1,6 @@
 # CONSTITUIÇÃO DO PROJETO — ANALISTA REGISTRO E REDAÇÃO
 
-Versão: 1.12  
+Versão: 1.13  
 Data: 05/10/2026  
 Status: **NORMA MÁXIMA DO PROJETO**
 
@@ -271,6 +271,20 @@ A seleção continua orientada por:
 - literalidade vigente e potencial discriminativo;
 - erros reais e acertos com dúvida;
 - conceitos centrais cuja recuperação rápida aumente desempenho.
+
+### 3.3.3 Fidelidade da força normativa
+
+Em cartões derivados de normas, a paráfrase **não pode alterar a modalidade normativa**. É proibido enfraquecer dever, consequência automática ou comando em mera faculdade, ou fazer o inverso.
+
+Antes de fechar qualquer pacote Anki normativo, auditar especificamente:
+- verbos decisivos: `fará`, `deverá`, `será`, `providenciará`, `extingue-se`, `poderá`, `faculta-se`, `compete`, `é vedado` e equivalentes;
+- negações, exceções, condições e termos de incidência;
+- autoridade/sujeito competente;
+- prazo, quórum, composição e consequência.
+
+Regra de redação: se o texto oficial expressa obrigação ou efeito automático, não usar `pode/poderá` como paráfrase. Se a norma apenas atribui competência em lista, preferir `compete`, `é atribuição` ou manter o verbo oficial quando a troca por `pode` gerar ambiguidade sobre discricionariedade.
+
+A auditoria final do APKG deve comparar cada cartão normativo de alto risco com a fonte oficial vigente, priorizando justamente esses verbos discriminativos.
 
 ### 3.3.3 Piso de relevância e dificuldade
 
