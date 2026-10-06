@@ -249,3 +249,23 @@ Correção sem efeito cascata:
 - **A004 em diante**: sem alteração.
 
 O fechamento da primeira passagem continua previsto para A051 (22/11/2026), preservando aproximadamente 55 dias para consolidação, intensificação e reta final.
+
+
+## Ajuste metodológico — 05/10/2026 — formulação de D+1 e perguntas abertas
+
+Feedback durante a execução da A003 identificou dois defeitos no bloco D+1 da A002:
+1. perguntas como “o que o art. 24 permite?” deslocam a recuperação para cartografia normativa (lembrar número/localização do dispositivo) em vez de cobrar a regra material relevante;
+2. a pergunta “por que o art. 24 de ontem é ponte direta para o procedimento abreviado estudado hoje?” aparece no início da A003, antes de o candidato ter estudado o procedimento abreviado naquele dia, portanto pressupõe repertório ainda não adquirido.
+
+Decisão prospectiva:
+- a partir da **A004**, toda D+1/D+7/D+21, recuperação ativa, checagem e pergunta aberta deve ser semanticamente autossuficiente e cobrar conhecimento material transferível para a prova;
+- evitar número de artigo, página, apostila, “ontem/hoje” ou localização no material como núcleo da pergunta, salvo quando a própria identificação tiver valor probatório concreto;
+- números de dispositivos ficam como fonte de conferência, não como alvo de memorização;
+- revisão inicial só cobra conteúdo já estudado até aquele ponto; conexões com matéria nova do próprio dia entram depois do estudo, em integração/fechamento;
+- exemplo corrigido: “Em que hipóteses uma Comissão pode discutir e votar projeto de lei sem deliberação do Plenário, e qual mecanismo permite provocar o Plenário?”;
+- A003 não será reemitida: o problema é metodológico/formulacional, sem erro normativo ou lacuna real de cobertura, e a apostila já está em execução.
+
+Impacto de governança:
+- Edital Verticalizado: nenhum;
+- Mapa 106: nenhum em escopo, carga ou calendário; somente padrão de formulação a partir da A004;
+- Anki: aplicar a mesma lógica — testar regra/decisão relevante, não cartografia de artigos sem valor probatório.
