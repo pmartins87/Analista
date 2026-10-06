@@ -366,3 +366,15 @@ A partir da A004:
 - objetivo: minimizar troca de documentos sem transformar a apostila em mera cópia extensa de legislação.
 
 Impacto: sem mudança de edital, carga ou Mapa; apenas padrão de produção/QA das apostilas futuras.
+
+
+## Ajuste metodológico — 06/10/2026 — remover metacomentários editoriais
+
+Feedback na A003 identificou frase sem conteúdo de prova: “esses efeitos ajudam a resolver a regra estudada sem transformar números de artigos em objeto autônomo de memorização”.
+
+Decisão prospectiva:
+- a apostila deve mostrar a regra/efeito útil diretamente, sem comentar como o material foi construído;
+- excluir justificativas editoriais, autoavaliações e comentários sobre o método que não mudem a ação do candidato;
+- manter apenas metainstruções operacionais necessárias ao estudo naquele ponto;
+- A003 não será reemitida por ser melhoria de concisão/estilo;
+- A004 já estava pronta quando o feedback surgiu; aplicar obrigatoriamente nas próximas gerações e em eventual regeneração por motivo substantivo.
