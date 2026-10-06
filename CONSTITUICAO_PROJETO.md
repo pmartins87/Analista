@@ -167,6 +167,8 @@ A apresentação deve facilitar leitura sem competir com o conteúdo:
 - blocos de literalidade ou integrações normativas realmente úteis podem ser recuados para se distinguirem do comentário;
 - toda edição deve ser auditada contra concatenações, títulos desaparecidos, duplicações e estilos herdados acidentalmente.
 
+**Mapas visuais de prova / organogramas:** usar somente quando houver ganho didático real na compreensão, memorização ou recuperação de uma unidade de conhecimento. Não há mínimo nem máximo numérico por apostila: a quantidade, o tamanho e o formato decorrem da necessidade do conteúdo, podendo ser zero ou vários mapas pequenos. Priorizar procedimentos, sequências, atores/competências, prazos, bifurcações, substituições e regra x exceção. O mapa deve permitir leitura imediata, com letras grandes, pouco texto por caixa, setas claras e imagens apenas quando tiverem função semântica/mnemônica. Não transformar mapa em miniapostila nem sacrificar pesquisa, fidelidade normativa ou auditoria em favor da estética. Todo mapa normativo deve ser conferido contra a fonte oficial vigente antes do fechamento do PDF.
+
 ### 3.2.2 Formato canônico de entrega — PDF consolidado
 
 A partir de A001, o **artefato de estudo do candidato é um PDF consolidado** armazenado na pasta oficial do Google Drive e linkado na planilha.
