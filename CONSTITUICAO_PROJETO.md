@@ -1,6 +1,6 @@
 # CONSTITUIÇÃO DO PROJETO — ANALISTA REGISTRO E REDAÇÃO
 
-Versão: 1.10  
+Versão: 1.11  
 Data: 05/10/2026  
 Status: **NORMA MÁXIMA DO PROJETO**
 
@@ -138,6 +138,15 @@ Não usar comandos vagos como:
 A apostila deve dizer **o que, onde, como e quanto**.
 
 **Pergunta aberta nunca fica sem gabarito.** Toda pergunta de recuperação ativa, autoexplicação, checagem ou fechamento deve ter, na própria apostila, uma resposta esperada/modelo suficiente para autocorreção. Para preservar o esforço de recuperação, a resposta deve aparecer em bloco separado e sinalizado para ser consultado somente depois da tentativa.
+
+**Perguntas de revisão e recuperação devem cobrar conhecimento material, não a localização dele no material.** A partir da A004:
+- a pergunta deve ser semanticamente autossuficiente e formulada como conhecimento transferível para a prova;
+- não usar como núcleo da pergunta “o que diz o art. X?”, “qual artigo trata de...?”, “por que o art. X de ontem...?”, número de página, número da apostila, “ontem/hoje” ou qualquer referência à posição cronológica/estrutural do conteúdo, salvo quando essa identificação tiver valor probatório concreto;
+- números de dispositivos podem aparecer como **fonte de conferência** na resposta, comentário ou leitura dirigida, mas não como objeto autônomo de memorização;
+- preferir competência, hipótese, condição, exceção, consequência, prazo, quórum, contraste ou situação concreta;
+- uma revisão colocada no início da apostila **não pode pressupor conteúdo novo que só será estudado depois naquele mesmo dia**; D+1/D+7/D+21 devem cobrar apenas repertório já adquirido até aquele ponto;
+- exemplo: em vez de “O que o art. 24 permite às Comissões fazer conclusivamente?”, perguntar “Em que hipóteses uma Comissão pode discutir e votar projeto de lei sem deliberação do Plenário, e qual mecanismo permite provocar o Plenário?”;
+- se uma conexão com o conteúdo novo do dia for pedagogicamente útil, ela deve aparecer **depois** do estudo do conteúdo novo, como integração/fechamento, e não dentro da revisão inicial como se já fosse conhecida.
 
 Nos blocos normativos, códigos como C=competência, Q=quórum, P=prazo, A=autoridade, E=exceção e V=verbo podem ser usados apenas como **alertas de incidência**, nunca como método exclusivo de marcação. A marcação deve preservar a menor unidade semântica inteligível: sujeito/autoridade + regra/ação + condição/limite/exceção quando relevante. Também podem ser marcadas definições, consequências, sequências, vedações, faculdades, remissões e quaisquer trechos cujo apagamento altere a resposta de uma questão plausível.
 
