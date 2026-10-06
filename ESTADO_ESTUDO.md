@@ -1,13 +1,13 @@
 # ESTADO OPERACIONAL DE ESTUDOS
 
-Atualizado em: **05/10/2026**
+Atualizado em: **06/10/2026**
 
 ## Norma máxima
 [CONSTITUICAO_PROJETO.md](CONSTITUICAO_PROJETO.md) é a norma máxima.  
 [PROMPT_PROJETO.md](PROMPT_PROJETO.md) é a versão curta para as instruções do Projeto.
 
 ## Estado atual
-**PÓS-EDITAL / A001 E A002 CONCLUÍDAS / A003 PRONTA PARA ESTUDO**
+**PÓS-EDITAL / A001 E A002 CONCLUÍDAS / A003 EM EXECUÇÃO / A004 PRONTA PARA ESTUDO**
 
 Prova: **17/01/2027**.
 - P1: 90 itens.
@@ -211,11 +211,11 @@ https://drive.google.com/drive/folders/17Y83E9zU8YRiojc81f2aVaxH_vJVUKIk
 A002 permanece como fonte editável em Google Docs, mas deve ser convertida para PDF consolidado antes da execução. A002 e seguintes não terão caderno de questões diário separado.
 
 
-## A003 — produzida em 05/10/2026; aguardando execução
+## A003 — produzida em 05/10/2026; em execução
 
 Escopo canônico: **D+1 A002 + P2-PROC 1–1.1 + P1-ADM 1–1.1 + RICD arts. 25–30**. Carga: **6h**.
 
-Status: **PRONTA PARA ESTUDO; NÃO MARCADA COMO CONCLUÍDA.**
+Status: **EM EXECUÇÃO; NÃO MARCADA COMO CONCLUÍDA.**
 
 PDF canônico:
 https://drive.google.com/file/d/1vUKNYVlt3S1bz0wdptQ2xSWWgU5D_gFi/view?usp=drivesdk
@@ -230,6 +230,26 @@ A A003 é a primeira apostila integralmente produzida sob as melhorias prospecti
 A busca oficial diretamente aderente incorporou itens UNEAL/CEBRASPE 2026 sobre conceitos de Administração, TCE-AC/CEBRASPE 2024 sobre autotutela e Câmara/CESPE 2003 sobre Subcomissões. O item 93 da Câmara/2014 sobre composição das Comissões foi conferido no gabarito definitivo como **C** e mantido como comparador de pesquisa; o mecanismo é treinado na bateria autoral da A003. A discursiva Câmara/2014 sobre procedimento ordinário × sumário foi usada apenas para calibrar teoria, sem antecipar sessão P3 fora do Mapa 106.
 
 Ao concluir a execução da A003, podem ser fechados P1-ADM 1, P1-ADM 1.1, P2-PROC 1 e P2-PROC 1.1. P2-PROC 2.1 **permanece parcial**, pois A003 cobre somente RICD 25–30.
+
+
+## A004 — produzida em 06/10/2026; pronta para estudo
+
+Escopo canônico: **D+1 A003 + P2-LING 2 + P1-PORT 5–5.1 + RICD arts. 31–45**. Carga: **6h**.
+
+Status: **PRONTA PARA ESTUDO; NÃO MARCADA COMO CONCLUÍDA.**
+
+PDF canônico:
+https://drive.google.com/file/d/1X_F_uZBjK9qAWR50JQe_TFdgfhUsV9Tq/view?usp=drivesdk
+
+A A004 foi produzida integralmente sob as regras prospectivas vigentes:
+- D+1 e recuperação ativa autossuficientes, cobrando regra material e sem pressupor conteúdo futuro;
+- fontes oficiais externas com link clicável e recorte exato; o RICD 31–45 permanece leitura oficial obrigatória por ser bloco normativo extenso;
+- mapas visuais seletivos sem quota, organizados por unidade de conhecimento e usados apenas onde comprimem relações úteis (tempo/modo/aspecto, papéis semânticos, classes em contexto, comissões temporárias, CPI, presidência das Comissões e faltas/vagas);
+- busca oficial Cebraspe/Cespe antes das inéditas, com itens oficiais diretamente aderentes de Câmara 2026, TCDF 2023 e SEBRAE 2024;
+- inéditas identificadas como não oficiais e calibradas por contraste, competência, condição, prazo e consequência;
+- PDF final com **30 páginas**, preflight válido e inspeção visual de todas as páginas sem cortes ou sobreposições.
+
+A003 permanece em execução conforme relato do candidato em 06/10/2026; por isso **nenhum item da A004 foi marcado como estudado** e o Anki A004 permanece pendente para geração/revisão após a sessão.
 
 
 ## Auditoria do Mapa 106 — 04/10/2026
