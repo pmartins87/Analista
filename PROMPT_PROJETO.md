@@ -37,7 +37,7 @@ Conforme o dia: nº/data/carga; itens exatos do edital; revisões; objetivos; te
 
 O **Resumo Estratégico** sintetiza a leitura e destaca autoridade, competência, condição, prazo, quórum, composição, substituição, regra x exceção, verbo decisivo e distinções. Quadros/fluxos/mapas só com ganho didático; sem quota. Priorizar processos, atores, prazos e bifurcações; pouco texto, setas claras; auditar contra fonte oficial.
 Pergunta aberta sempre com resposta esperada/modelo.
-**Sem metacomentário editorial:** o PDF deve focar matéria e treino. Excluir “o que a busca encontrou”, justificativas de seleção/montagem, autoavaliações e “como resolver” genérico. Orientações metodológicas ficam no chat, salvo instrução indispensável para executar uma atividade específica.
+**Sem metacomentário editorial/prolixidade:** o PDF deve focar matéria e treino. Excluir bastidores, justificativas de seleção/montagem, autoavaliações, instruções genéricas e rótulos redundantes. Usar a forma mínima inequívoca: p.ex., questão autoral = **“Inédita”**, não “Inédita do projeto — não oficial Cebraspe”. Orientações metodológicas ficam no chat, salvo instrução indispensável à atividade.
 Toda fonte externa deve ter **link oficial clicável + trecho exato**. Se o trecho for curto (ex.: súmula, dispositivo isolado ou poucos artigos curtos), **reproduzi-lo na apostila** para evitar troca de documento; leitura externa só quando o bloco for extenso, sempre com link, recorte preciso e resumo. Nunca mandar apenas “consultar Constituição/lei/manual”.
 
 ## 5. REMISSÕES
