@@ -1,6 +1,6 @@
 # CONSTITUIÇÃO DO PROJETO — ANALISTA REGISTRO E REDAÇÃO
 
-Versão: 1.15  
+Versão: 1.16  
 Data: 05/10/2026  
 Status: **NORMA MÁXIMA DO PROJETO**
 
@@ -157,6 +157,14 @@ A apostila deve dizer **o que, onde, como e quanto**.
 Nos blocos normativos, códigos como C=competência, Q=quórum, P=prazo, A=autoridade, E=exceção e V=verbo podem ser usados apenas como **alertas de incidência**, nunca como método exclusivo de marcação. A marcação deve preservar a menor unidade semântica inteligível: sujeito/autoridade + regra/ação + condição/limite/exceção quando relevante. Também podem ser marcadas definições, consequências, sequências, vedações, faculdades, remissões e quaisquer trechos cujo apagamento altere a resposta de uma questão plausível.
 
 Evitar seções de preenchimento ou conselhos comportamentais genéricos (“não abra outros materiais”, “não adiante amanhã” etc.). Se uma seção não agrega conteúdo, treino, revisão, fonte ou controle de cobertura, ela não entra na apostila.
+
+### 3.2.1 Conteúdo voltado ao estudo, não ao processo editorial
+
+A apostila entregue ao candidato deve conter matéria de prova, explicações, exemplos, instruções de estudo necessárias, exercícios, respostas e controles de execução. **Não incluir metacomentários sobre a elaboração do material**, justificativas do método, observações sobre por que determinada técnica editorial foi usada ou frases que avaliem a própria apostila.
+
+Exemplo de texto a excluir: “esses efeitos ajudam a resolver a regra estudada sem transformar números de artigos em objeto autônomo de memorização”. A ideia metodológica pode orientar internamente a produção, mas não agrega conteúdo examinável ao candidato.
+
+Exceção: comentário metodológico só entra no PDF quando altera concretamente a ação do estudante naquele ponto (por exemplo, “tente responder antes de abrir o gabarito” ou “leia apenas os arts. X–Y”).
 
 ### 3.2.1 Praticidade da leitura de fontes externas
 
