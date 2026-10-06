@@ -332,3 +332,17 @@ Regra permanente:
 - ao atualizar, cortar redundância e palavras sem função antes de qualquer conteúdo;
 - não remover escopo, exceções, controles ou regras para caber;
 - `CONSTITUICAO_PROJETO.md` permanece como versão detalhada integral.
+
+
+## Ajuste metodológico — 06/10/2026 — fontes externas breves dentro da apostila
+
+Feedback na A003: exigir abertura de Constituição, lei ou repositório para ler poucas linhas (ex.: súmula ou poucos dispositivos curtos) cria atrito sem ganho.
+
+A partir da A004:
+- fonte externa curta deve ser reproduzida na própria apostila, com identificação e conferência no texto oficial;
+- manter link oficial clicável para conferência;
+- leitura fora do PDF só para blocos extensos cuja reprodução prejudique a usabilidade;
+- nesses casos: link direto + recorte exato + resumo estratégico;
+- objetivo: minimizar troca de documentos sem transformar a apostila em mera cópia extensa de legislação.
+
+Impacto: sem mudança de edital, carga ou Mapa; apenas padrão de produção/QA das apostilas futuras.
