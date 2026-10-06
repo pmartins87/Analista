@@ -388,3 +388,15 @@ A partir da A005:
 - usar rótulos mínimos e inequívocos; questão autoral deve aparecer apenas como **Inédita**;
 - revisar cada seção para cortar palavras e frases que não acrescentem matéria, instrução necessária ou distinção útil;
 - A003/A004 não serão reemitidas por essa melhoria de concisão.
+
+
+## Ajuste — 06/10/2026 — prioridade de questões oficiais
+
+A003 usou 4 questões oficiais e 26 inéditas. Isso não refletiu a regra já vigente de busca oficial exaustiva.
+
+A partir das próximas apostilas:
+- inédita só após esgotar questões oficiais adequadas e reproduzíveis;
+- oficial aderente prevalece;
+- não criar inédita para completar quantidade ou variar a bateria;
+- em matérias gerais, priorizar fortemente oficiais;
+- usar inéditas quando houver lacuna real de cobertura.
