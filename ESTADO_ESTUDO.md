@@ -378,3 +378,13 @@ Decisão prospectiva:
 - manter apenas metainstruções operacionais necessárias ao estudo naquele ponto;
 - A003 não será reemitida por ser melhoria de concisão/estilo;
 - A004 já estava pronta quando o feedback surgiu; aplicar obrigatoriamente nas próximas gerações e em eventual regeneração por motivo substantivo.
+
+
+## Ajuste metodológico — 06/10/2026 — concisão editorial nas apostilas
+
+A partir da A005:
+- remover do PDF relatos de pesquisa, justificativas de seleção/montagem e instruções genéricas de resolução;
+- deixar essas orientações no chat, salvo quando forem necessárias para executar uma atividade específica;
+- usar rótulos mínimos e inequívocos; questão autoral deve aparecer apenas como **Inédita**;
+- revisar cada seção para cortar palavras e frases que não acrescentem matéria, instrução necessária ou distinção útil;
+- A003/A004 não serão reemitidas por essa melhoria de concisão.
