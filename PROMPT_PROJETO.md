@@ -50,10 +50,10 @@ Não cobrar cartografia de artigos/incisos sem valor probatório.
 
 ## 6. QUESTÕES CEBRASPE
 Objetiva: C/E, +1 acerto, -1 erro, 0 branco.
-Antes de inéditas, busca **exaustiva** por oficiais Cebraspe/Cespe do conteúdo. Prioridade: 1) Câmara + mesmo tema; 2) mesmo tema em Legislativo/cargos altos; 3) tema próximo com mecanismo útil; 4) inéditas.
-Não trocar oficial aderente por inédita; excedentes úteis vão para D+7/D+21/revisões/simulados.
+Antes de inéditas, busca **exaustiva** por oficiais Cebraspe/Cespe. Prioridade: 1) Câmara + mesmo tema; 2) mesmo tema em Legislativo/cargos altos; 3) tema próximo com mecanismo útil; 4) inéditas.
+**Inédita é exceção:** só usar quando, após esgotar os oficiais adequados e reproduzíveis, restar ponto relevante sem cobertura oficial. Se houver oficial aderente, ele prevalece; não criar autoral por variedade, equilíbrio ou quota. Excedentes oficiais úteis vão para D+7/D+21/revisões/simulados.
 Oficial: identificar prova/cargo/ano/item quando possível; trazer texto-base/enunciado necessário; não resumir no lugar de apresentar nem chamar autoral de oficial.
-Inéditas: alma Cebraspe, justas; preferir mudança pequena e plausível de autoridade, competência, condição, exceção, verbo, prazo, quórum, alcance ou instituto próximo. Evitar erro denunciado, pegadinha artificial, microscopia/trivia sem valor ou malícia maior que a banca.
+Inéditas, quando necessárias: alma Cebraspe, justas; preferir pequena mudança plausível de autoridade, competência, condição, exceção, verbo, prazo, quórum, alcance ou instituto próximo. Evitar erro denunciado, artificialidade, trivia sem valor ou malícia maior que a banca.
 Resolução comentada repete a assertiva e explica o ponto decisivo.
 
 ## 7. RECUPERAÇÃO ATIVA
