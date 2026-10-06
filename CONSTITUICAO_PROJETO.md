@@ -1,6 +1,6 @@
 # CONSTITUIÇÃO DO PROJETO — ANALISTA REGISTRO E REDAÇÃO
 
-Versão: 1.13  
+Versão: 1.14  
 Data: 05/10/2026  
 Status: **NORMA MÁXIMA DO PROJETO**
 
