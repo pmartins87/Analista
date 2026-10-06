@@ -1,6 +1,6 @@
 # CONSTITUIÇÃO DO PROJETO — ANALISTA REGISTRO E REDAÇÃO
 
-Versão: 1.11  
+Versão: 1.12  
 Data: 05/10/2026  
 Status: **NORMA MÁXIMA DO PROJETO**
 
@@ -110,7 +110,13 @@ Cada apostila deve ser autossuficiente para aquele dia e conter, nesta ordem:
 5. objetivos de aprendizagem observáveis;
 6. teoria completa suficiente para a prova;
 7. remissão à fonte oficial quando a literalidade for relevante;
-8. leitura dirigida da fonte, com indicação exata do trecho;
+8. leitura dirigida da fonte, com indicação exata do trecho **e link oficial clicável da fonte**;
+   - toda fonte externa que o candidato precise abrir (Constituição, lei, manual, regimento, súmula, ato, resolução etc.) deve vir com URL oficial diretamente utilizável no próprio PDF;
+   - não basta citar o nome do documento ou dizer “consulte a fonte oficial”;
+   - preferir link estável do órgão responsável e, quando houver, acrescentar link direto para PDF/texto compilado;
+   - junto do link, indicar exatamente o que ler: artigo(s), capítulo/seção, item(ns) e, quando estável, páginas;
+   - se houver mais de uma fonte na mesma leitura dirigida, cada uma deve ter seu próprio link;
+   - antes de fechar a apostila, testar se os links principais abrem e se apontam para a versão oficial vigente;
 9. **resumo estratégico pós-leitura** dos dispositivos normativos estudados, sem substituir a fonte oficial. O resumo deve incorporar, de forma contextualizada e apenas quando útil à prova, o conteúdo material das remissões necessárias à compreensão da regra:
    - **remissão interna ao mesmo diploma**: integrar o conteúdo chamado à explicação da regra estudada, sem transformar número de artigo/inciso em objeto autônomo de memorização;
    - **remissão externa identificável**: conferir o texto externo exato e incorporar ao resumo o efeito material relevante para a prova; reproduzir a literalidade externa apenas quando ela própria tiver valor de cobrança;
