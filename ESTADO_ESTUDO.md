@@ -287,3 +287,22 @@ Impacto:
 - Edital Verticalizado: nenhum;
 - Mapa 106: nenhum em escopo/carga; requisito de usabilidade passa a valer na A004;
 - PDF futuro: “leia a fonte X” sem link utilizável passa a ser defeito de QA.
+
+
+## Auditoria Anki — 06/10/2026 — verbos normativos em A001/A002
+
+Foi realizada auditoria dirigida dos baralhos canônicos atualmente existentes:
+- A001: 89 cartões;
+- A002: 106 cartões;
+- total examinado para o padrão específico: 195 cartões.
+
+Objetivo: localizar trocas de força normativa em paráfrases, especialmente conversões indevidas de verbos como `fará`, `providenciará` e `se extinguem` para `pode/podem`.
+
+Foram identificados 3 cartões da A002 que devem ser corrigidos:
+1. designação de membros das Comissões por omissão da Liderança: trocar `pode designar` por `fará, de ofício, a designação` (RICD art. 28, § 1º);
+2. Procuradoria Parlamentar e publicidade reparadora: trocar `pode providenciar` por formulação que preserve `providenciará` (RICD art. 21, § 2º);
+3. Comissões Temporárias: trocar `podem extinguir-se` por `extinguem-se` nas hipóteses regimentais (RICD art. 22, II).
+
+Também foram encontradas paráfrases de competências com `pode` em que o texto oficial usa verbo no infinitivo sob cabeçalho de competência/atribuição. Não foram classificadas automaticamente como erro material, mas a redação futura deve preferir `compete`, `é atribuição` ou a literalidade do verbo para evitar transformar competência/dever em faculdade discricionária.
+
+A001 não apresentou erro inequívoco desse mesmo padrão na auditoria dirigida. O pacote A002 já importado pelo candidato não é sincronizado automaticamente; as 3 notas devem ser corrigidas manualmente no AnkiDroid. O índice operacional/planilha deve indicar que o APKG de 05/10 contém essas 3 correções pendentes até eventual regeneração do pacote.
