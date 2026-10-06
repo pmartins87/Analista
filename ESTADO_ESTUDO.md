@@ -402,3 +402,15 @@ A partir das próximas apostilas:
 - não criar inédita para completar quantidade ou variar a bateria;
 - em matérias gerais, priorizar fortemente oficiais;
 - usar inéditas quando houver lacuna real de cobertura.
+
+
+## Caderno Visual — Processo Legislativo — v0.1 — 06/10/2026
+
+Foi criado o primeiro PDF incremental de mapas procedimentais, como artefato auxiliar separado das apostilas.
+
+PDF canônico:
+https://drive.google.com/file/d/1F96o90C8LP7GnBMOBzjlvMdgrTdCa_Jp/view?usp=drivesdk
+
+Conteúdo v0.1: Lei Delegada; Procedimento Legislativo Normal; Procedimento Legislativo Abreviado; Procedimento Legislativo Sumário. O caderno seguirá incremental, um mapa por processo/unidade de conhecimento, com auditoria normativa individual e sem substituir apostila, Anki ou verticalização.
+
+Índice de governança: `mapas/CADERNO_VISUAL_PROCESSO_LEGISLATIVO.md`.
