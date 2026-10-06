@@ -269,3 +269,21 @@ Impacto de governança:
 - Edital Verticalizado: nenhum;
 - Mapa 106: nenhum em escopo, carga ou calendário; somente padrão de formulação a partir da A004;
 - Anki: aplicar a mesma lógica — testar regra/decisão relevante, não cartografia de artigos sem valor probatório.
+
+
+## Ajuste metodológico — 05/10/2026 — links obrigatórios nas leituras dirigidas
+
+Feedback durante a execução da A003: a apostila manda abrir fontes externas (ex.: Manual de Redação da Presidência da República e Constituição Federal), mas não fornece links, obrigando o candidato a procurar documentos por conta própria e criando atrito desnecessário.
+
+Decisão:
+- a partir da **A004**, toda leitura dirigida que dependa de fonte externa deve trazer **link oficial clicável no próprio PDF**;
+- cada fonte deve vir com indicação exata do trecho a ler (artigos, capítulo/seção, itens e, quando estável, páginas);
+- preferir URL estável do órgão responsável; quando útil, fornecer também link direto ao PDF/texto compilado;
+- links principais devem ser testados antes do fechamento da apostila;
+- a aba **Materiais** passa a indexar também as fontes oficiais de uso recorrente;
+- A003 não será reemitida durante a execução para não prejudicar eventuais marcações já feitas; os links faltantes serão fornecidos no chat e a correção será prospectiva.
+
+Impacto:
+- Edital Verticalizado: nenhum;
+- Mapa 106: nenhum em escopo/carga; requisito de usabilidade passa a valer na A004;
+- PDF futuro: “leia a fonte X” sem link utilizável passa a ser defeito de QA.
