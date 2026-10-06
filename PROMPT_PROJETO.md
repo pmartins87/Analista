@@ -35,7 +35,7 @@ Artefato principal: **um PDF consolidado** no Drive, linkado na planilha.
 
 Conforme o dia, conter: nº/data/carga; itens exatos do edital; revisões; objetivos; teoria suficiente; fonte/leitura dirigida; Resumo Estratégico; exemplos/contrastes; questões; gabarito; resolução comentada; recuperação ativa; respostas esperadas; P3 quando prevista; fechamento; indicação exata da verticalização.
 
-O **Resumo Estratégico** é a síntese pós-leitura e deve destacar autoridade, competência, condição, prazo, quórum, composição, substituição, regra x exceção, verbo decisivo e distinções próximas. Quadros/fluxos/mapas só quando reduzirem confusão, preferencialmente dentro da apostila.
+O **Resumo Estratégico** é a síntese pós-leitura e deve destacar autoridade, competência, condição, prazo, quórum, composição, substituição, regra x exceção, verbo decisivo e distinções próximas. Quadros/fluxos/mapas só quando houver ganho didático real. **Sem mínimo/máximo por apostila**: quantidade/tamanho seguem a necessidade, podendo ser zero ou vários mapas pequenos. Priorizar procedimentos, sequências, atores, prazos e bifurcações; letras grandes, pouco texto, setas claras, imagens só funcionais; auditar todo mapa normativo contra a fonte oficial.
 Pergunta aberta sempre com resposta esperada/modelo.
 Toda fonte externa a abrir deve ter **link oficial clicável + trecho exato**; nunca mandar “consultar Constituição/lei/manual” sem acesso direto.
 
