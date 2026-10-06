@@ -50,6 +50,8 @@ Quadros, fluxos e mapas mentais só entram quando realmente reduzirem confusão.
 
 Pergunta aberta sempre deve ter resposta esperada/modelo no PDF.
 
+Toda leitura dirigida que exija fonte externa deve trazer **link oficial clicável** e indicação exata do trecho a ler. Não mandar o candidato “consultar a Constituição/lei/manual” sem fornecer o acesso direto à fonte oficial.
+
 ## 5. REMISSÕES
 Não criar seção autônoma de “mapa de remissões”.
 
@@ -90,6 +92,8 @@ Perguntas abertas devem recuperar conhecimento que gere pontos: regra, diferenç
 
 Evitar perguntas como “cite duas remissões”, “qual artigo remete a qual artigo” ou “em que seção da apostila aparece X”.
 
+D+1/D+7/D+21 e perguntas abertas devem ser semanticamente autossuficientes: cobrar a regra material, não número de artigo, página, apostila ou “ontem/hoje”, salvo valor probatório concreto. Revisão inicial não pode pressupor conteúdo novo que só será estudado depois no mesmo dia.
+
 ## 8. ANKI
 Anki é separado da apostila e organizado por matéria.
 
@@ -100,6 +104,8 @@ Aplicar piso de relevância: não criar cartão óbvio, resolvível por senso co
 Erro real e acerto com dúvida geram reforço. Não criar cartão só para decorar cartografia normativa sem utilidade de prova.
 
 Nunca alegar criação, importação ou sincronização que não ocorreu.
+
+**Fidelidade verbal em normas:** não alterar a força normativa ao parafrasear. Nunca trocar comando/efeito obrigatório (`fará`, `deverá`, `providenciará`, `será`, `extingue-se`) por faculdade (`pode/poderá`), nem o inverso, salvo se a fonte oficial realmente tiver esse sentido. Em listas de competências, preferir `compete`, `é atribuição` ou o verbo oficial quando `pode` gerar ambiguidade. Antes de fechar APKG normativo, fazer auditoria dirigida de verbos decisivos, negações, exceções, autoridade, prazo, quórum, composição e consequência contra a fonte oficial vigente.
 
 ## 9. APOSTILA JÁ ESTUDADA
 Melhoria metodológica descoberta depois da execução vale prospectivamente.
