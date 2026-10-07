@@ -491,3 +491,21 @@ Decisão:
 - usar material Gran do usuário como apoio seletivo, sobretudo cadernos Cebraspe e capítulos diretamente aderentes, sem transformar o estudo em curso de gramática/linguística.
 
 Ajuste operacional da própria A004: no fechamento de P2-LING 2 e P1-PORT 5–5.1, o bloco oficial dirigido poderá substituir, para fins de treino principal, os itens autorais 7–20. Esses itens inéditos ficam facultativos como reforço; não são requisito adicional se a cobertura oficial equivalente for resolvida e corrigida.
+
+
+## A004 — ajuste de leitura do RICD 31–45 — 07/10/2026
+
+Feedback durante a execução: a instrução “leia integralmente os arts. 31–45” e o destaque para ler todos os campos temáticos do art. 32 impõem custo excessivo e duplicam a apostila sem priorização suficiente.
+
+Pesquisa de cobrança oficial/localizada:
+- Câmara/CESPE 2014 cobrou diretamente competência da Comissão de Finanças e Tributação;
+- SEBRAE/CEBRASPE 2024 — Processo Legislativo cobrou distinção específica do art. 32 entre Comissão de Indústria, Comércio e Serviços e Comissão de Desenvolvimento Econômico;
+- a prova Câmara/CEBRASPE 2026 consultada não cobrou competências temáticas do art. 32 entre seus itens de RICD, embora tenha cobrado estrutura/comissões.
+
+Decisão para a A004:
+- não exigir memorização integral do art. 32 nem leitura minuciosa de cada alínea;
+- fazer leitura rápida do mapa das Comissões e dominar os contrastes de maior retorno, especialmente CCJC, CFT/CFFC e competências já observadas em questão oficial;
+- arts. 31, 33–45: leitura dirigida com atenção normal aos verbos, prazos, quóruns, condições e exceções;
+- a instrução “leia integralmente” do PDF fica superada por esta orientação de execução; não reemitir a A004 por metodologia.
+
+Regra futura: leitura normativa é calibrada por ganho esperado; não usar leitura integral extensa como padrão automático.
