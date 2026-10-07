@@ -522,3 +522,26 @@ Fluxo:
 - só pedir ao candidato que baixe/guarde prova específica se um material relevante estiver inacessível ou instável e isso fizer diferença real no estudo.
 
 Objetivo: evitar trabalho manual de catalogação sem ganho proporcional e manter a regra de esgotar oficiais antes de inéditas.
+
+
+## Fechamento A004 — 07/10/2026
+
+A004 concluída pelo candidato.
+
+Erros finais:
+- Q1 (Câmara/CEBRASPE 2026, item 17): não reconheceu o “se” apassivador em “quando se perguntou a estudantes... o que eles mais temiam”; reforço oficial dirigido pendente antes de gerar Anki.
+- Q5 (TCDF/CEBRASPE 2023, item 94): erro de interpretação ao confundir requerimento de 1/3 com juízo discricionário do Plenário; CPI é direito da minoria quando preenchidos os requisitos constitucionais.
+- Q14: erro de atenção em “meia hora” × “meio cansada”; conteúdo compreendido, mas erro_real deve ser preservado de forma compacta no Anki.
+
+Dúvidas/acertos com baixa confiança:
+- Q26: Comissão Especial quando matéria de mérito envolver mais de 4 Comissões (equivale a 5 ou mais).
+- Q28: recurso ao Plenário em 5 sessões, ouvida a CCJC, contra devolução de requerimento de CPI.
+- contraste numérico: 5 ou mais Comissões de mérito → Comissão Especial; 5 CPIs em funcionamento → trava nova CPI, salvo projeto de resolução com quórum de apresentação do caput.
+- vacância: Presidência/Vice de Comissão → nova eleição, salvo menos de 3 meses para o fim do mandato; Mesa → vaga até 30/11 do segundo ano é preenchida por eleição em 5 sessões, depois dessa data há designação de titular para responder.
+
+Cobertura:
+- P2-LING 2 concluído;
+- P1-PORT 5 e 5.1 concluídos;
+- RICD 31–45 estudados; P2-PROC 2.1 segue parcial (25–45 concluídos, faltam 46–64 e 95–200).
+- D+1 da A003 concluída na A004.
+- Anki A004 permanece pendente até concluir o reforço oficial da Q1, para incorporar eventuais novos erros/dúvidas.
