@@ -509,3 +509,16 @@ Decisão para a A004:
 - a instrução “leia integralmente” do PDF fica superada por esta orientação de execução; não reemitir a A004 por metodologia.
 
 Regra futura: leitura normativa é calibrada por ganho esperado; não usar leitura integral extensa como padrão automático.
+
+
+## Estratégia de acervo de provas — 07/10/2026
+
+Decisão: não criar, por enquanto, corpus manual de provas no Drive. Para questões oficiais, o projeto usará busca web/CEBRASPE como fonte primária, priorizando provas recentes, concursos grandes e cargos/temas aderentes ao edital.
+
+Fluxo:
+- começar por Câmara e cargos/temas de maior proximidade;
+- se o volume de questões adequadas for insuficiente, expandir para outros Legislativos, tribunais, controle e cargos superiores;
+- em Português/Linguística, priorizar Câmara, taquigrafia/registro-redação, Letras, revisão/texto e cargos de nível semelhante;
+- só pedir ao candidato que baixe/guarde prova específica se um material relevante estiver inacessível ou instável e isso fizer diferença real no estudo.
+
+Objetivo: evitar trabalho manual de catalogação sem ganho proporcional e manter a regra de esgotar oficiais antes de inéditas.
