@@ -552,3 +552,33 @@ Cobertura:
 Questão oficial PF/CEBRASPE 2021: em “a rede de prisões está se ampliando intensamente”, o candidato julgou inicialmente que “se” fosse partícula apassivadora, aplicando a transformação “a rede de prisões é ampliada por alguém”. Gabarito definitivo oficial: ERRADO; após recurso, o Cebraspe classificou “se” como parte integrante do verbo, pois no contexto “ampliar-se” expressa mudança de estado da própria rede, sem ideia de passividade/agente externo.
 
 Reforço para Anki A004: não basta VTD + se para concluir voz passiva; verificar o sentido concreto. Verbos que admitem uso transitivo e uso pronominal/incoativo podem produzir estrutura superficialmente semelhante. Contrastar “a empresa ampliou a rede / a rede foi ampliada” com “a rede se ampliou (= cresceu)”.
+
+
+## A005 — apostila canônica gerada — 07/10/2026
+
+PDF canônico:
+https://drive.google.com/file/d/1mjRHZNVn0jQiTSkrrIhZ3bWF7qK56RtN/view?usp=drivesdk
+
+Status: pronta para estudo; ainda não concluída.
+
+Escopo:
+- D+1 A004 autossuficiente;
+- P2-ASR 1, 1.1, 1.2 e 1.3 — Reconhecimento de Fala e Transcrição de Áudio; ASR; modelos end-to-end; LLMs multimodais de áudio nativo;
+- P1-CONST 1 — Constituição Federal de 1988: conceito, contexto histórico, características e estrutura do texto;
+- P2-PROC 2.1 parcial — RICD arts. 46–64.
+
+Produção/QA:
+- 16 páginas, PDF A4 consolidado, links oficiais clicáveis e inspeção visual concluída;
+- bloco constitucional antecipado da A005 foi incorporado e fica substituído pelo PDF canônico;
+- questões oficiais Cebraspe/Cespe entram antes das inéditas; busca adicional não localizou questão oficial aderente diretamente a ASR 1–1.3, então inéditas cobrem somente as lacunas;
+- RICD: leitura seletiva por ganho esperado, com foco maior em arts. 46–58 e 60–61-A; arts. 62–64 em reconhecimento rápido;
+- nenhum item da verticalização foi marcado como estudado apenas pela geração do PDF;
+- Anki A005 permanece pendente para depois da execução.
+
+Questões oficiais incorporadas:
+- BANRISUL/CEBRASPE 2025 — arquitetura Transformer (ponte técnica para ASR end-to-end);
+- FUB/CESPE 2015 — classificação da CF/88;
+- MMA/CESPE 2009 — Lassalle;
+- PGE/PB/CESPE 2008 — elementos constitucionais;
+- Câmara/CESPE 2002 — vista em Comissão e reunião secreta;
+- PCDF/CESPE 2013 — quórum de deliberação.
