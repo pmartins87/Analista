@@ -316,10 +316,14 @@ Foi criada a aba **Mapas Mentais** na planilha canônica para impedir perda de r
 - roadmap inicial: **191 mapas/artefatos visuais**; **19 já criados** e **172 planejados**;
 - auditoria de cobertura: **182/182 linhas de itens/subitens do Edital Verticalizado estão representadas por pelo menos um mapa planejado ou criado**;
 - o número 191 não é quota: mapas podem ser fundidos, divididos, descartados ou acrescentados conforme ganho didático, desde que a cobertura do edital permaneça rastreável;
-- cada linha registra ID, prova, disciplina, mapa, itens do edital, checkbox `Criado?`, origem/status, formato, prioridade e gatilho;
-- **regra operacional:** assim que um mapa for realmente criado, seu checkbox/status deve ser atualizado na mesma sessão; nunca marcar mapa inexistente;
+- cada linha registra ID, prova, disciplina, mapa, itens do edital, checkbox `Criado?`, **link direto**, origem/status, formato, prioridade e gatilho;
+- **regra operacional:** assim que um mapa for realmente criado, seu checkbox/status **e link direto** devem ser atualizados na mesma sessão; nunca marcar mapa inexistente;
 - mapas integrados à apostila também são rastreados; mapas avulsos entregues no chat ficam registrados como `Criado — avulso no chat`;
 - conteúdo fora do edital não recebe mapa autônomo.
+
+Pasta canônica dos mapas: https://drive.google.com/drive/folders/1j0EJ_Q4NBCGKLqR8QYAjGGa7LRsfm7Ay
+
+Em 06/10/2026, os **19 mapas já criados** receberam arquivo individual no Drive e link clicável na aba `Mapas Mentais`.
 
 A expansão visual não cria um quarto sistema de estudo: a aba é controle de cobertura e os mapas são auxiliares subordinados à apostila, Anki e verticalização.
 
