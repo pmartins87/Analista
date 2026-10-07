@@ -414,3 +414,12 @@ https://drive.google.com/file/d/1F96o90C8LP7GnBMOBzjlvMdgrTdCa_Jp/view?usp=drive
 Conteúdo v0.1: Lei Delegada; Procedimento Legislativo Normal; Procedimento Legislativo Abreviado; Procedimento Legislativo Sumário. O caderno seguirá incremental, um mapa por processo/unidade de conhecimento, com auditoria normativa individual e sem substituir apostila, Anki ou verticalização.
 
 Índice de governança: `mapas/CADERNO_VISUAL_PROCESSO_LEGISLATIVO.md`.
+
+
+## A003 — erros na bateria C/E — 06/10/2026
+
+Erros informados pelo candidato:
+- Q7: marcou incorretamente item sobre sobrestamento no procedimento sumário; falha principal de leitura/alcance ao não preservar a exceção constitucional para matérias com prazo constitucional determinado. Reforço: termos absolutos (“todas”, “inclusive”, “sempre”) são alerta para conferir exceções, não motivo automático para marcar errado.
+- Q30: marcou errado por interpretar “excluído o Presidente” como incompatível com a divisão em Turmas. Regra correta do RICD art. 30: o Presidente da Comissão fica fora das duas Turmas; cada Turma é presidida por um Vice-Presidente; ambas sem poder decisório.
+
+Ambos os erros devem gerar reforço no Anki A003 após o fechamento da sessão, sem criar cartões redundantes.
