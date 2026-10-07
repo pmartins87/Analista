@@ -458,3 +458,15 @@ Pesquisa em provas oficiais confirmou cobranças reais e próximas:
 - Câmara 2012 — Analista Legislativo/Taquígrafo: edital tinha o mesmo item de categorias semânticas e a prova explorou análise linguística fina.
 
 Conclusão: há evidência de que a banca explora distinções entre camadas/categorias próximas, mas não foi demonstrada recorrência suficiente para afirmar genericamente que ela “troca uma dessas dimensões por outra” em todas as categorias. Na A004, ler a frase como alerta plausível, não como frequência comprovada. Futuras apostilas devem citar exemplos reais quando atribuírem padrão de cobrança à banca.
+
+
+## A004 — ajuste didático de Português/Linguística — 06/10/2026
+
+Feedback durante a execução: os blocos teóricos de P2-LING 2 e P1-PORT 5–5.1 foram percebidos como superficiais, fragmentados e pouco ligados à forma real de cobrança.
+
+Decisão:
+- não reemitir a A004 apenas por metodologia;
+- antes de dar baixa nesses itens, complementar a sessão com prática oficial dirigida e explicação a partir das questões;
+- para Português/Linguística futuros, usar sequência questão oficial → mecanismo → teoria mínima → contraste → nova questão oficial;
+- priorizar Câmara/Cebraspe, taquigrafia/registro-redação, Letras e cargos de nível semelhante;
+- usar material Gran do usuário como apoio seletivo, sobretudo cadernos Cebraspe e capítulos diretamente aderentes, sem transformar o estudo em curso de gramática/linguística.
