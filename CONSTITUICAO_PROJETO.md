@@ -1,6 +1,6 @@
 # CONSTITUIÇÃO DO PROJETO — ANALISTA REGISTRO E REDAÇÃO
 
-Versão: 1.19  
+Versão: 1.20  
 Data: 05/10/2026  
 Status: **NORMA MÁXIMA DO PROJETO**
 
@@ -175,6 +175,17 @@ A apostila deve minimizar troca desnecessária de documentos. Se a leitura exter
 Só encaminhar o candidato para leitura fora do PDF quando o bloco for extenso a ponto de reproduzi-lo prejudicar a usabilidade da apostila. Nesse caso, fornecer link oficial direto, delimitação exata do trecho e resumo estratégico posterior.
 
 Não obrigar o candidato a abrir outro documento para ler poucas linhas que cabem razoavelmente na apostila. A decisão deve equilibrar fidelidade, praticidade e tamanho útil do material.
+
+### 3.2.1 Português e Linguística — teoria ancorada em prova
+
+Para Português e Linguística, evitar exposição enciclopédica ou lista solta de conceitos. A unidade didática preferencial é **questão oficial → mecanismo cobrado → teoria mínima necessária → contraste → nova questão oficial**.
+
+Regras:
+- antes de expandir teoria, localizar questões Cebraspe/Cespe aderentes ao item do edital, priorizando Câmara, taquigrafia/registro-redação, Letras e cargos de nível semelhante;
+- conceitos abstratos (classes, tempo/modo/aspecto, papéis semânticos, funções etc.) devem, sempre que houver item adequado, vir acompanhados de exemplo real de prova;
+- teoria serve para explicar e generalizar o mecanismo observado, não para formar curso acadêmico paralelo;
+- usar inéditas apenas para lacuna real após esgotar oficiais;
+- materiais de curso podem apoiar a explicação, mas o recorte e a ênfase são definidos pelo edital e pela cobrança oficial.
 
 ### 3.2.1 Padrão visual
 A apresentação deve facilitar leitura sem competir com o conteúdo:
