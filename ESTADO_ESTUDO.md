@@ -582,3 +582,42 @@ Questões oficiais incorporadas:
 - PGE/PB/CESPE 2008 — elementos constitucionais;
 - Câmara/CESPE 2002 — vista em Comissão e reunião secreta;
 - PCDF/CESPE 2013 — quórum de deliberação.
+
+
+## Anki A004 — fechado — 07/10/2026
+
+Pacote canônico:
+https://drive.google.com/file/d/1orxE0rwxJfyLlLVefpnMh2OedMCZXAh3/view?usp=drivesdk
+
+Escopo:
+- P1 Português 5–5.1;
+- P2 Linguística 2;
+- P2 Processo/Regimentos — RICD 31–45, ainda como parte do item 2.1.
+
+Composição:
+- 65 notas / 65 cartões;
+- 17 Português;
+- 12 Linguística;
+- 36 Processo/Regimentos;
+- 11 cartões ancorados em questão ou justificativa oficial Cebraspe;
+- 5 cartões com tag erro_real;
+- 6 cartões com tag duvida_real.
+
+Reforços do fechamento A004 incorporados:
+- “se” apassivador × índice de indeterminação × reflexivo × verbo pronominal, incluindo Câmara/2026, PCDF/2019, CAESB/2024, PF/2021 e a questão anulada do IBGE/2021;
+- meia/meio;
+- CPI como direito da minoria, 1/3 + fato determinado + prazo certo;
+- recurso contra devolução do requerimento de CPI: Plenário, 5 sessões, ouvida CCJC;
+- mais de 4 Comissões de mérito;
+- trava de 5 CPIs;
+- vacância em Comissão (<3 meses) × Mesa (30/11 do segundo ano).
+
+Auditoria:
+- RICD 31–45 conferido no texto oficial atualizado até RCD 34/2026;
+- verbos decisivos, autoridades, prazos, quóruns, exceções e consequências revisados;
+- SQLite íntegro;
+- GUIDs únicos: 65/65;
+- frentes únicas: 65/65;
+- SHA-256 do APKG: 5b58fa686c83e33e90511d77f1ae9ea2ae0f49b2739778435289f6f60193f5b9.
+
+O pacote foi criado e enviado ao Drive; não foi importado nem sincronizado automaticamente no Anki/AnkiDroid.
