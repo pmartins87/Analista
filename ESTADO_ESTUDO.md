@@ -445,3 +445,16 @@ Anki A003:
 - fidelidade normativa auditada, inclusive art. 28 §1º: Presidente **fará, de ofício**, não “poderá”.
 
 Planilha e Mapa 106 atualizados; quatro itens integralmente cobertos foram marcados como estudados, com questões e Anki executados.
+
+
+## A004 — correção de formulação sobre padrão Cebraspe — 06/10/2026
+
+No bloco P2 Linguística 2, a frase “O Cebraspe pode trocar uma dessas dimensões por outra e produzir uma assertiva aparentemente plausível” ficou ampla demais sem explicitar a evidência empírica.
+
+Pesquisa em provas oficiais confirmou cobranças reais e próximas:
+- TJ/ES 2023 — Analista Judiciário/Letras: itens sobre aspecto durativo/cursivo, valor temporal do pretérito imperfeito e papéis temáticos;
+- UNIVESP 2025 — prova de Língua Portuguesa: questão relacionando configuração sintática e papel semântico de agente;
+- SEDF 2017 — Professor de Língua Portuguesa: item que combinou modo verbal correto com identificação lexical incorreta dos verbos;
+- Câmara 2012 — Analista Legislativo/Taquígrafo: edital tinha o mesmo item de categorias semânticas e a prova explorou análise linguística fina.
+
+Conclusão: há evidência de que a banca explora distinções entre camadas/categorias próximas, mas não foi demonstrada recorrência suficiente para afirmar genericamente que ela “troca uma dessas dimensões por outra” em todas as categorias. Na A004, ler a frase como alerta plausível, não como frequência comprovada. Futuras apostilas devem citar exemplos reais quando atribuírem padrão de cobrança à banca.
