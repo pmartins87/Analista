@@ -27,6 +27,7 @@ Na planilha, ficam visíveis:
 - `Edital Verticalizado`;
 - `Mapa 106 Apostilas`;
 - `Apostilas e Anki` — índice A001–A106 e downloads;
+- `Mapas Mentais` — roadmap vivo dos mapas criados/planejados e sua cobertura do edital;
 - `Discursivas` — cronograma P3, provas, espelhos e exemplos;
 - `Materiais` — índice de fontes e materiais canônicos.
 
@@ -307,6 +308,20 @@ Após protótipo de mapa amplo (RICD 1–31) e validação positiva de um organo
 - impacto: **nenhuma alteração** de escopo, carga ou verticalização do Mapa 106; muda apenas a forma de apresentação quando útil.
 
 - Mapas procedimentais podem também formar **caderno visual avulso**. O padrão de referência é o organograma de Lei Delegada validado no chat; cada mapa deve ser auditado individualmente e não substitui apostila, Anki ou verticalização.
+
+## Roadmap visual do edital — 06/10/2026
+
+Foi criada a aba **Mapas Mentais** na planilha canônica para impedir perda de rastreabilidade dos artefatos visuais.
+- escopo: **todas as 9 disciplinas** do edital, P1 e P2;
+- roadmap inicial: **191 mapas/artefatos visuais**; **19 já criados** e **172 planejados**;
+- auditoria de cobertura: **182/182 linhas de itens/subitens do Edital Verticalizado estão representadas por pelo menos um mapa planejado ou criado**;
+- o número 191 não é quota: mapas podem ser fundidos, divididos, descartados ou acrescentados conforme ganho didático, desde que a cobertura do edital permaneça rastreável;
+- cada linha registra ID, prova, disciplina, mapa, itens do edital, checkbox `Criado?`, origem/status, formato, prioridade e gatilho;
+- **regra operacional:** assim que um mapa for realmente criado, seu checkbox/status deve ser atualizado na mesma sessão; nunca marcar mapa inexistente;
+- mapas integrados à apostila também são rastreados; mapas avulsos entregues no chat ficam registrados como `Criado — avulso no chat`;
+- conteúdo fora do edital não recebe mapa autônomo.
+
+A expansão visual não cria um quarto sistema de estudo: a aba é controle de cobertura e os mapas são auxiliares subordinados à apostila, Anki e verticalização.
 
 ## Ajuste metodológico — 05/10/2026 — links obrigatórios nas leituras dirigidas
 
