@@ -1,6 +1,6 @@
 # CONSTITUIÇÃO DO PROJETO — ANALISTA REGISTRO E REDAÇÃO
 
-Versão: 1.18  
+Versão: 1.19  
 Data: 05/10/2026  
 Status: **NORMA MÁXIMA DO PROJETO**
 
@@ -403,7 +403,7 @@ A seleção de questões deve considerar conjuntamente **aderência ao item estu
 
 Questão tangencial ao conteúdo do dia não compensa apenas por ser oficial.
 
-Nunca afirmar que um ponto “cai muito”, “é recorrente”, “a banca gosta de cobrar” ou equivalente sem pesquisa real de questões anteriores que sustente a afirmação. Sem essa evidência, usar apenas formulações como “possível fonte de confusão”, “pegadinha plausível” ou “ponto sensível pela literalidade”.
+Nunca atribuir à banca frequência ou padrão de cobrança — “cai muito”, “é recorrente”, “a banca gosta de cobrar”, “costuma trocar X por Y” ou equivalente — sem pesquisa real em questões anteriores que sustente a afirmação. Quando houver padrão, citar exemplos oficiais localizados; sem evidência suficiente, usar apenas “possível fonte de confusão”, “pegadinha plausível” ou formulação hipotética equivalente.
 
 Em questão autoral normativa, é proibido cobrar **história da alteração normativa** (“qual resolução criou/revogou o dispositivo”) se o edital cobra o texto vigente e não o ato alterador. Cobrar a regra vigente, sua exceção, competência, condição, prazo, quórum ou efeito.
 
