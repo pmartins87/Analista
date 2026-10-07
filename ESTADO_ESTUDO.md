@@ -545,3 +545,10 @@ Cobertura:
 - RICD 31–45 estudados; P2-PROC 2.1 segue parcial (25–45 concluídos, faltam 46–64 e 95–200).
 - D+1 da A003 concluída na A004.
 - Anki A004 permanece pendente até concluir o reforço oficial da Q1, para incorporar eventuais novos erros/dúvidas.
+
+
+## Reforço oficial pós-A004 — função do “se” — 07/10/2026
+
+Questão oficial PF/CEBRASPE 2021: em “a rede de prisões está se ampliando intensamente”, o candidato julgou inicialmente que “se” fosse partícula apassivadora, aplicando a transformação “a rede de prisões é ampliada por alguém”. Gabarito definitivo oficial: ERRADO; após recurso, o Cebraspe classificou “se” como parte integrante do verbo, pois no contexto “ampliar-se” expressa mudança de estado da própria rede, sem ideia de passividade/agente externo.
+
+Reforço para Anki A004: não basta VTD + se para concluir voz passiva; verificar o sentido concreto. Verbos que admitem uso transitivo e uso pronominal/incoativo podem produzir estrutura superficialmente semelhante. Contrastar “a empresa ampliou a rede / a rede foi ampliada” com “a rede se ampliou (= cresceu)”.
