@@ -423,3 +423,25 @@ Erros informados pelo candidato:
 - Q30: marcou errado por interpretar “excluído o Presidente” como incompatível com a divisão em Turmas. Regra correta do RICD art. 30: o Presidente da Comissão fica fora das duas Turmas; cada Turma é presidida por um Vice-Presidente; ambas sem poder decisório.
 
 Ambos os erros devem gerar reforço no Anki A003 após o fechamento da sessão, sem criar cartões redundantes.
+
+
+## Fechamento A003 + Anki — 06/10/2026
+
+A003 foi concluída pelo candidato em 06/10/2026.
+
+Cobertura encerrada:
+- P1-ADM 1 — Estado, governo e Administração Pública;
+- P1-ADM 1.1 — princípios constitucionais e doutrinários;
+- P2-PROC 1 — Procedimento Legislativo;
+- P2-PROC 1.1 — tipos de procedimento, etapas e noções básicas.
+- P2-PROC 2.1 permanece parcial: RICD arts. 25–30 estudados; não marcar o item integral até concluir 25–64 e 95–200.
+
+Anki A003:
+- arquivo canônico: https://drive.google.com/file/d/1BDYYqH4rSx-85KWWAdc6R5KMe-y-KAAI/view?usp=drivesdk
+- 62 cartões: 23 Administrativo + 39 Processo/Regimentos;
+- 5 itens de prova oficiais Cebraspe/Cespe; demais cartões são recuperação direta de teoria/norma, não questões C/E autorais;
+- 3 cartões com tag erro_real, reforçando Q7 (exceção ao sobrestamento) e Q30 (Presidente excluído das Turmas);
+- auditoria APKG: 62 notas/62 cartões, GUIDs e frentes únicos, SQLite íntegro;
+- fidelidade normativa auditada, inclusive art. 28 §1º: Presidente **fará, de ofício**, não “poderá”.
+
+Planilha e Mapa 106 atualizados; quatro itens integralmente cobertos foram marcados como estudados, com questões e Anki executados.
