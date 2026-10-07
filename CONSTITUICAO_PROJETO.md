@@ -1,6 +1,6 @@
 # CONSTITUIÇÃO DO PROJETO — ANALISTA REGISTRO E REDAÇÃO
 
-Versão: 1.20  
+Versão: 1.21  
 Data: 05/10/2026  
 Status: **NORMA MÁXIMA DO PROJETO**
 
@@ -167,6 +167,17 @@ Exemplo de texto a excluir: “esses efeitos ajudam a resolver a regra estudada 
 Também eliminar relatos de bastidor, justificativas de seleção, instruções genéricas e rótulos redundantes. Usar a forma mínima inequívoca: questão autoral deve ser identificada apenas como **“Inédita”**.
 
 Exceção: comentário metodológico só entra no PDF quando altera concretamente a ação do estudante naquele ponto, como tempo, formato, trecho a ler ou momento de consultar o gabarito.
+
+### 3.2.1 Leitura normativa por ganho esperado
+
+Estar dentro do edital não implica dar o mesmo peso a todo dispositivo. A leitura dirigida deve priorizar o que maximiza pontos por tempo: regras estruturantes, competências com histórico de cobrança, prazos, quóruns, condições, exceções, verbos decisivos e contrastes.
+
+Evitar mandar “ler integralmente” blocos extensos por rotina. Quando um artigo longo reúne listas temáticas ou competências numerosas, classificar o estudo em camadas:
+- **dominar** o que tem histórico oficial de cobrança, alto poder discriminativo ou forte risco de confusão;
+- **reconhecer** núcleos e fronteiras úteis dos demais itens;
+- **leitura rápida/consulta** para enumerações de baixo retorno, sem exigir memorização exaustiva.
+
+Se a apostila já resume o conteúdo, a leitura da fonte deve acrescentar literalidade útil, não duplicar mecanicamente o mesmo estudo. Sempre que se disser que algo é “pouco cobrado”, “muito cobrado” ou equivalente, sustentar com pesquisa real de questões.
 
 ### 3.2.1 Praticidade da leitura de fontes externas
 
