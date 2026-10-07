@@ -470,3 +470,5 @@ Decisão:
 - para Português/Linguística futuros, usar sequência questão oficial → mecanismo → teoria mínima → contraste → nova questão oficial;
 - priorizar Câmara/Cebraspe, taquigrafia/registro-redação, Letras e cargos de nível semelhante;
 - usar material Gran do usuário como apoio seletivo, sobretudo cadernos Cebraspe e capítulos diretamente aderentes, sem transformar o estudo em curso de gramática/linguística.
+
+Ajuste operacional da própria A004: no fechamento de P2-LING 2 e P1-PORT 5–5.1, o bloco oficial dirigido poderá substituir, para fins de treino principal, os itens autorais 7–20. Esses itens inéditos ficam facultativos como reforço; não são requisito adicional se a cobertura oficial equivalente for resolvida e corrigida.
