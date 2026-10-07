@@ -39,6 +39,7 @@ O **Resumo Estratégico** sintetiza a leitura e destaca autoridade, competência
 Pergunta aberta sempre com resposta esperada/modelo.
 **Sem metacomentário/prolixidade:** PDF = matéria e treino. Excluir bastidores, justificativas editoriais, autoavaliações e instruções genéricas. Usar rótulos mínimos: questão autoral = **“Inédita”**. Método fica no chat, salvo se indispensável.
 Toda fonte externa deve ter **link oficial clicável + trecho exato**. Se o trecho for curto (ex.: súmula, dispositivo isolado ou poucos artigos curtos), **reproduzi-lo na apostila** para evitar troca de documento; leitura externa só quando o bloco for extenso, sempre com link, recorte preciso e resumo. Nunca mandar apenas “consultar Constituição/lei/manual”.
+Leitura normativa: recorte por ganho esperado; não exigir bloco integral por padrão.
 
 ## 5. REMISSÕES
 Não criar seção autônoma de mapa de remissões. Resolver remissões na preparação e entregar sobretudo o **efeito material útil** no resumo:
