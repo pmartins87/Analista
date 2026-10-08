@@ -9,7 +9,7 @@ Baralhos por matéria:
 - P1::Português
 - P1::Inglês
 - P1::Administrativo
-- P1::Constit_Regimentos
+- P1::Const_Regimentos
 - P1::TI_Dados_IA
 - P2::Linguística
 - P2::ASR_Transcrição_IA
@@ -40,7 +40,7 @@ Nenhum baralho deve ser declarado criado, importado ou sincronizado sem artefato
 ## Nomes canônicos efetivos no AnkiDroid
 
 Os nomes abaixo refletem renomeações manuais já feitas pelo candidato e **devem ser preservados nos APKG futuros**:
-- `Analista::P1::Constit_Regimentos`
+- `Analista::P1::Const_Regimentos`
 - `Analista::P2::Proc_Regimentos`
 
-Não recriar as variantes antigas `Constitucional_Regimentos` ou `Processo_Regimentos`.
+Não recriar as variantes antigas `Constit_Regimentos`, `Constitucional_Regimentos` ou `Processo_Regimentos`.
