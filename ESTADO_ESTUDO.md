@@ -145,8 +145,7 @@ Auditoria estrutural: SQLite íntegro; **89 notas/89 cartões**; **89 GUIDs e fr
 ## Anki A002
 **BASE REFORMULADA E PODADA EM 05/10/2026; NÃO SINCRONIZADA AUTOMATICAMENTE.**
 
-A base de 195 cartões sobre RICD arts. 16–24 foi auditada e reduzida para **106 cartões relevantes**, no baralho:
-`Analista::P1::Consti_Regimentos`.
+A base de 195 cartões sobre RICD arts. 16–24 foi auditada e reduzida para **106 cartões relevantes**. O baralho foi denominado à época `Analista::P1::Consti_Regimentos` (nome histórico; **o nome canônico atual é `Analista::P1::Const_Regimentos`**). Isso não atesta alteração do APKG já gerado.
 
 Importação canônica:
 https://drive.google.com/file/d/1UsvFA-h_LEm-IbaZaTaMEQKgGOFoTmk8/view?usp=drivesdk
@@ -160,8 +159,8 @@ Auditoria estrutural: SQLite íntegro; **106 notas/106 cartões**; **106 GUIDs e
 
 ## Ajuste de nomenclatura Anki — 05/10/2026
 
-Para reduzir confusão visual entre a disciplina de Direito Constitucional e os blocos regimentais, sem perder a indicação de que os baralhos misturam a disciplina-base com regimentos conforme o P1/P2, ficam adotados como nomes canônicos:
-- `Analista::P1::Consti_Regimentos` — Direito Constitucional + conteúdos regimentais de P1;
+Para reduzir confusão visual entre a disciplina de Direito Constitucional e os blocos regimentais, sem perder a indicação de que os baralhos misturam a disciplina-base com regimentos conforme o P1/P2, foram adotados nomes de baralho; a nomenclatura P1 foi posteriormente ajustada, sendo o **nome canônico atual**:
+- `Analista::P1::Const_Regimentos` — Direito Constitucional + conteúdos regimentais de P1;
 - `Analista::P2::Proc_Regimentos` — Processo Legislativo + conteúdos regimentais de P2.
 
 Os conteúdos regimentais incluem, conforme o recorte do edital, tanto **RICD** quanto **RCCN**; por isso não usar `_RICD` no nome, pois excluiria semanticamente o Regimento Comum. A mudança é apenas de nomenclatura/organização e não altera cobertura, cartões ou planejamento. Pacotes Anki futuros devem usar os novos nomes.
@@ -653,3 +652,7 @@ Correção executada: o APKG A004 canônico foi substituído em 07/10/2026, pres
 ## Correção adicional de nomenclatura Anki — 08/10/2026
 
 O nome correto informado pelo candidato é `Analista::P1::Const_Regimentos`, não `Constit_Regimentos`. Regra canônica atualizada: preservar exatamente `P1::Const_Regimentos` e `P2::Proc_Regimentos`; não recriar variantes antigas.
+
+## Padronização de baralho P1 — 08/10/2026
+
+Nome oficial para novas gerações e orientações: `Analista::P1::Const_Regimentos`. `Analista::P2::Proc_Regimentos` permanece inalterado. Atualizados `CONSTITUICAO_PROJETO.md` e `PROMPT_PROJETO.md`; referência histórica do A002 preservada como histórico, sem alegar renomeação de APKG ou de coleção local AnkiDroid. Sem alteração de cartões, escopo ou planejamento.
