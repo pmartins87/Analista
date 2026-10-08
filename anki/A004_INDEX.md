@@ -10,7 +10,7 @@ Pacote: `A004_Anki_07-10-2026.apkg`
 - **65 notas / 65 cartões**
 - 17 Português
 - 12 Linguística
-- 36 Processo/Regimentos
+- 36 Processo/Regimentos no baralho `Analista::P2::Proc_Regimentos`
 - 11 cartões ancorados em questão/justificativa oficial Cebraspe
 - 5 cartões `erro_real`
 - 6 cartões `duvida_real`
@@ -40,4 +40,8 @@ O art. 32 foi tratado seletivamente: CCJC, CFT × CFFC e CICS × CDE, sem atomiz
 - GUIDs únicos: 65/65;
 - frentes únicas: 65/65;
 - mídia externa: nenhuma;
-- SHA-256: `5b58fa686c83e33e90511d77f1ae9ea2ae0f49b2739778435289f6f60193f5b9`.
+- SHA-256: `4236417d42458c6afc21ee51f830b86bb2952e4d639d8bb51854af34cfe2b345`.
+
+## Correção de nome de baralho
+
+A primeira versão do APKG usou por engano `Analista::P2::Processo_Regimentos`. O arquivo canônico foi substituído **no mesmo link do Drive** e agora usa `Analista::P2::Proc_Regimentos`, preservando a renomeação manual já adotada pelo candidato.
