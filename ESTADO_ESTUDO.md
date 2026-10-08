@@ -1,6 +1,6 @@
 # ESTADO OPERACIONAL DE ESTUDOS
 
-Atualizado em: **06/10/2026**
+Atualizado em: **08/10/2026**
 
 ## Norma máxima
 [CONSTITUICAO_PROJETO.md](CONSTITUICAO_PROJETO.md) é a norma máxima.  
@@ -645,4 +645,6 @@ Correção executada: o APKG A004 canônico foi substituído em 07/10/2026, pres
 - Problema corrigido: seção autorreferente “Por que o artigo Hello GPT-4o apareceu?” e outras referências ao processo editorial. A teoria agora aborda cascata, áudio nativo e o uso real de ASR no registro parlamentar, sem metacomentários. Incluídas evidências institucionais: estudo Câmara 2023 (11 sistemas, WER Azure na pesquisa); Ato da Mesa nº 251/2026 (DEREP e responsabilidades); exemplo de notas com reações de plenário. Não afirmar que a solução de 2023 é a usada em 2026 sem prova.
 - `PROMPT_PROJETO.md` e `CONSTITUICAO_PROJETO.md` receberam filtro editorial obrigatório anti-metacomentário; teste didático anterior preservado. `PROMPT_PROJETO.md` permaneceu no limite máximo.
 - Escopo inalterado: D+1 A004, P2-ASR 1–1.3, P1-CONST 1 e RICD 46–64. A005 ainda **pronta para estudo e não executada**. Anki A005 pendente; não marcar verticalização por entrega de arquivo.
+- **Ajuste editorial adicional (08/10):** título 3.2 renomeado para “Classificações da Constituição Federal de 1988”; demais títulos autorreferentes neutralizados. Mantidas tabelas comparativas de ASR e de prazos regimentais: recursos visuais não são proibidos nem obrigatórios, mas escolhidos pelo ganho didático. PDF substituído **no mesmo ID canônico**, com 23 páginas. Prompt e Constituição passam a exigir títulos objetivos e equilíbrio entre prosa e quadros.
+- Corrigido deslocamento acidental de colunas na linha A005 das abas `Mapa 106 Apostilas` e `Apostilas e Anki`: links agora estão nas colunas corretas. Não houve mudança de escopo, Anki, prazo ou checkbox.
 
