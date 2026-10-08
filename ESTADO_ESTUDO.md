@@ -656,3 +656,9 @@ O nome correto informado pelo candidato é `Analista::P1::Const_Regimentos`, nã
 ## Padronização de baralho P1 — 08/10/2026
 
 Nome oficial para novas gerações e orientações: `Analista::P1::Const_Regimentos`. `Analista::P2::Proc_Regimentos` permanece inalterado. Atualizados `CONSTITUICAO_PROJETO.md` e `PROMPT_PROJETO.md`; referência histórica do A002 preservada como histórico, sem alegar renomeação de APKG ou de coleção local AnkiDroid. Sem alteração de cartões, escopo ou planejamento.
+
+## Execução da A005 e preparação A006 — 08/10/2026
+
+- A005 estudada e concluída em 08/10/2026; 16/16 acertos na bateria final reportados pelo candidato. Em Regimento (RICD 46–64), declarou reconhecimento intuitivo dos itens de certo/errado, mas baixa segurança na recuperação livre de competências, prazos e exceções. Tratar como **acerto com dúvida**, reforçando em D+1 da A006 e no futuro Anki A005; não registrar como erros ou como domínio comprovado de evocação.
+- Verticalização: marcar P2-ASR 1–1.3 e P1-CONST 1 após execução; P2-PROC 2.1 permanece parcial (RICD 25–64 estudados; ainda 95–200). A005 finalizada no `Mapa 106 Apostilas` e `Apostilas e Anki`.
+- A006 mantém o mapa original: P2-LING 3–3.4, P1-PORT 4 e 4.1, RICD 65–79 dentro de P1-CONST 7.2 (parcial), sem itens fora do edital. Revisão D+1 A005 adaptada à recuperação sem alternativas. Anki A005 ainda pendente, sem alegar criação/importação.
