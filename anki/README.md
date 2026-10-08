@@ -1,6 +1,6 @@
 # Anki — política canônica pós-edital
 
-Atualizado em: **03/10/2026**
+Atualizado em: **07/10/2026**
 
 O Anki é um dos três instrumentos centrais do projeto, mas **é separado das apostilas**.
 
@@ -9,11 +9,11 @@ Baralhos por matéria:
 - P1::Português
 - P1::Inglês
 - P1::Administrativo
-- P1::Constitucional_Regimentos
+- P1::Constit_Regimentos
 - P1::TI_Dados_IA
 - P2::Linguística
 - P2::ASR_Transcrição_IA
-- P2::Processo_Regimentos
+- P2::Proc_Regimentos
 - P2::Ciência_Política
 - Discursiva
 
@@ -36,3 +36,11 @@ Evitar volume automático e cartões triviais.
 O pacote pré-edital v1 fica **arquivado como histórico**, não como fonte canônica pós-edital.
 
 Nenhum baralho deve ser declarado criado, importado ou sincronizado sem artefato comprovável e confirmação de uso.
+
+## Nomes canônicos efetivos no AnkiDroid
+
+Os nomes abaixo refletem renomeações manuais já feitas pelo candidato e **devem ser preservados nos APKG futuros**:
+- `Analista::P1::Constit_Regimentos`
+- `Analista::P2::Proc_Regimentos`
+
+Não recriar as variantes antigas `Constitucional_Regimentos` ou `Processo_Regimentos`.
