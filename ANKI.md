@@ -447,3 +447,7 @@ A próxima versão canônica pré-edital será a **v3 CORE**, priorizando Portug
 - 77 cartões por matéria (14 ASR, 18 Constitucional, 45 Processo/Regimentos), sem variação de nomes de baralho.
 - Reforço da A005: recuperação livre do RICD 46–64, pois o candidato acertou 16/16 C/E mas relatou insegurança para explicar regras sem opções.
 - Importação e sincronização no AnkiDroid **não confirmadas**. Para estado de uso, consultar `ESTADO_ESTUDO.md` e a planilha.
+
+## Gate técnico APKG — falha A005 (08/10/2026)
+
+A primeira exportação da A005 falhou no AnkiDroid com `SQL no such column: lapses`; o gerador havia criado `cards.laps` em vez de `cards.lapses`. Antes de publicar qualquer APKG, **não basta** validar ZIP/SQLite, número de notas ou GUIDs. Conferir esquema legado de `cards` (obrigatoriamente `lapses`, além de id/nid/did/ord/mod/usn/type/queue/due/ivl/factor/reps/left/odue/odid/flags/data), executando a consulta de importação/leitura que usa explicitamente `lapses`; conferir também relações cards→notes→models→decks, nomes canônicos, campos, GUIDs, ZIP CRC e integridade. Reutilizar mesmos GUIDs em correções. Só dizer que importou quando houver confirmação do usuário.
