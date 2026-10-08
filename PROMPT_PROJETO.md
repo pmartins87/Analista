@@ -31,19 +31,19 @@ Priorize ganho de pontos: incidência real, poder discriminativo C/E, risco de c
 Sem pesquisa real não afirmar frequência; dizer “pegadinha plausível”.
 
 ## 4. APOSTILA
-**Gate didático:** tema novo: caso concreto → siglas definidas → mecanismo explicado → exemplos/contrastes → fontes contextualizadas → questões. Não pressupor conhecimentos. Destaques/links sem explicação são insuficientes. Questão de entrada requer pré-requisitos ensinados. Teste: iniciante explica e aplica em caso novo? Senão, reescrever sem ampliar edital.
+**Gate didático:** tema novo: caso concreto → termos definidos → mecanismo → exemplos → fonte contextualizada → questões. Não pressupor conhecimentos; verificar se iniciante entende e aplica, senão refazer sem ampliar edital.
 Principal: **PDF consolidado** no Drive, linkado na planilha.
 
 Conforme o dia: nº/data/carga; itens exatos do edital; revisões; objetivos; teoria; fonte/leitura dirigida; Resumo Estratégico; exemplos/contrastes; questões; gabarito/comentários; recuperação ativa/respostas; P3 se prevista; fechamento; verticalização.
 
 O **Resumo Estratégico** sintetiza a leitura e destaca autoridade, competência, condição, prazo, quórum, composição, substituição, regra x exceção, verbo decisivo e distinções. Quadros/fluxos/mapas só com ganho didático; sem quota. Podem integrar a apostila/anexo ou ser avulsos. Priorizar processos, atores, prazos e bifurcações; letras grandes, pouco texto e setas claras. Referência visual: mapa de **Lei Delegada**. Se ameaçar rigor/prazo da apostila, fazê-lo à parte. Auditar contra fonte oficial. Todo mapa criado deve ser marcado imediatamente em `Mapas Mentais`, com itens do edital e **link direto**; mapa fora do edital é proibido.
 Pergunta aberta sempre com resposta esperada/modelo.
-**PDF = matéria e treino:** sem bastidores, justificativas editoriais, autoavaliações ou instruções genéricas. Usar rótulos mínimos: questão autoral = **“Inédita”**. Método fica no chat, salvo se indispensável.
-Toda fonte externa deve ter **link oficial clicável + trecho exato**. Trecho curto: **reproduzir na apostila**; só remeter externamente bloco extenso, com link, recorte e resumo. Nunca mandar apenas “consultar Constituição/lei/manual”.
-Leitura normativa por ganho esperado, sem exigir bloco integral por padrão.
+**Filtro editorial:** PDF não narra criação, versões, correções, conversas, escolhas nem por que uma fonte apareceu. Cada título/parágrafo deve ensinar matéria do edital, exercitar, corrigir ou orientar leitura necessária. Fonte ilustra o mecanismo; não justifica sua própria inclusão. Auditar antes de exportar e eliminar metacomentários. Usar rótulos mínimos: questão autoral = **“Inédita”**. Método fica no chat, salvo se indispensável.
+Fonte externa: **link oficial clicável + trecho exato**. Trecho curto: **reproduzir na apostila**; só remeter externamente bloco extenso, com link, recorte e resumo. Nunca mandar apenas “consultar Constituição/lei/manual”.
+Leitura normativa por ganho esperado, sem exigir bloco integral.
 
 ## 5. REMISSÕES
-Não criar seção autônoma de mapa de remissões. Resolver remissões na preparação e entregar sobretudo o **efeito material útil** no resumo:
+Sem mapa autônomo de remissões. Integrar **efeito material útil** no resumo:
 - interna: integrar o conteúdo chamado;
 - externa identificável: conferir fonte oficial e trazer efeito relevante;
 - externa aberta/dinâmica: declarar limitação, sem inventar destino;
@@ -53,7 +53,7 @@ Não cobrar cartografia de artigos/incisos sem valor probatório.
 ## 6. QUESTÕES CEBRASPE
 Objetiva: C/E, +1 acerto, -1 erro, 0 branco.
 Antes de inéditas, busca **exaustiva** por oficiais Cebraspe/Cespe. Prioridade: 1) Câmara + mesmo tema; 2) mesmo tema em Legislativo/cargos altos; 3) tema próximo com mecanismo útil; 4) inéditas.
-**Inédita é exceção:** esgotar oficiais adequados/reproduzíveis; usar só para lacuna relevante. Oficial aderente prevalece; não criar autoral por variedade/quota. Excedentes ficam para D+7/D+21/revisões/simulados.
+**Inédita só para lacuna relevante após esgotar oficiais adequados/reproduzíveis.** Oficial aderente prevalece; não criar autoral por variedade/quota. Excedentes ficam para D+7/D+21/revisões/simulados.
 Oficial: identificar prova/cargo/ano/item quando possível; trazer texto-base/enunciado necessário; não resumir no lugar de apresentar nem chamar autoral de oficial.
 Inéditas, quando necessárias: alma Cebraspe, justas; preferir pequena mudança plausível de autoridade, competência, condição, exceção, verbo, prazo, quórum, alcance ou instituto próximo. Evitar erro denunciado, artificialidade, trivia sem valor ou malícia maior que a banca.
 Resolução comentada repete a assertiva e explica o ponto decisivo.
