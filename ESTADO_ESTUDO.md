@@ -678,3 +678,9 @@ Nome oficial para novas gerações e orientações: `Analista::P1::Const_Regimen
 - **Auditoria:** RICD 46–64 conferido contra RCD 34/2026; APKG estruturado com 77 notas/77 cartões, GUIDs e frentes únicos, ZIP e SQLite íntegros; SHA-256 `c86e2ddadeeb436f16880399971404613460e2ea255f598d974cc7984f69e1e8`. Índice: `anki/A005_INDEX.md`.
 - **Governança:** planilha atualizada; Anki? TRUE para P1-CONST 1 e P2-ASR 1–1.3, sem marcar P2-PROC 2.1 porque o edital ainda exige RICD 95–200. A006 ainda pronta, não executada. A publicação do APKG não equivale a importação/sincronização no aparelho.
 - Esta seção atualiza o estado: a indicação anterior de “Anki A005 pendente” tornou-se histórica.
+
+## Falha de importação APKG A005 e reparo — 08/10/2026
+
+- O candidato enviou tela do AnkiDroid: erro 500 `DbError: no such column: lapses` no SELECT da tabela de cartões. **Erro real do gerador**, que criou `cards.laps` em vez do campo exigido `cards.lapses`. As auditorias de ZIP/SQLite iniciais não testaram compatibilidade de esquema e foram insuficientes.
+- Pacote reparado sem alterar frente, verso, tags, baralhos, 77 notas ou GUIDs. Reproduzido o SELECT do erro após correção; sucesso. ZIP CRC e `PRAGMA integrity_check` passaram. SHA-256 reparado: `7bee81abf758050f8bc377f9c3166685a417393cbdf8bd28b983696d7722b8ba` (substitui `c86e2ddadeeb436f16880399971404613460e2ea255f598d974cc7984f69e1e8`).
+- Mesmo ID no Drive: https://drive.google.com/file/d/1mdXHf_UK6oY_Q1Qju_fvIu6MI8u_OsaF/view. Índice `anki/A005_INDEX.md` atualizado. Não há confirmação de importação bem-sucedida no AnkiDroid; aguardar teste do candidato. Reforçar gate de esquema em futuros pacotes APKG.
