@@ -257,7 +257,7 @@ Estrutura recomendada:
 - Analista::P1::Português
 - Analista::P1::Inglês
 - Analista::P1::Administrativo
-- Analista::P1::Consti_Regimentos
+- Analista::P1::Const_Regimentos
 - Analista::P1::TI_Dados_IA
 - Analista::P2::Linguística
 - Analista::P2::ASR_Transcrição_IA
