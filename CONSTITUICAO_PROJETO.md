@@ -158,6 +158,9 @@ Nos blocos normativos, códigos como C=competência, Q=quórum, P=prazo, A=autor
 
 Evitar seções de preenchimento ou conselhos comportamentais genéricos (“não abra outros materiais”, “não adiante amanhã” etc.). Se uma seção não agrega conteúdo, treino, revisão, fonte ou controle de cobertura, ela não entra na apostila.
 
+### Didática obrigatória de conteúdo novo — desde A005 (07/10/2026)
+Começar por situação concreta e utilidade para o cargo, sem pressupor conhecimento anterior. Definir siglas e termos na primeira menção; explicar função, funcionamento, relações, limites e contrastes por exemplos encadeados; só depois usar quadros, questões e pegadinhas. Fontes oficiais devem ter contexto, recorte e razão de pertinência: link ou frase destacada, isolados, não ensinam. Questão de entrada exige que seus pré-requisitos já sejam conhecidos ou ensinados antes de cobrança. Quadros são síntese, não substituem aula. Auditar como iniciante: o estudante consegue explicar o mecanismo e resolver uma questão nova sem procurar a explicação fora da apostila? Se não, reescrever antes da entrega, sem extrapolar o edital nem formar curso paralelo. Didática e rigor prevalecem sobre aparência e concisão.
+
 ### 3.2.1 Conteúdo voltado ao estudo, não ao processo editorial
 
 A apostila entregue ao candidato deve conter matéria de prova, explicações, exemplos, instruções de estudo necessárias, exercícios, respostas e controles de execução. **Não incluir metacomentários sobre a elaboração do material**, justificativas do método, observações sobre por que determinada técnica editorial foi usada ou frases que avaliem a própria apostila.
