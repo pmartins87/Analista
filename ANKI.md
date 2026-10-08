@@ -49,11 +49,15 @@ Para regras gramaticais, semânticas ou outros pontos com margem interpretativa:
 
 Material de curso, inclusive Gran, pode ser fonte de estudo, mas não prevalece sobre fonte oficial nem sobre evidência mais forte.
 
+## Gate de cartões Cebraspe — 08/10/2026
+
+**Todas as frentes** são assertivas C/E autossuficientes, com construção e dificuldade compatíveis com questões do Cebraspe, não simples definições disfarçadas. Priorizar itens oficiais identificados; inéditas só para lacunas importantes, com pequena variação plausível de autoridade, competência, prazo, quórum, condição, exceção, consequência ou conceito próximo. Excluir cartografia normativa, títulos da Constituição, perguntas abertas, truísmos, palavras entregando erro e duplicações. **Verso:** CERTO/ERRADO; explicação do mecanismo decisivo, teoria suficiente, distinção com instituto próximo e fonte. Erro real e acerto com dúvida seguem o mesmo formato. Para reimportação, tentar preservar os GUIDs originais.
+
 ## Tipos prioritários de cartão
 
 ### A. Literalidade normativa
 
-Frente focada em recuperar a redação exata ou um elemento específico da norma.
+Frente C/E que cobre regra material, literalidade útil ou elemento específico da norma.
 
 Exemplos de alvos:
 - prazos;
@@ -82,7 +86,7 @@ O objetivo é treinar discriminação fina, não fabricar pegadinhas artificiais
 
 ### C. Conceito + critério diagnóstico
 
-Usar quando o aluno precisa distinguir conceitos próximos.
+A frente C/E deve aplicar conceitos próximos; a definição e o critério diagnóstico ficam no verso.
 
 O verso deve conter:
 1. definição técnica;
