@@ -439,3 +439,11 @@ Até sincronização:
 - registrar a versão canônica em `ESTADO_ESTUDO.md`.
 
 A próxima versão canônica pré-edital será a **v3 CORE**, priorizando Português, RICD, RCCN, Constitucional e Administrativo, no padrão v2.1 de itens autossuficientes com alma Cebraspe.
+
+## Pacote A005 — 08/10/2026
+
+- Índice operacional: [anki/A005_INDEX.md](anki/A005_INDEX.md).
+- APKG: https://drive.google.com/file/d/1mdXHf_UK6oY_Q1Qju_fvIu6MI8u_OsaF/view?usp=drivesdk.
+- 77 cartões por matéria (14 ASR, 18 Constitucional, 45 Processo/Regimentos), sem variação de nomes de baralho.
+- Reforço da A005: recuperação livre do RICD 46–64, pois o candidato acertou 16/16 C/E mas relatou insegurança para explicar regras sem opções.
+- Importação e sincronização no AnkiDroid **não confirmadas**. Para estado de uso, consultar `ESTADO_ESTUDO.md` e a planilha.
