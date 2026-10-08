@@ -636,3 +636,6 @@ O pacote foi criado e enviado ao Drive; não foi importado nem sincronizado auto
 Erro de geração: o APKG A004 foi criado com o nome antigo `Analista::P2::Processo_Regimentos`, embora o candidato já tivesse renomeado o baralho para `Analista::P2::Proc_Regimentos`. A inspeção do APKG confirmou 36 cartões nesse nome antigo; Português (17) e Linguística (12) estavam nos nomes corretos. O APKG A004 não contém `P1::Constitucional_Regimentos`; esse baralho vazio visto no AnkiDroid é resíduo anterior.
 
 Regra canônica daqui em diante: preservar os nomes efetivos do AnkiDroid do candidato, especialmente `P1::Constit_Regimentos` e `P2::Proc_Regimentos`; não recriar variantes antigas. O APKG A004 deve ser republicado com `P2::Proc_Regimentos`.
+
+
+Correção executada: o APKG A004 canônico foi substituído em 07/10/2026, preservando o mesmo link do Drive, e agora contém 36 cartões em `Analista::P2::Proc_Regimentos` (não `Processo_Regimentos`). Pacote re-auditado: 65 notas/65 cartões; SQLite íntegro; GUIDs únicos. Para a coleção já importada no AnkiDroid, os 36 cartões da variante antiga precisam apenas ser movidos para `Proc_Regimentos`; não é necessário reimportar Português/Linguística.
