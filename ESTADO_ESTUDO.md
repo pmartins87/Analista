@@ -584,6 +584,14 @@ Questões oficiais incorporadas:
 - PCDF/CESPE 2013 — quórum de deliberação.
 
 
+## A005 — reemissão pedagógica, 07/10/2026
+
+- **Estado:** PDF canônico **pronto para estudo**, ainda **não concluído pelo candidato**; Anki A005 pendente. Os itens da verticalização continuam não marcados.
+- **Motivo:** lacuna pedagógica material: siglas, técnicas e comparações foram cobradas sem explicação progressiva; o problema também afetava os blocos de Constitucional e RICD.
+- **Correção:** texto integral da A005 refeito com problema concreto → conceitos básicos → mecanismo → relações/contrastes → exemplos → fonte contextualizada → questões/gabarito; preservados D+1 A004, P2-ASR 1–1.3, P1-CONST 1, RICD 46–64 e respectivas pendências. PDF gerado em 22 páginas, inspecionado visualmente.
+- **Link canônico (mesmo ID da versão anterior):** https://drive.google.com/file/d/1mjRHZNVn0jQiTSkrrIhZ3bWF7qK56RtN/view?usp=drivesdk
+- **Governança:** `CONSTITUICAO_PROJETO.md` e `PROMPT_PROJETO.md` atualizados com gate didático, valendo prospectivamente; limite do PROMPT respeitado (7.982 caracteres). Na planilha, A005 permanece no mesmo escopo e link; status passou a “Pronta para estudo — revisada”. Nenhuma alteração de roadmap ou marcação antecipada.
+
 ## Anki A004 — fechado — 07/10/2026
 
 Pacote canônico:
