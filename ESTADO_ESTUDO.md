@@ -670,3 +670,11 @@ Nome oficial para novas gerações e orientações: `Analista::P1::Const_Regimen
 - **PDF canônico no Drive:** https://drive.google.com/file/d/1ih9LhgqBpBcHln9DniQd9byCYHZXCQvm/view?usp=drivesdk
 - **Registro:** abas `Mapa 106 Apostilas` e `Apostilas e Anki` atualizadas com link direto/status. **Anki A005 e A006 pendentes**, sem geração/importação/sincronização alegada. Nomes `Analista::P1::Const_Regimentos` e `Analista::P2::Proc_Regimentos` preservados.
 - **Fonte normativa:** RICD atualizado até RCD 34/2026, arts. 65–79. Conferidos gabaritos definitivos dos itens oficiais selecionados antes de publicar.
+
+## Anki A005 — gerado em 08/10/2026
+
+- **Pacote canônico no Drive:** https://drive.google.com/file/d/1mdXHf_UK6oY_Q1Qju_fvIu6MI8u_OsaF/view?usp=drivesdk
+- **77 cartões:** 14 `Analista::P2::ASR_Transcrição_IA`, 18 `Analista::P1::Const_Regimentos`, 45 `Analista::P2::Proc_Regimentos`; 50 perguntas de resposta direta e 27 C/E (3 oficiais identificados); 33 cartões regimentais `acerto_com_duvida` para dificuldade de evocação livre, sem inventar erros.
+- **Auditoria:** RICD 46–64 conferido contra RCD 34/2026; APKG estruturado com 77 notas/77 cartões, GUIDs e frentes únicos, ZIP e SQLite íntegros; SHA-256 `c86e2ddadeeb436f16880399971404613460e2ea255f598d974cc7984f69e1e8`. Índice: `anki/A005_INDEX.md`.
+- **Governança:** planilha atualizada; Anki? TRUE para P1-CONST 1 e P2-ASR 1–1.3, sem marcar P2-PROC 2.1 porque o edital ainda exige RICD 95–200. A006 ainda pronta, não executada. A publicação do APKG não equivale a importação/sincronização no aparelho.
+- Esta seção atualiza o estado: a indicação anterior de “Anki A005 pendente” tornou-se histórica.
