@@ -22,11 +22,17 @@ Todos os cartões possuem frente autossuficiente e verso com resposta decisiva, 
 ## Auditoria
 - Texto regimental comparado com RICD da Câmara atualizado até a Resolução nº 34/2026 (arts. 46–64);
 - sem alterações de modalidade normativa em perguntas e respostas: autoridade, condição, prazo, quórum, consequência, negação e exceção;
-- arquivo ZIP APKG íntegro; SQLite `PRAGMA integrity_check = ok`;
+- arquivo ZIP APKG íntegro; SQLite `PRAGMA integrity_check = ok`; colunas de esquema AnkiDroid verificadas; consulta real de leitura de cartões reproduzida com sucesso;
 - 77 GUIDs distintos, 77 frentes distintas, 77 notas/77 cartões;
 - três nomes completos de baralho conferidos; sem variantes históricas;
 - fontes clicáveis em 77 cartões;
-- `SHA-256: c86e2ddadeeb436f16880399971404613460e2ea255f598d974cc7984f69e1e8`.
+- `SHA-256: 7bee81abf758050f8bc377f9c3166685a417393cbdf8bd28b983696d7722b8ba`.
 
 ## Estado no AnkiDroid
 O APKG foi criado e armazenado no Drive. **Não foi importado ou sincronizado automaticamente** no Anki/AnkiDroid. A planilha `Apostilas e Anki` concentra status e link.
+
+## Correção de importação — 08/10/2026
+
+A primeira versão do APKG tinha defeito estrutural: a tabela SQLite `cards` foi gerada com `laps`, mas o AnkiDroid exige `lapses`. A importação falhou com erro 500 (`no such column: lapses`). O mesmo arquivo do Drive foi substituído pela versão corrigida, preservando os **77 GUIDs, conteúdos e nomes de baralhos**. O teste após correção executou o SELECT que falhava na captura de tela do candidato, validou ZIP CRC e `PRAGMA integrity_check = ok`. Este teste técnico não é confirmação de importação real no aparelho.
+
+Hash da versão inválida (apenas rastreabilidade): `c86e2ddadeeb436f16880399971404613460e2ea255f598d974cc7984f69e1e8`. Hash corrigido: `7bee81abf758050f8bc377f9c3166685a417393cbdf8bd28b983696d7722b8ba`. Rebaixar o pacote anterior a OBSOLETO; usar sempre o link canônico acima.
