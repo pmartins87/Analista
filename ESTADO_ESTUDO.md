@@ -635,7 +635,7 @@ O pacote foi criado e enviado ao Drive; não foi importado nem sincronizado auto
 
 Erro de geração: o APKG A004 foi criado com o nome antigo `Analista::P2::Processo_Regimentos`, embora o candidato já tivesse renomeado o baralho para `Analista::P2::Proc_Regimentos`. A inspeção do APKG confirmou 36 cartões nesse nome antigo; Português (17) e Linguística (12) estavam nos nomes corretos. O APKG A004 não contém `P1::Constitucional_Regimentos`; esse baralho vazio visto no AnkiDroid é resíduo anterior.
 
-Regra canônica daqui em diante: preservar os nomes efetivos do AnkiDroid do candidato, especialmente `P1::Constit_Regimentos` e `P2::Proc_Regimentos`; não recriar variantes antigas. O APKG A004 deve ser republicado com `P2::Proc_Regimentos`.
+Regra canônica daqui em diante: preservar os nomes efetivos do AnkiDroid do candidato, especialmente `P1::Const_Regimentos` e `P2::Proc_Regimentos`; não recriar variantes antigas. O APKG A004 deve ser republicado com `P2::Proc_Regimentos`.
 
 
 Correção executada: o APKG A004 canônico foi substituído em 07/10/2026, preservando o mesmo link do Drive, e agora contém 36 cartões em `Analista::P2::Proc_Regimentos` (não `Processo_Regimentos`). Pacote re-auditado: 65 notas/65 cartões; SQLite íntegro; GUIDs únicos. Para a coleção já importada no AnkiDroid, os 36 cartões da variante antiga precisam apenas ser movidos para `Proc_Regimentos`; não é necessário reimportar Português/Linguística.
@@ -648,3 +648,8 @@ Correção executada: o APKG A004 canônico foi substituído em 07/10/2026, pres
 - **Ajuste editorial adicional (08/10):** título 3.2 renomeado para “Classificações da Constituição Federal de 1988”; demais títulos autorreferentes neutralizados. Mantidas tabelas comparativas de ASR e de prazos regimentais: recursos visuais não são proibidos nem obrigatórios, mas escolhidos pelo ganho didático. PDF substituído **no mesmo ID canônico**, com 23 páginas. Prompt e Constituição passam a exigir títulos objetivos e equilíbrio entre prosa e quadros.
 - Corrigido deslocamento acidental de colunas na linha A005 das abas `Mapa 106 Apostilas` e `Apostilas e Anki`: links agora estão nas colunas corretas. Não houve mudança de escopo, Anki, prazo ou checkbox.
 - **Ajuste de rótulo (08/10/2026):** primeira página da A005 alterada de “Conteúdo exato do dia” para “Conteúdo do dia”. Única mudança do PDF; preservados teoria, questões, cronograma e verticalização. Substituído no mesmo ID canônico do Drive. `PROMPT_PROJETO.md` e `CONSTITUICAO_PROJETO.md` reforçados contra adjetivos vazios.
+
+
+## Correção adicional de nomenclatura Anki — 08/10/2026
+
+O nome correto informado pelo candidato é `Analista::P1::Const_Regimentos`, não `Constit_Regimentos`. Regra canônica atualizada: preservar exatamente `P1::Const_Regimentos` e `P2::Proc_Regimentos`; não recriar variantes antigas.
