@@ -277,6 +277,8 @@ Tags obrigatórias:
 - `literalidade` quando norma/regimento;
 - `oficial_cebraspe` quando derivado de questão oficial.
 
+**Frente Anki obrigatória (desde 08/10/2026):** assertiva autossuficiente C/E com alma Cebraspe — situação/mecanismo e alteração plausível de competência, prazo, quórum, condição, exceção ou consequência. Priorizar oficiais verificadas; inéditas só para lacunas relevantes. Proibidas perguntas abertas ou diretas, localização de artigos/títulos, definições soltas, obviedades, enunciados artificiais e vícios que entreguem a resposta. No verso: CERTO/ERRADO, ponto decisivo, teoria suficiente, contraste e fonte. Cartão sem valor de prova é eliminado, não transformado mecanicamente em C/E. Aplica-se a todas as matérias, inclusive a erro real/acerto com dúvida. Ao atualizar APKG, preservar GUID/tipo de nota quando cabível, sem afirmar importação ou sincronização não verificadas.
+
 ### 3.3.1 Princípio de densidade — cobertura ativa, não austeridade
 
 O projeto não usa austeridade artificial, mas também não transforma cobertura em contagem de cartões. O Anki é um segundo canal de estudo, especialmente útil no celular e em tempos fragmentados. A seleção deve maximizar **recuperação ativa de conteúdo examinável por unidade de tempo**, mantendo qualidade e atomicidade.
