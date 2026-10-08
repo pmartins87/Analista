@@ -119,8 +119,8 @@ Existe uma resposta objetivamente avaliável. Cartões vagos ou com múltiplas r
 ### V5 — Valor de prova
 O conteúdo é cobrável, recorrente, fonte de erro, exceção importante ou elemento de alta utilidade.
 
-### V6 — Estilo Cebraspe
-Quando pertinente, o cartão treina distinções finas e interpretação compatíveis com a banca, sem sacrificar correção técnica.
+### V6 — Estilo Cebraspe (obrigatório)
+Toda frente deve ser assertiva C/E autossuficiente com raciocínio, plausibilidade e dificuldade de prova Cebraspe. Formato C/E isoladamente não basta: rejeitar localização de títulos/artigos, trivialidades, pistas do gabarito, definições soltas e assertivas artificiais. Se falhar, eliminar ou refazer, sem quotas. O verso explica o fundamento e a distinção decisiva, com fonte.
 
 Somente após V1–V6 o cartão pode ser marcado como **VALIDADO**.
 
