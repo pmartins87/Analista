@@ -1,6 +1,6 @@
 # CONSTITUIÇÃO DO PROJETO — ANALISTA REGISTRO E REDAÇÃO
 
-Versão: 1.22  
+Versão: 1.23  
 Data: 08/10/2026  
 Status: **NORMA MÁXIMA DO PROJETO**
 
