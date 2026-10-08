@@ -557,7 +557,7 @@ Reforço para Anki A004: não basta VTD + se para concluir voz passiva; verifica
 ## A005 — apostila canônica gerada — 07/10/2026
 
 PDF canônico:
-https://drive.google.com/file/d/1mjRHZNVn0jQiTSkrrIhZ3bWF7qK56RtN/view?usp=drivesdk
+https://drive.google.com/file/d/169yinJNU07rjHoNlO2c8aMUyvk6Pajzi/view?usp=drivesdk
 
 Status: pronta para estudo; ainda não concluída.
 
@@ -589,7 +589,7 @@ Questões oficiais incorporadas:
 - **Estado:** PDF canônico **pronto para estudo**, ainda **não concluído pelo candidato**; Anki A005 pendente. Os itens da verticalização continuam não marcados.
 - **Motivo:** lacuna pedagógica material: siglas, técnicas e comparações foram cobradas sem explicação progressiva; o problema também afetava os blocos de Constitucional e RICD.
 - **Correção:** texto integral da A005 refeito com problema concreto → conceitos básicos → mecanismo → relações/contrastes → exemplos → fonte contextualizada → questões/gabarito; preservados D+1 A004, P2-ASR 1–1.3, P1-CONST 1, RICD 46–64 e respectivas pendências. PDF gerado em 22 páginas, inspecionado visualmente.
-- **Link canônico (mesmo ID da versão anterior):** https://drive.google.com/file/d/1mjRHZNVn0jQiTSkrrIhZ3bWF7qK56RtN/view?usp=drivesdk
+- **Link canônico (mesmo ID da versão anterior):** https://drive.google.com/file/d/169yinJNU07rjHoNlO2c8aMUyvk6Pajzi/view?usp=drivesdk
 - **Governança:** `CONSTITUICAO_PROJETO.md` e `PROMPT_PROJETO.md` atualizados com gate didático, valendo prospectivamente; limite do PROMPT respeitado (7.982 caracteres). Na planilha, A005 permanece no mesmo escopo e link; status passou a “Pronta para estudo — revisada”. Nenhuma alteração de roadmap ou marcação antecipada.
 
 ## Anki A004 — fechado — 07/10/2026
@@ -639,3 +639,10 @@ Regra canônica daqui em diante: preservar os nomes efetivos do AnkiDroid do can
 
 
 Correção executada: o APKG A004 canônico foi substituído em 07/10/2026, preservando o mesmo link do Drive, e agora contém 36 cartões em `Analista::P2::Proc_Regimentos` (não `Processo_Regimentos`). Pacote re-auditado: 65 notas/65 cartões; SQLite íntegro; GUIDs únicos. Para a coleção já importada no AnkiDroid, os 36 cartões da variante antiga precisam apenas ser movidos para `Proc_Regimentos`; não é necessário reimportar Português/Linguística.
+
+### A005 — correção editorial e registro parlamentar (08/10/2026)
+- Material canônico transferido ao PDF com ID `169yinJNU07rjHoNlO2c8aMUyvk6Pajzi`; link canônico atualizado nas abas `Mapa 106 Apostilas` e `Apostilas e Anki`. PDF anterior (ID `1mjRHZNVn0jQiTSkrrIhZ3bWF7qK56RtN`) identificado como OBSOLETO, preservado apenas para rastreabilidade; não utilizar como material de estudo.
+- Problema corrigido: seção autorreferente “Por que o artigo Hello GPT-4o apareceu?” e outras referências ao processo editorial. A teoria agora aborda cascata, áudio nativo e o uso real de ASR no registro parlamentar, sem metacomentários. Incluídas evidências institucionais: estudo Câmara 2023 (11 sistemas, WER Azure na pesquisa); Ato da Mesa nº 251/2026 (DEREP e responsabilidades); exemplo de notas com reações de plenário. Não afirmar que a solução de 2023 é a usada em 2026 sem prova.
+- `PROMPT_PROJETO.md` e `CONSTITUICAO_PROJETO.md` receberam filtro editorial obrigatório anti-metacomentário; teste didático anterior preservado. `PROMPT_PROJETO.md` permaneceu no limite máximo.
+- Escopo inalterado: D+1 A004, P2-ASR 1–1.3, P1-CONST 1 e RICD 46–64. A005 ainda **pronta para estudo e não executada**. Anki A005 pendente; não marcar verticalização por entrega de arquivo.
+
