@@ -629,3 +629,10 @@ Auditoria:
 - SHA-256 do APKG: 5b58fa686c83e33e90511d77f1ae9ea2ae0f49b2739778435289f6f60193f5b9.
 
 O pacote foi criado e enviado ao Drive; não foi importado nem sincronizado automaticamente no Anki/AnkiDroid.
+
+
+## Correção de nomes de baralho — A004 — 07/10/2026
+
+Erro de geração: o APKG A004 foi criado com o nome antigo `Analista::P2::Processo_Regimentos`, embora o candidato já tivesse renomeado o baralho para `Analista::P2::Proc_Regimentos`. A inspeção do APKG confirmou 36 cartões nesse nome antigo; Português (17) e Linguística (12) estavam nos nomes corretos. O APKG A004 não contém `P1::Constitucional_Regimentos`; esse baralho vazio visto no AnkiDroid é resíduo anterior.
+
+Regra canônica daqui em diante: preservar os nomes efetivos do AnkiDroid do candidato, especialmente `P1::Constit_Regimentos` e `P2::Proc_Regimentos`; não recriar variantes antigas. O APKG A004 deve ser republicado com `P2::Proc_Regimentos`.
