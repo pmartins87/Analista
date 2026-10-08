@@ -3,7 +3,7 @@
 Data-base: 04/10/2026  
 Reformulação: 05/10/2026  
 Escopo: RICD arts. 16–24 — fechamento de P1-CONST 7.1  
-Baralho: `Analista::P1::Constitucional_Regimentos`
+Baralho atual no AnkiDroid: `Analista::P1::Constit_Regimentos` (renomeado manualmente pelo candidato)
 
 ## Artefato canônico
 
