@@ -1,7 +1,7 @@
 # CONSTITUIÇÃO DO PROJETO — ANALISTA REGISTRO E REDAÇÃO
 
-Versão: 1.21  
-Data: 05/10/2026  
+Versão: 1.22  
+Data: 08/10/2026  
 Status: **NORMA MÁXIMA DO PROJETO**
 
 Este arquivo contém as diretrizes permanentes do projeto de preparação para o concurso da Câmara dos Deputados — Analista Legislativo — Especialidade Registro e Redação.
