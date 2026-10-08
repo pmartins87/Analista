@@ -325,6 +325,8 @@ A seleção continua orientada por:
 
 Em cartões derivados de normas, a paráfrase **não pode alterar a modalidade normativa**. É proibido enfraquecer dever, consequência automática ou comando em mera faculdade, ou fazer o inverso.
 
+Antes de publicar **qualquer APKG**, validar compatibilidade real de importação, não só integridade SQLite: conferir nomes e tipos de colunas do esquema Anki (especialmente `cards.lapses`, não `laps`), testar SELECT representativo do AnkiDroid, verificar relações notes/cards/decks/models, GUIDs e ZIP. Preservar GUIDs em reparos e nunca alegar importação no dispositivo sem confirmação.
+
 Antes de fechar qualquer pacote Anki normativo, auditar especificamente:
 - verbos decisivos: `fará`, `deverá`, `será`, `providenciará`, `extingue-se`, `poderá`, `faculta-se`, `compete`, `é vedado` e equivalentes;
 - negações, exceções, condições e termos de incidência;
