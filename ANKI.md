@@ -30,6 +30,8 @@ Para RICD, RCCN e demais textos normativos:
 
 Se um cartão C/E modificar uma palavra da norma, o verso deve explicar **qual elemento torna o item certo ou errado** e apresentar o dispositivo oficial pertinente.
 
+**Texto literal obrigatório quando o verso citar dispositivo normativo:** manter CERTO/ERRADO e comentário, acrescentando bloco `Texto oficial — [norma e dispositivo]` com as palavras exatas da fonte vigente que sustentam o julgamento, incluindo condições, ressalvas e exceções decisivas. Conferir na fonte oficial e citar link; não reconstruir a redação por memória nem paráfrase. Se longo, recortar o trecho relevante, marcar omissões com `[...]` e preservar negações, verbos, pontuação e força normativa. Auditoria cartão a cartão antes do APKG; sem fonte oficial conferida, reter o cartão. Evitar reprodução integral sem ganho de prova.
+
 ### 2. Questões e padrão Cebraspe
 
 Quando houver questão real relevante:
