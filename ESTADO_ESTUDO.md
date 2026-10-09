@@ -694,3 +694,12 @@ Nome oficial para novas gerações e orientações: `Analista::P1::Const_Regimen
 ## Anki — literalidade normativa no verso — 08/10/2026
 
 Após o exemplo da Bancada Negra (RICD art. 13-A), fica obrigatório conservar o comentário didático e acrescentar, ao citar artigo/dispositivo, o **trecho literal oficial vigente** que embasa o gabarito, inclusive condições/exceções decisivas. Trecho longo: recortar com omissões sinalizadas. Atualizados `PROMPT_PROJETO.md`, `CONSTITUICAO_PROJETO.md` e `ANKI.md`. Os pacotes APKG já gerados **não foram alterados** nesta intervenção.
+
+## A006 — seleção oficial de Português/Linguística revisada — 08/10/2026
+
+- **Motivo:** A006 havia apresentado 4 itens oficiais e muitas inéditas em coesão/referenciação/reescrita, sem pesquisa oficial suficientemente ampla. Correção material no treino, sem alterar roteiro teórico nem escopo do edital.
+- **Novo PDF canônico (link atualizado na planilha):** https://drive.google.com/file/d/1MJw5hO_c_NDZ1YdUfKOZLSFnMGthSI52/view?usp=drivesdk. O PDF anterior (ID `1ih9LhgqBpBcHln9DniQd9byCYHZXCQvm`) é **OBSOLETO**; preservado apenas como histórico, não utilizar para estudo.
+- **25 itens oficiais identificáveis:** 14 PCDF 2024, 7 TCDF 2024, 1 TRE-RJ 2012, 1 MPS 2025, 2 TJ-ES 2023, sendo **17 na bateria principal e 8 em D+7/D+21**. Cada item traz identificação exata, link clicável para caderno oficial contendo o enunciado integral e seu texto-base, julgamento em branco e gabarito comentado no PDF. Nos cadernos PCDF e TCDF constam justificativas da própria banca. Nota de fidelidade: a descrição resumida no novo PDF é orientação ao mecanismo, **não reprodução nem adaptação rotulada como questão oficial**.
+- Preservados do PDF original: páginas de teoria e leitura até a seção de questões, RICD 65–79, 12 itens inéditos regimentais do dia, revisão inicial D+1 A005, 14 perguntas abertas e respostas-modelo. O novo PDF tem **16 páginas**, todos os links/fontes conferidos, sem ampliar itens do edital. Nenhuma edição ou marcação do Anki.
+- A006 permanece **PRONTA PARA ESTUDO, NÃO EXECUTADA**; não marcar na verticalização como estudada antes de sua execução. `Mapa 106 Apostilas` e `Apostilas e Anki` atualizados. Não houve mudança no planejamento da A007 ou das 106 apostilas.
+- Aprendizado editorial: para tema Cebraspe com amplo acervo, esgotar variedade relevante de questões oficiais antes de redigir inéditas, sem impor quota numérica e sem duplicar o mesmo mecanismo. Dividir entre sessão e revisões para não extrapolar carga do dia.
