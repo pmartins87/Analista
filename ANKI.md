@@ -457,3 +457,10 @@ A próxima versão canônica pré-edital será a **v3 CORE**, priorizando Portug
 ## Gate técnico APKG — falha A005 (08/10/2026)
 
 A primeira exportação da A005 falhou no AnkiDroid com `SQL no such column: lapses`; o gerador havia criado `cards.laps` em vez de `cards.lapses`. Antes de publicar qualquer APKG, **não basta** validar ZIP/SQLite, número de notas ou GUIDs. Conferir esquema legado de `cards` (obrigatoriamente `lapses`, além de id/nid/did/ord/mod/usn/type/queue/due/ivl/factor/reps/left/odue/odid/flags/data), executando a consulta de importação/leitura que usa explicitamente `lapses`; conferir também relações cards→notes→models→decks, nomes canônicos, campos, GUIDs, ZIP CRC e integridade. Reutilizar mesmos GUIDs em correções. Só dizer que importou quando houver confirmação do usuário.
+
+## Pacote A006 — 09/10/2026
+
+- Índice: [anki/A006_INDEX.md](anki/A006_INDEX.md).
+- APKG: https://drive.google.com/file/d/1bcoLfVNizuJooRGC22fYU_QhnH0iQv5E/view.
+- 44 itens C/E (10 Português, 9 Linguística, 25 RICD 65–79). Nos cartões normativos, literalidade oficial identificada em bloco separado do comentário.
+- Gate técnico validado, inclusive SELECT da coluna `cards.lapses`. Pacote na pasta de apostilas do Drive; uso no AnkiDroid não confirmado.
