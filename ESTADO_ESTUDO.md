@@ -6,6 +6,18 @@ Atualizado em: **08/10/2026**
 [CONSTITUICAO_PROJETO.md](CONSTITUICAO_PROJETO.md) é a norma máxima.  
 [PROMPT_PROJETO.md](PROMPT_PROJETO.md) é a versão curta para as instruções do Projeto.
 
+## A008 publicada e Anki A007/A008 criados — 10/10/2026
+
+**A007 concluída pelo candidato em 10/10/2026:** a verticalização foi atualizada para P1-ING 1, P1-CONST 7.2 (RICD 65–94, com A006), P2-PROC 1.2. A007 foi fechada após reparar a insuficiência normativa da teoria do veto. Desempenho informado: Inglês 11/12; Processo 7/7 assertivas adaptadas após leitura constitucional; RICD R12 erro real, demais resultados não informados. A revisão D+1 com as dúvidas relatadas entrou na A008.
+
+**A008 PDF canônico:** https://drive.google.com/file/d/1pas8M74d-O_QFpBl2pIxPc7Ug66NU5PZ/view — 16 páginas, 10/10/2026, 6h, **pronta para estudo; NÃO concluída**. Itens: P2 CPOL 1–2; P1 ADM 1.2; RICD 95–110 (somente parcela de P2-PROC 2.1; restante 111–200 pendente). Revisão inicial da A007 com perguntas e respostas autossuficientes. Teoria nova por casos, normativos oficiais transcritos contextualizadamente, quadros, exemplos. Oito enunciados oficiais Cebraspe/Cespe transcritos na íntegra e identificados, mais nove inéditas regimentais para pontos não cobertos; gabaritos comentados e recuperação ativa com respostas-modelo. Verificado item TJAC 2012: autarquia “em caráter excepcional” constitui afirmação ERRADA, corrigida antes de publicar. PDF original 16 páginas e links conferidos.
+
+**Anki A007:** https://drive.google.com/file/d/1mZ03lpMSlV7_v8T3yzo2A6huY7RhPpwX/view — 26 cartões (11 Inglês, 9 RICD 80–94, 6 Processo/CF). Índice `anki/A007_INDEX.md`. Registra provided that x given that, eventually, former, concessão, alternância/adversidade, besides, unless e duas dúvidas regimentais (RICD83, 93). Integridade ZIP/SQLite PASS. Não alegar importação/sincronização.
+
+**Anki A008:** https://drive.google.com/file/d/16Q_ST2k0XStBoHnXhwUW0HyD62t6XKEO/view — 25 cartões (5 CPOL, 8 ADM, 12 RICD 95–110), índice `anki/A008_INDEX.md`. Conteúdo ainda não estudado; importação/sincronização não confirmadas. Em ambos, verbos e trechos RICD checados no PDF vigente fornecido até RCD 34/2026. Estrutura APKG SQLite íntegra e GUID/frentes únicos; revisão oficial por cartão.
+
+**Regra editorial permanente:** enunciado e texto-base oficiais na íntegra e literais, não abreviados/adaptados por conveniência. Adaptação e inédita só para lacuna após busca oficial exaustiva, rotuladas. Normas e exemplos literais adjacentes à explicação. Alterados `CONSTITUICAO_PROJETO.md` e `PROMPT_PROJETO.md` (este mantido em 7.992 caracteres). `Mapa 106`, `Apostilas e Anki` e `Edital Verticalizado` atualizados. A008 cobertura permanece FALSE até confirmação de estudo; não deslocar escopo da A009.
+
 ## A007 concluída — 10/10/2026: desempenho e dúvidas reais
 
 Candidato confirmou a conclusão da A007 após leitura da versão normativa canônica. Resultado informado: Inglês, **11/12 itens oficiais corretos** (único erro no item 53, referente Sears/fundador/empresa, divergência referencial plausível); Processo Legislativo, **7/7 itens adaptados corretos após a reexposição teórica constitucional** (o primeiro contato fora insuficiente, portanto a evolução foi devido à leitura normativa); RICD 80–94, **R12 respondida E embora seja C**, por confusão entre RICD 93 § 2º (publicidade total/parcial ou prazo de sigilo da ata pública) e § 3º (aprovação e lacração da ata da sessão secreta). Demais acertos/erros regimentais não quantificados; não inferir pontuação final.
