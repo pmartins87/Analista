@@ -430,6 +430,14 @@ Quando questão oficial for usada:
 - preservar o gabarito oficial, registrando eventual anulação/alteração;
 - se houver controvérsia, conferir fonte normativa/teórica.
 
+### 5.1.0 Praticidade dos cadernos oficiais (10/10/2026)
+
+- **Prova integral ou bloco contínuo substancial do mesmo caderno**: é adequado fornecer o PDF original da banca, com link direto, página inicial e intervalo de itens.
+- **Itens escolhidos em cadernos diferentes**: a apostila precisa oferecer um bloco único de resolução, com os enunciados efetivamente disponíveis e sua contextualização, sem obrigar o estudante a abrir vários PDFs para procurar um item em cada um.
+- Só identificar como **oficial** a transcrição fiel e comprovada do item, conservando texto-base, ressalvas e identificação de prova. Se não houver possibilidade de reproduzi-lo integralmente, não oferecer apenas título/descrição de assunto como exercício: substituir por outro item oficial integral do acervo ou oferecer uma **adaptação expressamente identificada como adaptada**, sem atribuir-lhe literalidade oficial.
+- Gabaritos e comentários devem alinhar-se ao enunciado efetivamente entregue, e não apenas à prova de origem.
+- Melhoria vale prospectivamente e retroativamente para a A007, cujo bloco de Processo Legislativo foi apontado pelo estudante como operacionalmente impraticável; não reemitir outras apostilas já estudadas sem defeito material.
+
 ### 5.1.1 Filtro de aderência e nível
 
 A seleção de questões deve considerar conjuntamente **aderência ao item estudado, nível do cargo e semelhança do edital**. Priorizar Analista, Consultor, Auditor, Diplomata, controle, Legislativo, Judiciário e outros cargos de alta complexidade. Questões de técnico/auxiliar só entram excepcionalmente, quando houver aderência temática muito superior e mecanismo de cobrança útil; nunca para preencher quantidade.
