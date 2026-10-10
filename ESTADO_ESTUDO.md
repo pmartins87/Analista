@@ -712,3 +712,11 @@ Após o exemplo da Bancada Negra (RICD art. 13-A), fica obrigatório conservar o
 - **PDF A007:** 18 páginas A4, 51 links clicáveis, gerado, renderizado e inspecionado. Link canônico: https://drive.google.com/file/d/1yxWEMuU34862XKhr9YJbREEXDbGBzJTR/view . Escopo conferido com Edital Verticalizado e norma RICD oficial (atualização até RCD 34/2026). 
 - **Controle:** links diretos da A007 inseridos nas abas Mapa 106 e Apostilas e Anki. Atualização de alguns campos de status da planilha apresentou bloqueio intermitente; conferir as células antes de afirmar tudo concluído. A007 não marcada estudada. Anki A006/A007 pendentes; não houve geração ou importação declarada.
 - **Fontes de questões:** prova CESPE/SEBRAE 2010 AN05 (Inglês 43–55, subconjunto); CESPE/Câmara 2012 cargo 7 itens 147 e 151; CESPE/TCDF 2014 cargo 2 item 123; Cebraspe/DPE-RS 2021 itens 55–56; CESPE/Senado 2002 Q60 (2.º e 4.º itens). Gabarito comentado do projeto baseado na interpretação do texto e normas; não rotular como espelho oficial verificado quando tal verificação não tiver sido feita.
+
+## Anki A006 criado — 09/10/2026
+
+- **44 cartões C/E** (22 certos / 22 errados), distribuídos em `Analista::P1::Português` (10), `Analista::P2::Linguística` (9), `Analista::P1::Const_Regimentos` (25, RICD 65–79). Apostila-base: https://drive.google.com/file/d/1MJw5hO_c_NDZ1YdUfKOZLSFnMGthSI52/view.
+- **APKG canônico no Drive:** https://drive.google.com/file/d/1bcoLfVNizuJooRGC22fYU_QhnH0iQv5E/view ; **índice GitHub:** `anki/A006_INDEX.md`. Fonte de norma: RICD da Câmara atualizado até RCD 34/2026.
+- Cartões normativos auditados e com transcrição literal relevante no verso, comentário separado e link oficial. Restante: mecanismo contextualizado de leitura/coesão e reescrita. Nenhuma frente duplica literalmente a A005.
+- Validação APKG: SQLite `integrity_check=ok`, ZIP CRC, esquema AnkiDroid com `lapses`, consulta SQL de leitura, GUIDs/IDs e vínculos de baralhos. SHA256 `852e2f86a5011631a418472aa86c9d3169156ef4bb7fd901c287fe8fb4ad3138`.
+- A006 já concluída pelo candidato; Anki A006 criado, **importação e sincronização não confirmadas**. RICD 7.2 continua parcial até execução da A007.
