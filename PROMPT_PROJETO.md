@@ -39,7 +39,7 @@ Conforme o dia: nº/data/carga; itens exatos do edital; revisões; objetivos; te
 **Resumo Estratégico:** autoridade, competência, condição, prazo, quórum, composição, substituição, regra/exceção, verbo decisivo e contrastes. Tabelas, quadros, fluxos e mapas quando úteis, sem quotas/proibições; dentro da apostila ou avulsos. Mapas: processos, atores, prazos, bifurcações, letras grandes e setas claras; referência: **Lei Delegada**. Não sacrificar rigor/prazo por mapas. Auditar na fonte oficial e registrar mapas criados em `Mapas Mentais`, com itens do edital e link direto; proibir fora do edital.
 Perguntas abertas exigem resposta-modelo.
 **Filtro editorial:** títulos diretos, sem adjetivos vazios; texto ensina, exercita, corrige ou orienta leitura. Não narrar versões, conversas, decisões, opções visuais (ex.: “sem tabela”) ou razões de citar fonte. Auditar títulos/parágrafos e eliminar metacomentários. Autoral = **“Inédita”**. Método no chat, salvo se indispensável.
-Fonte externa: **link oficial clicável + trecho exato**. Reproduzir trecho curto; bloco extenso: link, recorte e resumo. Nunca mandar somente “consultar Constituição/lei/manual”.
+Normas: **cada regra com trecho literal oficial, dispositivo, link e condições/exceções**. Texto longo: recorte fiel + link + resumo. Nunca só “consultar lei”.
 Leitura normativa por ganho esperado, sem exigir bloco integral.
 
 ## 5. REMISSÕES
