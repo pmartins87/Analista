@@ -6,6 +6,14 @@ Atualizado em: **08/10/2026**
 [CONSTITUICAO_PROJETO.md](CONSTITUICAO_PROJETO.md) é a norma máxima.  
 [PROMPT_PROJETO.md](PROMPT_PROJETO.md) é a versão curta para as instruções do Projeto.
 
+## A007 — correção didática normativa (10/10/2026)
+
+Após resolver questões, o candidato constatou que o bloco 2 de Processo Legislativo (sobretudo sanção, veto e promulgação) ensinava por resumos/quadros e remetia apenas ao final aos arts. 58, 65, 66 e 69 da CF. A lacuna **material** impediu resolver questões sobre veto, justificando reemissão da parte teórica. Foi reconstruída a seção 2, de três para cinco páginas, incluindo em sequência textos literais selecionados da CF e do RICD, fontes oficiais clicáveis em cada excerto, explicações, casos, condições, exceções e contraste. Alterado o título para "Quóruns de deliberação e aprovação"; os demais blocos da A007, inclusive exercícios de Inglês e adaptações de Processo, foram preservados.
+
+**PDF canônico da A007 para estudo:** https://drive.google.com/file/d/13-Yp76X78mHBt0EjeBfB_HfA5aU1zj-A/view (20 páginas). A versão anterior https://drive.google.com/file/d/1irgQWtvGnZqPRBRpnYhhqW99CWKk7X59/view foi substituída; não utilizá-la para o estudo novo.
+
+A partir de A008, cada explicação normativamente fundada deve vir acompanhada, **no mesmo ponto**, de trecho legal oficial vigente, com artigo/parágrafo/inciso e condições/exceções decisivas. Em blocos longos: recorte fiel + link oficial integral. Resumo isolado não basta. Fonte registrada na seção 3.2.1 de `CONSTITUICAO_PROJETO.md`. **Escopo/Mapa/carga inalterados; A007 não marcada como concluída sem confirmação do candidato.**
+
 ## A007 — correção de usabilidade (10/10/2026)
 
 A007 (09/10/2026) permanecia publicada, mas o bloco de Processo Legislativo indicava 7 itens oficiais distribuídos em 4 cadernos, sem enunciados, exigindo troca de prova a cada questão. O candidato identificou defeito material de usabilidade. **A versão revisada é a canônica para estudo**: https://drive.google.com/file/d/1irgQWtvGnZqPRBRpnYhhqW99CWKk7X59/view
