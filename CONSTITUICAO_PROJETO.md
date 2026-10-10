@@ -184,6 +184,12 @@ Evitar mandar “ler integralmente” blocos extensos por rotina. Quando um arti
 
 Se a apostila já resume o conteúdo, a leitura da fonte deve acrescentar literalidade útil, não duplicar mecanicamente o mesmo estudo. Sempre que se disser que algo é “pouco cobrado”, “muito cobrado” ou equivalente, sustentar com pesquisa real de questões.
 
+### 3.2.1 Texto normativo junto da explicação — correção A007 (10/10/2026)
+
+**Não ensinar tema de base legal apenas por resumos, esquemas ou quadros.** Toda regra material extraída de Constituição, lei, RICD ou RCCN deve trazer, **no ponto em que é ensinada**, o trecho literal vigente do dispositivo que a fundamenta, com identificação de artigo/parágrafo/inciso, condições e exceções decisivas e link oficial clicável. Em dispositivo extenso, recortar fielmente as passagens pertinentes, indicar omissões e oferecer o link para leitura completa; não reproduzir blocos enormes sem ganho de pontos. Explicações, exemplos, fluxos e resumos vêm em seguida e devem mostrar quem pratica o ato, em que hipótese, qual prazo/quórum e a consequência. Uma tabela sem a base normativa imediatamente acessível é material de revisão, não aula suficiente.
+
+**Gate de aprendizagem:** se o estudante não consegue resolver questões normativas após ler a teoria, auditar falta de norma, mecanismo, casos e contraste; refazer o bloco substantivamente, sem alterar o escopo do edital e sem reemitir apostila por mera preferência visual. Na A007, houve lacuna material comprovada no bloco de veto; a seção 2 foi substituída por uma aula com CF arts. 47, 58, 64–66 e 69 e RICD arts. 24, 126, 129 e 132, § 2º, cada qual dentro do recorte programático e conectada ao procedimento. Regra prospectiva A008+.
+
 ### 3.2.1 Praticidade da leitura de fontes externas
 
 A apostila deve minimizar troca desnecessária de documentos. Se a leitura externa for curta — por exemplo, súmula, dispositivo isolado ou pequeno conjunto de artigos curtos — reproduzir na própria apostila o texto oficial pertinente, identificado e auditado, mantendo também link oficial clicável para conferência.
