@@ -444,6 +444,10 @@ Quando questão oficial for usada:
 - Gabaritos e comentários devem alinhar-se ao enunciado efetivamente entregue, e não apenas à prova de origem.
 - Melhoria vale prospectivamente e retroativamente para a A007, cujo bloco de Processo Legislativo foi apontado pelo estudante como operacionalmente impraticável; não reemitir outras apostilas já estudadas sem defeito material.
 
+### 5.1.0.1 Fidelidade literal dos itens oficiais (10/10/2026)
+
+O treino deve conservar a redação real da banca Cebraspe/Cespe, **na íntegra, com comandos e textos-base necessários**. Para itens isolados de vários cadernos, transcrever fielmente o item na apostila, indicando prova/cargo/ano/número; não substituir uma questão oficial por paráfrase, adaptação abreviada ou resumo da tese. Quando a reprodução literal não for viável, preferir outro item oficial integral verificável ou caderno completo com localização precisa. Inéditas ou adaptadas são último recurso para lacuna material comprovada, rotuladas corretamente, sem usurpar gabarito de item diferente. Preservar dificuldade, redação e nível do Cebraspe; não reemitir A007 já estudada apenas para reconverter adaptações em transcrições.
+
 ### 5.1.1 Filtro de aderência e nível
 
 A seleção de questões deve considerar conjuntamente **aderência ao item estudado, nível do cargo e semelhança do edital**. Priorizar Analista, Consultor, Auditor, Diplomata, controle, Legislativo, Judiciário e outros cargos de alta complexidade. Questões de técnico/auxiliar só entram excepcionalmente, quando houver aderência temática muito superior e mecanismo de cobrança útil; nunca para preencher quantidade.
