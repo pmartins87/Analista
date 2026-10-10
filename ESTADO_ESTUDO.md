@@ -6,6 +6,14 @@ Atualizado em: **08/10/2026**
 [CONSTITUICAO_PROJETO.md](CONSTITUICAO_PROJETO.md) é a norma máxima.  
 [PROMPT_PROJETO.md](PROMPT_PROJETO.md) é a versão curta para as instruções do Projeto.
 
+## A007 — correção de usabilidade (10/10/2026)
+
+A007 (09/10/2026) permanecia publicada, mas o bloco de Processo Legislativo indicava 7 itens oficiais distribuídos em 4 cadernos, sem enunciados, exigindo troca de prova a cada questão. O candidato identificou defeito material de usabilidade. **A versão revisada é a canônica para estudo**: https://drive.google.com/file/d/1irgQWtvGnZqPRBRpnYhhqW99CWKk7X59/view
+
+Na versão revisada, a seção 6.2 contém sete **assertivas adaptadas** dos mecanismos dos itens citados (P1–P7); não são transcrições oficiais e essa qualificação está expressa na apostila. Os comentários/gabaritos de referência foram mantidos, e a lista de assuntos foi substituída por itens autossuficientes para resolução no próprio PDF. O restante das 18 páginas, especialmente a prova integral de Inglês por link, foi preservado. O PDF anterior foi renomeado como SUBSTITUÍDA e o novo link foi registrado em `Mapa 106 Apostilas` e `Apostilas e Anki`. O escopo e a carga da A007 não mudaram; **a apostila não foi marcada como concluída sem confirmação do estudante**.
+
+A regra permanente foi acrescentada à seção 5.1.0 de `CONSTITUICAO_PROJETO.md`: prova integral → link ao caderno único; itens isolados de provas distintas → bloco de resolução no PDF; nunca chamar adaptação de transcrição oficial.
+
 ## Estado atual
 **PÓS-EDITAL / A001–A003 CONCLUÍDAS / A004 PRONTA PARA ESTUDO**
 
