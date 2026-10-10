@@ -54,7 +54,7 @@ Não cobrar localização de artigos/incisos sem valor de prova.
 Objetiva: C/E, +1 acerto, -1 erro, 0 branco.
 Antes de inéditas, busca **exaustiva** de oficiais Cebraspe/Cespe. Prioridade: 1) Câmara + mesmo tema; 2) mesmo tema em Legislativo/cargos altos; 3) tema próximo com mecanismo útil; 4) inéditas.
 **Inédita só para lacuna relevante após esgotar oficiais adequados/reproduzíveis.** Oficial aderente prevalece; não criar autoral por variedade/quota. Excedentes ficam para D+7/D+21/revisões/simulados.
-Oficial: identificar prova/cargo/ano/item quando possível; trazer texto-base/enunciado; não resumir nem chamar autoral de oficial.
+Oficial: **texto-base e enunciado literais e integrais**; prova/cargo/ano/item. Adaptar só por lacuna real, rotulando; não chamar autoral de oficial.
 Inéditas, quando necessárias: alma Cebraspe, justas; preferir pequena mudança plausível de autoridade, competência, condição, exceção, verbo, prazo, quórum, alcance ou instituto próximo. Evitar erro denunciado, artificialidade, trivia sem valor ou malícia maior que a banca.
 Comentário repete a assertiva e explica o ponto decisivo.
 
