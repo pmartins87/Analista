@@ -6,6 +6,16 @@ Atualizado em: **08/10/2026**
 [CONSTITUICAO_PROJETO.md](CONSTITUICAO_PROJETO.md) é a norma máxima.  
 [PROMPT_PROJETO.md](PROMPT_PROJETO.md) é a versão curta para as instruções do Projeto.
 
+## A007 concluída — 10/10/2026: desempenho e dúvidas reais
+
+Candidato confirmou a conclusão da A007 após leitura da versão normativa canônica. Resultado informado: Inglês, **11/12 itens oficiais corretos** (único erro no item 53, referente Sears/fundador/empresa, divergência referencial plausível); Processo Legislativo, **7/7 itens adaptados corretos após a reexposição teórica constitucional** (o primeiro contato fora insuficiente, portanto a evolução foi devido à leitura normativa); RICD 80–94, **R12 respondida E embora seja C**, por confusão entre RICD 93 § 2º (publicidade total/parcial ou prazo de sigilo da ata pública) e § 3º (aprovação e lacração da ata da sessão secreta). Demais acertos/erros regimentais não quantificados; não inferir pontuação final.
+
+Dúvida RICD 83: redações finais precedem requerimentos de urgência na Ordem do Dia, precedência formal, não hierarquia de importância; ressalvadas alterações regimentais da pauta. RICD 93 §§ 2º–3º: **aprovação da ata não significa votar para torná-la secreta**, pois sessão já é secreta; há decisão separada sobre publicidade de conteúdo.
+
+Inglês: acerto com dúvida em although/even though, rather than/instead of, besides; insegurança em therefore/thus, former/latter, unless; surpresas negativas em **provided that** (= desde que/contanto que) e **eventually** (= por fim, finalmente; não eventualmente). **Given that** = dado que/uma vez que; **unless** = a menos que. Agendar revisão D+1 na A008 e Anki A007 seletivo de contrastes, não simples definições de vocábulos.
+
+Nova regra editorial: **questões oficiais Cebraspe/Cespe na íntegra com texto/comando**, quando reproduzível; não abreviar/adaptar por conveniência. Treino autoral/adaptado somente para lacuna relevante, claramente rotulado. Manter A007 como estudada, sem reemissão apenas por ajuste de estilo/questões adaptadas. A008 mantém escopo canônico P2 CPOL 1–2; P1 ADM 1.2; RICD 95–110 (P2 PROC 2.1 ainda parcial).
+
 ## A007 — correção didática normativa (10/10/2026)
 
 Após resolver questões, o candidato constatou que o bloco 2 de Processo Legislativo (sobretudo sanção, veto e promulgação) ensinava por resumos/quadros e remetia apenas ao final aos arts. 58, 65, 66 e 69 da CF. A lacuna **material** impediu resolver questões sobre veto, justificando reemissão da parte teórica. Foi reconstruída a seção 2, de três para cinco páginas, incluindo em sequência textos literais selecionados da CF e do RICD, fontes oficiais clicáveis em cada excerto, explicações, casos, condições, exceções e contraste. Alterado o título para "Quóruns de deliberação e aprovação"; os demais blocos da A007, inclusive exercícios de Inglês e adaptações de Processo, foram preservados.
