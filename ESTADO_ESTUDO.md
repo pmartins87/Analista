@@ -6,6 +6,12 @@ Atualizado em: **08/10/2026**
 [CONSTITUICAO_PROJETO.md](CONSTITUICAO_PROJETO.md) é a norma máxima.  
 [PROMPT_PROJETO.md](PROMPT_PROJETO.md) é a versão curta para as instruções do Projeto.
 
+## A008 — bateria ampliada sob revisão por excesso de inéditas (11/10/2026)
+
+O estudante reiterou expressamente a diretriz de **priorizar questões oficiais CESPE/Cebraspe na íntegra** e questionou corretamente a expansão para 67 itens, dos quais 52 inéditos (43 novos), sem demonstração documentada de esgotamento de oficiais aderentes. Este é **defeito material de seleção**, não preferência de estilo. A matriz de 27 núcleos NÃO autoriza preencher indiscriminadamente lacunas com questões autorais; primeiro é obrigatório procurar/confirmar itens oficiais por núcleo e selecionar questões de valor real. Inéditas só para lacunas reais após pesquisa efetiva; não gerar uma por linha da matriz nem impor quotas. O erro foi inverter o método para ganhar volume.
+
+**Estado de uso:** a teoria da A008 foi estudada e não precisa ser refeita. O PDF de 30 páginas https://drive.google.com/file/d/1JiTQ5ayLTdPOVT6s9mtfncujF0_WNtGW/view existe, mas a **bateria de 52 inéditas NÃO é recomendada como treino canônico** até nova seleção e fundamentação. As 15 rotuladas oficiais precisam de conferência individual de transcrição/identificação/gabarito antes de reposição final. Não exigir que o candidato responda as 50 adicionais, não pressionar cronograma e não fechar os itens CPOL/ADM com base nesse bloco. A bateria futura deve maximizar oficiais autênticas, manter cobertura por mecanismo e só completar lacunas importantes com poucas inéditas justificadas. Não declarar que a pesquisa exaustiva foi feita se não houver trilha das buscas. O APKG A008 antecipado continua preliminar e não recomendado para importação.
+
 ## A008 — correção material do treino (11/10/2026)
 
 Estudante comunicou conclusão da teoria A008, mas **insuficiência de questões**: 17 itens (8 oficiais, 9 inéditos), baixa cobertura de Ciência Política 1–2 (3), Administrativo 1.2 (6) e RICD 95–110 (8). Lacunas: democracia direta/participativa, regimes político-formas/sistemas, concentração/desconcentração e entidades, capital de estatais e subsidiárias, ata/publicação, proposições digitais, justificações, retirada coletiva, arquivamento, reconstituição, reapresentação de projeto.
