@@ -1,6 +1,6 @@
 # A008 — Índice Anki (10/10/2026)
 
-Apostila com **teoria já estudada em 11/10/2026, exercícios complementares pendentes**: [PDF canônico A008 — 30 páginas e matriz de cobertura](https://drive.google.com/file/d/1JiTQ5ayLTdPOVT6s9mtfncujF0_WNtGW/view).
+Apostila com **teoria já estudada em 11/10/2026, exercícios complementares pendentes**: [PDF canônico A008 — 21 páginas, bateria oficial selecionada](https://drive.google.com/file/d/1942itnpUMgCH5uV5pTeFn_BnDwuC5rRU/view).
 
 **APKG PRELIMINAR, NÃO IMPORTAR AINDA:** [A008 — 25 cartões C/E](https://drive.google.com/file/d/16Q_ST2k0XStBoHnXhwUW0HyD62t6XKEO/view)
 
