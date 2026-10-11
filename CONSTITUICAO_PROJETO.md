@@ -488,6 +488,8 @@ Antes de publicar qualquer apostila, construir **matriz de cada núcleo material
 
 **Aplicação efetiva A008 (11/10/2026):** a versão de 67 itens/52 inéditas foi retirada do material recomendado; a A008 de 21 páginas oferece 25 itens oficiais identificáveis (15 reproduzidos no PDF e 10 em blocos originais acessíveis) e mantém só nove autorais da primeira edição, com duas redundâncias dispensáveis. A seleção foi feita por pertinência sem quotas; antes de ampliar inéditas, conferir provas recentes da própria Câmara, inclusive 2026, e os cadernos clássicos sobre o mesmo tema.
 
+**Verificação final A008 (11/10/2026):** para a solicitação expressa de 67 oficiais, selecionados 67 itens reais C/E, links diretos à página e gabarito definitivo da banca conferido; 27 CPOL, 36 ADM e 4 RICD 95–110. Matriz numérica não implica equivalência de cobertura: distribuição regimental estreita, não inventar itens para mascarar. A redação integral continua na prova vinculada, não no índice do PDF. As 52 inéditas da versão 30p foram descartadas.
+
 ### 5.3 Quantidade
 
 As apostilas devem conter **muitas questões**, sem transformar a sessão em volume vazio.
