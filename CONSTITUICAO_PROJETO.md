@@ -484,6 +484,8 @@ A dificuldade deve ser **justa**. Evitar erro denunciado pela própria redação
 
 Antes de publicar qualquer apostila, construir **matriz de cada núcleo material relevante ensinado → ao menos uma questão que efetivamente o avalie**, identificada por prova/item ou "Inédita", com gabarito comentado e fonte. Cobrir regras, competências, condições, exceções, prazos, quóruns, procedimentos e contrastes, conforme o escopo do dia. Buscar exaustivamente oficiais Cebraspe/Cespe autênticas e aderentes antes de produzir inéditas para lacunas. Não confundir volume bruto com cobertura: evitar quotas, repetição de mecanismos, trivialidades e extensão do edital. Conferir matriz antes de entregar PDF; nenhum núcleo novo relevante pode ficar sem teste. Questões excedentes úteis podem ir a revisões, mas não deixar lacuna no estudo inicial. Se o aluno já estudou, reparar falha material sem refazer a teoria por estilo. A008 teve 17 itens que deixaram muitos mecanismos descobertos, exigindo suplementação substantiva. Gate prospectivo A009+.
 
+**Controle reforçado após a A008 (11/10/2026):** a matriz de cobertura identifica o que é necessário pesquisar; **não é permissão para gerar inéditas**. Antes de autorais, documentar busca e disponibilidade de oficiais por núcleo e selecionar enunciados originais aderentes; aceitar lacuna residual só quando nenhuma questão adequada foi localizada após pesquisa real. A bateria de 52 inéditas da A008 foi considerada inadequada e deve ser refeita por critério, não por volume. Um conteúdo pode ser testado por questões interdisciplinares sem um item artificial exclusivo por sublinha.
+
 ### 5.3 Quantidade
 
 As apostilas devem conter **muitas questões**, sem transformar a sessão em volume vazio.
