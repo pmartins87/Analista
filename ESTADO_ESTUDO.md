@@ -6,6 +6,14 @@ Atualizado em: **08/10/2026**
 [CONSTITUICAO_PROJETO.md](CONSTITUICAO_PROJETO.md) é a norma máxima.  
 [PROMPT_PROJETO.md](PROMPT_PROJETO.md) é a versão curta para as instruções do Projeto.
 
+## A008 — correção material do treino (11/10/2026)
+
+Estudante comunicou conclusão da teoria A008, mas **insuficiência de questões**: 17 itens (8 oficiais, 9 inéditos), baixa cobertura de Ciência Política 1–2 (3), Administrativo 1.2 (6) e RICD 95–110 (8). Lacunas: democracia direta/participativa, regimes político-formas/sistemas, concentração/desconcentração e entidades, capital de estatais e subsidiárias, ata/publicação, proposições digitais, justificações, retirada coletiva, arquivamento, reconstituição, reapresentação de projeto.
+
+**PDF canônico corrigido:** https://drive.google.com/file/d/1JiTQ5ayLTdPOVT6s9mtfncujF0_WNtGW/view — 30 páginas. Conserva integralmente as 16 páginas já estudadas; acrescenta 14 páginas com 7 oficiais CESPE integrais (Câmara 2012 Técnica Legislativa itens 111, 113, 114; MPU 2010 cargo 46 itens 76–79) e 43 inéditas cobrindo lacunas, gabaritos repetindo assertivas com fundamentos/fontes e **matriz de 27 núcleos**. Total 67 questões: 15 oficiais e 52 inéditas. Fontes conferidas com RICD vigente até Resolução 34/2026. Escopo congelado em P2 CPOL1–2, P1 ADM1.2, RICD95–110; não ampliar para 111+ ou outros itens. Versão antiga https://drive.google.com/file/d/1pas8M74d-O_QFpBl2pIxPc7Ug66NU5PZ/view substituída.
+
+**Estado:** teoria A008 concluída em 11/10; bateria complementar pendente, sem resultados conhecidos. No mapa e apostilas: "Teoria estudada; questões complementares pendentes", não marcar integralmente CPOL1–2 ou ADM1.2 antes da execução. P2 PROC2.1 continua parcial até 111–200. Anki A008 pré-produzido com 25 cartões permanece **PRELIMINAR, NÃO IMPORTAR** até verificação após questões e desempenho. Nada sincronizado. Regra de cobertura conteúdo × exercício criada no `CONSTITUICAO_PROJETO.md` e `PROMPT_PROJETO.md`, prospectiva A009+. Plano das 106 apostilas preservado.
+
 ## A008 publicada e Anki A007/A008 criados — 10/10/2026
 
 **A007 concluída pelo candidato em 10/10/2026:** a verticalização foi atualizada para P1-ING 1, P1-CONST 7.2 (RICD 65–94, com A006), P2-PROC 1.2. A007 foi fechada após reparar a insuficiência normativa da teoria do veto. Desempenho informado: Inglês 11/12; Processo 7/7 assertivas adaptadas após leitura constitucional; RICD R12 erro real, demais resultados não informados. A revisão D+1 com as dúvidas relatadas entrou na A008.
