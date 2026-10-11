@@ -480,6 +480,10 @@ A questão deve ser tão natural que, sem indicação de origem, um candidato ex
 
 A dificuldade deve ser **justa**. Evitar erro denunciado pela própria redação, pegadinha artificial, microscopia sem valor material e armadilha mais maliciosa que a banca. Preferir alteração pequena e plausível de autoridade, competência, condição, exceção, verbo, prazo, quórum, alcance ou instituto próximo.
 
+### 5.2.1 Cobertura obrigatória por questões — A008 (11/10/2026)
+
+Antes de publicar qualquer apostila, construir **matriz de cada núcleo material relevante ensinado → ao menos uma questão que efetivamente o avalie**, identificada por prova/item ou "Inédita", com gabarito comentado e fonte. Cobrir regras, competências, condições, exceções, prazos, quóruns, procedimentos e contrastes, conforme o escopo do dia. Buscar exaustivamente oficiais Cebraspe/Cespe autênticas e aderentes antes de produzir inéditas para lacunas. Não confundir volume bruto com cobertura: evitar quotas, repetição de mecanismos, trivialidades e extensão do edital. Conferir matriz antes de entregar PDF; nenhum núcleo novo relevante pode ficar sem teste. Questões excedentes úteis podem ir a revisões, mas não deixar lacuna no estudo inicial. Se o aluno já estudou, reparar falha material sem refazer a teoria por estilo. A008 teve 17 itens que deixaram muitos mecanismos descobertos, exigindo suplementação substantiva. Gate prospectivo A009+.
+
 ### 5.3 Quantidade
 
 As apostilas devem conter **muitas questões**, sem transformar a sessão em volume vazio.
