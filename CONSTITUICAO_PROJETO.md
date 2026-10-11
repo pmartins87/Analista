@@ -486,6 +486,8 @@ Antes de publicar qualquer apostila, construir **matriz de cada núcleo material
 
 **Controle reforçado após a A008 (11/10/2026):** a matriz de cobertura identifica o que é necessário pesquisar; **não é permissão para gerar inéditas**. Antes de autorais, documentar busca e disponibilidade de oficiais por núcleo e selecionar enunciados originais aderentes; aceitar lacuna residual só quando nenhuma questão adequada foi localizada após pesquisa real. A bateria de 52 inéditas da A008 foi considerada inadequada e deve ser refeita por critério, não por volume. Um conteúdo pode ser testado por questões interdisciplinares sem um item artificial exclusivo por sublinha.
 
+**Aplicação efetiva A008 (11/10/2026):** a versão de 67 itens/52 inéditas foi retirada do material recomendado; a A008 de 21 páginas oferece 25 itens oficiais identificáveis (15 reproduzidos no PDF e 10 em blocos originais acessíveis) e mantém só nove autorais da primeira edição, com duas redundâncias dispensáveis. A seleção foi feita por pertinência sem quotas; antes de ampliar inéditas, conferir provas recentes da própria Câmara, inclusive 2026, e os cadernos clássicos sobre o mesmo tema.
+
 ### 5.3 Quantidade
 
 As apostilas devem conter **muitas questões**, sem transformar a sessão em volume vazio.
