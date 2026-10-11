@@ -1,8 +1,8 @@
 # A008 — Índice Anki (10/10/2026)
 
-Apostila **produzida, ainda não estudada**: [PDF canônico A008](https://drive.google.com/file/d/1pas8M74d-O_QFpBl2pIxPc7Ug66NU5PZ/view).
+Apostila com **teoria já estudada em 11/10/2026, exercícios complementares pendentes**: [PDF canônico A008 — 30 páginas e matriz de cobertura](https://drive.google.com/file/d/1JiTQ5ayLTdPOVT6s9mtfncujF0_WNtGW/view).
 
-**APKG canônico:** [A008 — 25 cartões C/E](https://drive.google.com/file/d/16Q_ST2k0XStBoHnXhwUW0HyD62t6XKEO/view)
+**APKG PRELIMINAR, NÃO IMPORTAR AINDA:** [A008 — 25 cartões C/E](https://drive.google.com/file/d/16Q_ST2k0XStBoHnXhwUW0HyD62t6XKEO/view)
 
 | Baralho canônico | Total | Escopo |
 |---|---:|---|
@@ -15,4 +15,4 @@ Cartões C/E autorais contextualizados; os oficiais na íntegra constam na apost
 
 **Validação:** ZIP sem erros; SQLite integrity_check=ok; 25 notas/25 cartões; GUIDs e frentes distintos; baralhos canônicos. SHA256 `3cb9ecd3491dfbaf5b40466b0b02a6adeb0d3945f65dd2308487e855f8e8dd45`.
 
-**Estado:** produzido e salvo no Drive; importação/sincronização não confirmadas. **Não marcar A008 estudada nem seus itens no Edital Verticalizado** até execução real.
+**Estado:** pacote preliminar existente no Drive, importação e sincronização não confirmadas; aguardar resposta da bateria complementar antes de consolidar. **Não marcar A008 estudada nem seus itens no Edital Verticalizado** até execução real.
