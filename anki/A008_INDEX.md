@@ -1,20 +1,30 @@
-# A008 — Índice Anki definitivo (12/10/2026)
+# A008 — Anki consolidado (12/10/2026)
 
-**Apostila A008 concluída pelo estudante em 12/10/2026.** [PDF canônico — teoria preservada e índice de questões oficiais](https://drive.google.com/file/d/1LreiYmgnINPive1z6e39WhZhRU6AmEhK/view). Questões adicionais não respondidas ficam para revisões, sem quota.
+**ÚNICO PACOTE CANÔNICO PARA IMPORTAÇÃO:** [**A008 — 57 cartões, consolidação completa**](https://drive.google.com/file/d/1wg7-f5FTa3HTuILdEMBwr4mJtwAaGN9E/view).
 
-**APKG GERAL DEFINITIVO (IMPORTAÇÃO DISPONÍVEL):** [A008 — 26 cartões C/E](https://drive.google.com/file/d/1NEpPNYME7qFP4vGYZKzevoh8_0z08g9h/view).
+**Apostila 008:** concluída pelo candidato em 12/10/2026. [PDF canônico da A008](https://drive.google.com/file/d/1LreiYmgnINPive1z6e39WhZhRU6AmEhK/view). O Anki é separado por matéria; **um único APKG instala/atualiza simultaneamente os três baralhos existentes**, sem criar variantes denominadas A008.
 
-| Baralho canônico | Cartões | Escopo |
+| Baralho canônico | Cartões | Fontes e escopo |
 |---|---:|---|
-| `Analista::P2::Ciência_Política` | 5 | Regimes políticos e formas/sistemas de governo (CPOL1–2) |
-| `Analista::P1::Administração` | 8 | Organização administrativa (P1 ADM1.2) |
-| `Analista::P2::Proc_Regimentos` | 13 | RICD 95–110 estudados, parcela do P2 PROC2.1 |
-| **Total** | **26** | |
+| `Analista::P2::Ciência_Política` | **28** | CPOL1–2, autores/conceitos de democracia; relações pontuais com CPOL3, sem marcar esse item integralmente estudado |
+| `Analista::P1::Administração` | **16** | P1 ADM1.2: organização administrativa, entidades, competências e vínculos |
+| `Analista::P2::Proc_Regimentos` | **13** | P2 Processo/RICD 95–110, parte do item PROC2.1 |
+| **Total** | **57** | |
 
-**Dois erros reais com alta confiança:** questões oficiais Câmara/CESPE 2012 item 113 (retirada de proposições de outros Poderes/PGR, gabarito E) e item 114 (novo PL após rejeição na mesma sessão, gabarito E). No arquivo anterior, a questão 114 tinha cartão de contraste inverso; agora passou a usar a própria afirmação oficial e explicação da exceção. Item 113 acrescentou 1 cartão novo. Ambos marcados `erro_real` e com texto literal oficial do RICD no verso. Outro cartão foi reescrito para cobrar a regra material de arquivamento sem localização de artigo na frente.
+## Origem e revisão
 
-**Controle técnico:** 26 notas/26 cartões, ZIP íntegro, SQLite `integrity_check=ok`, GUIDs e frentes únicos. Os 25 GUIDs e modelos do antigo arquivo provisório foram preservados para favorecer atualização. SHA-256: `956e8394be513d9de9556d2395ef0bdc469d635d73d90b38fda8048b47994b56`; arquivo 11.379 bytes. Não há confirmação de importação/sincronização no AnkiDroid.
+**26** cartões A008 gerais, com 113 e 114 CESPE/Câmara 2012 preservados como `erro_real` de alta confiança; **15** cartões de autores/modelos da democracia (perguntas diretas, verso **ESSENCIAL → APROFUNDAMENTO → FONTE**); **2** cartões de reforço Mill + organização federativa (branco e erro real), mais **14** complementos depois de revisão de pertinência e duplicações: **6 CPOL** (representação para além da democracia; Lijphart majoritária/consensual; Westminster; caso Brasil; parlamentarismo e multipartidarismo; accountability eleitoral vertical) e **8 ADM** (centralização; delegação/colaboração; outorga; EP x SEM; Sistema S; agência executiva; fundações privadas; concurso para emprego em estatais). Não foram criadas 36 cartas artificiais para substituir as 36 questões administrativas não respondidas. Os enunciados originais continuam no banco de questões oficiais da A008.
 
-**Não importar versão substituída:** https://drive.google.com/file/d/16Q_ST2k0XStBoHnXhwUW0HyD62t6XKEO/view (A008 preliminar 25). Pacotes complementares independentes, sem serem integrados a este APKG: [autores CPOL v2](https://drive.google.com/file/d/1_mC8dRNPFjwj0W50uJXnwPh-r-G_H2B0/view) e [John Stuart Mill + organização federativa](https://drive.google.com/file/d/1MDc-bafWE0b59eylptyTKqpP5rR63SUB/view).
+**Caráter dos cartões:** 42 cartões C/E estilo Cebraspe, com fonte explicativa/literal nos regimentais; 15 perguntas diretas de autores e conceitos; preservados GUIDs/IDs/modelos dos 43 cartões anteriores. As **frentes dos 15 cartões de autores não são questões oficiais transcritas**; as questões oficiais CESPE/Cebraspe dos itens 120–122 e correlatas servem como fontes/confronto, identificadas no verso. Para questões reais anuladas (como 125 Câmara 2014), reforço é **conceitual**, sem fingir gabarito oficial. A Questão 113 sobre retirada e 114 sobre rejeição são fontes oficiais identificadas e julgadas E, cotejadas com RICD atualizado.
 
-A disciplina P2 Processo/Regimentos 2.1 não está integralmente estudada até alcançar RICD 111–200; não alterar esse checkbox na verticalização.
+**O pacote Gran de 46 cartões antecede a A008 e permanece independente**; não importamos seus 46 novamente. Não duplicamos os cartões de presidencialismo de coalizão, Habermas, Rousseau etc. Conjuntos antigos A008 foram substituídos, não somados ao número de cartões do Anki do usuário sem confirmação.
+
+## Validação e integridade
+
+Arquivo `A008_Anki_CONSOLIDADO_Registro_e_Redacao_VALIDADO_2026-10-12.apkg`, **24.913 bytes**, SHA-256 `5d8d175bebc8b32b404fbbc4f01994b3e02fd5f3b27471e4f77ccb940b8f0ba2`. **57 notas/57 cartões**, GUIDs e IDs únicos, modelos e hierarquia de três baralhos canônicos conferidos; ZIP CRC PASS; SQLite `integrity_check=ok`; sem duplicações de identificadores; inclusão das 43 notas históricas verificada por GUID. Uma redação do verso do cartão art.95 §§8–9º recebeu complemento oficial. Fontes: RICD vigente https://www2.camara.leg.br/legin/fed/rescad/1989/resolucaodacamaradosdeputados-17-21-setembro-1989-320110-normaatualizada-pl.html ; CF https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm ; DL200 https://www.planalto.gov.br/ccivil_03/decreto-lei/del0200.htm ; Lei13.303 https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2016/lei/l13303.htm ; Decreto 2.487 https://www.planalto.gov.br/ccivil_03/decreto/d2487.htm .
+
+## Substituição de versões
+
+As versões **A008 geral 26** (https://drive.google.com/file/d/1NEpPNYME7qFP4vGYZKzevoh8_0z08g9h/view), **autores v2 15** (https://drive.google.com/file/d/1_mC8dRNPFjwj0W50uJXnwPh-r-G_H2B0/view), **Mill/federação 2** (https://drive.google.com/file/d/1MDc-bafWE0b59eylptyTKqpP5rR63SUB/view) e preliminar 25 são **apenas histórico, NÃO importar separadamente**. Um primeiro envio de 57 cartas foi substituído por ajuste na etiquetagem; usar exclusivamente o link do topo. Em importação no AnkiDroid, conferir eventual atualização dos cartões existentes (GUIDs preservados) e não duplicar por importações repetidas. Importação/sincronização **não foram verificadas**.
+
+**Verticalização:** A008 concluída; P2 PROC2.1 **permanece FALSE** porque ainda existem RICD 111–200 planejados. CPOL3 etc não marcados estudados por terem aparecido em reforço.
