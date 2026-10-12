@@ -6,6 +6,10 @@ Atualizado em: **08/10/2026**
 [CONSTITUICAO_PROJETO.md](CONSTITUICAO_PROJETO.md) é a norma máxima.  
 [PROMPT_PROJETO.md](PROMPT_PROJETO.md) é a versão curta para as instruções do Projeto.
 
+## A008 — Câmara 2026 Direito Administrativo, itens 47–51 (12/10/2026)
+
+O estudante informou que resolveu os **cinco itens oficiais 47 a 51** de Direito Administrativo da prova Câmara/Cebraspe 2026 e **acertou todos (5/5, 100%)**. Resultado declarado pelo candidato, sem nova auditoria independente de gabarito neste registro. Outros itens oficiais semelhantes de Direito Administrativo na bateria de 67 serão **adiados**, não abandonados, para revisões D+7/D+21 e simulados por economia de tempo; não representam erros nem itens resolvidos. O estudante seguirá agora para os itens **RICD 95–110** previstos na A008. Marcar somente execução parcial, mantendo os itens gerais do Edital Verticalizado sem conclusão automática, Anki A008 geral provisório e sem aumentar quantidade de cartões por desempenho perfeito.
+
 ## A008 — Câmara 2012, Técnica Legislativa, itens 173–178 (12/10/2026)
 
 O estudante resolveu os seis itens consecutivos 173–178 na página do caderno oficial. **Resultado declarado:** 173 em branco (gabarito E), 174 marcado E (ANULADO), 175 ANULADO (resposta não especificada), 176 marcado E (gabarito E: acerto), 177 marcado C (gabarito E: erro real), 178 em branco (ANULADO). Dos seis, apenas três com gabarito válido: 1 acerto, 1 erro, 1 branco, **0 ponto líquido**; três anulados não medem desempenho.
