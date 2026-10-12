@@ -6,6 +6,12 @@ Atualizado em: **08/10/2026**
 [CONSTITUICAO_PROJETO.md](CONSTITUICAO_PROJETO.md) é a norma máxima.  
 [PROMPT_PROJETO.md](PROMPT_PROJETO.md) é a versão curta para as instruções do Projeto.
 
+## A008 — revisão dos cartões de autores: frente curta, verso em camadas (12/10/2026)
+
+O candidato determinou que cartões de **autores e conceitos de democracia** tenham pergunta direta e curta na frente; verso em **ESSENCIAL** (resposta imediata) e **APROFUNDAMENTO** (teoria, exemplo e contraste) mais fonte. Exceção expressa aos cartões gerais C/E; não se aplica a regimentos ou legislação. Conferido edital anexo de Registro e Redação: Ciência Política 1 Regimes, 2 Sistemas e formas, 3 Representação, 4 relações entre poderes, 5 sistemas eleitorais, 6 partidos; **não exige nominalmente pensadores específicos**. Aderência principal de Mouffe, Lijphart, Dahl, Schumpeter, Habermas; seletiva de Linz, Huntington, Bobbio, O'Donnell, Duverger; sem curso externo de teoria política.
+
+**APKG v2 substituto confirmado no Google Drive:** https://drive.google.com/file/d/1_mC8dRNPFjwj0W50uJXnwPh-r-G_H2B0/view — 15 cartões, 10.430 bytes, formato perguntado e verso em camadas, ZIP e SQLite PASS; os **15 GUIDs, IDs, modelo e baralho originais foram preservados**; não se trata de 15 cartões adicionais. Corrigido cartão repetido de Linz para participativa vs deliberativa, segundo fonte do Legislativo mineiro. Pacote antigo https://drive.google.com/file/d/1LHcDBeAw1U2t0PF9_gyl5NQLWeleZorU/view substituído; não importar os dois. Importação/sincronização no AnkiDroid não confirmadas; comportamento de atualização depende do importador. ÍNDICE: `anki/A008_AUTORES_DEMOCRACIA_INDEX.md`. A008 principal continua em progresso, A009 e Edital Verticalizado sem alteração, zero novo checkbox. Regra prospectiva para cartões similares, não remexer em já estudados por estilo.
+
 ## Câmara 2014 — auditoria itens 118–140 e Anki (12/10/2026)
 
 Fonte caderno CAMARA14_020_39.pdf e gabarito oficial definitivo da Área XIX. Entre 118 e 140, itens **125 e 132 ANULADOS**; 21 itens válidos. Gabarito: 118 C; 119 E; 120 C; 121 E; 122 C; 123 C; 124 E; 125 X; 126 C; 127 E; 128 E; 129 C; 130 C; 131 E; 132 X; 133 E; 134 C; 135 E; 136 E; 137 C; 138 C; 139 E; 140 C. Item 145 C (origem dos partidos europeus). A afirmação sobre democracia como único regime com representação é 135, não 145.
