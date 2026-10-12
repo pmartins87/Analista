@@ -6,6 +6,14 @@ Atualizado em: **08/10/2026**
 [CONSTITUICAO_PROJETO.md](CONSTITUICAO_PROJETO.md) é a norma máxima.  
 [PROMPT_PROJETO.md](PROMPT_PROJETO.md) é a versão curta para as instruções do Projeto.
 
+## Câmara 2014 — auditoria itens 118–140 e Anki (12/10/2026)
+
+Fonte caderno CAMARA14_020_39.pdf e gabarito oficial definitivo da Área XIX. Entre 118 e 140, itens **125 e 132 ANULADOS**; 21 itens válidos. Gabarito: 118 C; 119 E; 120 C; 121 E; 122 C; 123 C; 124 E; 125 X; 126 C; 127 E; 128 E; 129 C; 130 C; 131 E; 132 X; 133 E; 134 C; 135 E; 136 E; 137 C; 138 C; 139 E; 140 C. Item 145 C (origem dos partidos europeus). A afirmação sobre democracia como único regime com representação é 135, não 145.
+
+O edital de Registro e Redação, Ciência Política itens 1 a 11, cobre diretamente regimes, formas e sistemas, representação política, eixos de instituições e partidos; não há tema genérico de Teoria Política no programa deste cargo. Não tratar automaticamente os temas teóricos especializados do Consultor Área XIX como matéria integral de Registro e Redação: 126 (oportunidade política/movimentos), 127 (campo político de Bourdieu), 128 (base/superestrutura Gramsci), 130 (pensamento feminista na renovação teórica) possuem, no máximo, interface indireta com os eixos específicos. Priorizar modelo democrático e teoria institucional, sem curso paralelo.
+
+**Anki autores disponível no Google Drive:** https://drive.google.com/file/d/1LHcDBeAw1U2t0PF9_gyl5NQLWeleZorU/view — falha temporária de sessão resolvida com reenvio; arquivo 9.153 bytes verificado em metadados. Não confundir upload com importação/sincronização no AnkiDroid.
+
 ## Ciência Política — autores nas questões 120–122 (12/10/2026)
 
 Candidato pediu expressamente Anki de autores de regimes, sistemas e teoria democrática após dificuldade nas questões oficiais Câmara/CESPE 2014 Área XIX 120–122. **Mouffe** (agonismo), **Arend Lijphart** (consociação/consenso, NÃO Hannah Arendt), **Robert Dahl** (poliarquia) e outros autores possíveis do conteúdo P2 CPOL 1–2 foram selecionados. Uma questão de autor não significa lacuna severa de matéria, mas o conjunto demonstra retorno de reconhecimento básico de autores. Ver índice `anki/A008_AUTORES_DEMOCRACIA_INDEX.md`.
