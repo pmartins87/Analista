@@ -145,7 +145,7 @@ Não usar comandos vagos como:
 
 A apostila deve dizer **o que, onde, como e quanto**.
 
-**Pergunta aberta nunca fica sem gabarito.** Toda pergunta de recuperação ativa, autoexplicação, checagem ou fechamento deve ter, na própria apostila, uma resposta esperada/modelo suficiente para autocorreção. Para preservar o esforço de recuperação, a resposta deve aparecer em bloco separado e sinalizado para ser consultado somente depois da tentativa.
+**Pergunta aberta nunca fica sem gabarito.** Toda pergunta de recuperação ativa, autoexplicação, checagem ou fechamento deve ter, na própria apostila, uma resposta esperada/modelo suficiente para autocorreção. Para preservar o esforço de recuperação, a resposta deve aparecer em bloco separado e sinalizado para ser consultado somente depois da tentativa. **Na seção de respostas esperadas, repetir cada pergunta integralmente antes de sua resposta-modelo, agrupadas sem quebra de página entre elas.** O estudante deve autocorrigir sem retornar à página de questões. Aplicar a D+1/D+7/D+21, recuperação intercalada, perguntas abertas e fechamento. A009 deve ser corrigida; materiais anteriores já estudados não são reemitidos por alteração editorial isolada.
 
 **Perguntas de revisão e recuperação devem cobrar conhecimento material, não a localização dele no material.** A partir da A004:
 - a pergunta deve ser semanticamente autossuficiente e formulada como conhecimento transferível para a prova;
