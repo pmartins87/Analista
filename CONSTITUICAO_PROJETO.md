@@ -391,6 +391,12 @@ Regra de governança: **nenhum artefato relevante deve depender de ser reencontr
 
 Nunca alegar sincronização com Anki/AnkiDroid sem conexão efetivamente disponível e ação de sincronização confirmada. Na ausência de integração, fornecer arquivos importáveis e manter os links na planilha.
 
+### 3.5 Apostilas de Explicações Discursivas — 12/10/2026
+
+Série **complementar**, autorizada pelo candidato após a primeira redação da A009: transformar normas regimentais dispersas em explicações sequenciais por instituto, completas nos elementos relevantes para prova (conceito, ator, competência, pressupostos, fases, prazos, quóruns, exceções, recursos e consequências). **Cada regra fundamentada no trecho literal oficial, dispositivo, link e condições/exceções**, com exposição didática em prosa contínua; quando útil, concluir com síntese de resposta viável em 20 linhas sem omitir do texto principal as regras relevantes. Não confundir parecer terminativo e apreciação conclusiva. Texto reduzido para P3 não é um pretexto para simplificação incorreta.
+
+Catálogo canônico, revisitado e atualizado a cada produção: https://github.com/pmartins87/Analista/blob/main/DISCURSIVAS/EXPLICACOES_DISCURSIVAS_CATALOGO.md (108 núcleos: 94 P2 e 14 de P1 apenas auxiliares). Os núcleos indicam assuntos, **não quota de PDFs**; consolidar por afinidade, com tamanho governado pela qualidade (referência ~15 páginas), publicar PDF no Drive, registrar links na planilha atual. Integrar remissões P1 quando indispensáveis à compreensão de P2, sempre rotuladas; a P3 cobra apenas P2. Preservar Mapa106, revisão/Anki e sessões P3, sem cronograma concorrente e sem marcar estudo por planejamento. Auditoria de edital/vigência/materialidade antes de cada publicação; sem criação fictícia de apostilas.
+
 ---
 
 ## 4. MAPA DAS 106 APOSTILAS
