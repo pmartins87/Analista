@@ -6,6 +6,10 @@ Atualizado em: **08/10/2026**
 [CONSTITUICAO_PROJETO.md](CONSTITUICAO_PROJETO.md) é a norma máxima.  
 [PROMPT_PROJETO.md](PROMPT_PROJETO.md) é a versão curta para as instruções do Projeto.
 
+## Explicações discursivas — catálogo temático (12/10/2026)
+
+Solicitada série complementar para converter regras esparsas em explicações contínuas e úteis à P3. Catálogo no GitHub: https://github.com/pmartins87/Analista/blob/main/DISCURSIVAS/EXPLICACOES_DISCURSIVAS_CATALOGO.md — **108 núcleos (94 P2; 14 conexões de P1)**. O 1º volume recomendado trata CM16/CM19: parecer terminativo × apreciação conclusiva, recurso e destino da matéria; estruturar com o RICD 24 (apenas contexto P1), 54, 58, 132–133 e remissões úteis. Referência de tamanho: ~15 páginas por PDF agrupado, sem teto/quota. Todos os temas ainda **não produzidos/não estudados**; nenhum checkbox verticalizado, Anki ou sessão D+ foi alterado; A001–A106 e sessões de P3 preservados. Indexado em Materiais na planilha; PDFs só receberão link quando publicados e auditados.
+
 ## A010 — PDF publicado, aguardando estudo (12/10/2026)
 
 **Apostila A010:** [PDF canônico no Google Drive — 18 páginas](https://drive.google.com/file/d/1Uj5yZeOVMq0KM_ppJNCs9vk5SZTaSM9d/view). Data planejada 12/10/2026, carga de 6 horas, primeira passagem F1. PDF entregue e upload verificado (127.947 bytes). A010 NÃO foi declarada estudada. **Não marcar nenhuma linha do Edital Verticalizado nem Anki importado**, não antecipar A011. Arquivo local: `/mnt/data/A010_12-10-2026_Analista_Registro_Redacao_CANONICA.pdf`.
