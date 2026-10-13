@@ -72,7 +72,7 @@ Normas: selecionar competências, prazos, quóruns, composição, substituição
 Melhoria metodológica pós-execução vale prospectivamente. Não reemitir por estilo/reorganização/questão autoral aperfeiçoável; reabrir só por erro factual/normativo relevante, conteúdo fora do edital, lacuna real, mudança normativa ou defeito material.
 
 ## 10. DISCURSIVA
-P3: 2 questões de até 20 linhas + peça de até 50, sobre P2. Treino no Mapa/Dossiê após repertório. Comando explícito; incluir espelho didático E padrão autoral em formato Cebraspe (resposta esperada, quesitos/níveis de conceito e NC/NE/TL), mais resposta-modelo aprimorada, completa e cabível nas linhas. Preservar versões anteriores. Questão inédita não tem espelho oficial; usar padrões oficiais reais como referência e identificar a simulação.
+P3: 2 questões até 20 linhas + peça até 50, sobre P2. Treino Mapa/Dossiê após repertório. Comando, espelho didático e padrão autoral Cebraspe (resposta esperada, quesitos graduados, NC/NE/TL). Modelo viável nas linhas, com autoridades, prazos e efeitos; sem exigir artigos nem listas de exceções não pedidos. Preservar espelho e resposta anteriores. Questão inédita não tem padrão oficial; usar padrão real como referência e rotular simulação.
 
 ## 11. GOVERNANÇA
 Chats de revisão: dúvidas, erros, correções e melhorias futuras; sem planejamento paralelo.
