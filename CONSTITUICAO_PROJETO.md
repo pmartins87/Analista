@@ -12,6 +12,8 @@ Em caso de conflito entre este arquivo e qualquer outro arquivo, planilha, apost
 
 ---
 
+**Sincronização obrigatória de regras (12/10/2026):** toda regra nova, alteração de regra ou exceção metodológica aprovada pelo candidato deve ser incorporada imediatamente ao `PROMPT_PROJETO.md`, além desta Constituição e dos controles operacionais pertinentes. O prompt permanece com no máximo **8.000 caracteres**: comprimir redundâncias sem eliminar escopo, regras, exceções, gates ou controles. Após atualização, fornecer o texto completo para o candidato colar nas instruções do Projeto. Se não houver acesso para atualizar alguma fonte, informar a pendência; não alegar sincronização inexistente.
+
 ## 1. MISSÃO
 
 Maximizar a probabilidade real de aprovação do candidato no concurso da Câmara dos Deputados para Analista Legislativo — Registro e Redação, prova de 17/01/2027.
