@@ -31,7 +31,7 @@ Priorize pontos: incidência real, discriminação C/E, confusões, literalidade
 Frequência só com pesquisa; senão “pegadinha plausível”.
 
 ## 4. APOSTILA
-**Gate didático:** tema novo: caso concreto → termos definidos → mecanismo → exemplos → fonte contextualizada → questões. Se iniciante não entender/aplicar, refazer sem ampliar edital.
+**Gate didático:** caso concreto → termos → mecanismo → exemplos → fonte → questões; se iniciante não aplicar, refazer no edital.
 Principal: **PDF consolidado** no Drive e na planilha.
 
 Cada dia: nº/data/carga, itens exatos do edital, revisões, objetivos, teoria, leitura dirigida, Resumo Estratégico, exemplos, questões comentadas, recuperação ativa com respostas, P3 prevista, fechamento e verticalização.
@@ -43,8 +43,7 @@ Normas: **cada regra com trecho literal oficial, dispositivo, link e condições
 Leitura normativa por ganho, sem bloco integral.
 
 ## 5. REMISSÕES
-Sem mapa autônomo de remissões. Integrar efeito material útil: interna — conteúdo chamado; externa identificável — fonte oficial e efeito; externa aberta/dinâmica — declarar limitação, sem inventar destino. Integração didática ≠ redação oficial.
-Não cobrar localização de artigos/incisos sem valor de prova.
+Sem mapa autônomo. Integrar efeito: interna — conteúdo chamado; externa identificável — fonte oficial/efeito; externa aberta/dinâmica — declarar limite, sem inventar. Integração didática ≠ redação oficial. Não cobrar numeração sem valor de prova.
 
 ## 6. QUESTÕES CEBRASPE
 Objetiva: C/E, +1 acerto, -1 erro, 0 branco.
@@ -61,18 +60,20 @@ D+1/D+7/D+21 e abertas autossuficientes: cobrar regra, não artigo/página/apost
 ## 8. ANKI
 **Baralhos:** `Analista::P1::Const_Regimentos` e `Analista::P2::Proc_Regimentos`; demais conforme Constituição. Sem variantes.
 Por matéria. **Anki prioriza questões reais CESPE/Cebraspe**, literais e sem adaptação: frente com enunciado/comando/texto-base integrais, prova/cargo/ano/item; verso com gabarito definitivo, explicação e fonte. Oficiais válidas, vigentes e aderentes predominam, sem quota/duplicação. Autorais C/E com alma Cebraspe só para lacunas. **Exceção CPOL/autores:** pergunta curta; verso ESSENCIAL → APROFUNDAMENTO (exemplo/contraste) → fonte. Sem ampliar edital.
-**Gate pré-APKG:** edital/valor, gabarito oficial ou decisão justa, fonte, vigência, não duplicação e alma Cebraspe nas inéditas. Falhou? Refazer/excluir. **Verso:** C/E, explicação/contraste e fonte; se citar norma, incluir trecho literal oficial vigente com condições/exceções decisivas, separado do comentário. Dispositivo longo: recorte fiel, omissões indicadas.
+**Gate APKG:** edital/valor, gabarito oficial ou decisão justa, fonte, vigência, deduplicação, alma Cebraspe nas inéditas; falha: refazer/excluir. Verso C/E: explicação, contraste, fonte e norma vigente literal (condições/exceções) separada do comentário; omissões de recortes indicadas.
 Normas: selecionar competências, prazos, quóruns, composição, substituição, condições, exceções, consequências e remissões úteis; sem atomizar incisos. Cada cartão justifica custo; reforçar erros/acertos com dúvida sob o gate.
 **Fidelidade normativa:** não trocar `fará/deverá/providenciará/será/extingue-se` por `pode/poderá` (ou inverso) sem respaldo. Preferir `compete`/`é atribuição` se `pode` for ambíguo. Auditar verbo, negação, exceção, autoridade, prazo, quórum, composição e consequência na norma vigente.
 **Consolidação:** APKG único por apostila, baralhos por matéria; agregar base, dúvidas, erros e lacunas úteis. Preservar GUIDs, deduplicar, validar, atualizar links na planilha/GitHub; não importar versões substituídas nem alegar ações inexistentes.
 
-**Reta final:** F1 até A050 (21/11); A051 audita cobertura, A072 confere lacunas. A094–A106 (04–16/01): revisão, simulados, logística, sem matéria nova. Atrasos: remanejar antes da F4, sem conclusão fictícia.
+**Reta final:** F1 até A050 (21/11); A051 audita, A072 lacunas. A094–A106 (04–16/01): revisão/simulados/logística, sem matéria nova. Remanejar atrasos antes da F4, sem conclusão fictícia.
 
 ## 9. APOSTILA JÁ ESTUDADA
-Melhoria metodológica pós-execução vale prospectivamente. Não reemitir por estilo/reorganização/questão autoral aperfeiçoável; reabrir só por erro factual/normativo relevante, conteúdo fora do edital, lacuna real, mudança normativa ou defeito material.
+Melhoria posterior vale prospectivamente. Não reemitir por estilo/reorganização/inédita aperfeiçoável; reabrir só por erro factual/normativo, matéria fora do edital, lacuna real, mudança normativa ou defeito material.
 
 ## 10. DISCURSIVA
-P3: 2 questões até 20 linhas + peça até 50, sobre P2. Treino Mapa/Dossiê após repertório. Comando, espelho didático e padrão autoral Cebraspe (resposta esperada, quesitos graduados, NC/NE/TL). Modelo viável nas linhas, com autoridades, prazos e efeitos; sem exigir artigos nem listas de exceções não pedidos. Preservar espelho e resposta anteriores. Questão inédita não tem padrão oficial; usar padrão real como referência e rotular simulação.
+P3: 2 questões até 20 linhas + peça até 50, só P2. Treino Mapa/Dossiê após repertório. Inéditas: comando, resposta esperada, espelho didático autoral no formato Cebraspe (quesitos, conceitos, NC/NE/TL), nunca oficial. Modelo viável nas linhas com autoridades/prazos/efeitos; sem exigir artigos/listas não pedidos. Preservar espelho/resposta anteriores; comparar com padrão oficial.
+
+**Explicações Discursivas:** catálogo `DISCURSIVAS/EXPLICACOES_DISCURSIVAS_CATALOGO.md`: 94 P2 + 14 P1 contextuais. Prosa lógica por instituto, normas literais/remissões; síntese até 20 linhas quando útil. PDFs no Drive e links na planilha; sem cronograma paralelo ou estudo fictício.
 
 ## 11. GOVERNANÇA
 Chats de revisão: dúvidas, erros, correções e melhorias futuras; sem planejamento paralelo.
