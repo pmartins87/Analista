@@ -6,6 +6,16 @@ Atualizado em: **08/10/2026**
 [CONSTITUICAO_PROJETO.md](CONSTITUICAO_PROJETO.md) é a norma máxima.  
 [PROMPT_PROJETO.md](PROMPT_PROJETO.md) é a versão curta para as instruções do Projeto.
 
+## A009 — PDF canônico publicado, estudo pendente (12/10/2026)
+
+**Arquivo oficial do projeto:** [A009 — Apostila de Revisão Semanal, 14 páginas](https://drive.google.com/file/d/1wURf-gerBxlNgCvSMnvzS5SzPA1iu_xt/view); Google Drive `Apostilas`, upload e metadados verificados. **Data original no Mapa106:** 11/10/2026; criação/publicação: 12/10/2026. **Duração:** 4h líquidas. **Status:** PDF PUBLICADO / A009 AINDA NÃO EXECUTADA. Não registrar revisões, itens do edital ou sessão discursiva como realizadas antes do retorno do candidato.
+
+**Escopo:** A001–A008 já estudadas, nenhum item novo. D+1 da A008: 10 questões abertas sobre erros reais 113/114, recurso em questão de ordem, estruturas federativas, Dahl, Lijphart, democracia participativa/deliberativa/agonística, Mill, coalizão e Administração direta/indireta. D+7 A002: seis questões abertas sobre RICD 16–24; recuperação intercalada A001–A007: doze casos de Português, Linguística, ASR, Inglês, Administrativo, Processo, sessões e Constituição. Respostas-modelo de todas as abertas no próprio PDF. **Questões oficiais:** 10 itens CESPE identificados/selecionados da Câmara 2012 e 2014, com páginas diretas nos cadernos originais, gabarito definitivo e comentários; texto integral permanece no caderno oficial linkado, não alegar que esteja transcrito no PDF. **Texto normativo literal vigente:** trechos oficiais de RICD 22–24, 34–35, 58, 93, 95, 104, 110 e CF 58/66, com links e ressalvas, somente no âmbito dos temas estudados. Remissão RICD 132 §2 integrada apenas pelo efeito do recurso, sem antecipar 111–200 como bloco estudado.
+
+**Discursiva P3 prevista:** 1 questão de até 20 linhas inédita sobre comissões e apreciação conclusiva (P2 PROC1.2), com subcomandos a–c, espelho didático granular, texto-modelo autoral e referências CF58 §2 I/RICD24 II/RICD58 §§1º,3º,4º. Não chamar de questão/espelho oficiais da banca. Registro em `Discursivas` pendente de execução.
+
+**Não há APKG A009 gerado**: apenas revisar vencidos; erros/acertos com dúvida apresentados na execução justificarão novos cartões sob gate. Map106, `Apostilas e Anki` e `Discursivas` atualizados com link/status. `Edital Verticalizado` não alterado por se tratar de revisão, e nenhuma etapa da A009 marcada concluída. A010 mantém escopo programado.
+
 ## A008 — ANKI ÚNICO CONSOLIDADO (12/10/2026)
 
 A pedido do estudante, todos os pacotes e complementos produzidos durante a A008 foram reunidos em um **único APKG CANÔNICO**, substituindo os arquivos parciais anteriores, sem inventar sincronização/importação no aplicativo. Arquivo: **[A008 Anki consolidado — 57 cartões](https://drive.google.com/file/d/1wg7-f5FTa3HTuILdEMBwr4mJtwAaGN9E/view)**. Armazenado na pasta de Anki do Drive; metadados confirmados, 24.913 bytes, SHA-256 `5d8d175bebc8b32b404fbbc4f01994b3e02fd5f3b27471e4f77ccb940b8f0ba2`. Índice: `anki/A008_INDEX.md`.
