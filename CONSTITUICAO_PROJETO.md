@@ -406,6 +406,8 @@ O mapa deve garantir:
 
 Auditoria de 04/10/2026: A002 foi corrigida de revisão integral para **D+1 curta + RICD 16–24**, fechando P1-CONST 7.1. A003 absorve apenas RICD 25–30, além de Processo 1–1.1 e Administrativo 1–1.1. A004 em diante permanece sem deslocamento. A revisão semanal A009 continua válida por ocorrer após seis dias de conteúdo novo.
 
+**Proteção da reta final — auditoria do mapa em 12/10/2026:** A001–A050 (03/10 a 21/11) constituem a primeira passagem prevista; A051 (22/11) é gate de conferência de todos os itens do edital, sem declarar estudado recorte não executado. A052–A072 (23/11 a 13/12) são segunda passagem/consolidação e podem absorver reparações expressamente remapeadas se a F1 atrasar; A072 é segundo gate para detectar e corrigir lacunas antes da intensificação. A073–A093 (14/12 a 03/01) privilegiam exercícios, discursivas e simulados, não módulos novos regulares. **A094–A106 (04/01 a 16/01) são fase protegida: zero matéria nova planejada; A106 exclusivamente revisão leve, logística e sono.** Término antecipado é meta condicionada à execução real, não cobertura presumida. Atraso exige atualização explícita do Mapa, verticalização e registros antes da F4, sem reduzir rigor ou declarar cobertura fictícia. Não reemitir apostilas estudadas por mero estilo.
+
 O conteúdo de uma apostila futura pode ser recalibrado por desempenho, mas qualquer alteração deve:
 1. preservar a cobertura de todo o edital;
 2. registrar qual apostila assumirá o conteúdo deslocado;
