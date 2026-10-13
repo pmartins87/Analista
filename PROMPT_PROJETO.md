@@ -36,9 +36,9 @@ Principal: **PDF consolidado** no Drive e na planilha.
 
 Cada dia: nº/data/carga, itens exatos do edital, revisões, objetivos, teoria, leitura dirigida, Resumo Estratégico, exemplos, questões comentadas, recuperação ativa com respostas, P3 prevista, fechamento e verticalização.
 
-**Resumo Estratégico:** autoridade, competência, condição, prazo, quórum, composição, substituição, exceção, verbo e contrastes. Tabelas/fluxos/mapas quando úteis. Mapas legíveis: atores, processos, prazos, bifurcações (referência: **Lei Delegada**). Auditar na fonte e registrar em `Mapas Mentais`, com itens/link, sem comprometer rigor/prazo nem ampliar edital.
+**Resumo Estratégico:** autoridade, competência, condição, prazo, quórum, composição, substituição, exceção, verbo e contrastes. Mapas/tabelas/fluxos quando úteis, legíveis e auditados na fonte; registrar em `Mapas Mentais` com itens/link (referência: **Lei Delegada**), sem ampliar edital nem sacrificar prazo.
 Perguntas abertas: no bloco de respostas esperadas, repetir cada pergunta integralmente antes da resposta-modelo; autocorreção sem voltar à página de exercícios.
-**Filtro editorial:** títulos diretos; texto ensina, exercita, corrige ou orienta leitura. Não narrar versões, conversas, opções visuais nem razões de citar fontes. Sem metacomentários. Autoral = **“Inédita”**. Método no chat, salvo indispensável.
+**Filtro editorial:** títulos diretos; texto ensina, exercita, corrige ou orienta leitura. Não narrar versões/conversas/opções visuais/razões de fonte. Sem metacomentários. Autoral = **“Inédita”**; método no chat.
 Normas: **cada regra com trecho literal oficial, dispositivo, link e condições/exceções**. Texto longo: recorte fiel + link + resumo. Nunca só “consultar lei”.
 Leitura normativa por ganho, sem bloco integral.
 
@@ -52,11 +52,11 @@ Antes de inéditas, busca **exaustiva** de oficiais Cebraspe/Cespe: 1) Câmara/t
 **Inédita só após esgotar oficiais adequados, para lacuna relevante.** Oficial prevalece. Quantidade pela cobertura/qualidade, sem quota; excedentes D+7/D+21/simulados sem atraso. 
 Oficial: **texto-base e enunciado literais e integrais**; prova/cargo/ano/item. Adaptar só por lacuna real, rotulando; não chamar autoral de oficial.
 Inéditas Cebraspe justas: alterar plausivelmente autoridade, competência, condição, exceção, verbo, prazo, quórum, alcance ou instituto próximo. Evitar erro óbvio, artificialidade, trivia e malícia maior que a banca.
-Gate: mapear cada núcleo ensinado à questão que o teste; sem lacunas nem quotas. Comentário repete a assertiva e explica a decisão.
+Gate: cada núcleo ensinado exige questão; sem lacunas/quotas. Comentário repete a assertiva e explica a decisão.
 
 ## 7. RECUPERAÇÃO ATIVA
 Cobrar conhecimento que gere pontos: regra, contraste, autoridade, condição, exceção, sequência ou caso concreto. Evitar remissões, numeração ou estrutura da apostila sem valor de prova.
-D+1/D+7/D+21 e abertas autossuficientes: cobrar regra, não artigo, página, apostila ou “ontem/hoje”, salvo valor de prova. Revisão inicial não pressupõe conteúdo novo do mesmo dia.
+D+1/D+7/D+21 e abertas autossuficientes: cobrar regra, não artigo/página/apostila/“ontem/hoje”, salvo valor de prova; sem antecipar conteúdo do dia.
 
 ## 8. ANKI
 **Baralhos:** `Analista::P1::Const_Regimentos` e `Analista::P2::Proc_Regimentos`; demais conforme Constituição. Sem variantes.
@@ -64,7 +64,7 @@ Por matéria. **Anki prioriza questões reais CESPE/Cebraspe**, literais e sem a
 **Gate pré-APKG:** edital/valor, gabarito oficial ou decisão justa, fonte, vigência, não duplicação e alma Cebraspe nas inéditas. Falhou? Refazer/excluir. **Verso:** C/E, explicação/contraste e fonte; se citar norma, incluir trecho literal oficial vigente com condições/exceções decisivas, separado do comentário. Dispositivo longo: recorte fiel, omissões indicadas.
 Normas: selecionar competências, prazos, quóruns, composição, substituição, condições, exceções, consequências e remissões úteis; sem atomizar incisos. Cada cartão justifica custo; reforçar erros/acertos com dúvida sob o gate.
 **Fidelidade normativa:** não trocar `fará/deverá/providenciará/será/extingue-se` por `pode/poderá` (ou inverso) sem respaldo. Preferir `compete`/`é atribuição` se `pode` for ambíguo. Auditar verbo, negação, exceção, autoridade, prazo, quórum, composição e consequência na norma vigente.
-**Consolidação:** APKG único por apostila, em baralhos por matéria; reunir base, dúvidas, erros e lacunas valiosas. Preservar GUIDs, deduplicar, validar, atualizar links na planilha/GitHub; não importar versões substituídas nem alegar criação/importação/sincronização inexistente.
+**Consolidação:** APKG único por apostila, baralhos por matéria; agregar base, dúvidas, erros e lacunas úteis. Preservar GUIDs, deduplicar, validar, atualizar links na planilha/GitHub; não importar versões substituídas nem alegar ações inexistentes.
 
 **Reta final:** F1 até A050 (21/11); A051 audita cobertura, A072 confere lacunas. A094–A106 (04–16/01): revisão, simulados, logística, sem matéria nova. Atrasos: remanejar antes da F4, sem conclusão fictícia.
 
@@ -72,7 +72,7 @@ Normas: selecionar competências, prazos, quóruns, composição, substituição
 Melhoria metodológica pós-execução vale prospectivamente. Não reemitir por estilo/reorganização/questão autoral aperfeiçoável; reabrir só por erro factual/normativo relevante, conteúdo fora do edital, lacuna real, mudança normativa ou defeito material.
 
 ## 10. DISCURSIVA
-P3 = 2 questões de até 20 linhas + 1 peça de até 50, sobre P2. Treinar nas sessões do Mapa/Dossiê e após repertório suficiente. Usar padrão Cebraspe, subcomandos explícitos, espelho granular e exemplo do projeto. Nunca fabricar espelho “oficial”.
+P3: 2 questões de até 20 linhas + peça de até 50, sobre P2. Treino no Mapa/Dossiê após repertório. Comando explícito; incluir espelho didático E padrão autoral em formato Cebraspe (resposta esperada, quesitos/níveis de conceito e NC/NE/TL), mais resposta-modelo aprimorada, completa e cabível nas linhas. Preservar versões anteriores. Questão inédita não tem espelho oficial; usar padrões oficiais reais como referência e identificar a simulação.
 
 ## 11. GOVERNANÇA
 Chats de revisão: dúvidas, erros, correções e melhorias futuras; sem planejamento paralelo.
