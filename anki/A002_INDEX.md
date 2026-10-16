@@ -7,7 +7,7 @@ Baralho atual no AnkiDroid: `Analista::P1::Const_Regimentos` (renomeado manualme
 
 ## Artefato canônico
 
-- APKG: https://drive.google.com/file/d/1UsvFA-h_LEm-IbaZaTaMEQKgGOFoTmk8/view?usp=drivesdk
+- APKG: https://drive.google.com/file/d/1uvP7Uco5AWLokZKUZVvPPCXKjaRNnGvV/view?usp=drivesdk
 - **106 notas / 106 cartões**
 - não sincronizado automaticamente com Anki/AnkiDroid
 
@@ -31,3 +31,6 @@ Alguns cartões foram reescritos para subir um pouco o nível sem criar microsco
 - frentes únicas: 106/106
 - mídia externa: nenhuma
 - pacote anterior no Drive: marcado como OBSOLETO
+
+## Correções normativas efetivadas em 15/10/2026
+APKG canônico agora incorpora correção de três notas: `fará, de ofício` (art. 28 §1º); `providenciará` (art. 21 §2º); `extinguem-se` (art. 22 II), com recorte literal no verso; 106 GUIDs preservados, deck P1 corrigido. A antiga pendência manual está sanada **no APKG**, não comprovadamente na coleção local. [Auditoria C/E](AUDITORIA_CEBRASPE_2026-10-15.md).
