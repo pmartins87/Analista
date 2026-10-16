@@ -13,10 +13,10 @@ APKGs canônicos A001–A008 (89+106+62+65+77+44+26+57 = **526 notas**), mais pa
 - **A001**: somente nome histórico do baralho P1 atualizado para `Analista::P1::Const_Regimentos`; 89 cartões preservados.
 
 ## Links — APKG únicos atuais
-- A001: https://drive.google.com/file/d/1AsnjYmIgKnFgTf-xQkuFh0y6OdvdWB9S/view
-- A002: https://drive.google.com/file/d/1Kn4WgoPPvK5-kmWN5DkudE9O049vJ-2o/view
-- A003: https://drive.google.com/file/d/1NaZsq5-bgVU-wL40gEmUOdQXzqxPil2a/view
-- A008: https://drive.google.com/file/d/1MCXnHjvuEN9NUUIxyVvy3T1yZp8qLnId/view
+- A001: https://drive.google.com/file/d/1CTNbBzgsiBrcnlYodDcdkHVeLRA4XCPp/view
+- A002: https://drive.google.com/file/d/1uvP7Uco5AWLokZKUZVvPPCXKjaRNnGvV/view
+- A003: https://drive.google.com/file/d/1iDN3e_yZSJ1b9lgRny6UKH-BTgJEMVxq/view
+- A008: https://drive.google.com/file/d/1ilFGE8Czdf4Z4bmc9P5y8hoVnASUffH6/view
 Mantêm-se os APKGs canônicos anteriores A004–A007, não alterados nesta rodada.
 
 ## Garantias e limitações
@@ -29,3 +29,6 @@ Foram preservados GUIDs, IDs, modelos de nota e decks por matéria; mantidas qua
 - RICD atualizado até RCD 34/2026: documento oficial enviado ao projeto e https://www2.camara.leg.br/legin/fed/rescad/1989/resolucaodacamaradosdeputados-17-21-setembro-1989-320110-normaatualizada-pl.html
 
 Planilha `Apostilas e Anki`, linhas A001/A002/A003/A008, atualizada; nenhum item do edital foi marcado como estudado por esta auditoria. O conteúdo, as datas e as cargas do Mapa 106 não foram alterados.
+
+## Validação final de importação
+Pacotes finais gerados com `notes.mod` das notas efetivamente alteradas atualizado para timestamp 1792120400 (16/10/2026 03:13 UTC), para favorecer o reconhecimento de atualizações no Anki. Os primeiros uploads transitórios feitos nesta sessão foram substituídos pelos arquivos `*_CORRIGIDO_IMPORTAR_2026-10-15.apkg`. Atualizar APKG no aplicativo somente após conferir o número de notas e o baralho; sem sincronização comprovada.
