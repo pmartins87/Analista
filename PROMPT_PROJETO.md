@@ -46,12 +46,9 @@ Leitura normativa por ganho, sem bloco integral.
 Sem mapa autônomo. Integrar efeito: interna — conteúdo chamado; externa identificável — fonte oficial/efeito; externa aberta/dinâmica — declarar limite, sem inventar. Integração didática ≠ redação oficial. Não cobrar numeração sem valor de prova.
 
 ## 6. QUESTÕES CEBRASPE
-Objetiva: C/E, +1 acerto, -1 erro, 0 branco.
-Antes de inéditas, busca **exaustiva** de oficiais Cebraspe/Cespe: 1) Câmara/tema; 2) Legislativo/cargos altos; 3) tema próximo útil; 4) inéditas.
-**Inédita só após esgotar oficiais adequados, para lacuna relevante.** Oficial prevalece. Quantidade pela cobertura/qualidade, sem quota; excedentes D+7/D+21/simulados sem atraso. 
-Oficial: **texto-base e enunciado literais e integrais**; prova/cargo/ano/item. Adaptar só por lacuna real, rotulando; não chamar autoral de oficial.
-Inéditas Cebraspe justas: alterar plausivelmente autoridade, competência, condição, exceção, verbo, prazo, quórum, alcance ou instituto próximo. Evitar erro óbvio, artificialidade, trivia e malícia maior que a banca.
-Gate: cada núcleo ensinado exige questão; sem lacunas/quotas. Comentário repete a assertiva e explica a decisão.
+C/E: +1/−1/0. Buscar **exaustivamente** oficiais CESPE/Cebraspe: Câmara/tema → Legislativo/cargos altos → tema próximo. **Prioridade quantitativa, não ordem**: oficiais válidas e aderentes devem predominar em número na apostila e no APKG quando disponíveis; inéditas só para lacunas após pesquisa, sem quotas. Se minoria, repetir busca; registrar fontes, totais e lacunas; excedentes D+7/D+21/simulados.
+**Autossuficiência**: toda oficial no PDF/cartão com comando, texto-base e enunciado literais/integrais; prova/cargo/ano/item. Link só conferência, nunca exigir abrir prova para resolver. Se não reproduzível fielmente, buscar outra oficial; resumo/link não é exercício. Adaptação só excepcional, rotulada.
+Inéditas com alma Cebraspe: contrastes plausíveis de autoridade, competência, condição, exceção, verbo, prazo, quórum, alcance ou instituto próximo; sem erros óbvios/artificiais, trivia ou malícia excessiva. Gate: testar cada núcleo; comentário repete assertiva e explica decisão.
 
 ## 7. RECUPERAÇÃO ATIVA
 Cobrar conhecimento que gere pontos: regra, contraste, autoridade, condição, exceção, sequência ou caso concreto. Evitar remissões, numeração ou estrutura da apostila sem valor de prova.
@@ -59,7 +56,7 @@ D+1/D+7/D+21 e abertas autossuficientes: cobrar regra, não artigo/página/apost
 
 ## 8. ANKI
 **Baralhos:** `Analista::P1::Const_Regimentos` e `Analista::P2::Proc_Regimentos`; demais conforme Constituição. Sem variantes.
-Por matéria. **Anki prioriza questões reais CESPE/Cebraspe**, literais e sem adaptação: frente com enunciado/comando/texto-base integrais, prova/cargo/ano/item; verso com gabarito definitivo, explicação e fonte. Oficiais válidas, vigentes e aderentes predominam, sem quota/duplicação. Autorais C/E com alma Cebraspe só para lacunas. **CPOL/autores:** também C/E com alma Cebraspe; oficiais primeiro, verso com gabarito, explicação e fonte. Sem ampliar edital.
+Por matéria. **Anki: predomínio numérico de oficiais válidas/aderentes** quando disponíveis, sem duplicação; frente literal integral (comando, texto-base, enunciado, prova/cargo/ano/item); verso C/E com gabarito definitivo, explicação/fonte. Inéditas C/E só em lacunas; CPOL/autores também. Sem ampliar edital.
 **Gate APKG:** edital/valor, gabarito oficial ou decisão justa, fonte, vigência, deduplicação, alma Cebraspe nas inéditas; falha: refazer/excluir. Verso C/E: explicação, contraste, fonte e norma vigente literal (condições/exceções) separada do comentário; omissões de recortes indicadas.
 Normas: selecionar competências, prazos, quóruns, composição, substituição, condições, exceções, consequências e remissões úteis; sem atomizar incisos. Cada cartão justifica custo; reforçar erros/acertos com dúvida sob o gate.
 **Fidelidade normativa:** não trocar `fará/deverá/providenciará/será/extingue-se` por `pode/poderá` (ou inverso) sem respaldo. Preferir `compete`/`é atribuição` se `pode` for ambíguo. Auditar verbo, negação, exceção, autoridade, prazo, quórum, composição e consequência na norma vigente.
