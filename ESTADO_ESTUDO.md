@@ -1,6 +1,12 @@
 # ESTADO OPERACIONAL DE ESTUDOS
 
-Atualizado em: **08/10/2026**
+Atualizado em: **16/10/2026**
+
+## A010 concluída; A011 publicada, aguardando estudo (16/10/2026)
+
+**A010 EXECUTADA:** o candidato declarou a apostila 010 concluída em 16/10/2026, com dois erros na bateria: (1) **CESPE/Câmara 2012, item 116**, gabarito C: emenda de redação é **modificativa**, voltada a sanar vício de linguagem, incorreção de técnica legislativa ou lapso manifesto (RICD 118 §8º); (2) **Inédita I10**, gabarito C: “Não prossiga, pois falta quórum” contém **oração coordenada explicativa**, justificando a ordem, e não conclusão lógica. Ambos devem orientar futura seleção do **APKG único A010**, priorizando questões oficiais aderentes e sem duplicar; **APKG A010 ainda não produzido/importado**. Marcação de estudado confirmada somente para P2 ASR 1.4–1.7 e P1 Português 5.2–5.3. No item P2 PROC 2.1, RICD 111–125 estudado, porém o item integral ainda **parcial**; revisão D+1/D+7, importação Anki e outros exercícios específicos não presumidos.
+
+**A011 PUBLICADA — AGUARDANDO ESTUDO:** PDF canônico de 15 páginas, 6h, planejado para 13/10/2026, publicação em 16/10/2026. Link oficial: https://drive.google.com/file/d/1MAXOoDbIcGcoDZSsWW7vn0oBiFs1KuSV/view ; 132307 bytes; SHA256 8de86ca4b4cb12399f3d887794c7eb316f10f645efa237f94ad2cc0e9b0f3658. Escopo congelado do Mapa: **P2 LING 3.5–3.8** (grupos vocálicos, estrutura/formação, relações lexicais, inferência e organização retórica); **P1 CONST 2 parte A** (CF 1–4, princípios fundamentais; demais direitos fundamentais pendentes); **P2 PROC 2.1 parcial — RICD 126–140** (pareceres, tramitação e distribuição). Inclui D+1 A010 priorizando dois erros reais e D+7 A004, teoria, textos literais CF e RICD, quatro itens oficiais por link ao caderno com gabaritos definitivos (Câmara CESPE 2014 área I 131 C, área V 213 E; TSE Cebraspe 2024 CB2 26 C e 27 E), vinte inéditas C/E discriminativas para núcleos sem oficiais diretamente selecionadas, resoluções que repetem assertiva, 23 perguntas abertas repetidas integralmente nas respostas esperadas (R1–R8, F1–F15), fechamento e leitura dirigida com URLs oficiais. Itens oficiais externos são para resolução diretamente no caderno original para preservar texto-base literal. Conferidos PDF local, 15 páginas, texto extraível, 37 links, integridade e inspeção visual em grade. A011 ainda **NÃO ESTUDADA**; nenhum checkbox novo no Edital Verticalizado, nenhuma revisão realizada nem pacote Anki A011 alegados. RICD 141–155 permanece na A012. Mapa106, Apostilas e Anki e estado atualizados sem remanejamento de cronograma.
 
 ## Norma máxima
 [CONSTITUICAO_PROJETO.md](CONSTITUICAO_PROJETO.md) é a norma máxima.  
