@@ -19,9 +19,9 @@ Hierarquia: **edital/retificações > normas oficiais > CONSTITUICAO_PROJETO.md 
 Nunca use memória para recorte normativo quando houver fonte oficial.
 
 ## 2. EDITAL
-Conteúdo fora do edital não é matéria de prova.
+Fora do edital não cai.
 
-RICD: P1 arts. 1º–24, 65–94, 226–251, 262–273; P2 arts. 25–64, 95–200; arts. 201–225 fora.
+RICD: P1 arts. 1º–24, 65–94, 226–251, 262–273; P2 arts. 25–64, 95–200; arts. 201–225 fora do recorte literal.
 RCCN: P2 arts. 1º–71; P1 Título I e Título IV, caps. II e III, até art. 103.
 
 Recorte RICD ≠ exclusão temática: cruzar todo o edital. Sem ampliar por sequência; `Estudado?` só após cobertura integral. Apoio externo rotulado, sem checkbox.
