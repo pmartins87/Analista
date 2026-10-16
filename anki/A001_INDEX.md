@@ -6,7 +6,7 @@ Escopo: P1 Português 1–2; P2 Linguística 1; RICD arts. 1–15
 
 ## Artefato canônico
 
-- APKG: https://drive.google.com/file/d/166NiSJL0H4h945GPLEC73PVnfNSVnd9Z/view?usp=drivesdk
+- APKG: https://drive.google.com/file/d/1CTNbBzgsiBrcnlYodDcdkHVeLRA4XCPp/view?usp=drivesdk
 - **89 notas / 89 cartões**
 - P1 Português: 6
 - P2 Linguística: 15
@@ -37,3 +37,6 @@ O erro real Q42 (`mais ou menos` ≠ `comedidamente`) foi preservado.
 - frentes únicas: 89/89
 - mídia externa: nenhuma
 - pacote anterior no Drive: marcado como OBSOLETO
+
+## Atualização 15/10/2026
+Pacote corretivo com 89 notas e GUIDs preservados. Nome do baralho P1 normalizado para `Analista::P1::Const_Regimentos`. Somente o nome do deck foi modificado, sem reescrever as 89 questões. Importação no AnkiDroid não confirmada. [Auditoria C/E](AUDITORIA_CEBRASPE_2026-10-15.md).
