@@ -1,6 +1,6 @@
 # A008 — Anki consolidado (12/10/2026)
 
-**ÚNICO PACOTE CANÔNICO PARA IMPORTAÇÃO:** [**A008 — 57 cartões, consolidação completa**](https://drive.google.com/file/d/1wg7-f5FTa3HTuILdEMBwr4mJtwAaGN9E/view).
+**ÚNICO PACOTE CANÔNICO PARA IMPORTAÇÃO:** [**A008 — 57 cartões, consolidação completa**](https://drive.google.com/file/d/1ilFGE8Czdf4Z4bmc9P5y8hoVnASUffH6/view).
 
 **Apostila 008:** concluída pelo candidato em 12/10/2026. [PDF canônico da A008](https://drive.google.com/file/d/1LreiYmgnINPive1z6e39WhZhRU6AmEhK/view). O Anki é separado por matéria; **um único APKG instala/atualiza simultaneamente os três baralhos existentes**, sem criar variantes denominadas A008.
 
@@ -28,3 +28,6 @@ Arquivo `A008_Anki_CONSOLIDADO_Registro_e_Redacao_VALIDADO_2026-10-12.apkg`, **2
 As versões **A008 geral 26** (https://drive.google.com/file/d/1NEpPNYME7qFP4vGYZKzevoh8_0z08g9h/view), **autores v2 15** (https://drive.google.com/file/d/1_mC8dRNPFjwj0W50uJXnwPh-r-G_H2B0/view), **Mill/federação 2** (https://drive.google.com/file/d/1MDc-bafWE0b59eylptyTKqpP5rR63SUB/view) e preliminar 25 são **apenas histórico, NÃO importar separadamente**. Um primeiro envio de 57 cartas foi substituído por ajuste na etiquetagem; usar exclusivamente o link do topo. Em importação no AnkiDroid, conferir eventual atualização dos cartões existentes (GUIDs preservados) e não duplicar por importações repetidas. Importação/sincronização **não foram verificadas**.
 
 **Verticalização:** A008 concluída; P2 PROC2.1 **permanece FALSE** porque ainda existem RICD 111–200 planejados. CPOL3 etc não marcados estudados por terem aparecido em reforço.
+
+## Revisão das frentes em 15/10/2026
+Todas as 17 perguntas diretas (incluindo Mill) foram substituídas por C/E: cinco itens oficiais da Câmara/CESPE (2012 itens 173 E, 177 E; 2014 área XIX itens 120 C, 121 E, 122 C) e 12 assertivas inéditas. Os demais 40 cartões C/E foram mantidos. 57 GUIDs originais preservados; importação e sincronização no dispositivo não verificadas. **Só importar o APKG corrigido cujo link está acima.** [Relatório de auditoria](AUDITORIA_CEBRASPE_2026-10-15.md).
