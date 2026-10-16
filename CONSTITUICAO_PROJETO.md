@@ -432,6 +432,14 @@ Nenhum chat pode inventar uma sequência paralela.
 
 A prova será Cebraspe/Cespe, certo ou errado. O treinamento deve reproduzir isso.
 
+### 5.1.A Predominância REAL de oficiais e treino autossuficiente — vigente a partir do Anki A011 e das apostilas A012+ (16/10/2026)
+
+**Regra aprovada pelo candidato:** priorizar Cebraspe/CESPE é exigência **quantitativa sobre a seleção final** (apostila e APKG) e de qualidade, **não simples ordem de apresentação** dos itens. Pesquisar amplamente Câmara e cargos compatíveis até esgotar o acervo adequado: aproveitar o máximo de itens oficiais válidos, atuais, aderentes e não duplicados, que **devem superar numericamente as inéditas sempre que houver material apto**. Não atingir proporção por filler, questões tangenciais, itens antigos inválidos nem impor porcentagem fixa ou quota artificial. Caso as oficiais permaneçam minoritárias, antes de publicar refazer a pesquisa, documentar provas/anos/temas consultados, **quantidades oficiais e inéditas** e justificar lacunas reais por núcleo. Inéditas apenas para mecanismos relevantes não cobertos, com alma Cebraspe; algumas áreas modernas podem ter acervo escasso, mas isso **não pode ser presumido**. Ordem/mistura na diagramação é livre; não equivale à prioridade.
+
+**Gate operacional de autossuficiência:** a apostila deve ser utilizável sem abrir provas externas para resolver itens individuais, e **cada cartão Anki também**. Para toda questão identificada como oficial, incorporar no **próprio PDF/APKG** a íntegra **literal e conferida** do comando, enunciado e texto-base necessário, além de prova, órgão, cargo, ano, número/item e indicação do gabarito conforme fonte oficial. Links servem **somente para auditoria de fonte**, preferencialmente agrupados, nunca como substituto da questão. Proibidos cartões/questões que resumam o item e obriguem a localizar uma única questão dentro de outro PDF. Se a transcrição íntegra não for viável, procurar outro item oficial apto; não inflar contagem com localizadores, nem chamar adaptação de reprodução literal. **Este gate prevalece prospectivamente sobre permissões antigas de resolver itens apenas por links**.
+
+**Aplicação:** A011 (PDF já publicado) permanece intacta a pedido; sua bateria contém **4 oficiais O1–O4 e 20 inéditas**, sem comprovação de que se esgotou o acervo da banca. Para **Anki A011 (ainda não produzido)** exigir nova pesquisa quantitativa ampla e frente integral autossuficiente. Para os **PDFs A012+** e seus APKGs, aplicar desde a seleção inicial. Ajuste metodológico, sem alterar cronograma, recorte do edital, marcar estudos/revisões nem alegar APKG criado/importado. Excedentes bons seguem ao D+7/D+21/simulados.
+
 ### 5.1 Prioridade
 
 Antes de criar inéditas, fazer **busca ampla e exaustiva**, não apenas suficiente, por questões oficiais Cebraspe/Cespe aderentes ao conteúdo do dia.
