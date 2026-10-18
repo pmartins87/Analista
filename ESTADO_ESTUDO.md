@@ -2,6 +2,14 @@
 
 Atualizado em: **17/10/2026**
 
+## Correção do APKG Teams/Meet após erro de importação (18/10/2026)
+
+**Problema real mostrado pelo estudante no AnkiDroid:** `500: JsonError { info: "decoding decks: JsonError" }` ao importar o APKG consolidado de 47. Diagnóstico da fonte do arquivo: o gerador SQLite próprio omitiu em `col.decks` quatro campos **obrigatórios** do esquema legado 11 Anki: `lrnToday`, `revToday`, `newToday`, `timeToday`. Validação ZIP CRC e `PRAGMA integrity_check` haviam passado erroneamente como suficientes. A falha estava na estrutura do arquivo, não no procedimento do candidato.
+
+**Novo canônico para importar:** `TI_Teams_Meet_CEBRASPE_CONSOLIDADO_CORRIGIDO_2026-10-17.apkg`, **47 cartões C/E preservados** (11 questões de origem Cebraspe, 36 inéditas), **47 GUIDs e IDs originais preservados sem alteração nos enunciados/respostas**, 17.459 bytes, SHA-256 `0d3c56c122cdbf4e9253761f7f3aee457938cb9302afe9f0949add749a6331b7`. ZIP CRC, SQLite e campos obrigatórios `col.decks` e `col.models` checados. O APKG defeituoso `TI_Teams_Meet_CEBRASPE_CONSOLIDADO_2026-10-17.apkg` **está substituído, não importar**; o primeiro APKG de 11 tinha a mesma falha. Novo download foi gerado no chat; **não está no Drive**. **Importação no celular ainda NÃO confirmada** e não presumir revisão. Não criar novo pacote temático nem marcar P1-TI3 como completo: e-mail/webmail ainda pendentes. Índice vivo: [TI Teams Meet](anki/TI_TEAMS_MEET_ANTECIPACAO_2026-10-17_INDEX.md).
+
+**Critério de qualidade futuro:** validar obrigatoriamente esquema de `col.decks` e `col.models`, além de ZIP, SQLite, GUIDs e conteúdo (esquema oficial Anki11). Não alegar compatibilidade AnkiDroid sem teste de importação relatado. Corrigir geração material, preservando GUIDs.
+
 ## APKG Teams/Meet consolidado — substituição da base de 11 cartões (17/10/2026)
 
 Substituído o pacote inicial de 11 por **TI_Teams_Meet_CEBRASPE_CONSOLIDADO_2026-10-17.apkg**, **47 cartões C/E** (11 oficiais CESPE/Cebraspe; 36 inéditas), baralho **Analista::P1::TI**. Foram preservados **todos os 11 GUIDs originais**, adicionados 4 oficiais e 32 inéditas. 10 questões reais possuem gabarito definitivo bancário verificado; TCE/RN Arquivologia 2026 item 21 C tem **somente conferência secundária**, advertida no verso; o gabarito definitivo bancário publicamente localizado contém itens 51–120 e não 21. Todas as oficiais com comando e enunciado integrais. **Arquivo APKG entregue no chat, não enviado ao Google Drive; não afirmar importação no AnkiDroid.** 47 GUIDs, ZIP CRC OK, SQLite integrity_check OK, SHA256 `b70fd86c364e21e4f21c263dc2a6b977ee4ff3e6d8cac34538230d37b29f75ed`; índice vivo: [TI Teams e Meet](anki/TI_TEAMS_MEET_ANTECIPACAO_2026-10-17_INDEX.md).
