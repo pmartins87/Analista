@@ -1,30 +1,37 @@
-# Microsoft Teams e Google Meet — Anki antecipado | 17/10/2026
+# P1 TI3 — Teams e Google Meet | Índice canônico vivo | 17/10/2026
 
-**Escopo:** edital do cargo 11, P1 Tecnologia da Informação e Dados, item 3, **somente Microsoft Teams e Google Meet**. O mesmo item também inclui correio eletrônico (webmail e cliente), **ainda não coberto por este pacote**. Estudo de vídeos Gran informado pelo candidato em 17/10/2026; **não marcar P1-TI 3 como estudado integralmente, nem A013 como concluída**.
+## Pacote consolidado atual — SUBSTITUI os 11 cartões anteriores
 
-**Pacote canônico antecipado:** `TI_Teams_Google_Meet_Cebraspe_2026-10-17.apkg`; **11 cartões C/E** (7 oficiais CESPE/Cebraspe com gabaritos definitivos + 4 inéditas de lacunas no Google Meet). Baralho `Analista::P1::TI`. SHA-256 `2b0019b793083153cb9f29d334106e5a2f26a394beabef486685d65cb247dddd`, 7.134 bytes. SQLite integrity_check `ok`, ZIP CRC `ok`; 11 GUIDs distintos. Alternativa TSV do mesmo conteúdo. O arquivo foi gerado e disponibilizado **na conversa de 17/10/2026**; **não foi enviado ao Google Drive, nem importado no AnkiDroid**. Não inventar link de Drive.
+**Artefato:** `TI_Teams_Meet_CEBRASPE_CONSOLIDADO_2026-10-17.apkg` (disponibilizado no chat; **ainda não enviado ao Drive**). Alternativa TSV de mesmo nome. **Importar somente um dos dois formatos.**
 
-## Questões oficiais integrais e fontes
+**47 cartões C/E:** 11 itens realmente CESPE/Cebraspe (10 com gabaritos definitivos verificados na banca; 1 com resposta C conferida apenas em banco secundário, portanto explicitamente ressalvada no verso) + 36 inéditas C/E. Composição: 7 oficiais + 4 inéditas do pacote inicial **preservadas com GUIDs/IDs originais**, somadas a 4 itens oficiais e 32 inéditas da pesquisa complementar. Sem duplicação textual interna; o pacote anterior de 11 foi substituído, não deve ser importado à parte.
 
-Todas as sete frentes contêm o comando, a assertiva literal e identificação de prova/cargo/ano/item; verso com gabarito definitivo, comentário/discriminação e links de prova + gabarito.
+**Técnica:** 17.406 bytes, SHA256 `b70fd86c364e21e4f21c263dc2a6b977ee4ff3e6d8cac34538230d37b29f75ed`; ZIP CRC `ok`; SQLite integrity_check `ok`; **47 GUIDs distintos**, incluindo integralmente os 11 GUIDs prévios. Baralho `Analista::P1::TI`. Frente oficial contém comando integral, assertiva integral, prova, cargo, ano/item; verso C/E, análise de julgamento, contraste e links de fonte. Os inéditos são identificados como tal e trazem links ao suporte de fabricante.
 
-1. Câmara dos Deputados/Cebraspe 2026 — Analista Legislativo Processo Legislativo e Gestão, item 168, **C**: [prova](https://cdn.cebraspe.org.br/concursos/cd_25_ns/arquivos/B2488E2CFFA8DFA75CFAE86B83860AACDF488497CC3A9C4E33E11FF7121A8490.pdf), [definitivo](https://cdn.cebraspe.org.br/concursos/cd_25_ns/arquivos/E01DCB982BAA0FA752C2FEA22CBFB4A0F40965D309F70984B1E43BDAE0C78BDA.pdf). Compartilhamento e coedição Excel/PowerPoint/Word no Teams.
-2. CAU/BR/Cebraspe 2024 — Assistente em TI, item 119, **E**: [prova](https://cdn.cebraspe.org.br/concursos/cau_br_23/arquivos/921_CAU_BR_010_01.PDF), [definitivo](https://cdn.cebraspe.org.br/concursos/cau_br_23/arquivos/GAB_DEFINITIVO_921_CAU_BR_010_01.PDF). Integração Trello ≠ conversão automática de conversas.
-3. CAU/BR/Cebraspe 2024 — Assistente em TI, item 120, **C**: mesmos documentos oficiais do item anterior. Threads de postagens no Teams.
-4. FNDE/Cebraspe 2023 — Especialista em Financiamento e Execução de Programas e Projetos Educacionais, item 41, **E**: [prova](https://cdn.cebraspe.org.br/concursos/fnde_23_especialista/arquivos/913_FNDE_CB1_01.PDF), [definitivo](https://cdn.cebraspe.org.br/concursos/fnde_23_especialista/arquivos/GAB_DEFINITIVO_913_FNDE_CB1_01.PDF). Falso limite universal de dez participantes.
-5. FUB/UnB/Cebraspe 2025 — caderno CB1, item 35, **E**: [prova](https://cdn.cebraspe.org.br/concursos/fub_25/arquivos/088_FUB_CB1_01.pdf), [definitivo](https://cdn.cebraspe.org.br/concursos/fub_25/arquivos/Gab_Definitivo_088_FUB_CB1_01.pdf). Marcar importante ≠ fixar mensagem.
-6. FUB/UnB/Cebraspe 2025 — Técnico em TI caderno CB4, item 32, **E**: [prova](https://cdn.cebraspe.org.br/concursos/FUB_25/arquivos/088_FUB_CB4_01.pdf), [definitivo](https://cdn.cebraspe.org.br/concursos/FUB_25/arquivos/Gab_Definitivo_088_FUB_CB4_01.pdf). Armazenamento gravação Teams em OneDrive/SharePoint.
-7. STJ/Cebraspe 2024 — Analista Judiciário CB1, item 48, **C**: [prova](https://cdn.cebraspe.org.br/concursos/stj_24/arquivos/018_STJ_CB1_01.PDF), [definitivo](https://cdn.cebraspe.org.br/concursos/stj_24/arquivos/GAB_DEFINITIVO_018_STJ_CB1_01.PDF). Disponibilização gravação via chat/OneDrive no cenário avaliado. **Não confundir com itens 49/50 anulados nem duplicar item idêntico de outros cadernos.** Ressalvar que gravações de reuniões em canal podem usar SharePoint.
+**Limitação importante:** um APKG diferente do outro chat, chamado `Anki_Teams_Google_Meet_P1_TI3_APKG.apkg` (35 inéditas), não foi localizado nos arquivos acessíveis ou no Drive. **Não se deve afirmar que esse APKG foi realmente fundido, nem que seus GUIDs foram preservados.** As lacunas de Teams/Meet que ele possivelmente cobria foram reavaliadas com o material Gran (88 capturas) e fontes de produto; 32 inéditas novas foram acrescentadas sob critério de relevância. Se o usuário disponibilizar o original de 35, realizar auditoria semântica e fusão preservando seus GUIDs, sem duplicar.
 
-## Quatro inéditas — lacunas Google Meet
+## Questões oficiais selecionadas (11)
 
-- Participação sem Conta do Google condicionada a autorização/políticas — C.
-- Link não garante ingresso automático com controles de acesso — E.
-- Gravação não é recurso universal e irrestrito de contas gratuitas — E.
-- Compartilhamento de guia, janela ou tela inteira — C.
+| Concurso | Prova/ano/item | C/E | Fonte primária e gabarito |
+|---|---|---|---|
+| Câmara dos Deputados | Analista Legislativo, Processo Legislativo e Gestão, 2026, 168 | C | [caderno](https://cdn.cebraspe.org.br/concursos/cd_25_ns/arquivos/B2488E2CFFA8DFA75CFAE86B83860AACDF488497CC3A9C4E33E11FF7121A8490.pdf) / [definitivo](https://cdn.cebraspe.org.br/concursos/cd_25_ns/arquivos/E01DCB982BAA0FA752C2FEA22CBFB4A0F40965D309F70984B1E43BDAE0C78BDA.pdf) |
+| CAU/BR | TI, 2024, 119 | E | [caderno](https://cdn.cebraspe.org.br/concursos/cau_br_23/arquivos/921_CAU_BR_010_01.PDF) / [definitivo](https://cdn.cebraspe.org.br/concursos/cau_br_23/arquivos/GAB_DEFINITIVO_921_CAU_BR_010_01.PDF) |
+| CAU/BR | TI, 2024, 120 | C | caderno/gabarito da linha anterior |
+| FNDE | Especialista, 2023, 41 | E | [caderno](https://cdn.cebraspe.org.br/concursos/fnde_23_especialista/arquivos/913_FNDE_CB1_01.PDF) / [definitivo](https://cdn.cebraspe.org.br/concursos/fnde_23_especialista/arquivos/GAB_DEFINITIVO_913_FNDE_CB1_01.PDF) |
+| FUB/UnB | CB1, 2025, 35 | E | [caderno](https://cdn.cebraspe.org.br/concursos/fub_25/arquivos/088_FUB_CB1_01.pdf) / [definitivo](https://cdn.cebraspe.org.br/concursos/fub_25/arquivos/Gab_Definitivo_088_FUB_CB1_01.pdf) |
+| FUB/UnB | CB4, 2025, 32 | E | [caderno](https://cdn.cebraspe.org.br/concursos/FUB_25/arquivos/088_FUB_CB4_01.pdf) / [definitivo](https://cdn.cebraspe.org.br/concursos/FUB_25/arquivos/Gab_Definitivo_088_FUB_CB4_01.pdf) |
+| STJ | Analista Judiciário, CB1, 2024, 48 | C | [caderno](https://cdn.cebraspe.org.br/concursos/stj_24/arquivos/018_STJ_CB1_01.PDF) / [definitivo](https://cdn.cebraspe.org.br/concursos/stj_24/arquivos/GAB_DEFINITIVO_018_STJ_CB1_01.PDF) |
+| STJ | Analista Judiciário, CB1, 2024, 47 | C | caderno/gabarito da linha anterior |
+| Câmara Municipal de Maceió/AL | CB2, 2024, 25 | E | [caderno](https://cdn.cebraspe.org.br/concursos/camara_municipal_maceio_24/arquivos/972_CAMARA_MACEIO_CB2_01.PDF) / [definitivo](https://cdn.cebraspe.org.br/concursos/camara_municipal_maceio_24/arquivos/GAB_DEFINITIVO_972_CAMARA_MACEIO_CB2_01.PDF) |
+| SEE/PE | Conhecimentos gerais, 2022, 46 | E | [caderno](https://cdn.cebraspe.org.br/concursos/see_pe_22_educacao_basica/arquivos/714_SEE_PE_CG1_01.PDF) / [definitivo](https://cdn.cebraspe.org.br/concursos/see_pe_22_educacao_basica/arquivos/GAB_DEFINITIVO_714_SEE_PE_CG1_01.PDF) |
+| TCE/RN | Analista Administrativo Arquivologia, 2026, 21 | C¹ | [caderno](https://cdn.cebraspe.org.br/concursos/tce_rn_25/arquivos/ED8518BD51BAD9A2B1B81E90E0F8A6D26AD846B7FD2B3B3BCC0D4DEB6DF415DE.pdf) / [gabarito secundário](https://www.qconcursos.com/questoes-de-concursos/provas/cespe-cebraspe-2026-tce-rn-analista-administrativo-especialidade-arquivologia/questoes?page=2) |
 
-Fontes de verificação das inéditas: [entrada/contas e restrições](https://support.google.com/meet/answer/9303069?hl=pt-BR), [recursos por plano](https://support.google.com/meet/answer/13396001?hl=pt-BR), [apresentar conteúdo](https://support.google.com/a/users/answer/9850339?hl=pt-br).
+¹ O gabarito definitivo público encontrado para TCE/RN cargo 1 tem apenas itens 51–120 ([PDF](https://cdn.cebraspe.org.br/concursos/tce_rn_25/arquivos/5D5C51F9015303C2FA5C127D43C75FD29611FBA39832986EA9E08E6309DF6AC5.pdf)), não inclui a questão 21 de informática. Portanto, não alegar confirmação primária do item 21 nem elevar o grau de certeza. Se houver divergência posterior, retificar o cartão e preservar GUID.
 
-## Integração com a A013 e controles
+**Cobertura inédita após seleção oficial:** tipos de canais padrão/privado/compartilhado, papéis e acesso, chats versus equipe/canal, lobby, reunião/web, microfone, controle compartilhado, coedição, arquivos/permissões e gravações Teams; no Meet, acesso/contas/host, agenda, dispositivos, chat, levantar mão, apresentação, legendas, transcrição/ata, gravação conforme plano, salas em grupo e restrições de participantes. Evitar decorar limites voláteis de planos sem relevância.
 
-O planejamento original da A013 permanece íntegro. Quando A013 vier a ser estudada, **reutilizar/reconciliar** estes 11 cartões, conferir duplicações e criar somente incrementos realmente necessários, sobretudo webmail/cliente de e-mail e eventual conteúdo de TI 2–2.1. O item P1-TI 3 e a A013 seguem **não concluídos**. Sem afirmar download, importação/sincronização nem revisões D+.
+## Estado e integração no planejamento
+
+O edital **P1 Tecnologia da Informação e Dados, item 3** abrange correio eletrônico (**webmail e clientes**) **além** de Teams e Meet. Os estudos Gran de Teams/Meet ocorreram, mas o **item 3 ainda é parcial**. Permanecem **Estudado?=FALSE** e **Anki?=FALSE para o item integral**, apesar do pacote antecipado. **A013 ainda é planejada** e seu APKG futuro deve incorporar/reconciliar os GUIDs desta versão, não reimportar pacote de 11. Revisões D+1/D+7/D+21 e sincronização no AnkiDroid não presumidas.
+
+**Histórico:** versão de 11 cartões de 17/10/2026, SHA `2b0019b793083153cb9f29d334106e5a2f26a394beabef486685d65cb247dddd`, **substituída** pela versão de 47 cartões acima.
