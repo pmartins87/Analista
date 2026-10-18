@@ -2,6 +2,12 @@
 
 Atualizado em: **17/10/2026**
 
+## APKG Teams/Meet consolidado — substituição da base de 11 cartões (17/10/2026)
+
+Substituído o pacote inicial de 11 por **TI_Teams_Meet_CEBRASPE_CONSOLIDADO_2026-10-17.apkg**, **47 cartões C/E** (11 oficiais CESPE/Cebraspe; 36 inéditas), baralho **Analista::P1::TI**. Foram preservados **todos os 11 GUIDs originais**, adicionados 4 oficiais e 32 inéditas. 10 questões reais possuem gabarito definitivo bancário verificado; TCE/RN Arquivologia 2026 item 21 C tem **somente conferência secundária**, advertida no verso; o gabarito definitivo bancário publicamente localizado contém itens 51–120 e não 21. Todas as oficiais com comando e enunciado integrais. **Arquivo APKG entregue no chat, não enviado ao Google Drive; não afirmar importação no AnkiDroid.** 47 GUIDs, ZIP CRC OK, SQLite integrity_check OK, SHA256 `b70fd86c364e21e4f21c263dc2a6b977ee4ff3e6d8cac34538230d37b29f75ed`; índice vivo: [TI Teams e Meet](anki/TI_TEAMS_MEET_ANTECIPACAO_2026-10-17_INDEX.md).
+
+**O APKG de 35 inéditas do outro chat não pôde ser recuperado** — não alegar fusão nem GUIDs preservados daquela coleção; lacunas temáticas reavaliadas, com 32 inéditas novas. Se a coleção anterior surgir, confrontar antes de importar e deduplicar. **P1-TI3 segue PARCIAL** (webmail e cliente de e-mail pendentes); checkbox de conclusão do item e A013 permanecem não concluídos, sem revisões realizadas presumidas. Planilha foi atualizada com o pacote novo e status parcial.
+
 ## Teams e Google Meet — Anki antecipado P1 TI 3 (17/10/2026)
 
 Após assistir aos vídeos Gran sobre Microsoft Teams e Google Meet, candidato solicitou APKG com foco em questões reais da banca. Pacote criado no chat: **TI_Teams_Google_Meet_Cebraspe_2026-10-17.apkg**, **11 cartões** C/E, 7 oficiais CESPE/Cebraspe literais (Câmara/2026 item 168 C; CAU/2024 itens 119 E e 120 C; FNDE/2023 item 41 E; FUB/2025 CB1 item35 E e CB4 item32 E; STJ/2024 CB1 item48 C), todos com gabarito definitivo conferido, e 4 inéditas sobre Google Meet. Frente oficial com comando, texto da questão e prova/cargo/ano/item, verso com comentário e fontes. Baralho **Analista::P1::TI**. APKG ZIP CRC e SQLite integridade OK, 11 GUIDs distintos, 7.134 bytes, SHA-256 `2b0019b793083153cb9f29d334106e5a2f26a394beabef486685d65cb247dddd`. TSV alternativo no chat. Índice: [TI Teams Meet](anki/TI_TEAMS_MEET_ANTECIPACAO_2026-10-17_INDEX.md). **Não houve publicação do APKG no Drive nem importação/sincronização no aparelho.**
