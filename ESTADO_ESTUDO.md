@@ -1,5 +1,10 @@
 # ESTADO OPERACIONAL DE ESTUDOS
 
+## Correção material A013 — SMTP/IMAP/POP3 — 18/10/2026
+
+O candidato relatou leitura da A013 e ausência de compreensão das siglas SMTP, IMAP, POP3, seu significado e aplicação. Auditoria das páginas 8–9: descreviam os protocolos nominalmente, mas sem expandir nomes, apresentar trajetória completa do e-mail e demonstrar o comportamento de ler/apagar mensagens no celular e notebook. Falha real do **gate didático**, não simples dificuldade do candidato. **PDF canônico SUBSTITUÍDO por versão ampliada em reparo material:** https://drive.google.com/file/d/1y7iw_BZNsTnaIRQfPaR7wh50YPNfTe4J/view ; 26 páginas: 23 originais preservadas e 3 complementos didáticos 6.A/6.B/6.C intercalados após p.9 do original, antes de RICD. O reparo explica siglas por extenso, SMTP envio/transferência, IMAP acesso e sincronização de caixa, POP3 recuperação de mensagens (cópia opcional no servidor), distinção HTTPS da interface de webmail, exemplos de Outlook/Gmail/celular e quatro inéditas AE1–AE4 com gabaritos comentados. Normas RFC 5321, 9051, 1939 conferidas; conteúdo novo não amplia edital, apenas ensina P1 TI3. Artefato local 176.400 bytes e SHA256 `983966aa02439584eb4288c3a92453ef7b0199500ac00a7551417e8071e6a29d`; arquivo publicado e conferido no Drive (metadados reportaram 201.353 bytes na versão do Drive, não presumir igualdade de bytes). PDF de 23 páginas vinculado antes (https://drive.google.com/file/d/1ioSQH8ZLql7y8HKSf4Zkcps8Y7Z754D-/view) **substituído para estudo**, mas não excluído. As questões anteriores, seus gabaritos e a estrutura da A013 foram preservados. A013 foi lida parcialmente; **não foi declarada concluída**. Sem checkbox, sem marcar revisões/Anki A013 concluídos. Critério prospectivo reforçado: sigla precisa significado, mecanismo e uso prático antes das questões, não mera enumeração.
+
+
 Atualizado em: **17/10/2026**
 
 ## Dúvida real — CAU/BR 2024 item 119: Trello no Teams (18/10/2026)
