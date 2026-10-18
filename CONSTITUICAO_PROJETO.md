@@ -428,6 +428,8 @@ Nenhum chat pode inventar uma sequência paralela.
 
 ---
 
+**Gate didático reforçado A013+ (17/10/2026):** os erros oficiais da A012 (O1/O3/O4/O6/O9) e dúvidas I5/I6 evidenciaram teoria superficial e insuficiente para resolver questões. **Antes de publicar**, testar cada questão oficial selecionada contra a teoria efetivamente entregue: caso concreto, termos, mecanismo, autoridade, fase, condição, prazo/quórum, exceção, efeito e recorte literal da fonte. Se o candidato não conseguir deduzir a decisão com o que a apostila ensinou, aprofundar ou substituir a questão. Comentário deve repetir assertiva e isolar a palavra/fase/competência decisiva. Não imputar ao aluno lacuna criada pelo material, nem alongar por volume; prioridade é conversão em pontos. Aplicação prospectiva, sem reemitir A012 concluída por estilo.
+
 ## 5. QUESTÕES — CENTRO DO MÉTODO
 
 A prova será Cebraspe/Cespe, certo ou errado. O treinamento deve reproduzir isso.
