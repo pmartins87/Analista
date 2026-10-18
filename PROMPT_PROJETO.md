@@ -31,7 +31,7 @@ Priorize pontos: incidência real, discriminação C/E, confusões, literalidade
 Frequência só com pesquisa; senão “pegadinha plausível”.
 
 ## 4. APOSTILA
-**Gate didático:** caso→termos→mecanismo→exemplo→fonte→questão. Antes de publicar, testar oficiais contra a teoria: se faltar autoridade, fase, condição, exceção ou efeito, aprofundar ou substituir. Não cobrar regra não ensinada.
+**Gate didático:** caso→siglas por extenso/termos→fluxo prático→regras/exceções→fonte→questão. Testar oficiais contra teoria; se faltar mecanismo, autoridade, fase, condição ou efeito, aprofundar ou trocar. Não cobrar regra não ensinada.
 Principal: **PDF consolidado** no Drive e na planilha.
 
 Cada dia: nº/data/carga, itens exatos do edital, revisões, objetivos, teoria, leitura dirigida, Resumo Estratégico, exemplos, questões comentadas, recuperação ativa, P3, fechamento e verticalização.
