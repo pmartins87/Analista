@@ -1,12 +1,12 @@
 # P1 TI3 — Teams e Google Meet | Índice canônico vivo | 17/10/2026
 
-## Pacote consolidado atual — SUBSTITUI os 11 cartões anteriores
+## APKG CORRIGIDO — versão válida para nova tentativa de importação
 
-**Artefato:** `TI_Teams_Meet_CEBRASPE_CONSOLIDADO_2026-10-17.apkg` (disponibilizado no chat; **ainda não enviado ao Drive**). Alternativa TSV de mesmo nome. **Importar somente um dos dois formatos.**
+**APKG ATUAL:** `TI_Teams_Meet_CEBRASPE_CONSOLIDADO_CORRIGIDO_2026-10-17.apkg`, disponibilizado no chat em 18/10/2026 (horário local); **não foi enviado ao Drive**. TSV permanece opção apenas para importar no Anki desktop, não diretamente no AnkiDroid. **Não importar** os APKGs anteriores com nomes `TI_Teams_Meet_CEBRASPE_CONSOLIDADO_2026-10-17.apkg` e `TI_Teams_Google_Meet_Cebraspe_2026-10-17.apkg`: ambos continham metadados de baralho inválidos e geravam erro `500: decoding decks: JsonError`. A importação do arquivo corrigido em aparelho real **ainda não foi confirmada**.
 
 **47 cartões C/E:** 11 itens realmente CESPE/Cebraspe (10 com gabaritos definitivos verificados na banca; 1 com resposta C conferida apenas em banco secundário, portanto explicitamente ressalvada no verso) + 36 inéditas C/E. Composição: 7 oficiais + 4 inéditas do pacote inicial **preservadas com GUIDs/IDs originais**, somadas a 4 itens oficiais e 32 inéditas da pesquisa complementar. Sem duplicação textual interna; o pacote anterior de 11 foi substituído, não deve ser importado à parte.
 
-**Técnica:** 17.406 bytes, SHA256 `b70fd86c364e21e4f21c263dc2a6b977ee4ff3e6d8cac34538230d37b29f75ed`; ZIP CRC `ok`; SQLite integrity_check `ok`; **47 GUIDs distintos**, incluindo integralmente os 11 GUIDs prévios. Baralho `Analista::P1::TI`. Frente oficial contém comando integral, assertiva integral, prova, cargo, ano/item; verso C/E, análise de julgamento, contraste e links de fonte. Os inéditos são identificados como tal e trazem links ao suporte de fabricante.
+**Técnica — APKG corrigido:** 17.459 bytes, SHA256 `0d3c56c122cdbf4e9253761f7f3aee457938cb9302afe9f0949add749a6331b7`; ZIP CRC `ok`; SQLite integrity_check `ok`; metadados de cada deck conferidos com o esquema 11 do Anki, incluindo `lrnToday`, `revToday`, `newToday`, `timeToday`; **47 GUIDs distintos**, incluindo integralmente os 11 GUIDs prévios. Baralho `Analista::P1::TI`. Frente oficial contém comando integral, assertiva integral, prova, cargo, ano/item; verso C/E, análise de julgamento, contraste e links de fonte. Os inéditos são identificados como tal e trazem links ao suporte de fabricante.
 
 **Limitação importante:** um APKG diferente do outro chat, chamado `Anki_Teams_Google_Meet_P1_TI3_APKG.apkg` (35 inéditas), não foi localizado nos arquivos acessíveis ou no Drive. **Não se deve afirmar que esse APKG foi realmente fundido, nem que seus GUIDs foram preservados.** As lacunas de Teams/Meet que ele possivelmente cobria foram reavaliadas com o material Gran (88 capturas) e fontes de produto; 32 inéditas novas foram acrescentadas sob critério de relevância. Se o usuário disponibilizar o original de 35, realizar auditoria semântica e fusão preservando seus GUIDs, sem duplicar.
 
@@ -35,3 +35,13 @@
 O edital **P1 Tecnologia da Informação e Dados, item 3** abrange correio eletrônico (**webmail e clientes**) **além** de Teams e Meet. Os estudos Gran de Teams/Meet ocorreram, mas o **item 3 ainda é parcial**. Permanecem **Estudado?=FALSE** e **Anki?=FALSE para o item integral**, apesar do pacote antecipado. **A013 ainda é planejada** e seu APKG futuro deve incorporar/reconciliar os GUIDs desta versão, não reimportar pacote de 11. Revisões D+1/D+7/D+21 e sincronização no AnkiDroid não presumidas.
 
 **Histórico:** versão de 11 cartões de 17/10/2026, SHA `2b0019b793083153cb9f29d334106e5a2f26a394beabef486685d65cb247dddd`, **substituída** pela versão de 47 cartões acima.
+
+## Correção do erro de importação (18/10/2026)
+
+O estudante mostrou a tela do AnkiDroid com `500: JsonError { info: "decoding decks: JsonError" }`. **Causa material comprovada:** a ferramenta geradora manual escreveu `col.decks` sem os quatro campos diários obrigatórios no schema 11 do Anki (`lrnToday`, `revToday`, `newToday`, `timeToday`), em ambos os baralhos JSON (`Default` e `Analista::P1::TI`). JSON sintaticamente válido e SQLite íntegro **não** significam aderência ao esquema de importação.
+
+**Solução:** inserir as quatro propriedades como matrizes `[0,0]` em cada deck, preservando **integralmente** as 47 notas, GUIDs, IDs, texto, modelo e posições dos cartões. ZIP CRC e integridade SQLite revalidados; os campos obrigatórios dos modelos também auditados. O APKG com erro não deve voltar a ser divulgado ou importado. **Não alegar confirmação em AnkiDroid antes de retorno do usuário.**
+
+**Gate prospectivo para APKGs:** antes de disponibilizar pacote SQLite legado, validar não só ZIP/SQLite/contagens/guids, mas **schema JSON** de `col.decks` e `col.models` incluindo campos obrigatórios, conforme [código oficial Anki — schema11 de decks](https://github.com/ankitects/anki/blob/main/rslib/src/decks/schema11.rs) e [notetype](https://github.com/ankitects/anki/blob/main/rslib/src/notetype/schema11.rs). Se possível, usar pacote exportado pela própria implementação Anki em vez de construir JSON manualmente.
+
+**Histórico do erro:** APKG anterior `TI_Teams_Meet_CEBRASPE_CONSOLIDADO_2026-10-17.apkg`, 17.406 bytes, SHA `b70fd86c364e21e4f21c263dc2a6b977ee4ff3e6d8cac34538230d37b29f75ed`, foi **substituído por defeito material de importação**. A versão de 11 cartões também apresentava a mesma omissão estrutural e não deve ser reaproveitada sem reparo.
