@@ -1,6 +1,12 @@
 # ESTADO OPERACIONAL DE ESTUDOS
 
-Atualizado em: **16/10/2026**
+Atualizado em: **17/10/2026**
+
+## Teams e Google Meet — Anki antecipado P1 TI 3 (17/10/2026)
+
+Após assistir aos vídeos Gran sobre Microsoft Teams e Google Meet, candidato solicitou APKG com foco em questões reais da banca. Pacote criado no chat: **TI_Teams_Google_Meet_Cebraspe_2026-10-17.apkg**, **11 cartões** C/E, 7 oficiais CESPE/Cebraspe literais (Câmara/2026 item 168 C; CAU/2024 itens 119 E e 120 C; FNDE/2023 item 41 E; FUB/2025 CB1 item35 E e CB4 item32 E; STJ/2024 CB1 item48 C), todos com gabarito definitivo conferido, e 4 inéditas sobre Google Meet. Frente oficial com comando, texto da questão e prova/cargo/ano/item, verso com comentário e fontes. Baralho **Analista::P1::TI**. APKG ZIP CRC e SQLite integridade OK, 11 GUIDs distintos, 7.134 bytes, SHA-256 `2b0019b793083153cb9f29d334106e5a2f26a394beabef486685d65cb247dddd`. TSV alternativo no chat. Índice: [TI Teams Meet](anki/TI_TEAMS_MEET_ANTECIPACAO_2026-10-17_INDEX.md). **Não houve publicação do APKG no Drive nem importação/sincronização no aparelho.**
+
+Este pacote cobre **somente Teams/Meet** do item P1-TI 3. O mesmo item exige correio eletrônico (webmail e cliente), ainda pendente. Por isso, **P1-TI3 não pode ser marcado estudado integralmente, nem Anki do item integral como concluído; A013 permanece planejada**. A013 futura deve reaproveitar/deduplicar os cartões oficiais e completar demais tópicos do dia. Notas adicionadas à verticalização TI3, Mapa106 A013, Apostilas e Anki A013 e Materiais, sem mudança do roadmap.
 
 ## A012 — erros reais em MP O1 e O3 e lacuna didática (17/10/2026)
 
