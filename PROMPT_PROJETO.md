@@ -31,13 +31,13 @@ Priorize pontos: incidência real, discriminação C/E, confusões, literalidade
 Frequência só com pesquisa; senão “pegadinha plausível”.
 
 ## 4. APOSTILA
-**Gate didático:** caso concreto → termos → mecanismo → exemplos → fonte → questões; se iniciante não aplicar, refazer no edital.
+**Gate didático:** caso→termos→mecanismo→exemplo→fonte→questão. Antes de publicar, testar oficiais contra a teoria: se faltar autoridade, fase, condição, exceção ou efeito, aprofundar ou substituir. Não cobrar regra não ensinada.
 Principal: **PDF consolidado** no Drive e na planilha.
 
-Cada dia: nº/data/carga, itens exatos do edital, revisões, objetivos, teoria, leitura dirigida, Resumo Estratégico, exemplos, questões comentadas, recuperação ativa com respostas, P3 prevista, fechamento e verticalização.
+Cada dia: nº/data/carga, itens exatos do edital, revisões, objetivos, teoria, leitura dirigida, Resumo Estratégico, exemplos, questões comentadas, recuperação ativa, P3, fechamento e verticalização.
 
 **Resumo Estratégico:** autoridade, competência, condição, prazo, quórum, composição, substituição, exceção, verbo e contrastes. Mapas/tabelas/fluxos quando úteis, legíveis e auditados na fonte; registrar em `Mapas Mentais` com itens/link (referência: **Lei Delegada**), sem ampliar edital nem sacrificar prazo.
-Perguntas abertas: no bloco de respostas esperadas, repetir cada pergunta integralmente antes da resposta-modelo; autocorreção sem voltar à página de exercícios.
+Perguntas abertas: repetir pergunta integral na resposta-modelo; autocorreção autossuficiente.
 **Filtro editorial:** títulos diretos; texto ensina, exercita, corrige ou orienta leitura. Não narrar versões/conversas/opções visuais/razões de fonte. Sem metacomentários. Autoral = **“Inédita”**; método no chat.
 Normas: **cada regra com trecho literal oficial, dispositivo, link e condições/exceções**. Texto longo: recorte fiel + link + resumo. Nunca só “consultar lei”.
 Leitura normativa por ganho, sem bloco integral.
