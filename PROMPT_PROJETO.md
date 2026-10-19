@@ -15,7 +15,7 @@ Antes de estudo, apostila, questões, Anki, discursiva ou simulado:
 3. leia a apostila canônica, se houver;
 4. confira edital/retificações e normas oficiais vigentes.
 
-Hierarquia: **edital/retificações > normas oficiais > CONSTITUICAO_PROJETO.md > Edital Verticalizado > Mapa 106 > apostila > Anki > auxiliares.**
+Hierarquia: **edital/retificações > normas oficiais > Constituição > Edital Verticalizado > Mapa 106 > apostila > Anki > auxiliares.**
 Nunca use memória para recorte normativo quando houver fonte oficial.
 
 ## 2. EDITAL
@@ -31,14 +31,14 @@ Priorize pontos: incidência real, discriminação C/E, confusões, literalidade
 Frequência só com pesquisa; senão “pegadinha plausível”.
 
 ## 4. APOSTILA
-**Gate didático:** caso→siglas por extenso/termos→fluxo prático→regras/exceções→fonte→questão. Testar oficiais contra teoria; se faltar mecanismo, autoridade, fase, condição ou efeito, aprofundar ou trocar. Não cobrar regra não ensinada.
+**Gate didático:** caso→siglas/termos por extenso→fluxo prático→regras/exceções→fonte→questão. Testar oficiais contra teoria; faltando mecanismo, autoridade, fase, condição ou efeito, aprofundar/trocar. Não cobrar regra não ensinada.
 Principal: **PDF consolidado** no Drive e na planilha.
 
-Cada dia: nº/data/carga, itens exatos do edital, revisões, objetivos, teoria, leitura dirigida, Resumo Estratégico, exemplos, questões comentadas, recuperação ativa, P3, fechamento e verticalização.
+Cada dia: nº/data/carga, itens exatos do edital, revisões, objetivos, teoria, leitura dirigida, Resumo Estratégico, exemplos, questões comentadas, recuperação ativa, P3 e verticalização.
 
-**Resumo Estratégico:** autoridade, competência, condição, prazo, quórum, composição, substituição, exceção, verbo e contrastes. Mapas/tabelas/fluxos quando úteis, legíveis e auditados na fonte; registrar em `Mapas Mentais` com itens/link (referência: **Lei Delegada**), sem ampliar edital nem sacrificar prazo.
+**Resumo Estratégico:** autoridade, competência, condição, prazo, quórum, composição, substituição, exceção, verbo e contrastes. Mapas/tabelas/fluxos úteis, legíveis, auditados na fonte; registrar em `Mapas Mentais` com itens/link (referência: **Lei Delegada**), sem ampliar edital nem sacrificar prazo.
 Perguntas abertas: repetir pergunta integral na resposta-modelo; autocorreção autossuficiente.
-**Filtro editorial:** títulos diretos; texto ensina, exercita, corrige ou orienta leitura. Não narrar versões/conversas/opções visuais/razões de fonte. Sem metacomentários. Autoral = **“Inédita”**; método no chat.
+**Ensino afirmativo:** conceito, função, mecanismo e exemplo; contraste útil entre conceitos ensinados; sem falsas oposições. **Filtro:** títulos diretos; texto ensina/exercita/corrige/orienta; sem narrar versões/conversas/visual/fontes nem metacomentários. Autoral = **“Inédita”**; método no chat.
 Normas: **cada regra com trecho literal oficial, dispositivo, link e condições/exceções**. Texto longo: recorte fiel + link + resumo. Nunca só “consultar lei”.
 Leitura normativa por ganho, sem bloco integral.
 
@@ -47,7 +47,7 @@ Sem mapa autônomo. Integrar efeito: interna — conteúdo chamado; externa iden
 
 ## 6. QUESTÕES CEBRASPE
 C/E: +1/−1/0. Buscar **exaustivamente** oficiais CESPE/Cebraspe: Câmara/tema → Legislativo/cargos altos → tema próximo. **Prioridade quantitativa, não ordem**: oficiais válidas e aderentes devem predominar em número na apostila e no APKG quando disponíveis; inéditas só para lacunas após pesquisa, sem quotas. Se minoria, repetir busca; registrar fontes, totais e lacunas; excedentes D+7/D+21/simulados.
-**Autossuficiência**: toda oficial no PDF/cartão com comando, texto-base e enunciado literais/integrais; prova/cargo/ano/item. Link só conferência, nunca exigir abrir prova para resolver. Se não reproduzível fielmente, buscar outra oficial; resumo/link não é exercício. Adaptação só excepcional, rotulada.
+**Autossuficiência:** toda oficial no PDF/cartão com comando, texto-base e enunciado literais/integrais; prova/cargo/ano/item. Link só conferência; resolução no material. Sem reprodução fiel, buscar outra oficial; resumo/link não é exercício. Adaptação só excepcional, rotulada.
 Inéditas com alma Cebraspe: contrastes plausíveis de autoridade, competência, condição, exceção, verbo, prazo, quórum, alcance ou instituto próximo; sem erros óbvios/artificiais, trivia ou malícia excessiva. Gate: testar cada núcleo; comentário repete assertiva e explica decisão.
 
 ## 7. RECUPERAÇÃO ATIVA
@@ -57,10 +57,10 @@ D+1/D+7/D+21 e abertas autossuficientes: cobrar regra, não artigo/página/apost
 ## 8. ANKI
 **Baralhos:** `Analista::P1::Const_Regimentos` e `Analista::P2::Proc_Regimentos`; demais conforme Constituição. Sem variantes.
 Por matéria. **Anki: predomínio numérico de oficiais válidas/aderentes** quando disponíveis, sem duplicação; frente literal integral (comando, texto-base, enunciado, prova/cargo/ano/item); verso C/E com gabarito definitivo, explicação/fonte. Inéditas C/E só em lacunas; CPOL/autores também. Sem ampliar edital.
-**Gate APKG:** edital/valor, gabarito oficial ou decisão justa, fonte, vigência, deduplicação, alma Cebraspe nas inéditas; falha: refazer/excluir. Verso C/E: explicação, contraste, fonte e norma vigente literal (condições/exceções) separada do comentário; omissões de recortes indicadas.
+**Gate APKG:** edital/valor, gabarito oficial ou decisão justa, fonte, vigência, deduplicação, alma Cebraspe; falha: refazer/excluir. Verso C/E: explicação, contraste, fonte e norma vigente literal (condições/exceções) separada do comentário; omissões de recortes indicadas.
 Normas: selecionar competências, prazos, quóruns, composição, substituição, condições, exceções, consequências e remissões úteis; sem atomizar incisos. Cada cartão justifica custo; reforçar erros/acertos com dúvida sob o gate.
 **Fidelidade normativa:** não trocar `fará/deverá/providenciará/será/extingue-se` por `pode/poderá` (ou inverso) sem respaldo. Preferir `compete`/`é atribuição` se `pode` for ambíguo. Auditar verbo, negação, exceção, autoridade, prazo, quórum, composição e consequência na norma vigente.
-**Consolidação:** APKG único por apostila, baralhos por matéria; agregar base, dúvidas, erros e lacunas úteis. Preservar GUIDs, deduplicar, validar, atualizar links na planilha/GitHub; não importar versões substituídas nem alegar ações inexistentes.
+**Consolidação:** APKG único por apostila, baralhos por matéria; agregar base, dúvidas, erros e lacunas. Preservar GUIDs, deduplicar, validar, atualizar links planilha/GitHub; não importar versões substituídas nem alegar ações inexistentes.
 
 **Reta final:** F1 até A050 (21/11); A051 audita, A072 lacunas. A094–A106 (04–16/01): revisão/simulados/logística, sem matéria nova. Remanejar atrasos antes da F4, sem conclusão fictícia.
 
