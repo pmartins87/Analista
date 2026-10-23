@@ -1,8 +1,11 @@
 # Anki A013 — 19/10/2026
 
-**APKG canônico:** https://drive.google.com/file/d/1TR-dUAE2A8CuOEVLPB7gxNl8uVRfZOJM/view
+> **ATUALIZAÇÃO 23/10/2026 — APKG substitutivo:** 8 cartões oficiais com texto-base/comando/enunciado separados visualmente; 17 GUIDs preservados; 11.277 bytes; SHA-256 66075f2033a029468baed45a45eb29a5e7faf569268b57e6cffd2effd2d42ff5. Fonte e gabaritos preservados; o arquivo anterior está **substituído para novas importações**. A reimportação no dispositivo e a preservação efetiva das revisões dependem de verificação no AnkiDroid. 
 
-**Arquivo:** `A013_Anki_CEBRASPE_CANONICO_2026-10-19.apkg`, 11.110 bytes, SHA-256 `3d41d9e6561c16f7d7bd56935a15286ce4a7ed5e97377fcfb18af1739bc13600`. **17 cartões C/E = 9 oficiais CESPE/Cebraspe (52,9%) + 8 inéditas (47,1%).** 17 GUIDs exclusivos; ZIP CRC, SQLite `integrity_check`, campo obrigatório de decks (`lrnToday`, `revToday`, `newToday`, `timeToday`) e modelo de quatro campos verificados. **Importação AnkiDroid NÃO confirmada**, sem alegação de sincronização.
+
+**APKG canônico:** https://drive.google.com/file/d/10ufqJTC-wf2J7SKslbCMBaLKbM85NfFL/view
+
+**Arquivo:** `A013_Anki_ESTRUTURA_CORRIGIDA_2026-10-23.apkg`, 11.277 bytes, SHA-256 `66075f2033a029468baed45a45eb29a5e7faf569268b57e6cffd2effd2d42ff5`. **17 cartões C/E = 9 oficiais CESPE/Cebraspe (52,9%) + 8 inéditas (47,1%).** 17 GUIDs exclusivos; ZIP CRC, SQLite `integrity_check`, campo obrigatório de decks (`lrnToday`, `revToday`, `newToday`, `timeToday`) e modelo de quatro campos verificados. **Importação AnkiDroid NÃO confirmada**, sem alegação de sincronização.
 
 ## Baralhos canônicos
 - `Analista::P2::Ciencia_Politica` — **9 oficiais**, CESPE/Câmara: 2014 Consultor Legislativo Área XIX itens 123 C, 124 E, 138 C, 140 C, 155 C, 156 C, 162 E; 2012 Analista Legislativo Técnica Legislativa itens 171 E, 172 E. Enunciados, comandos e textos-base completos conforme PDF A013 entregue; gabaritos definitivos.
