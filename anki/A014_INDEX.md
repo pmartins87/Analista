@@ -1,8 +1,11 @@
 # Anki da Apostila 014 — canônico (21/10/2026)
 
-**Arquivo APKG ÚNICO:** https://drive.google.com/file/d/1Md25CPXx71vmfyxE08rkVIOlwPD_xaXF/view
+> **ATUALIZAÇÃO 23/10/2026 — APKG substitutivo:** 9 itens oficiais: TCDF 2023 com quatro parágrafos e PCDF 2024 com três parágrafos, numerados visualmente; 15 GUIDs preservados; 13.287 bytes; SHA-256 02b9ef3ea508404a0c6c4a5e0bedfb57baf626af25f1d45ec542201b171ae7be. Fonte e gabaritos preservados; o arquivo anterior está **substituído para novas importações**. A reimportação no dispositivo e a preservação efetiva das revisões dependem de verificação no AnkiDroid. 
 
-Nome: `A014_Anki_CEBRASPE_CANONICO_2026-10-21.apkg`. **15 cartões Certo/Errado — 9 oficiais CESPE/Cebraspe (60%) + 6 inéditas (40%)**. 15 notas e 15 GUIDs exclusivos, SQLite `integrity_check=ok`, CRC ZIP, campos obrigatórios de `col.decks` e `col.models` presentes. **12.642 bytes**, SHA-256 `6894acd41d342e3ce3c163d5a48ddbb7d8b46db51bf33e50f8841ae674ba7e0e`. Validado estruturalmente, **importação no AnkiDroid do candidato não confirmada**.
+
+**Arquivo APKG ÚNICO:** https://drive.google.com/file/d/1O5iWIFefF9l6Utcc6gXG9UVxLMc9SK8R/view
+
+Nome: `A014_Anki_PARAGRAFOS_CORRIGIDOS_2026-10-23.apkg`. **15 cartões Certo/Errado — 9 oficiais CESPE/Cebraspe (60%) + 6 inéditas (40%)**. 15 notas e 15 GUIDs exclusivos, SQLite `integrity_check=ok`, CRC ZIP, campos obrigatórios de `col.decks` e `col.models` presentes. **12.642 bytes**, SHA-256 `6894acd41d342e3ce3c163d5a48ddbb7d8b46db51bf33e50f8841ae674ba7e0e`. Validado estruturalmente, **importação no AnkiDroid do candidato não confirmada**.
 
 ## A014 estudada
 
