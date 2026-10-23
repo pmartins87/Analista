@@ -1,10 +1,13 @@
 # A011 — Índice canônico Anki | 16/10/2026
 
+> **ATUALIZAÇÃO 23/10/2026 — APKG substitutivo:** 7 itens oficiais com dois parágrafos cada um, conforme o caderno de prova; 15 GUIDs preservados; 12.254 bytes; SHA-256 cb02e668c5944bad01f074639c6f4a4f971bb1007e439485275ce8fe486b5624. Fonte e gabaritos preservados; o arquivo anterior está **substituído para novas importações**. A reimportação no dispositivo e a preservação efetiva das revisões dependem de verificação no AnkiDroid. 
+
+
 **Apostila estudada:** [A011 em PDF](https://drive.google.com/file/d/1MAXOoDbIcGcoDZSsWW7vn0oBiFs1KuSV/view), concluída pelo candidato em 16/10/2026.
 
-**ÚNICO APKG canônico A011:** https://drive.google.com/file/d/19pdHk7KU6yb_6SJ7LEJLwJJbYZnDqI0a/view
+**ÚNICO APKG canônico A011:** https://drive.google.com/file/d/116VbBreo4LwIJQG26H_iY94suCaXpNi6/view
 
-Arquivo: `A011_Anki_CEBRASPE_CANONICO_2026-10-16.apkg`, **15 cartões/notas**, sendo **9 questões oficiais CESPE/Cebraspe** e **6 inéditas de lacuna real**. APKG: ZIP CRC OK, SQLite `integrity_check = ok`, 15 GUIDs distintos; 11.868 bytes, SHA-256 `8ac8f06abaa7f0fd224e69ff458215e1ef94223d58f4031a5b9a8b09faa16ee9`. Importação/sincronização no AnkiDroid **não verificada**.
+Arquivo: `A011_Anki_PARAGRAFOS_CORRIGIDOS_2026-10-23.apkg`, **15 cartões/notas**, sendo **9 questões oficiais CESPE/Cebraspe** e **6 inéditas de lacuna real**. APKG: ZIP CRC OK, SQLite `integrity_check = ok`, 15 GUIDs distintos; 12.254 bytes, SHA-256 `cb02e668c5944bad01f074639c6f4a4f971bb1007e439485275ce8fe486b5624`. Importação/sincronização no AnkiDroid **não verificada**.
 
 ## Conteúdo e fontes
 
