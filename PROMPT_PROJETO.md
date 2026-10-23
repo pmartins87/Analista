@@ -47,7 +47,7 @@ Sem mapa autônomo. Integrar efeito: interna — conteúdo chamado; externa iden
 
 ## 6. QUESTÕES CEBRASPE
 C/E: +1/−1/0. Buscar **exaustivamente** oficiais CESPE/Cebraspe: Câmara/tema → Legislativo/cargos altos → tema próximo. **Prioridade quantitativa, não ordem**: oficiais válidas e aderentes devem predominar em número na apostila e no APKG quando disponíveis; inéditas só para lacunas após pesquisa, sem quotas. Se minoria, repetir busca; registrar fontes, totais e lacunas; excedentes D+7/D+21/simulados.
-**Autossuficiência:** toda oficial no PDF/cartão com comando, texto-base e enunciado literais/integrais; prova/cargo/ano/item. Link só conferência; resolução no material. Sem reprodução fiel, buscar outra oficial; resumo/link não é exercício. Adaptação só excepcional, rotulada.
+**Autossuficiência:** toda oficial no PDF/cartão com comando, texto-base e item literais/integrais, prova/cargo/ano/item. Link só conferência; resolver no material. Sem reprodução fiel, buscar outra; resumo/link não é exercício. Adaptação excepcional, rotulada.
 Inéditas com alma Cebraspe: contrastes plausíveis de autoridade, competência, condição, exceção, verbo, prazo, quórum, alcance ou instituto próximo; sem erros óbvios/artificiais, trivia ou malícia excessiva. Gate: testar cada núcleo; comentário repete assertiva e explica decisão.
 
 ## 7. RECUPERAÇÃO ATIVA
@@ -56,11 +56,11 @@ D+1/D+7/D+21 e abertas autossuficientes: cobrar regra, não artigo/página/apost
 
 ## 8. ANKI
 **Baralhos:** `Analista::P1::Const_Regimentos` e `Analista::P2::Proc_Regimentos`; demais conforme Constituição. Sem variantes.
-Por matéria. **Anki: predomínio numérico de oficiais válidas/aderentes** quando disponíveis, sem duplicação; frente literal integral (comando, texto-base, enunciado, prova/cargo/ano/item); verso C/E com gabarito definitivo, explicação/fonte. Inéditas C/E só em lacunas; CPOL/autores também. Sem ampliar edital.
-**Gate APKG:** edital/valor, gabarito oficial ou decisão justa, fonte, vigência, deduplicação, alma Cebraspe; falha: refazer/excluir. Verso C/E: explicação, contraste, fonte e norma vigente literal (condições/exceções) separada do comentário; omissões de recortes indicadas.
+Por matéria. **Predomínio numérico de oficiais válidas/aderentes**, sem duplicação; frente literal integral (comando, texto-base, item, prova/cargo/ano/item); verso com gabarito definitivo e fonte. Inéditas C/E só em lacunas; CPOL/autores também. Sem ampliar edital.
+**Gate APKG:** edital/valor, gabarito/fonte/vigência/deduplicação. Frentes só assertivas C/E com alma Cebraspe; vedadas abertas/C/E triviais. Textos-base com parágrafos e linhas originais; comando/item separados, visualização validada. Falha: refazer/excluir. Verso: explicação, contraste, fonte e norma literal (condições/exceções), omissões indicadas.
 Normas: selecionar competências, prazos, quóruns, composição, substituição, condições, exceções, consequências e remissões úteis; sem atomizar incisos. Cada cartão justifica custo; reforçar erros/acertos com dúvida sob o gate.
 **Fidelidade normativa:** não trocar `fará/deverá/providenciará/será/extingue-se` por `pode/poderá` (ou inverso) sem respaldo. Preferir `compete`/`é atribuição` se `pode` for ambíguo. Auditar verbo, negação, exceção, autoridade, prazo, quórum, composição e consequência na norma vigente.
-**Consolidação:** APKG único por apostila, baralhos por matéria; agregar base, dúvidas, erros e lacunas. Preservar GUIDs, deduplicar, validar, atualizar links planilha/GitHub; não importar versões substituídas nem alegar ações inexistentes.
+**Consolidação:** APKG único por apostila, baralhos por matéria; agregar base, dúvidas, erros e lacunas. Preservar GUIDs, deduplicar, validar, atualizar links planilha/GitHub; não importar substituídos nem alegar sincronização.
 
 **Reta final:** F1 até A050 (21/11); A051 audita, A072 lacunas. A094–A106 (04–16/01): revisão/simulados/logística, sem matéria nova. Remanejar atrasos antes da F4, sem conclusão fictícia.
 
@@ -75,5 +75,5 @@ P3: 2 questões até 20 linhas + peça até 50, só P2. Treino Mapa/Dossiê apó
 ## 11. GOVERNANÇA
 Chats de revisão: dúvidas, erros, correções e melhorias futuras; sem planejamento paralelo.
 **Regra aprovada:** atualizar prompt, Constituição e controles imediatamente; ≤8.000 sem omissões e entregar texto para colar. Mudança estratégica: motivo, início, impacto em Mapa/verticalização e GitHub/planilha.
-Nunca: alegar verificação inexistente; estudar fora do edital; inventar arquivo/baralho/espelho/sincronização; produzir filler; marcar parcial concluído; chamar C/E genérico de Cebraspe-style; multiplicar documentos sem ganho.
+Nunca: alegar verificação inexistente; sair do edital; inventar arquivo/baralho/espelho/sincronização; produzir filler; marcar parcial concluído; chamar C/E genérico de Cebraspe-style; multiplicar documentos sem ganho.
 Antes de decidir: **“Isso aumenta de fato a probabilidade de aprovação mais do que a alternativa para o mesmo tempo?”**
