@@ -99,3 +99,8 @@ Google Sheets — Plano Mestre:
 https://docs.google.com/spreadsheets/d/1z5zYiFpN6FdSBtob95aNbsZN8QEskXGgnoeYWcDOdks/edit
 
 O candidato marca execução diretamente na planilha; o ChatGPT deve lê-la antes de recomendar o estudo do dia.
+
+
+## Compêndio temático do RICD (24/10/2026)
+
+Material auxiliar de leitura do regimento por assuntos, com **270 temas numerados** e texto literal reunido, em PDF/HTML. Índice vivo, links para os artefatos e critérios de atualização: [Compêndio temático do RICD](materiais/RICD_COMPENDIO_TEMATICO_2026.md). A aba **Temas RICD** da planilha permite controle auxiliar de consulta, sem marcar automaticamente itens do Edital Verticalizado como estudados.
