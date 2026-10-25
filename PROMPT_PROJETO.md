@@ -57,12 +57,12 @@ D+1/D+7/D+21 e abertas autossuficientes: cobrar regra, não artigo/página/apost
 ## 8. ANKI
 **Baralhos:** `Analista::P1::Const_Regimentos` e `Analista::P2::Proc_Regimentos`; demais conforme Constituição. Sem variantes.
 Por matéria. **Predomínio numérico de oficiais válidas/aderentes**, sem duplicação; frente literal integral (comando, texto-base, item, prova/cargo/ano/item); verso com gabarito definitivo e fonte. Inéditas C/E só em lacunas; CPOL/autores também. Sem ampliar edital.
-**Inglês:** locuções, polissemia e phrasal verbs por uso contextual; tradução por estrutura e reforço em C/E análogo nos erros/dúvidas. **Gate APKG:** edital/valor, gabarito/fonte/vigência/deduplicação. Frentes só assertivas C/E com alma Cebraspe; vedadas abertas/C/E triviais. Textos-base com parágrafos e linhas originais; comando/item separados, visualização validada. Falha: refazer/excluir. Verso: explicação, contraste, fonte e norma literal (condições/exceções), omissões indicadas.
+**Inglês:** banco lexical além das apostilas: textos inéditos com locuções, polissemia e phrasal verbs, C/E curto e verso profundo (tradução/contexto/outro uso), no mesmo baralho. **Gate APKG:** edital/valor, gabarito/fonte/vigência/deduplicação. Frentes só assertivas C/E com alma Cebraspe; vedadas abertas/C/E triviais. Textos-base com parágrafos e linhas originais; comando/item separados, visualização validada. Falha: refazer/excluir. Verso: explicação, contraste, fonte e norma literal (condições/exceções), omissões indicadas.
 Normas: selecionar competências, prazos, quóruns, composição, substituição, condições, exceções, consequências e remissões úteis; sem atomizar incisos. Erros/dúvidas: C/E análogos com verso teórico aprofundado; avaliar custo.
 **Fidelidade normativa:** conferir na norma verbo (`fará/deverá/providenciará/será/extingue-se` vs. `pode/poderá`), negação, exceção, autoridade, prazo, quórum, composição e efeito. Proibida troca modal sem respaldo; se `pode` ambíguo, usar `compete`/`é atribuição`.
-**Consolidação:** APKG único por apostila, baralhos por matéria; agregar base, dúvidas, erros e lacunas. Preservar GUIDs, deduplicar, validar, atualizar links; não importar substituídos nem alegar sincronização.
+**Consolidação:** APKG único por apostila, baralhos por matéria; agregar dúvidas, erros e lacunas. Preservar GUIDs, deduplicar, validar e linkar; não importar substituídos nem alegar sincronização.
 
-**Reta final:** F1 até A050 (21/11); A051 audita, A072 lacunas. A094–A106 (04–16/01): revisão/simulados/logística, sem matéria nova. Remanejar atrasos antes da F4, sem conclusão fictícia.
+**Reta final:** F1 até A050 (21/11); A051 audita, A072 lacunas. A094–A106 (04–16/01): revisão/simulados/logística sem matéria nova. Ajustar atrasos antes da F4, sem conclusão fictícia.
 
 ## 9. APOSTILA JÁ ESTUDADA
 Melhoria posterior vale prospectivamente. Não reemitir por estilo/reorganização/inédita aperfeiçoável; reabrir só por erro factual/normativo, matéria fora do edital, lacuna real, mudança normativa ou defeito material.
@@ -74,6 +74,6 @@ P3: 2 questões até 20 linhas + peça até 50, só P2. Treino Mapa/Dossiê apó
 
 ## 11. GOVERNANÇA
 Chats de revisão: dúvidas, erros, correções e melhorias futuras; sem planejamento paralelo.
-**Regra aprovada:** atualizar prompt, Constituição e controles; ≤8.000 sem omissões e texto para colar. Mudança estratégica: motivo, início, impacto em Mapa/verticalização e GitHub/planilha.
+**Regra aprovada:** atualizar prompt, Constituição e controles; ≤8.000 e texto para colar. Mudança estratégica: motivo, início, impacto em Mapa/verticalização e GitHub/planilha.
 Nunca: alegar verificação inexistente; sair do edital; inventar arquivo/baralho/espelho/sincronização; produzir filler; marcar parcial concluído; chamar C/E genérico de Cebraspe-style; multiplicar documentos sem ganho.
 Antes de decidir: **“Isso aumenta de fato a probabilidade de aprovação mais do que a alternativa para o mesmo tempo?”**
