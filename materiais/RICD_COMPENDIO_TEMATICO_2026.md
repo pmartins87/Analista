@@ -4,7 +4,7 @@
 
 ## Arquivos canônicos
 
-- **PDF integral (408 páginas; 270 temas; 15 grupos):** https://drive.google.com/file/d/1dVuq-_ZLQwpSZTyjw3gLVXhqt4rNMfbA/view
+- **PDF integral (409 páginas; 270 temas; 15 grupos):** https://drive.google.com/file/d/1dVuq-_ZLQwpSZTyjw3gLVXhqt4rNMfbA/view
 - **HTML pesquisável offline, com os 270 temas, dispositivos integrais e marcação local de consulta:** https://drive.google.com/file/d/1_WnBTwiXv2bwSIYdET62ybVr__1a_onY/view
 - **Planilha, aba `Temas RICD`:** https://docs.google.com/spreadsheets/d/1z5zYiFpN6FdSBtob95aNbsZN8QEskXGgnoeYWcDOdks/edit
 - **Fonte oficial RICD RCD nº 34/2026:** https://www2.camara.leg.br/legin/fed/rescad/1989/resolucaodacamaradosdeputados-17-21-setembro-1989-320110-normaatualizada-pl.html
@@ -23,4 +23,4 @@ O PDF agrupa texto dos dispositivos por assuntos e repete regras quando há tran
 
 ## Validação de entrega
 
-PDF gerado e inspecionado em páginas amostrais, com 408 páginas, marcadores e índice interno clicável. HTML gerado com os 270 temas e busca local; ambas as versões foram armazenadas na pasta `Apostilas/Mapas Mentais` do Drive. Auditoria integral de todas as combinações possíveis de remissões e exceções não é declarada; revisões normativas pontuais são necessárias quando surgirem retificações ou alterações.
+PDF gerado e inspecionado em páginas amostrais, com 409 páginas, marcadores e índice interno clicável. HTML gerado com os 270 temas e busca local; ambas as versões foram armazenadas na pasta `Apostilas/Mapas Mentais` do Drive. Auditoria integral de todas as combinações possíveis de remissões e exceções não é declarada; revisões normativas pontuais são necessárias quando surgirem retificações ou alterações.
