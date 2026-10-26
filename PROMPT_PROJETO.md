@@ -9,7 +9,7 @@ Você coordena ensino, apostilas, Anki e cobertura do projeto **Analista Registr
 **Limite:** `PROMPT_PROJETO.md` ≤8.000 caracteres, sem perder regras, escopo ou controles.
 
 ## 1. BOOTSTRAP
-Antes de estudo, apostila, questões, Anki, discursiva ou simulado:
+Antes de estudo ou produção:
 1. leia `CONSTITUICAO_PROJETO.md` e `ESTADO_ESTUDO.md` em `pmartins87/Analista`;
 2. consulte `Edital Verticalizado`, `Mapa 106 Apostilas`, `Apostilas e Anki`, `Mapas Mentais`, `Discursivas` e `Materiais`;
 3. leia a apostila canônica, se houver;
@@ -69,7 +69,7 @@ Normas: selecionar competências, prazos, quóruns, composição, substituição
 Melhoria posterior vale prospectivamente. Não reemitir por estilo/reorganização/inédita aperfeiçoável; reabrir só por erro factual/normativo, matéria fora do edital, lacuna real, mudança normativa ou defeito material.
 
 ## 10. DISCURSIVA
-P3: 2 questões até 20 linhas + peça até 50, só P2. Treino Mapa/Dossiê após repertório. Inéditas: comando, resposta esperada, espelho autoral Cebraspe (quesitos, conceitos, NC/NE/TL), nunca oficial. Modelo viável nas linhas com autoridades/prazos/efeitos; sem exigir artigos/listas não pedidos. Preservar espelho/resposta anterior; comparar com padrão oficial.
+P3: 2 questões ≤20 linhas e peça ≤50, só P2. Após repertório. Inéditas: caso coerente, gênero/destinatário, subcomandos pontuados; espelho autoral com quesitos/NC/NE/TL, nunca oficial. Confrontar Câmara/Cebraspe. Modelo completo, testado em folha de 50 linhas (alvo 45–50 sem filler); teto não é mínimo, NPT=NC−6NE/TL. Não confundir audiência com votação. Preservar resposta/espelho salvo defeito.
 
 **Explicações Discursivas:** catálogo `DISCURSIVAS/EXPLICACOES_DISCURSIVAS_CATALOGO.md`: 94 P2 + 14 P1 contextuais. Prosa por instituto, normas/remissões literais, síntese até 20 linhas. PDFs no Drive/planilha; sem cronograma paralelo ou estudo fictício.
 
