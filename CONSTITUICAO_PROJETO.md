@@ -1,7 +1,7 @@
 # CONSTITUIÇÃO DO PROJETO — ANALISTA REGISTRO E REDAÇÃO
 
-Versão: 1.23  
-Data: 08/10/2026  
+Versão: 1.24  
+Data: 25/10/2026  
 Status: **NORMA MÁXIMA DO PROJETO**
 
 Este arquivo contém as diretrizes permanentes do projeto de preparação para o concurso da Câmara dos Deputados — Analista Legislativo — Especialidade Registro e Redação.
@@ -441,6 +441,12 @@ Nenhum chat pode inventar uma sequência paralela.
 **Correção material A013 — ensino de protocolos (18/10/2026):** o candidato leu as páginas 8–9 de TI e não conseguiu distinguir SMTP, IMAP e POP3 nem explicar as siglas e um uso concreto. A explicação original enunciava funções, mas não ensinava o percurso e-mail → servidor → cliente, a relação webmail/HTTPS/SMTP nem o comportamento observado ao ler, mover e excluir mensagens no IMAP versus POP3. Novo **gate didático aplicável a todas as matérias**: toda sigla ou nome técnico cobrado precisa ser expandido, definido em linguagem inicial, ligado a pelo menos um problema/uso concreto e contrastado com instituto próximo. Para protocolos, identificar ator, origem, destino, fluxo e consequência visível; em regimentos, autoridade, fase, legitimidade, condição e efeito; para teorias, contexto, operação e como julgar assertiva. Não basta tabela de definições seguida de questões. Corrigir lacuna material da apostila **durante o estudo** sem alterar sua cobertura nem marcar estudo concluído. A013 recebeu três páginas integradas de reparo didático antes de capítulo 7, preservadas as 23 originais e suas questões, com novas inéditas AE1–AE4 (distintas de I1–I7). PDF novo canônico: https://drive.google.com/file/d/1y7iw_BZNsTnaIRQfPaR7wh50YPNfTe4J/view .
 
 **Gate didático reforçado A013+ (17/10/2026):** os erros oficiais da A012 (O1/O3/O4/O6/O9) e dúvidas I5/I6 evidenciaram teoria superficial e insuficiente para resolver questões. **Antes de publicar**, testar cada questão oficial selecionada contra a teoria efetivamente entregue: caso concreto, termos, mecanismo, autoridade, fase, condição, prazo/quórum, exceção, efeito e recorte literal da fonte. Se o candidato não conseguir deduzir a decisão com o que a apostila ensinou, aprofundar ou substituir a questão. Comentário deve repetir assertiva e isolar a palavra/fase/competência decisiva. Não imputar ao aluno lacuna criada pelo material, nem alongar por volume; prioridade é conversão em pontos. Aplicação prospectiva, sem reemitir A012 concluída por estilo.
+
+### 5.0 Gate antirrepetição nas apostilas — 25/10/2026
+
+**Regra aprovada:** apostilas diferentes, incluindo revisão, D+7/D+21 e simulados incorporados, não podem reutilizar o mesmo item, ainda que renumerado. Antes de publicar o PDF, verificar todos os PDFs canônicos anteriores. Chave para questões oficiais: banca, prova, cargo, ano, caderno, item original; confrontar também comando, texto-base e assertiva literal. Questões inéditas não podem apenas parafrasear a mesma tese/pegadinha já cobrada: variar núcleo, condição, efeito, autoridade ou mecanismo para acrescentar discriminação real. Questões do mesmo tema são permitidas, desde que efetivamente distintas. Preferir novas oficiais com gabarito válido e aderentes; não preencher lacuna com inéditas fracas ou repetir oficiais para preservar artificialmente predominância. Falha bloqueia a publicação do bloco até correção. Registrar ocorrências e uso das questões nos controles existentes, evitando novo cronograma. **Anki:** repetição espaçada de cartões existentes é legítima, mas APKGs diferentes não devem gerar cartões/notas duplicados.
+
+**Defeito concreto A016, identificado em 25/10:** as oito questões oficiais do PDF repetem itens já usados na A015 — Câmara/CESPE 2014, itens 41, 43, 44, 46, 48, 49, 50 e 51. A016 I3 e I4 também reproduzem substancialmente A015 I3 e I4. A015 está estudada e não deve ser reemitida. O reparo recomendado à A016 é limitado à bateria repetida, preservando teoria e P3; estudo da A016 não deve ser declarado concluído sem confirmação do usuário.
 
 ## 5. QUESTÕES — CENTRO DO MÉTODO
 
