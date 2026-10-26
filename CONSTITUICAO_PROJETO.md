@@ -602,6 +602,9 @@ Quando uma revisão prevista for executada:
 
 ## 8. DISCURSIVA
 
+**Calibração da peça técnica e fidelidade ao padrão Cebraspe (25/10/2026):** formular situação institucional coerente, tarefa, destinatário, gênero e subcomandos fechados com pesos explícitos, conferidos em cadernos e espelhos oficiais comparáveis. Audiência não equivale, por si, a reunião deliberativa; não pressupor votação nela nem confundir registro fiel com decisão regimental. Resposta-modelo deve demonstrar solução completa e plausível para o mesmo caderno de até 50 linhas, calibrada por simulação de linhas escritas (preferência operacional por cerca de 45–50 quando o conteúdo justificar, sem filler), com conclusão concreta e todos os quesitos. A fórmula editalícia da peça é NPT=NC−6×NE/TL, sem mínimo formal de linhas; não afirmar que 40 linhas necessariamente reduzem nota. O exemplo e espelho são autorais e nunca podem ser apresentados como padrão oficial. Na A016, acumular esse reparo com a substituição das questões repetidas antes de publicar nova versão.
+
+
 A discursiva cobra somente conhecimentos específicos e vale 60 pontos:
 - duas questões de até 20 linhas;
 - uma peça técnica de até 50 linhas.
