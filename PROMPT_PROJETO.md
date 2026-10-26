@@ -36,9 +36,9 @@ Principal: **PDF consolidado** no Drive e na planilha.
 
 Cada dia: nº/data/carga, itens exatos do edital, revisões, objetivos, teoria, leitura dirigida, Resumo Estratégico, exemplos, questões comentadas, recuperação ativa, P3 e verticalização.
 
-**Resumo Estratégico:** autoridade, competência, condição, prazo, quórum, composição, substituição, exceção, verbo e contrastes. Mapas/fluxos legíveis, auditados; registrar em `Mapas Mentais` com itens/link (referência: **Lei Delegada**), sem ampliar edital nem sacrificar prazo.
+**Resumo Estratégico:** autoridade, competência, condição, prazo, quórum, composição, substituição, exceção, verbo e contrastes. Mapas/fluxos auditados; registrar em `Mapas Mentais` com itens/link (ref. **Lei Delegada**), sem ampliar edital.
 Perguntas abertas: repetir pergunta integral na resposta-modelo; autocorreção autossuficiente.
-**Ensino afirmativo:** conceito, função, mecanismo e exemplo; contraste útil entre conceitos ensinados; sem falsas oposições. **Filtro:** títulos diretos; texto ensina/exercita/corrige/orienta; vedados relatos editoriais e metacomentários. Autoral = **“Inédita”**; método no chat.
+**Ensino afirmativo:** conceito, função, mecanismo, exemplo e contraste útil, sem falsas oposições. **Filtro:** títulos diretos; só ensino/exercício/correção/orientação, sem metacomentários. Autoral = **“Inédita”**; método no chat.
 Normas: **cada regra com trecho literal oficial, dispositivo, link e condições/exceções**. Texto longo: recorte fiel + link + resumo. Nunca só “consultar lei”.
 Leitura normativa por ganho, sem bloco integral.
 
@@ -46,8 +46,9 @@ Leitura normativa por ganho, sem bloco integral.
 Sem mapa autônomo. Integrar efeito: interna — conteúdo chamado; externa identificável — fonte oficial/efeito; externa aberta/dinâmica — declarar limite, sem inventar. Integração didática ≠ redação oficial. Não cobrar numeração sem valor de prova.
 
 ## 6. QUESTÕES CEBRASPE
-C/E: +1/−1/0. Buscar **exaustivamente** oficiais CESPE/Cebraspe: Câmara/tema → Legislativo/cargos altos → tema próximo. **Prioridade quantitativa, não ordem**: oficiais válidas e aderentes devem predominar em número na apostila e no APKG quando disponíveis; inéditas só para lacunas após pesquisa, sem quotas. Se minoria, repetir busca; registrar fontes, totais e lacunas; excedentes D+7/D+21/simulados.
-**Autossuficiência:** oficial no PDF/cartão com comando, texto-base e item literais/integrais, prova/cargo/ano/item. Link para conferência; resolução no material. Sem reprodução fiel, trocar; resumo/link não é exercício. Adaptação excepcional rotulada.
+C/E: +1/−1/0. Buscar **exaustivamente** oficiais CESPE/Cebraspe: Câmara/tema → Legislativo/cargos altos → tema próximo. **Predomínio numérico**, não ordem de aparição: oficiais válidas/aderentes na apostila e APKG se disponíveis; inéditas só nas lacunas após pesquisa, sem quotas. Se minoria, repetir busca, registrar fontes/totais/lacunas; excedentes D+7/D+21/simulados.
+**Gate antirrepetição:** comparar PDFs anteriores, revisões incluídas. Oficiais: prova/cargo/ano/caderno/item original e texto; inéditas: tese/pegadinha. Renumeração não torna nova. Revisão exige questões distintas; colisão bloqueia publicação. Anki mantém repetição espaçada.
+**Autossuficiência:** oficial no PDF/cartão com comando, texto-base, item integrais e prova/cargo/ano/item. Link só confere; resolver no material. Sem reprodução fiel, trocar; adaptação excepcional rotulada.
 Inéditas com alma Cebraspe: contrastes plausíveis de autoridade, competência, condição, exceção, verbo, prazo, quórum, alcance ou instituto próximo; sem erros óbvios/artificiais, trivia ou malícia excessiva. Gate: testar cada núcleo; comentário repete assertiva e explica decisão.
 
 ## 7. RECUPERAÇÃO ATIVA
@@ -57,10 +58,10 @@ D+1/D+7/D+21 e abertas autossuficientes: cobrar regra, não artigo/página/apost
 ## 8. ANKI
 **Baralhos:** `Analista::P1::Const_Regimentos` e `Analista::P2::Proc_Regimentos`; demais conforme Constituição. Sem variantes.
 Por matéria. **Predomínio numérico de oficiais válidas/aderentes**, sem duplicação; frente literal integral (comando, texto-base, item, prova/cargo/ano/item); verso com gabarito definitivo e fonte. Inéditas C/E só em lacunas; CPOL/autores também. Sem ampliar edital.
-**Inglês:** banco lexical além das apostilas: textos inéditos com locuções, polissemia e phrasal verbs, C/E curto e verso profundo (tradução/contexto/outro uso), no mesmo baralho. **Gate APKG:** edital/valor, gabarito/fonte/vigência/deduplicação. Frentes só assertivas C/E com alma Cebraspe; vedadas abertas/C/E triviais. Textos-base com parágrafos e linhas originais; comando/item separados, visualização validada. Falha: refazer/excluir. Verso: explicação, contraste, fonte e norma literal (condições/exceções), omissões indicadas.
+**Inglês:** banco lexical extra com locuções, polissemia e phrasal verbs; C/E curto inédito, verso profundo (tradução/contexto/outro uso), mesmo baralho. **Gate APKG:** edital/valor, gabarito/fonte/vigência/deduplicação. Frentes C/E com alma Cebraspe, sem abertas/triviais. Textos-base com parágrafos e linhas originais, comando/item separados, visualização validada; falha: refazer/excluir. Verso: explicação, contraste, fonte, norma literal (condições/exceções) e omissões.
 Normas: selecionar competências, prazos, quóruns, composição, substituição, condições, exceções, consequências e remissões úteis; sem atomizar incisos. Erros/dúvidas: C/E análogos com verso teórico aprofundado; avaliar custo.
 **Fidelidade normativa:** conferir na norma verbo (`fará/deverá/providenciará/será/extingue-se` vs. `pode/poderá`), negação, exceção, autoridade, prazo, quórum, composição e efeito. Proibida troca modal sem respaldo; se `pode` ambíguo, usar `compete`/`é atribuição`.
-**Consolidação:** APKG único por apostila, baralhos por matéria; agregar dúvidas, erros e lacunas. Preservar GUIDs, deduplicar, validar e linkar; não importar substituídos nem alegar sincronização.
+**Consolidação:** APKG único/apostila, baralhos por matéria; agregar dúvidas, erros e lacunas. Preservar GUIDs, deduplicar, validar e linkar; sem importar substituídos nem alegar sincronização.
 
 **Reta final:** F1 até A050 (21/11); A051 audita, A072 lacunas. A094–A106 (04–16/01): revisão/simulados/logística sem matéria nova. Ajustar atrasos antes da F4, sem conclusão fictícia.
 
@@ -68,9 +69,9 @@ Normas: selecionar competências, prazos, quóruns, composição, substituição
 Melhoria posterior vale prospectivamente. Não reemitir por estilo/reorganização/inédita aperfeiçoável; reabrir só por erro factual/normativo, matéria fora do edital, lacuna real, mudança normativa ou defeito material.
 
 ## 10. DISCURSIVA
-P3: 2 questões até 20 linhas + peça até 50, só P2. Treino Mapa/Dossiê após repertório. Inéditas: comando, resposta esperada, espelho didático autoral no formato Cebraspe (quesitos, conceitos, NC/NE/TL), nunca oficial. Modelo viável nas linhas com autoridades/prazos/efeitos; sem exigir artigos/listas não pedidos. Preservar espelho/resposta anteriores; comparar com padrão oficial.
+P3: 2 questões até 20 linhas + peça até 50, só P2. Treino Mapa/Dossiê após repertório. Inéditas: comando, resposta esperada, espelho autoral Cebraspe (quesitos, conceitos, NC/NE/TL), nunca oficial. Modelo viável nas linhas com autoridades/prazos/efeitos; sem exigir artigos/listas não pedidos. Preservar espelho/resposta anterior; comparar com padrão oficial.
 
-**Explicações Discursivas:** catálogo `DISCURSIVAS/EXPLICACOES_DISCURSIVAS_CATALOGO.md`: 94 P2 + 14 P1 contextuais. Prosa lógica por instituto, normas literais/remissões; síntese até 20 linhas quando útil. PDFs no Drive e links na planilha; sem cronograma paralelo ou estudo fictício.
+**Explicações Discursivas:** catálogo `DISCURSIVAS/EXPLICACOES_DISCURSIVAS_CATALOGO.md`: 94 P2 + 14 P1 contextuais. Prosa por instituto, normas/remissões literais, síntese até 20 linhas. PDFs no Drive/planilha; sem cronograma paralelo ou estudo fictício.
 
 ## 11. GOVERNANÇA
 Chats de revisão: dúvidas, erros, correções e melhorias futuras; sem planejamento paralelo.
