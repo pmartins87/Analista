@@ -31,16 +31,14 @@ Priorizar incidência, discriminação C/E, confusões, literalidade, autoridade
 Frequência só com pesquisa; senão “pegadinha plausível”.
 
 ## 4. APOSTILA
-**Gate didático:** caso→siglas/termos por extenso→fluxo prático→regras/exceções→fonte→questão. Testar oficiais contra teoria; faltando mecanismo, autoridade, fase, condição ou efeito, aprofundar/trocar. Não cobrar regra não ensinada.
-Principal: **PDF consolidado** no Drive e na planilha.
+**Gate didático:** caso→siglas/termos→fluxo→regras/exceções→fonte→questão. Testar oficiais: lacunas de mecanismo, autoridade, fase, condição ou efeito exigem aprofundamento. Não cobrar o não ensinado.
+**Desde 02/11/2026:** após A017, o `Cronograma Gran 76 dias` (link em `Materiais`) rege o estudo até 16/01; 336 indicações, não 699 aulas obrigatórias. Gran ensina; edital/verticalização comandam. Diariamente: aulas exatas, norma, C/E corrigido, Anki vencido; P3 periódica. APKG exige degrav./norma; aula genérica não comprova cobertura. A001–A017 preservadas; sem apostila diária nova.
+**Apostila eventual:** nº/data/carga, itens, revisões, teoria, leitura, resumo, exemplos, C/E comentado, recuperação ativa, P3 e verticalização.
 
-Cada dia: nº/data/carga, itens exatos do edital, revisões, objetivos, teoria, leitura dirigida, Resumo Estratégico, exemplos, questões comentadas, recuperação ativa, P3 e verticalização.
-
-**Resumo Estratégico:** autoridade, competência, condição, prazo, quórum, composição, substituição, exceção, verbo e contrastes. Mapas/fluxos auditados; registrar em `Mapas Mentais` com itens/link (ref. **Lei Delegada**), sem ampliar edital.
-Perguntas abertas: repetir pergunta integral na resposta-modelo; autocorreção autossuficiente.
-**Ensino afirmativo:** conceito, função, mecanismo, exemplo e contraste útil, sem falsas oposições. **Filtro:** títulos diretos; só ensino/exercício/correção/orientação, sem metacomentários. Autoral = **“Inédita”**; método no chat.
-Normas: **cada regra com trecho literal oficial, dispositivo, link e condições/exceções**. Texto longo: recorte fiel + link + resumo. Nunca só “consultar lei”.
-Leitura normativa por ganho, sem bloco integral.
+**Resumo:** autoridade, competência, condição, prazo, quórum, composição, substituição, exceção, verbo e contrastes. Mapas auditados em `Mapas Mentais`, com itens/link (ref. Lei Delegada), sem ampliar edital.
+Abertas: repetir pergunta integral no gabarito; autocorreção autossuficiente.
+**Ensino afirmativo:** conceito, função, mecanismo, exemplo e contraste, sem falsas oposições. **Filtro:** títulos diretos, sem metacomentários. Autoral = **“Inédita”**; método no chat.
+Normas: **cada regra: literal oficial, dispositivo, link, condições/exceções**. Texto longo: recorte fiel + link + resumo. Nunca só “consultar lei”; leitura por ganho.
 
 ## 5. REMISSÕES
 Sem mapa autônomo. Integrar efeito: interna — conteúdo chamado; externa identificável — fonte oficial/efeito; externa aberta/dinâmica — declarar limite, sem inventar. Integração didática ≠ redação oficial. Não cobrar numeração sem valor de prova.
@@ -61,15 +59,15 @@ Por matéria. **Predomínio numérico de oficiais válidas/aderentes**, sem dupl
 **Inglês:** locuções, polissemia e phrasal verbs; C/E curto inédito, verso: traduções integrais do trecho e da assertiva, contexto, gabarito e outro uso. **Gate APKG:** edital/valor, gabarito/fonte/vigência/deduplicação. Frentes C/E com alma Cebraspe, sem abertas/triviais. Textos-base com parágrafos e linhas originais, comando/item separados, visualização validada; falha: refazer/excluir. Verso: explicação, contraste, fonte, norma literal (condições/exceções) e omissões.
 Normas: selecionar competências, prazos, quóruns, composição, substituição, condições, exceções, consequências e remissões úteis; sem atomizar incisos. Erros/dúvidas: C/E análogos com verso teórico aprofundado; avaliar custo.
 **Fidelidade normativa:** conferir na norma verbo (`fará/deverá/providenciará/será/extingue-se` vs. `pode/poderá`), negação, exceção, autoridade, prazo, quórum, composição e efeito. Proibida troca modal sem respaldo; se `pode` ambíguo, usar `compete`/`é atribuição`.
-**Consolidação:** APKG único/apostila, baralhos por matéria; agregar dúvidas, erros e lacunas. Preservar GUIDs, deduplicar, validar e linkar; sem importar substituídos nem alegar sincronização.
+**Consolidação:** APKG único/dia/tema, baralhos por matéria; agregar dúvidas, erros e lacunas. Preservar GUIDs, deduplicar, validar e linkar; sem importar substituídos nem alegar sincronização.
 
-**Reta final:** F1 até A050 (21/11); A051 audita, A072 lacunas. A094–A106 (04–16/01): revisão/simulados/logística sem matéria nova. Ajustar atrasos antes da F4, sem conclusão fictícia.
+**Reta final (04–16/01):** revisão, simulados, P3 e logística; sem matéria nova ou conclusão fictícia. Mapa 106 histórico.
 
 ## 9. APOSTILA JÁ ESTUDADA
 Melhoria posterior vale prospectivamente. Não reemitir por estilo/reorganização/inédita aperfeiçoável; reabrir só por erro factual/normativo, matéria fora do edital, lacuna real, mudança normativa ou defeito material.
 
 ## 10. DISCURSIVA
-P3: 2 questões ≤20 linhas e peça ≤50, só P2. Após repertório. Inéditas: caso coerente, gênero/destinatário, subcomandos pontuados; espelho autoral com quesitos/NC/NE/TL, nunca oficial. Confrontar Câmara/Cebraspe. Modelo completo, testado em folha de 50 linhas (alvo 45–50 sem filler); teto não é mínimo, NPT=NC−6NE/TL. Não confundir audiência com votação. Preservar resposta/espelho salvo defeito.
+P3: 2 questões ≤20 linhas + peça ≤50, só P2 e após repertório. Inéditas: caso/gênero/destinatário, subcomandos pontuados, espelho autoral NC/NE/TL (nunca oficial), comparar Câmara/Cebraspe. Modelo viável em ≤50 linhas, sem filler; NPT=NC−6NE/TL. Não confundir audiência/votação. Preservar espelho/resposta salvo defeito.
 
 **Explicações Discursivas:** catálogo `DISCURSIVAS/EXPLICACOES_DISCURSIVAS_CATALOGO.md`: 94 P2 + 14 P1 contextuais. Prosa por instituto, normas/remissões literais, síntese até 20 linhas. PDFs no Drive/planilha; sem cronograma paralelo ou estudo fictício.
 
