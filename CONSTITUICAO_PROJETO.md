@@ -1,6 +1,6 @@
 # CONSTITUIÇÃO DO PROJETO — ANALISTA REGISTRO E REDAÇÃO
 
-Versão: 1.25  
+Versão: 1.26  
 Data: 02/11/2026  
 Status: **NORMA MÁXIMA DO PROJETO**
 
@@ -13,6 +13,20 @@ Em caso de conflito entre este arquivo e qualquer outro arquivo, planilha, apost
 ---
 
 **Sincronização obrigatória de regras (12/10/2026):** toda regra nova, alteração de regra ou exceção metodológica aprovada pelo candidato deve ser incorporada imediatamente ao `PROMPT_PROJETO.md`, além desta Constituição e dos controles operacionais pertinentes. O prompt permanece com no máximo **8.000 caracteres**: comprimir redundâncias sem eliminar escopo, regras, exceções, gates ou controles. Após atualização, fornecer o texto completo para o candidato colar nas instruções do Projeto. Se não houver acesso para atualizar alguma fonte, informar a pendência; não alegar sincronização inexistente.
+
+## EMENDA DE MÉTODO — 02/11/2026 — CRONOGRAMA GRAN (VIGENTE PROSPECTIVAMENTE)
+
+**Decisão explícita do candidato:** após o avanço até A017, abandonar a exigência operacional de produzir e concluir uma apostila por dia; iniciar em **02/11/2026** o cronograma de aulas selecionadas do Gran para a prova de **17/01/2027**. A017 permanece **em estudo**, sem encerramento presumido. A001–A016 e suas revisões/Anki, bem como a A017 publicada, ficam preservadas. Não refazer material já estudado por mera mudança de formato.
+
+**Fonte de verdade operacional:** `Cronograma Gran — Registro e Redação — 02/11/2026 a 16/01/2027`, arquivo Excel editável armazenado na pasta canônica do Drive: https://docs.google.com/spreadsheets/d/1pmBQ6SGGpWyAICc_FbeMkoF2yWZyvAxv/edit?usp=drivesdk&ouid=111271508621441173466&rtpof=true&sd=true ; índice em `Materiais!A17:H17`. O calendário contém **76 dias** e **336 indicações de aulas** (algumas repetidas/condicionais); o inventário preserva **699 entradas/678 links distintos** da grade consultada em 02/11/2026. Não é meta assistir todas as aulas nem promessa de que as aulas garantem cobertura integral.
+
+**Critério de prioridade:** edital/retificações + normas oficiais + `Edital Verticalizado` prevalecem sempre; a grade do Gran é fonte didática, não delimitador do edital. A aula com título genérico ou duração não exibida só pode ser considerada coberta após conferir degravação; lacunas reais (ASR/IA, Linguística 12 lógica, regras constitucionais do Legislativo, ETP/TR e outros) exigem ensino complementar dirigido à fonte, sem curso paralelo.
+
+**Execução diária:** assistir às aulas selecionadas conforme tempo real disponível (referência de 3–3,5 horas líquidas, reduzindo quando necessário), resolver questões C/E aderentes e comentar erros, revisar Anki vencido; programar P3 periodicamente com somente P2. O Anki novo será feito com base nas degravações fornecidas e no edital, com questão oficial aderente prioritária, norma verificada e deduplicação. Não fabricar degravadas, questões oficiais, APKG ou conclusão. `Estudado?` só após integral cobertura real; D+1/D+7/D+21, questões, Anki e importação permanecem evidências independentes.
+
+**Reta final:** 04 a 16/01/2027 sem matéria nova, com revisão, simulados, P3 e logística. Reavaliar a viabilidade após o primeiro ciclo de sete dias em função de questões, carga e lacunas, sem replanejamentos automáticos por atraso. **Mapa 106** permanece como histórico, não como obrigação prospectiva; todas as referências nesta Constituição às 106 apostilas e à apostila diária aplicam-se ao método legado ou a apostilas excepcionais necessárias, sem sobrepor o presente ato. Esta emenda altera apenas o método/cronograma, não o conteúdo editalício, os gates de fidelidade, Anki, P3 ou governança.
+
+---
 
 ## 1. MISSÃO
 
