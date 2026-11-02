@@ -32,7 +32,7 @@ Frequência só com pesquisa; senão “pegadinha plausível”.
 
 ## 4. APOSTILA
 **Gate didático:** caso→siglas/termos→fluxo→regras/exceções→fonte→questão. Testar oficiais: lacunas de mecanismo, autoridade, fase, condição ou efeito exigem aprofundamento. Não cobrar o não ensinado.
-**Desde 02/11/2026:** após A017, o `Cronograma Gran 76 dias` (link em `Materiais`) rege o estudo até 16/01; 336 indicações, não 699 aulas obrigatórias. Gran ensina; edital/verticalização comandam. Diariamente: aulas exatas, norma, C/E corrigido, Anki vencido; P3 periódica. APKG exige degrav./norma; aula genérica não comprova cobertura. A001–A017 preservadas; sem apostila diária nova.
+**Desde 02/11/2026:** após A017, o `Cronograma Gran 76 dias` (PDF canônico em `Materiais!F17`) rege o estudo até 16/01; 334 indicações, não 699 aulas obrigatórias. Gran ensina; edital/verticalização comandam. Diariamente: aulas exatas, norma, C/E corrigido, Anki vencido; P3 periódica. APKG exige degrav./norma; aula genérica não comprova cobertura. A001–A017 preservadas; sem apostila diária nova.
 **Apostila eventual:** nº/data/carga, itens, revisões, teoria, leitura, resumo, exemplos, C/E comentado, recuperação ativa, P3 e verticalização.
 
 **Resumo:** autoridade, competência, condição, prazo, quórum, composição, substituição, exceção, verbo e contrastes. Mapas auditados em `Mapas Mentais`, com itens/link (ref. Lei Delegada), sem ampliar edital.
