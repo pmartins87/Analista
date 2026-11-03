@@ -1,3 +1,9 @@
+## 02/11/2026 — carga variável; sequência de estudo sob demanda
+
+Candidato declarou que não há média de horas: dias sem estudo e dias com mais de dez horas. Não usar meta fixa por dia nem criar dívida por dias não estudados. Responder a cada pedido com próximo conteúdo executável (aulas/arquivos/questões) e oferecer continuação se terminar; atualizar verticalização apenas por estudo relatado efetivo. Meta aspiracional primeira passagem antes de dezembro, condicionada à cobertura real. Não alterar tópicos marcados.
+
+---
+
 ## 02/11/2026 — decisão operacional posterior: estudo diário sob demanda, sem PDF rígido
 
 O candidato explicitamente cancelou o uso prático do PDF diário de 76 dias e de matrizes/relatórios como instrumentos de execução. Agora pedirá diariamente o **próximo estudo**. O assistente consulta histórico e `Edital Verticalizado`, atualiza/verifica a grade Gran quando necessário, e responde concisamente com **item, título e link da aula, PDF/degravação/resumo opcional, filtro de questões da própria aula, quantidade de C/E, norma/trecho dirigido e P3 se aplicável**. Vídeo acelerado 2,5–3× é opcional; pode usar só leitura e questões. Lacunas Gran recebem ensino complementar focado, não apostila diária. Após relato, só marcar `Estudado?` na cobertura integral efetivamente atingida; Anki APKG sob solicitação, com auditoria da fonte oficial/degravação e antirrepetição. Objetivo: primeira passagem ainda em dezembro, com semanas finais de revisão. A017 segue pendente e nenhum estudo, revisão ou Anki foi marcado como feito por esta mudança. PDF/XLSX e auditoria continuam como histórico no Drive, NÃO como tarefa do candidato. Essa decisão prevalece sobre instruções do cronograma fixo.
