@@ -1,6 +1,6 @@
 # CONSTITUIÇÃO DO PROJETO — ANALISTA REGISTRO E REDAÇÃO
 
-Versão: 1.26  
+Versão: 1.27  
 Data: 02/11/2026  
 Status: **NORMA MÁXIMA DO PROJETO**
 
@@ -14,6 +14,19 @@ Em caso de conflito entre este arquivo e qualquer outro arquivo, planilha, apost
 
 **Sincronização obrigatória de regras (12/10/2026):** toda regra nova, alteração de regra ou exceção metodológica aprovada pelo candidato deve ser incorporada imediatamente ao `PROMPT_PROJETO.md`, além desta Constituição e dos controles operacionais pertinentes. O prompt permanece com no máximo **8.000 caracteres**: comprimir redundâncias sem eliminar escopo, regras, exceções, gates ou controles. Após atualização, fornecer o texto completo para o candidato colar nas instruções do Projeto. Se não houver acesso para atualizar alguma fonte, informar a pendência; não alegar sincronização inexistente.
 
+## EMENDA POSTERIOR — 02/11/2026 — ESTUDO SOB DEMANDA (VIGENTE; PREVALECE SOBRE O CRONOGRAMA GRAN FIXO)
+
+**Decisão expressa do candidato:** abandonar a utilização operacional do PDF de 76 dias, do XLSX de cronograma e da matriz de auditoria como tarefas diárias. Esses artefatos ficam preservados somente como referências e histórico; não insistir para o candidato lê-los, baixá-los ou acompanhar controles adicionais. O método **Gran + questões da própria aula + Anki sob solicitação + discursivas dirigidas** permanece. O edital verticalizado segue sendo o único painel de cobertura, sem burocracia extra.
+
+**Fluxo:** a cada pedido curto como «o que devo estudar hoje/agora?», consultar silenciosamente `CONSTITUICAO_PROJETO.md`, `ESTADO_ESTUDO.md`, avanço registrado e `Edital Verticalizado`; verificar a grade mais recente do Gran quando disponível, pois as aulas mudam. Escolher o próximo bloco que maximize pontos e permita completar o edital com antecedência; entregar resposta **muito curta e imediatamente executável**, com item preciso do edital, título e link(s) de aula(s) do Gran (ou PDF, resumo/degravação), filtro de questões da aula no Gran, quantidade recomendada, e trecho normativo oficial quando pertinente. Não remeter a planilhas/PDFs grandes como tarefa, nem explicar a auditoria a cada pedido.
+
+**Consumo flexível:** não exigir assistir a todas as videoaulas. O estudante pode usar vídeo em 2,5× ou 3× quando inteligível, pular para PDF, resumo ou degravação da aula, e ir às questões filtradas pelo próprio Gran. Em lacunas do Gran, fornecer ensino complementar focado (inclusive leitura literal do RICD/RCCN/leis), questões e treino P3; sem ressuscitar 106 apostilas.
+
+**Fechamento:** após o candidato relatar o que efetivamente estudou, conferir quais itens/subitens ficaram cobertos na íntegra e atualizar as células correspondentes de `Edital Verticalizado`; lacuna/estudo parcial permanece não concluído. Só registrar questões/revisões/Anki quando realizadas; não inventar acesso ao Gran. Quando solicitado, produzir APKG do conteúdo real com prioridade de oficiais CESPE/Cebraspe, validade normativa, frente integral, verso profundo, GUIDs e antirrepetição. Atualizar `ESTADO_ESTUDO.md` e controles existentes apenas quando houver fato novo, sem pedir relatórios extensos.
+
+**Objetivo temporal:** primeira passagem por todo o edital bem antes de 17/01/2027; buscar fechamento ainda em dezembro, com janela robusta para revisão, C/E, P3 e simulados. Ajustar prioridade conforme horas reais, resultados e nova grade do Gran; não prometer conclusão fictícia. A017 permanece em estudo até relato do candidato; os estudos A001–A016 e materiais já elaborados continuam válidos.
+
+---
 ## EMENDA DE MÉTODO — 02/11/2026 — CRONOGRAMA GRAN (VIGENTE PROSPECTIVAMENTE)
 
 **Decisão explícita do candidato:** após o avanço até A017, abandonar a exigência operacional de produzir e concluir uma apostila por dia; iniciar em **02/11/2026** o cronograma de aulas selecionadas do Gran para a prova de **17/01/2027**. A017 permanece **em estudo**, sem encerramento presumido. A001–A016 e suas revisões/Anki, bem como a A017 publicada, ficam preservadas. Não refazer material já estudado por mera mudança de formato.
