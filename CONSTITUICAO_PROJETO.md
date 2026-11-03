@@ -1,6 +1,6 @@
 # CONSTITUIÇÃO DO PROJETO — ANALISTA REGISTRO E REDAÇÃO
 
-Versão: 1.27  
+Versão: 1.28  
 Data: 02/11/2026  
 Status: **NORMA MÁXIMA DO PROJETO**
 
@@ -15,6 +15,8 @@ Em caso de conflito entre este arquivo e qualquer outro arquivo, planilha, apost
 **Sincronização obrigatória de regras (12/10/2026):** toda regra nova, alteração de regra ou exceção metodológica aprovada pelo candidato deve ser incorporada imediatamente ao `PROMPT_PROJETO.md`, além desta Constituição e dos controles operacionais pertinentes. O prompt permanece com no máximo **8.000 caracteres**: comprimir redundâncias sem eliminar escopo, regras, exceções, gates ou controles. Após atualização, fornecer o texto completo para o candidato colar nas instruções do Projeto. Se não houver acesso para atualizar alguma fonte, informar a pendência; não alegar sincronização inexistente.
 
 **Ajuste de execução (02/11/2026):** o candidato não dispõe de média diária estável; pode passar dias sem estudar ou estudar mais de 10 horas. Proibido condicionar a programação à estimativa fixa de horas, acumular tarefas vencidas ou pedir projeção de carga média. A cada solicitação, entregar apenas o próximo estudo, ajustável à capacidade real declarada na ocasião; registrar somente execução efetiva. A primeira passagem deve ser concluída tão cedo quanto a evidência permitir, preferencialmente antes de dezembro, sem declarar avanço fictício.
+
+**Plano mestre obrigatório (02/11/2026):** fonte de verdade da **ordem e cobertura futura**: [`PLANEJAMENTO/PLANO_MESTRE_ESTUDO_SOB_DEMANDA.md`](https://github.com/pmartins87/Analista/blob/main/PLANEJAMENTO/PLANO_MESTRE_ESTUDO_SOB_DEMANDA.md). Auditados 182 itens/subitens da verticalização: 57 previamente estudados; os 125 pendentes foram alocados, sem omissão/duplicação, em **50 blocos de execução variável**. A cada pedido de estudo, ler plano mestre e verticalização, escolher o primeiro bloco ainda não concluído, detalhar títulos e URLs de aulas do Gran, materiais e questões; após relato, **revisar/atualizar o plano mestre e ESTADO_ESTUDO.md**, alterar `Estudado?` só mediante cobertura integral real. Itens-pai aguardam todos os filhos. Não empurrar PDF/matriz/cronograma ao estudante. Meta ideal de primeira passagem até novembro, subordinada à realidade; revisões após a primeira passagem. Este registro é posterior e prevalece sobre cronograma fixo legado.
 
 ## EMENDA POSTERIOR — 02/11/2026 — ESTUDO SOB DEMANDA (VIGENTE; PREVALECE SOBRE O CRONOGRAMA GRAN FIXO)
 
