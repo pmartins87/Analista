@@ -15,6 +15,12 @@
 **Como responder ao candidato:** máximo de 4–6 linhas de tarefas, com item do edital, aula(s) e link(s), opção leitura/PDF/degravação, questões do Gran e indicação de revisão/P3 quando aplicável. NÃO enviar o plano inteiro, matriz, apostila ou relatórios sem pedido. **A consulta ao plano mestre em TODO estudo é obrigatória**, e após estudo confirmado devem-se revisar o plano e o estado, atualizando planilha de cobertura somente se integral. 
 
 
+## Verificação de fontes do Gran — 09/11/2026 (não altera a ordem)
+
+Pasta do usuário: https://drive.google.com/drive/folders/1S17zTVmHZFMi58isIV4gOB_tQ8vSr7Cd . Conferidas **15 disciplinas/seções principais** e amostras do conteúdo das subpastas. Há degravações textuais reais (por exemplo RICD e Linguística) e também PDFs só de slides (por exemplo os sete materiais identificados em ASR T01). Portanto **não tratar todos os PDFs como degravação nem declarar cobertura só por título**; ler a fonte quando fizer o planejamento do bloco e verificar a norma vigente. O que não estiver em degravação pode exigir slide + vídeo ou ensino complementar. O usuário relata ter concluído as aulas do Gran de redação discursiva; isto NÃO comprova treino de P3 escrito nem cobre automaticamente item objetivo. Revisões Anki relatadas sem quantidade; não marcar D+1/D+7/D+21 sem evidência específica.
+
+**Regra de eficiência candidata (análise em 09/11; não substitui o método aprovado):** usar primeiro a degravação/PDF realmente substantiva + questões do filtro da aula; vídeo só para lacunas conceituais. Preservar B01–B50 e edital verticalizado. Não há evidência ainda de estudo concluído após A016, à exceção de assistir aulas de discursiva.
+
 ## Etapa 1 — Fundação legislativa e fechamento da A017
 
 Sessões de RICD, RCCN, iniciativa, papel do Legislativo e conclusão do material pendente A017.
@@ -22,7 +28,7 @@ Sessões de RICD, RCCN, iniciativa, papel do Legislativo e conclusão do materia
 ### B01 · RICD — deputados, exercício, licenças, suplência e vacância
 **Status:** PENDENTE (prioridade imediata; A017 em andamento) · **Itens:** CONST 7.3.
 **Conteúdo literal e referência à verticalização:** 7.3: Deputados (arts. 226 a 251 e suas alterações). [linha 80].
-**Fonte de ensino:** Gran Lucas Córdova: Deputados 226–234 e 235–251; leitura literal RICD.
+**Fonte de ensino:** Gran Lucas Córdova, [degravação 226–234](https://drive.google.com/file/d/11KWQdkJ7_2hAohYgq3NYvTn9KcB-fIgC/view) e [degravação 235–251](https://drive.google.com/file/d/1WnHvkGLfymcENsNa_Q4-sY4ZQU_kHHu6/view); conferir RICD oficial e usar filtro de questões das aulas.
 **Controle didático:** elegível agora; completar A017 e sequência 239–251. **Prática:** questões C/E no filtro do Gran e correção comentada.
 
 ### B02 · Processo — indicações, pareceres, requerimentos e vetos
