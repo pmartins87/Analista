@@ -1,3 +1,11 @@
+## 09/11/2026 — relato de progresso e verificação inicial das degravações do Gran
+
+Candidato declarou: desde a última conversa, **concluiu as aulas de discursiva do Gran** e **revisou alguns cartões Anki**. Não relatou conclusão de novos itens objetivos, resolução de questões específicas, realização de peça/questão discursiva escrita ou importação de novo APKG. Assim, não alterar `Edital Verticalizado!Estudado?`, D+1/D+7/D+21, nem classificar P3 como treinada por escrito. A consulta à planilha ainda mostrou **57 de 182 itens/subitens TRUE, 125 pendentes**. Plano mestre B01 em aberto.
+
+Nova fonte disponível: pasta `GRAN CURSOS - REGISTRO E REDAÇÃO`, https://drive.google.com/drive/folders/1S17zTVmHZFMi58isIV4gOB_tQ8vSr7Cd, com **15 seções principais** por assunto; amostras RICD 226–234 e 235–251 são degravações textuais aproveitáveis; Linguística XVII também é degravação textual; ASR T01 tem sete PDFs de **slides** (não comprova degravações). Em Redação Discursiva, quatro slides e quatro materiais PDF; não confundir curso introdutório com treino efetivo. Atualizada a referência de B01 no plano mestre com links diretos às degravações. A estratégia de 50 blocos não foi substituída; discussão de eventual aceleração por degravações + questões permanece como **análise**, não decisão aprovada.
+
+---
+
 ## 02/11/2026 — correção integral executada: 210 notas de Inglês, APKG revisado para teste
 
 Após comando explícito "Corrija os 210", realizada reescrita individual dos 210 enunciados C/E e das 210 explicações decisórias, com traduções integrais da frase e da assertiva. Mantidas expressões lexicais centrais; 40 cartões ganharam segunda frase contextual e 072 teve a frase-base corrigida; 005/048/080/047 e os demais problemas já apontados foram reparados. Distribuição revisada **105 C/105 E**; **109 gabaritos diferentes** dos anteriores por mudança material de assertiva, não 109 erros anteriores confirmados. Não rotular como questões oficiais; continua banco lexical inédito em forma Cebraspe, sem alegar replicar fielmente a prova de interpretação com textos longos.
