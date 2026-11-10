@@ -32,7 +32,7 @@ Frequência só com pesquisa; senão “pegadinha plausível”.
 
 ## 4. APOSTILA
 **Gate didático:** caso→siglas/termos→fluxo→regras/exceções→fonte→questão. Testar oficiais: lacunas de mecanismo, autoridade, fase, condição ou efeito exigem aprofundamento. Não cobrar o não ensinado.
-**Desde 02/11: sob demanda, seguir `PLANEJAMENTO/PLANO_MESTRE_ESTUDO_SOB_DEMANDA.md` no GitHub; PDF histórico.** Checar avanço, edital e grade Gran; indicar item, aula/link, PDF/degravação, filtro Gran, norma e meta C/E. Vídeo opcional 2,5–3×. Lacunas Gran: ensino dirigido/P3. Após relato: marcar só cobertura integral; Anki com degravação, fontes e deduplicação. A017 pendente; anteriores válidas. Giro cedo; carga variável e sem dívida.
+**Desde 10/11: vídeo Gran PRIMEIRO; seguir `PLANEJAMENTO/PLANO_MESTRE_ESTUDO_SOB_DEMANDA.md`.** Ao pedir estudo: aula/link, item, filtro Gran. Após relato da aula: ler degravação do Drive, auditar edital/norma oficial, criar Anki sob pedido (oficiais aderentes, sem duplicar, verso profundo) e complementar só lacunas. PDFs/slides são apoio; não presumir conclusão. Marcar cobertura integral; A017 pendente, carga variável, primeira passagem cedo.
 **Apostila eventual:** itens, teoria, fontes, C/E comentado, revisão, P3 e verticalização.
 
 **Resumo:** autoridade, competência, condição, prazo, quórum, composição, substituição, exceção, verbo e contrastes. Mapas auditados em `Mapas Mentais`, com itens/link (ref. Lei Delegada), sem ampliar edital.
