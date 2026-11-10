@@ -1,7 +1,7 @@
 # CONSTITUIÇÃO DO PROJETO — ANALISTA REGISTRO E REDAÇÃO
 
-Versão: 1.28  
-Data: 02/11/2026  
+Versão: 1.29  
+Data: 10/11/2026  
 Status: **NORMA MÁXIMA DO PROJETO**
 
 Este arquivo contém as diretrizes permanentes do projeto de preparação para o concurso da Câmara dos Deputados — Analista Legislativo — Especialidade Registro e Redação.
@@ -13,6 +13,16 @@ Em caso de conflito entre este arquivo e qualquer outro arquivo, planilha, apost
 ---
 
 **Sincronização obrigatória de regras (12/10/2026):** toda regra nova, alteração de regra ou exceção metodológica aprovada pelo candidato deve ser incorporada imediatamente ao `PROMPT_PROJETO.md`, além desta Constituição e dos controles operacionais pertinentes. O prompt permanece com no máximo **8.000 caracteres**: comprimir redundâncias sem eliminar escopo, regras, exceções, gates ou controles. Após atualização, fornecer o texto completo para o candidato colar nas instruções do Projeto. Se não houver acesso para atualizar alguma fonte, informar a pendência; não alegar sincronização inexistente.
+
+## EMENDA DE EXECUÇÃO — 10/11/2026 — VIDEOAULAS PRIMEIRO (VIGENTE)
+
+**Decisão expressa do candidato:** estudar principalmente pelas **videoaulas do Gran**, em velocidade confortável, e comunicar quais aulas realmente assistiu. **Degravações no Drive** servem como espelho textual para identificar o que foi ensinado, produzir Anki e detectar omissões frente ao edital. PDFs/resumos/slides são apoio, não substitutos obrigatórios nem motivo para refazer videoaulas. Permanecem o plano mestre de 50 blocos e o Edital Verticalizado; **não fazer pivô de sequência/roadmap** por esta mudança de suporte.
+
+**Fluxo por aula relatada:** (1) identificar disciplina e aula exata na grade/pasta Gran; (2) ler a degravação correspondente, distinguindo-a de slides/resumo, e delimitar o conteúdo REAL da aula; (3) cruzar com item/subitem do edital e, em normas, texto oficial vigente, sem inventar regra ensinada; (4) elaborar APKG sob solicitação, preferindo questões oficiais Cebraspe válidas e aderentes, sem duplicatas, com gabarito e explicação aprofundada no verso; (5) informar **somente lacunas relevantes** e providenciar ensino dirigido curto/questões se faltar mecanismo, condição, exceção, prazo, competência etc.; (6) registrar execução real e marcar `Estudado?` apenas se o item integral foi coberto. Dúvidas e erros podem gerar reforço no Anki. Não converter aula assistida automaticamente em item concluído ou em prova de domínio. O usuário não precisa enviar novamente PDFs já acessíveis no Drive.
+
+**Praticidade:** resposta ao relato curta: cobertura real, lacunas e APKG/link quando produzido; sem relatório nem cronograma novo para o candidato. A cada pedido do próximo estudo, fornecer aulas exatas e links, priorizadas pelo plano mestre. Aulas não disponíveis/sem degravação: declarar limite e complementar de fonte específica.
+
+---
 
 **Ajuste de execução (02/11/2026):** o candidato não dispõe de média diária estável; pode passar dias sem estudar ou estudar mais de 10 horas. Proibido condicionar a programação à estimativa fixa de horas, acumular tarefas vencidas ou pedir projeção de carga média. A cada solicitação, entregar apenas o próximo estudo, ajustável à capacidade real declarada na ocasião; registrar somente execução efetiva. A primeira passagem deve ser concluída tão cedo quanto a evidência permitir, preferencialmente antes de dezembro, sem declarar avanço fictício.
 
