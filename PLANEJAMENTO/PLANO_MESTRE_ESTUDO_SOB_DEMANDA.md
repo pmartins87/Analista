@@ -28,10 +28,11 @@ Pasta do usuário: https://drive.google.com/drive/folders/1S17zTVmHZFMi58isIV4gO
 Sessões de RICD, RCCN, iniciativa, papel do Legislativo e conclusão do material pendente A017.
 
 ### B01 · RICD — deputados, exercício, licenças, suplência e vacância
-**Status:** PENDENTE (prioridade imediata; A017 em andamento) · **Itens:** CONST 7.3.
+**Status:** EM CURSO (10/11: leitura de degravação relatada, erro na questão 05 do material 235–251; não concluído) · **Itens:** CONST 7.3.
 **Conteúdo literal e referência à verticalização:** 7.3: Deputados (arts. 226 a 251 e suas alterações). [linha 80].
 **Fonte de ensino:** Gran Lucas Córdova, [degravação 226–234](https://drive.google.com/file/d/11KWQdkJ7_2hAohYgq3NYvTn9KcB-fIgC/view) e [degravação 235–251](https://drive.google.com/file/d/1WnHvkGLfymcENsNa_Q4-sY4ZQU_kHHu6/view); conferir RICD oficial e usar filtro de questões das aulas.
 **Controle didático:** elegível agora; completar A017 e sequência 239–251. **Prática:** questões C/E no filtro do Gran e correção comentada.
+**Erro a revisar:** Q05 do PDF 235–251 (C): CCJ análise preliminar; Plenário decide; 24h envio, 72h parecer; referência equivocada na degravação `art. 232 §2` → CF 53 §2/RICD 250. Não atestar origem oficial Cebraspe sem conferência do item.
 
 ### B02 · Processo — indicações, pareceres, requerimentos e vetos
 **Status:** PENDENTE · **Itens:** PROC 1.4.
