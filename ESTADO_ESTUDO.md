@@ -1,3 +1,9 @@
+## 10/11/2026 — decisão expressa: VIDEOAULAS GRAN PRIMEIRO; degrav. para Anki e gap-check
+
+O candidato considerou que ler PDFs não rende mais que assistir vídeos. Decidiu **assistir videoaulas do Gran** e comunicar posteriormente os títulos/aulas assistidas. O assistente recuperará do Drive a **degravação correspondente**, confrontará estritamente o que foi ensinado com edital e normas oficiais, criará APKG sob solicitação com predomínio de oficiais válidas/aderentes e verso didático, e identificará **lacunas reais** para aprofundamento pontual. PDFs/degravações NÃO substituem a videoaula por padrão, mas continuam como apoio/fonte textual de checagem. Plano mestre de 50 blocos, ordem prevista e controle `Edital Verticalizado` preservados; nada foi marcado estudado ou concluído nesta decisão. Próximo bloco ainda B01 RICD 226–251, salvo relato concreto de nova aula. Resposta ao relato deve ser curta, sem burocracia, e não exigir novo upload quando PDF estiver no Drive.
+
+---
+
 ## 09/11/2026 — relato de progresso e verificação inicial das degravações do Gran
 
 Candidato declarou: desde a última conversa, **concluiu as aulas de discursiva do Gran** e **revisou alguns cartões Anki**. Não relatou conclusão de novos itens objetivos, resolução de questões específicas, realização de peça/questão discursiva escrita ou importação de novo APKG. Assim, não alterar `Edital Verticalizado!Estudado?`, D+1/D+7/D+21, nem classificar P3 como treinada por escrito. A consulta à planilha ainda mostrou **57 de 182 itens/subitens TRUE, 125 pendentes**. Plano mestre B01 em aberto.
